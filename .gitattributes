@@ -1,0 +1,3 @@
+# Preserve the exact bytes of historical sources and accompanying readings.
+/acervo/** -text
+/_archive_parts/** -text

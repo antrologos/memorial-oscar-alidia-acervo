@@ -1,0 +1,247 @@
+{
+  "created": "2026-09-07",
+  "scope": "Historical regional context; no new individual journey claim.",
+  "narrative_file": "narrativa.md",
+  "source_notebook": "fontes_e_limites.md",
+  "sources": [
+    {
+      "id": "SC01",
+      "title": "Redes de transporte y movilidades en la frontera del río Uruguay (1991–2014)",
+      "authors": [
+        "Emilio Silva Sandes"
+      ],
+      "year": 2021,
+      "kind": "academic_secondary_synthesis",
+      "url": "https://www.teseopress.com/fronterasenconstruccion/chapter/redes-de-transporte-y-movilidades-en-la-frontera-del-rio/",
+      "original_url": "https://gefre.ar/wp-content/uploads/2022/03/fronteras-en-construccion.pdf",
+      "file": "fronteras_en_construccion_2021.pdf",
+      "cited_printed_pages": [
+        382,
+        383,
+        385,
+        386,
+        387
+      ],
+      "pdf_page_offset": 0,
+      "reuse": "No explicit free image license confirmed; use link to original book."
+    },
+    {
+      "id": "SC02",
+      "title": "El puerto de Concordia (1905–1910), una mirada desde la prensa escrita",
+      "authors": [
+        "Javier Patricio Borche",
+        "Flavia Marisol Frigo"
+      ],
+      "year": 2019,
+      "kind": "academic_article_using_contemporary_newspapers",
+      "url": "https://p3.usal.edu.ar/index.php/epocas/article/view/4841",
+      "original_url": "https://p3.usal.edu.ar/index.php/epocas/article/download/4841/6297/17138",
+      "file": "puerto_concordia_1905_1910.pdf",
+      "cited_printed_pages": [
+        128,
+        129,
+        131,
+        132,
+        133,
+        136
+      ],
+      "pdf_page_offset": -118,
+      "license": "CC BY-NC-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "note": "Both authors confirmed on PDF; HTML catalog lists Borche only. Newspaper 1 February 1908 consulted through article, not original issue."
+    },
+    {
+      "id": "SC03",
+      "title": "La educación superior entre el reclamo localista y la ofensiva derechista",
+      "authors": [
+        "María Eugenia Jung Garibaldi"
+      ],
+      "year": 2018,
+      "kind": "academic_monograph_regional_background",
+      "original_url": "https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/48624/1/Jung_La%20educacio%CC%81n%20superior%20entre%20el%20reclamo%20localista%20y%20la%20ofensiva%20derechista_AGU.pdf",
+      "file": "jung_educacion_superior_2018.pdf",
+      "cited_printed_pages": [
+        33
+      ],
+      "pdf_page_offset": 1,
+      "reuse": "No free reproduction license confirmed in volume."
+    },
+    {
+      "id": "SC04",
+      "title": "Puerto de Salto",
+      "authors": [
+        "Guía de Salto / Farq–UdelaR",
+        "Comisión Honoraria del Patrimonio Histórico de Salto"
+      ],
+      "kind": "heritage_secondary_synthesis",
+      "url": "https://nomada.uy/guide/view/attractions/4069",
+      "file": "nomada_porto_salto.html",
+      "additional_document_url": "https://www.saltogrande.org/pdf/Guia%20de%20Salto.pdf",
+      "additional_document_file": "guia_patrimonio_salto.pdf",
+      "sections": [
+        "introductory paragraphs",
+        "Creación de la Aduana",
+        "Las compañías fluviales de navegación"
+      ],
+      "pages": null,
+      "note": "Substantive reading from HTML; PDF guide preserved without page attribution."
+    },
+    {
+      "id": "SC05",
+      "title": "Historia de Salto Grande",
+      "authors": [
+        "Comisión Técnica Mixta de Salto Grande"
+      ],
+      "kind": "institutional_chronology",
+      "url": "https://www.saltogrande.org/historia.php",
+      "file": "ctm_historia.html",
+      "sections": [
+        "1979",
+        "1982"
+      ]
+    },
+    {
+      "id": "SC06",
+      "title": "Red Geodésica Nacional — Monografía de Estación STO 01",
+      "authors": [
+        "Servicio Geográfico Militar del Uruguay",
+        "Administración Nacional de Puertos"
+      ],
+      "kind": "official_geodetic_station_record",
+      "url": "https://aplicaciones.anp.com.uy/archivo/informacion/RED_GEODESICA_ANP_PUERTOS.pdf#page=58",
+      "file": "rede_geodesica_anp.pdf",
+      "pdf_pages": [
+        58
+      ],
+      "measurement_date": "2013-12",
+      "datum": "SIRGAS-ROU98"
+    },
+    {
+      "id": "SC07",
+      "title": "Entre Ríos",
+      "authors": [
+        "Gobierno de Argentina"
+      ],
+      "kind": "official_geographic_introductory_page",
+      "url": "https://www.argentina.gob.ar/node/467745",
+      "file": "entre_rios_argentina_gov.html"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1832-12-01",
+      "event": "Criação da Receptoría do porto de Salto",
+      "source": "SC04",
+      "location": "Creación de la Aduana"
+    },
+    {
+      "date": "1857",
+      "event": "Fundação da Compañía Salteña de Navegación a Vapor",
+      "source": "SC04",
+      "location": "Las compañías fluviales de navegación"
+    },
+    {
+      "date": "1874–1875",
+      "event": "Concordia–Federación em 1874; Federación–Monte Caseros em 1875",
+      "source": "SC01",
+      "printed_page": 385
+    },
+    {
+      "date": "1907",
+      "event": "Publicação das vistas do porto de Salto e dos rápidos de Salto Grande",
+      "source": [
+        "IMG-SC02",
+        "IMG-SC03"
+      ],
+      "note": "Publication year; photographic exposure undated."
+    },
+    {
+      "date": "1908-02-01",
+      "event": "El Litoral noticia reclamação sobre desembarque de passageiros, especialmente Salto–Concordia",
+      "source": "SC02",
+      "printed_page": 136,
+      "note": "Original issue known through quotation, not acquired."
+    },
+    {
+      "date": "1915–1935",
+      "event": "Maior movimentação de cargas no quadro histórico apresentado por Silva Sandes",
+      "source": "SC01",
+      "printed_page": 386
+    },
+    {
+      "date": "1979-06-21",
+      "event": "Formação do reservatório e entrada em serviço da primeira turbina",
+      "source": "SC05"
+    },
+    {
+      "date": "1982-08-25",
+      "event": "Inauguração da ponte internacional rodoferroviária",
+      "source": "SC05"
+    }
+  ],
+  "media": [
+    {
+      "id": "IMG-SC01",
+      "label": "Estação ferroviária de Concordia, início do século XX",
+      "catalog_date": "1921",
+      "photograph_date": null,
+      "date_warning": "Handwritten date appears to read 1913; catalog indicates 1921. Not resolved.",
+      "institution": "Museo Regional Municipal Palacio Arruabarrena, Archivo Fotográfico",
+      "archival_reference": "AR-MRPA-AF-LC-FFCC-021",
+      "author": "Anonymous / unidentified",
+      "page_url": "https://commons.wikimedia.org/wiki/File:AR-MRPA-AF-LC-FFCC-021.jpg",
+      "original_file": "concordia_estacao_1921_original.jpg",
+      "display_file": "concordia_estacao_1921_visualizacao.jpg",
+      "rights": "Public domain per Commons; PD-AR-Photo",
+      "visual_quality": "Clear scan with handwriting; no family member identified."
+    },
+    {
+      "id": "IMG-SC02",
+      "label": "Porto de Salto, publicado em Panorama Nacional, 1907",
+      "publication_year": 1907,
+      "photograph_date": null,
+      "publisher": "Dornaleche y Reyes Impresores",
+      "photographer": null,
+      "page_url": "https://commons.wikimedia.org/wiki/File:Puerto_-_Salto.tif",
+      "original_file": "salto_porto_panorama_1907_original.tif",
+      "display_file": "salto_porto_panorama_1907_visualizacao.jpg",
+      "rights": "Public domain per Commons; PD-old-70-expired",
+      "visual_quality": "Horizontal band/misalignment in supplied scan; not restored."
+    },
+    {
+      "id": "IMG-SC03",
+      "label": "Rápidos de Salto Grande, publicados em Panorama Nacional, 1907",
+      "publication_year": 1907,
+      "photograph_date": null,
+      "publisher": "Dornaleche y Reyes Impresores",
+      "photographer": null,
+      "page_url": "https://commons.wikimedia.org/wiki/File:Salto_Grande_-_Parte_central_-_Salto.tif",
+      "original_file": "salto_grande_rapidos_panorama_1907_original.tif",
+      "display_file": "salto_grande_rapidos_panorama_1907_visualizacao.jpg",
+      "rights": "Public domain per Commons; PD-old-70-expired",
+      "visual_quality": "Horizontal band and dark lower half in supplied scan; not restored. Shows rapids before modern dam."
+    }
+  ],
+  "geography": {
+    "regional_river_file": "rio_uruguai_naturalearth_10m.geojson",
+    "cities_file": "cidades_naturalearth_10m.geojson",
+    "countries_file": "brasil_argentina_uruguai_naturalearth_10m.geojson",
+    "source": "Natural Earth",
+    "scale": "1:10,000,000",
+    "license": "Public domain",
+    "license_url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "original_vertices_preserved": true,
+    "interpretation": "Current generalized reference map; not historical borders, riverbanks or personal route.",
+    "port_reference": {
+      "place": "Porto de Salto, marco STO 01",
+      "longitude": -57.97698919444445,
+      "latitude": -31.386489722222223,
+      "datum": "SIRGAS-ROU98",
+      "survey_date": "2013-12",
+      "source": "SC06",
+      "pdf_page": 58,
+      "historical_port_location_confirmed": false
+    },
+    "local_osm_attempt": "HTTP 504; no validated OSM file obtained."
+  }
+}

@@ -1,0 +1,235 @@
+Browser tab: 80, Title: "Bernardina, \"Uruguay, registros parroquiales, 1726-2000\"", URL: "https://www.familysearch.org/ark:/61903/1:1:6ZCQ-JQ2V?lang=pt".
+1 AXWebArea Bernardina, "Uruguay, registros parroquiales, 1726-2000", URL: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2V?lang=pt
+	2 container
+		3 container root
+			4 container app-content-scroller
+				5 link Description: IR PARA O CONTEÚDO PRINCIPAL, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2V?lang=pt#main
+				6 container
+					7 link Description: FamilySearch — Página Inicial, Value: familysearch.org/pt/home/portal/
+					8 container Principal
+						9 pop up button (collapsed) Árvore Familiar, Secondary Actions: Expand
+						10 pop up button (collapsed) Pesquisa, Secondary Actions: Expand
+						11 pop up button (collapsed) Recordações, Secondary Actions: Expand
+						12 pop up button (collapsed) Participe, Secondary Actions: Expand
+						13 pop up button (collapsed) Atividades, Secondary Actions: Expand
+					14 link Description: Localizações, Value: familysearch.org/pt/locations/about
+					15 button Escolha o idioma
+					16 button Ajuda
+					17 button Chat
+					18 link Description: Novas notificações disponíveis, Value: familysearch.org/pt/notifications/
+					19 pop up button (collapsed) Conta: Rogério J Barbosa, Secondary Actions: Expand
+						20 container Conta: Rogério J Barbosa
+				21 container Description: Conteúdo principal, ID: main
+					22 heading Bernardina, Value: 1
+						23 text Bernardina
+					24 heading Batizado • Uruguay, registros parroquiales, 1726-2000, Value: 2
+						25 text Batizado • Uruguay, registros parroquiales, 1726-2000
+					26 pop up button (collapsed) SALVAR, Secondary Actions: Expand
+					27 link Description: ALTERAR, Value: familysearch.org/ark:/61903/3:1:3Q9M-CS27-SS4M-Y?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A6ZCQ-JQ2V&action=view&lang=pt
+					28 pop up button (collapsed) COMPARTILHAR, Secondary Actions: Expand
+					29 container
+						30 table Detalhes da pessoa Bernardina
+							31 text Detalhes da pessoa Bernardina
+							32 row
+								33 cell
+									34 text Nome
+								35 cell
+									36 text Bernardina
+							37 row
+								38 cell
+									39 text Sexo
+								40 cell
+									41 text Female
+							42 row
+								43 cell
+									44 text Data de nascimento
+								45 cell
+									46 text 20 August 1726
+							47 row
+								48 cell
+									49 text Tipo de evento
+								50 cell
+									51 text bautizó
+							52 row
+								53 cell
+									54 text Data do evento
+								55 cell
+									56 text 22 January 1878
+							57 row
+								58 cell
+									59 text Local do evento
+								60 cell
+									61 text Salto, Salto, Uruguay
+							62 row
+								63 cell
+									64 text Local do evento (original)
+								65 cell
+									66 text Salto, Salto, Uruguay
+						67 container additionalPersons
+							68 heading Pais e irmãos de Bernardina, Value: 3
+								69 text Pais e irmãos de Bernardina
+							70 button ABRIR TODOS
+								71 text ABRIR TODOS
+							72 table
+								73 row
+									74 cell
+										75 link Description: Joaquín Méndez, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2K?lang=pt
+										76 text Pai
+									77 cell
+										78 text M
+									79 cell
+										80 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+								81 row
+									82 cell
+										83 link Description: Aruda, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ22?lang=pt
+										84 text Pai ou mãe
+									85 cell
+										86 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+							87 heading Outros membros da família de Bernardina, Value: 3
+								88 text Outros membros da família de Bernardina
+							89 button ABRIR TODOS
+								90 text ABRIR TODOS
+							91 table
+								92 row
+									93 cell
+										94 link Description: Francisco, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2G?lang=pt
+										95 text Avô
+									96 cell
+										97 text M
+									98 cell
+										99 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+								100 row
+									101 cell
+										102 link Description: Ana María de Tresta, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2P?lang=pt
+										103 text Avó
+									104 cell
+										105 text F
+									106 cell
+										107 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+								108 row
+									109 cell
+										110 link Description: Antonio, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ25?lang=pt
+										111 text Avô
+									112 cell
+										113 text M
+									114 cell
+										115 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+								116 row
+									117 cell
+										118 link Description: Bernarda Leonarda Germán, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2R?lang=pt
+										119 text Avó
+									120 cell
+										121 text F
+									122 cell
+										123 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+								124 row
+									125 cell
+										126 link Description: Nicolás Repetto, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2T?lang=pt
+										127 text Padrinho
+									128 cell
+										129 text M
+									130 cell
+										131 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+								132 row
+									133 cell
+										134 link Description: María Antonia Olivera, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2Y?lang=pt
+										135 text Madrinha
+									136 cell
+										137 text F
+									138 cell
+										139 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+							140 heading Outras pessoas neste registro, Value: 3
+								141 text Outras pessoas neste registro
+							142 button ABRIR TODOS
+								143 text ABRIR TODOS
+							144 table
+								145 row
+									146 cell
+										147 link Description: Gerónimo Garía, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2J?lang=pt
+									148 cell
+										149 text M
+									150 cell
+										151 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+								152 row
+									153 cell
+										154 link Description: Carolina Oliveira, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2L?lang=pt
+									155 cell
+										156 text F
+									157 cell
+										158 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+								159 row
+									160 cell
+										161 link Description: Pedro García Salazar, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2B?lang=pt
+									162 cell
+										163 text M
+									164 cell
+										165 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+					166 container
+						167 link Description: VER O DOCUMENTO ORIGINAL, Value: familysearch.org/ark:/61903/3:1:3Q9M-CS27-SS4M-Y?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A6ZCQ-JQ2V&action=view&cc=4134697&lang=pt
+						168 button (expanded) Description: Ocultar informações do documento, Secondary Actions: Collapse
+							169 heading Informações do documento, Value: 3
+								170 text Informações do documento
+						171 table
+							172 row
+								173 cell
+									174 text Número da pasta digital
+								175 cell
+									176 link Description: 008163850_004_M9ZK-PZ8, Value: familysearch.org/pt/search/record/results?q.filmNumber=008163850_004_M9ZK-PZ8
+							177 row
+								178 cell
+									179 text Número da imagem
+								180 cell
+									181 text 156
+						182 heading Informação sobre a coleção, Value: 3
+							183 text Informação sobre a coleção
+						184 link Description: Uruguay, registros parroquiales, 1726-2000, Value: familysearch.org/pt/search/collection/4134697
+						185 link Description: Sobre esta coleção, Value: familysearch.org/pt/wiki/en/Uruguay,_Catholic_Church_Records_-_FamilySearch_Historical_Records
+						186 heading Fazer referência ao registro, Value: 3
+							187 text Fazer referência ao registro
+						188 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZCQ-JQ2V : Mon Apr 06 03:26:06 UTC 2026), Entry for Bernardina and Gerónimo Garía, 22 January 1878.
+						189 button Copiar referência
+						190 heading Anexado na árvore familiar, Value: 3
+							191 text Anexado na árvore familiar
+						192 container Bernardina Acevedes Mendez De Arruda Oliveira 1877–1969 · L4MN-22P
+							193 link Description: Bernardina Acevedes Mendez De Arruda Oliveira, Value: familysearch.org/pt/tree/person/L4MN-22P
+							194 text Feminino
+							195 text 1877–1969
+							196 text •
+							197 button L 4 M N 2 2 P, Selecione para copiar.
+						198 link Description: Ver no Anexador de Fontes, Value: familysearch.org/pt/search/linker?ark=%2Fark%3A%2F61903%2F1%3A1%3A6ZCQ-JQ2V&id=L4MN-22P
+						199 text Esse registro foi indexado por um computador. Use o botão Alterar acima para fazer correções.
+						200 heading Registros semelhantes, Value: 3
+							201 text Registros semelhantes
+						202 content list
+							203 text Não foram encontrados registros semelhantes.
+						204 heading Ainda não encontrou o que estava procurando?, Value: 3
+							205 text Ainda não encontrou o que estava procurando?
+						206 text Tente pesquisar fontes não indexadas.
+						207 link Description: PESQUISAR POR TEXTO COMPLETO, Value: familysearch.org/pt/search/full-text/results?nlQuery=Bernardina+1%3A1%3A6ZCQ-JQ2V
+				208 container
+					209 container Links no rodapé
+						210 link Description: Sobre, Value: familysearch.org/pt/about/
+						211 link Description: Voluntário, Value: familysearch.org/pt/info/volunteer/
+						212 link Description: Blog, Value: familysearch.org/pt/blog/pt/
+						213 link Description: Encontrar antepassados, Value: ancestors.familysearch.org/pt/
+						214 link Description: DNA, Value: familysearch.org/pt/dna-testing/
+						215 link Description: Entre em Contato Conosco, Value: familysearch.org/pt/fieldops/familysearch-support-contact-us/
+						216 link Description: Mapa do Site, Value: familysearch.org/pt/site-map/
+						217 text |
+						218 button mais links
+					219 container Links jurídicos
+						220 link Description: Suporte de acessibilidade, Value: familysearch.org/pt/about/accessibility-statement/
+						221 container
+							222 link Description: Termos de uso do FamilySearch, Value: familysearch.org/pt/legal/terms
+							223 text  | 
+							224 link Description: Notificação de privacidade, Value: familysearch.org/pt/legal/privacy
+							225 text  | 
+							226 link Description: Mapa do Site, Value: familysearch.org/pt/site-map
+							227 text  | 
+							228 link Description: Opções de país e idioma, Value: familysearch.org/pt/locale
+						229 container
+							230 text © 2026 Intellectual Reserve, Inc. Todos os direitos reservados. Um serviço fornecido por 
+							231 link Description: A Igreja de Jesus Cristo dos Santos dos Últimos Dias, Value: vindeacristo.org/?lang=por
+							232 text .
+
+The focused UI element is 1 AXWebArea Bernardina, "Uruguay, registros parroquiales, 1726-2000", URL: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2V?lang=pt

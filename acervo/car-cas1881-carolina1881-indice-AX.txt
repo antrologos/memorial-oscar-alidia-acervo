@@ -1,0 +1,296 @@
+Browser tab: 80, Title: "Carolina Oliveira, \"Uruguay, registro civil, 1879-2020\"", URL: "https://www.familysearch.org/ark:/61903/1:1:XS1S-MPRT?lang=pt".
+1 AXWebArea Carolina Oliveira, "Uruguay, registro civil, 1879-2020", URL: familysearch.org/ark:/61903/1:1:XS1S-MPRT?lang=pt
+	2 container
+		3 container root
+			4 container app-content-scroller
+				5 link Description: IR PARA O CONTEÚDO PRINCIPAL, Value: familysearch.org/ark:/61903/1:1:XS1S-MPRT?lang=pt#main
+				6 container
+					7 link Description: FamilySearch — Página Inicial, Value: familysearch.org/pt/home/portal/
+					8 container Principal
+						9 pop up button (collapsed) Árvore Familiar, Secondary Actions: Expand
+						10 pop up button (collapsed) Pesquisa, Secondary Actions: Expand
+						11 pop up button (collapsed) Recordações, Secondary Actions: Expand
+						12 pop up button (collapsed) Participe, Secondary Actions: Expand
+						13 pop up button (collapsed) Atividades, Secondary Actions: Expand
+					14 link Description: Localizações, Value: familysearch.org/pt/locations/about
+					15 button Escolha o idioma
+					16 button Ajuda
+					17 button Chat
+					18 link Description: Novas notificações disponíveis, Value: familysearch.org/pt/notifications/
+					19 pop up button (collapsed) Conta: Rogério J Barbosa, Secondary Actions: Expand
+						20 container Conta: Rogério J Barbosa
+				21 container Description: Conteúdo principal, ID: main
+					22 heading Carolina Oliveira, Value: 1
+						23 text Carolina Oliveira
+					24 heading Esta pessoa foi mencionada no registro de Santiago Sanchez, Value: 2
+						25 container
+							26 text Esta pessoa foi mencionada no registro de 
+							27 link Description: Santiago Sanchez, Value: familysearch.org/ark:/61903/1:1:XS1S-MPRG?lang=pt
+					28 heading Casamento • Uruguay, Civil Registration, 1879-2020, Value: 2
+						29 text Casamento • Uruguay, Civil Registration, 1879-2020
+					30 pop up button (collapsed) SALVAR, Secondary Actions: Expand
+					31 link Description: ALTERAR, Value: familysearch.org/ark:/61903/3:1:3Q9M-CS2Z-XS63-X?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AXS1S-MPRT&action=view&lang=pt
+					32 pop up button (collapsed) COMPARTILHAR, Secondary Actions: Expand
+					33 container
+						34 table Detalhes da pessoa Carolina Oliveira
+							35 text Detalhes da pessoa Carolina Oliveira
+							36 row
+								37 cell
+									38 text Nome
+								39 cell
+									40 text Carolina Oliveira
+						41 container additionalPersons
+							42 heading Pais e irmãos de Carolina Oliveira, Value: 3
+								43 text Pais e irmãos de Carolina Oliveira
+							44 button ABRIR TODOS
+								45 text ABRIR TODOS
+							46 table
+								47 row
+									48 cell
+										49 link Description: Antonio Oliveira, Value: familysearch.org/ark:/61903/1:1:XS1S-MPRR?lang=pt
+										50 text Pai
+									51 cell
+										52 text M
+									53 cell
+										54 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+								55 row
+									56 cell
+										57 link Description: Bernardina Germana, Value: familysearch.org/ark:/61903/1:1:XS1S-MPRL?lang=pt
+										58 text Mãe
+									59 cell
+										60 text F
+									61 cell
+										62 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+							63 heading Cônjuges e filhos de Carolina Oliveira, Value: 3
+								64 text Cônjuges e filhos de Carolina Oliveira
+							65 button ABRIR TODOS
+								66 text ABRIR TODOS
+							67 table
+								68 row
+									69 cell
+										70 link Description: Santiago Sanchez, Value: familysearch.org/ark:/61903/1:1:XS1S-MPRG?lang=pt
+									71 cell
+										72 button (expanded) Description: Ocultar essa seção, Secondary Actions: Collapse
+								73 row
+									74 cell
+										75 table Detalhes da pessoa Santiago Sanchez
+											76 text Detalhes da pessoa Santiago Sanchez
+											77 row
+												78 cell
+													79 text Nome
+												80 cell
+													81 link Description: Santiago Sanchez, Value: familysearch.org/ark:/61903/1:1:XS1S-MPRG?lang=pt
+											82 row
+												83 cell
+													84 text Data de casamento
+												85 cell
+													86 text 29 Apr 1881
+											87 row
+												88 cell
+													89 text Tipo de evento
+												90 cell
+													91 text Marriage Registration
+											92 row
+												93 cell
+													94 text Data do evento
+												95 cell
+													96 text 4 May 1881
+											97 row
+												98 cell
+													99 text Local do evento
+												100 cell
+													101 text Salto, Uruguay
+											102 row
+												103 cell
+													104 text Número do certificado
+												105 cell
+													106 text 4
+							107 heading Outros membros da família de Carolina Oliveira, Value: 3
+								108 text Outros membros da família de Carolina Oliveira
+							109 button ABRIR TODOS
+								110 text ABRIR TODOS
+							111 table
+								112 row
+									113 cell
+										114 link Description: Eugenio Sanchez, Value: familysearch.org/ark:/61903/1:1:XS1S-MPRP?lang=pt
+										115 text Sogro
+									116 cell
+										117 text M
+									118 cell
+										119 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+								120 row
+									121 cell
+										122 link Description: Isabel Silvero, Value: familysearch.org/ark:/61903/1:1:XS1S-MPR5?lang=pt
+										123 text Sogra
+									124 cell
+										125 text F
+									126 cell
+										127 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+						128 text Esta informação está disponível porque um voluntário a indexou para você.
+						129 button DIZER MUITO OBRIGADO
+					130 container
+						131 link Description: VER O DOCUMENTO ORIGINAL, Value: familysearch.org/ark:/61903/3:1:3Q9M-CS2Z-XS63-X?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AXS1S-MPRT&action=view&cc=1837849&lang=pt
+						132 button (collapsed) Description: Mostrar informações do documento, Secondary Actions: Expand
+							133 heading Informações do documento, Value: 3
+								134 text Informações do documento
+						135 heading Informação sobre a coleção, Value: 3
+							136 text Informação sobre a coleção
+						137 link Description: Uruguay, Civil Registration, 1879-2020, Value: familysearch.org/pt/search/collection/1837849
+						138 link Description: Sobre esta coleção, Value: familysearch.org/pt/wiki/pt/Uruguai,_Registro_Civil_(Registros_Hist%C3%B3ricos_do_FamilySearch)
+						139 heading Fazer referência ao registro, Value: 3
+							140 text Fazer referência ao registro
+						141 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS1S-MPRG : Wed Mar 12 04:59:26 UTC 2025), Entry for Santiago Sanchez and Eugenio Sanchez, 4 May 1881.
+						142 button Copiar referência
+						143 heading Anexado na árvore familiar, Value: 3
+							144 text Anexado na árvore familiar
+						145 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+							146 link Description: Carolina Bernardina Oliveira Porbigas, Value: familysearch.org/pt/tree/person/K198-GXK
+							147 text Feminino
+							148 text 1851–1923
+							149 text •
+							150 button K 1 9 8 G X K, Selecione para copiar.
+						151 link Description: Ver no Anexador de Fontes, Value: familysearch.org/pt/search/linker?ark=%2Fark%3A%2F61903%2F1%3A1%3AXS1S-MPRT&id=K198-GXK
+						152 heading Registros semelhantes, Value: 3
+							153 text Registros semelhantes
+						154 content list
+							155 button Carolina Olivera Uruguai, registros da igreja católica, 1726-2000
+								156 text Carolina Olivera
+								157 text Uruguai, registros da igreja católica, 1726-2000
+							158 container
+								159 text Anexado a:
+								160 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+									161 link Description: Carolina Bernardina Oliveira Porbigas, Value: familysearch.org/pt/tree/person/K198-GXK
+									162 text Feminino
+									163 text 1851–1923
+									164 text •
+									165 button K 1 9 8 G X K, Selecione para copiar.
+							166 button Carolina Olivera Uruguai, registros da igreja católica, 1726-2000
+								167 text Carolina Olivera
+								168 text Uruguai, registros da igreja católica, 1726-2000
+							169 container
+								170 text Anexado a:
+								171 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+									172 link Description: Carolina Bernardina Oliveira Porbigas, Value: familysearch.org/pt/tree/person/K198-GXK
+									173 text Feminino
+									174 text 1851–1923
+									175 text •
+									176 button K 1 9 8 G X K, Selecione para copiar.
+							177 button Carolina Olivera Registro civil do Uruguai, 1879-2020
+								178 text Carolina Olivera
+								179 text Registro civil do Uruguai, 1879-2020
+							180 container
+								181 text Anexado a:
+								182 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+									183 link Description: Carolina Bernardina Oliveira Porbigas, Value: familysearch.org/pt/tree/person/K198-GXK
+									184 text Feminino
+									185 text 1851–1923
+									186 text •
+									187 button K 1 9 8 G X K, Selecione para copiar.
+							188 button Carolina Oliveira Registro civil do Uruguai, 1879-2020
+								189 text Carolina Oliveira
+								190 text Registro civil do Uruguai, 1879-2020
+							191 container
+								192 text Anexado a:
+								193 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+									194 link Description: Carolina Bernardina Oliveira Porbigas, Value: familysearch.org/pt/tree/person/K198-GXK
+									195 text Feminino
+									196 text 1851–1923
+									197 text •
+									198 button K 1 9 8 G X K, Selecione para copiar.
+							199 button Carolina Oliveira Registro civil do Uruguai, 1879-2020
+								200 text Carolina Oliveira
+								201 text Registro civil do Uruguai, 1879-2020
+							202 container
+								203 text Anexado a:
+								204 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+									205 link Description: Carolina Bernardina Oliveira Porbigas, Value: familysearch.org/pt/tree/person/K198-GXK
+									206 text Feminino
+									207 text 1851–1923
+									208 text •
+									209 button K 1 9 8 G X K, Selecione para copiar.
+							210 button Carolina Oliveira Registro civil do Uruguai, 1879-2020
+								211 text Carolina Oliveira
+								212 text Registro civil do Uruguai, 1879-2020
+							213 container
+								214 text Anexado a:
+								215 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+									216 link Description: Carolina Bernardina Oliveira Porbigas, Value: familysearch.org/pt/tree/person/K198-GXK
+									217 text Feminino
+									218 text 1851–1923
+									219 text •
+									220 button K 1 9 8 G X K, Selecione para copiar.
+							221 button Carolina Oliveira Portugal Registro civil do Uruguai, 1879-2020
+								222 text Carolina Oliveira Portugal
+								223 text Registro civil do Uruguai, 1879-2020
+							224 container
+								225 text Anexado a:
+								226 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+									227 link Description: Carolina Bernardina Oliveira Porbigas, Value: familysearch.org/pt/tree/person/K198-GXK
+									228 text Feminino
+									229 text 1851–1923
+									230 text •
+									231 button K 1 9 8 G X K, Selecione para copiar.
+							232 button Carolina Olivera Registro civil do Uruguai, 1879-2020
+								233 text Carolina Olivera
+								234 text Registro civil do Uruguai, 1879-2020
+							235 container
+								236 text Anexado a:
+								237 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+									238 link Description: Carolina Bernardina Oliveira Porbigas, Value: familysearch.org/pt/tree/person/K198-GXK
+									239 text Feminino
+									240 text 1851–1923
+									241 text •
+									242 button K 1 9 8 G X K, Selecione para copiar.
+							243 button Carolina Olivera Registro civil do Uruguai, 1879-2020
+								244 text Carolina Olivera
+								245 text Registro civil do Uruguai, 1879-2020
+							246 container
+								247 text Anexado a:
+								248 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+									249 link Description: Carolina Bernardina Oliveira Porbigas, Value: familysearch.org/pt/tree/person/K198-GXK
+									250 text Feminino
+									251 text 1851–1923
+									252 text •
+									253 button K 1 9 8 G X K, Selecione para copiar.
+							254 button Carolina Olivera Registro civil do Uruguai, 1879-2020
+								255 text Carolina Olivera
+								256 text Registro civil do Uruguai, 1879-2020
+							257 container
+								258 text Anexado a:
+								259 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+									260 link Description: Carolina Bernardina Oliveira Porbigas, Value: familysearch.org/pt/tree/person/K198-GXK
+									261 text Feminino
+									262 text 1851–1923
+									263 text •
+									264 button K 1 9 8 G X K, Selecione para copiar.
+						265 heading Ainda não encontrou o que estava procurando?, Value: 3
+							266 text Ainda não encontrou o que estava procurando?
+						267 text Tente pesquisar fontes não indexadas.
+						268 link Description: PESQUISAR POR TEXTO COMPLETO, Value: familysearch.org/pt/search/full-text/results?nlQuery=Carolina+Oliveira+1%3A1%3AXS1S-MPRT
+				269 container
+					270 container Links no rodapé
+						271 link Description: Sobre, Value: familysearch.org/pt/about/
+						272 link Description: Voluntário, Value: familysearch.org/pt/info/volunteer/
+						273 link Description: Blog, Value: familysearch.org/pt/blog/pt/
+						274 link Description: Encontrar antepassados, Value: ancestors.familysearch.org/pt/
+						275 link Description: DNA, Value: familysearch.org/pt/dna-testing/
+						276 link Description: Entre em Contato Conosco, Value: familysearch.org/pt/fieldops/familysearch-support-contact-us/
+						277 link Description: Mapa do Site, Value: familysearch.org/pt/site-map/
+						278 text |
+						279 button mais links
+					280 container Links jurídicos
+						281 link Description: Suporte de acessibilidade, Value: familysearch.org/pt/about/accessibility-statement/
+						282 container
+							283 link Description: Termos de uso do FamilySearch, Value: familysearch.org/pt/legal/terms
+							284 text  | 
+							285 link Description: Notificação de privacidade, Value: familysearch.org/pt/legal/privacy
+							286 text  | 
+							287 link Description: Mapa do Site, Value: familysearch.org/pt/site-map
+							288 text  | 
+							289 link Description: Opções de país e idioma, Value: familysearch.org/pt/locale
+						290 container
+							291 text © 2026 Intellectual Reserve, Inc. Todos os direitos reservados. Um serviço fornecido por 
+							292 link Description: A Igreja de Jesus Cristo dos Santos dos Últimos Dias, Value: vindeacristo.org/?lang=por
+							293 text .
+
+The focused UI element is 1 AXWebArea Carolina Oliveira, "Uruguay, registro civil, 1879-2020", URL: familysearch.org/ark:/61903/1:1:XS1S-MPRT?lang=pt

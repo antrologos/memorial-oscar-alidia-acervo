@@ -1,0 +1,38 @@
+{
+  "consulted_at": "2026-09-07",
+  "status": "Pesquisa focal; árvore de Laurent lida, óbito original ainda não obtido.",
+  "sources": [
+    {
+      "id": "BGEN-LAURENT",
+      "title": "Laurent Guicheney, empregado de banco segundo uma árvore genealógica",
+      "date": "1889–1911; consulta em 2026",
+      "kind": "Árvore colaborativa",
+      "url": "https://gw.geneanet.org/babethdu40?lang=pt&n=guicheney&p=laurent",
+      "file": "C:/Users/antro/.codex/visualizations/2026/09/06/01a077f2-785e-7bc1-9137-8f119320f35e/memorial-familia/fontes_pesquisa/bancos_2026-09-07/portugal/nota_laurent_guicheney.md",
+      "summary": "A árvore apresenta Laurent como filho de Jean Guicheney e Marie Datchary, irmão de Bertrand, e o descreve como empregado de banco. Informa nascimento em 22 de novembro de 1889 e morte em 29 de novembro de 1911, ambos em Port-de-Lanne.",
+      "note": "Dados atribuídos à árvore de babethdu40, lida em sessão autenticada. O banco não é identificado; filiação e profissão ainda precisam de confirmação em atos originais.",
+      "short_quote": "Employé de banque, célibataire",
+      "claims": [
+        {"claim": "Empregado de banco e solteiro", "status": "afirmação de árvore"},
+        {"claim": "Nascimento em 1889-11-22 e óbito em 1911-11-29, Port-de-Lanne", "status": "afirmação de árvore"},
+        {"claim": "Filho de Jean Guicheney e Marie Datchary; irmão de Bertrand", "status": "afirmação de árvore"}
+      ],
+      "not_supported": ["nome do banco", "local de trabalho", "diretor ou proprietário de banco", "emprego no Crédit Lyonnais ou no Crédit franco-portugais"],
+      "next_document": {"type": "óbito civil", "person": "Laurent Guicheney", "date": "1911-11-29", "place": "Port-de-Lanne, Landes, França", "portal": "https://www.archives.landes.fr/faire-une-recherche/archives-numerisees/etat-civil"}
+    }
+  ],
+  "other_profiles": [
+    {"person": "Léon Guicheney", "url": "https://gw.geneanet.org/babethdu40?lang=pt&n=guicheney&p=leon", "observed": "A árvore informa nascimento em 1890 e mesmos pais de Bertrand. Não informa ocupação bancária.", "status": "árvore; original não consultado"},
+    {"person": "Jeanne Guicheney", "url": "https://gw.geneanet.org/babethdu40?lang=pt&n=guicheney&oc=3&p=jeanne", "observed": "A árvore informa 1877–1957 e mesmos pais de Bertrand. Não informa ocupação bancária.", "status": "árvore; original não consultado"},
+    {"person": "Constance Laulhé", "url": "https://gw.geneanet.org/babethdu40?lang=pt&n=laulhe&p=constance", "observed": "A árvore informa nascimento em 26/08/1876, Port-de-Lanne, ocupação Ménagère e pais Mathieu dit Angel Laulhé e Jeanne Séosse.", "status": "árvore; não é evidência de profissão bancária"},
+    {"person": "Mathieu dit Angel Laulhé", "url": "https://gw.geneanet.org/babethdu40?lang=pt&n=laulhe&p=mathieu+dit+angel", "observed": "A árvore informa 14/09/1847–30/10/1925, Port-de-Lanne, e Tanneur. O ato de nascimento de Jean em 1907 apresenta o declarante Mathieu Laulhé, 60 anos, como propriétaire cultivateur, sem explicitar parentesco.", "status": "árvore e comparação com fonte JF; não é evidência de profissão bancária"}
+  ],
+  "provenance_correction": {
+    "claim": "Emprego anterior de Bertrand em Paris",
+    "supported_by": "Nota biográfica do Geneanet",
+    "not_supported_by": "Folha 6 do dossiê da Legião de Honra",
+    "primary_reading": "Folha 6: dois anos e meio na agência do Crédit Lyonnais em Madrid, chegada a Lisboa em 1903. Paris é o local de assinatura da proposta de 26/01/1929.",
+    "tree_url": "https://gw.geneanet.org/babethdu40?lang=pt&n=guicheney&p=bertrand+dominique+eugene"
+  },
+  "limits": ["Não foi obtido novo ato civil de Laurent nesta rodada.", "Profissão ausente nas fichas não significa ausência de atividade bancária ao longo da vida.", "Nenhum novo parentesco com Pedro ou Agostinha foi estabelecido."]
+}

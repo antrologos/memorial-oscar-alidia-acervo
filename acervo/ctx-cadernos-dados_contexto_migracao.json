@@ -1,0 +1,227 @@
+{
+  "version": "1.0",
+  "date": "2026-09-07",
+  "usage": "Contagens observadas em fontes publicadas. Nenhuma série é um censo de todos os franceses nem medida de origem dos Guicheney.",
+  "series": [
+    {
+      "id": "volkmer_nacionalidades_vilas",
+      "title": "Nacionalidades registradas nas vilas da fronteira oeste",
+      "source": "CTX-MIG-V13",
+      "pages": [
+        97,
+        98
+      ],
+      "period": "Segunda metade do século XIX, corpus histórico da autora",
+      "unit": "Pessoas identificadas no corpus por localidade, com classificação nacional publicada",
+      "coverage": "Vilas e arredores do primeiro distrito de Itaqui, Uruguaiana e São Borja; registros paroquiais, civis e judiciais; ver também delimitação V11 pp. 5–6.",
+      "data": [
+        {
+          "place": "Itaqui",
+          "category": "França",
+          "value": 58
+        },
+        {
+          "place": "Itaqui",
+          "category": "Alemanha",
+          "value": 30
+        },
+        {
+          "place": "Itaqui",
+          "category": "Itália",
+          "value": 181
+        },
+        {
+          "place": "Uruguaiana",
+          "category": "França",
+          "value": 166
+        },
+        {
+          "place": "Uruguaiana",
+          "category": "Alemanha",
+          "value": 52
+        },
+        {
+          "place": "Uruguaiana",
+          "category": "Itália",
+          "value": 206
+        },
+        {
+          "place": "Uruguaiana",
+          "category": "Prússia",
+          "value": 2
+        },
+        {
+          "place": "São Borja",
+          "category": "França",
+          "value": 39
+        },
+        {
+          "place": "São Borja",
+          "category": "Alemanha",
+          "value": 105
+        },
+        {
+          "place": "São Borja",
+          "category": "Itália",
+          "value": 54
+        },
+        {
+          "place": "São Borja",
+          "category": "Prússia",
+          "value": 14
+        }
+      ],
+      "reportedTotalsByText": {
+        "Itaqui": 470,
+        "Uruguaiana": 733,
+        "São Borja": 329
+      },
+      "sumAllBarsVisuallyRead": {
+        "Itaqui": 460,
+        "Uruguaiana": 713,
+        "São Borja": 314
+      },
+      "denominatorForPercentages": null,
+      "limits": [
+        "Valores lidos visualmente nos gráficos 3.5–3.7, reproduções de conferência arquivadas.",
+        "As somas de todas as barras não coincidem com os totais informados na p. 96. Exibir contagens, não percentuais calculados com esses totais.",
+        "Os gráficos incluem EUA na classificação chamada europeus pela autora; não tratar a denominação como classificação geográfica consistente.",
+        "Alemanha e Prússia permanecem categorias separadas, como publicadas.",
+        "Os três locais não devem ser somados como se garantissem pessoas únicas entre cidades.",
+        "A soma das barras França é 263, mas o texto posterior informa 264 franceses; não conciliar silenciosamente.",
+        "Não extrapolar para Rio Grande do Sul inteiro nem converter em números de desembarques."
+      ]
+    },
+    {
+      "id": "garau_ocupacoes_1835",
+      "title": "Ofícios entre matriculados no consulado francês de Montevidéu",
+      "source": "CTX-MIG-G17",
+      "pages": [
+        25,
+        26
+      ],
+      "period": "Registro datado de 4 de maio de 1835",
+      "unit": "Matriculados consulares",
+      "denominator": 161,
+      "gender": "Todos registrados como homens no estudo",
+      "data": [
+        {
+          "category": "Artesãos",
+          "value": 86
+        },
+        {
+          "category": "Comércio, lojas e alimentos",
+          "value": 26
+        },
+        {
+          "category": "Trabalhadores gerais e pedreira",
+          "value": 10
+        },
+        {
+          "category": "Empregados",
+          "value": 7
+        },
+        {
+          "category": "Profissões liberais",
+          "value": 6
+        },
+        {
+          "category": "Marítimos",
+          "value": 5
+        },
+        {
+          "category": "Outras profissões",
+          "value": 21
+        }
+      ],
+      "limits": [
+        "Tabela 1, contagens que somam 161; tradução das categorias feita para o memorial.",
+        "Não representa todos os franceses, nem apenas pessoas recém-chegadas.",
+        "Usar contagens ou percentuais explicitamente recalculados a partir delas, pois há pequenos lapsos percentuais no texto."
+      ]
+    },
+    {
+      "id": "garau_ocupacoes_1837_1838",
+      "title": "Ofícios em outra matrícula consular francesa de Montevidéu",
+      "source": "CTX-MIG-G17",
+      "pages": [
+        27
+      ],
+      "period": "Registro de 10 de maio de 1837 a 29 de janeiro de 1838",
+      "unit": "Matriculados consulares",
+      "denominator": 237,
+      "gender": {
+        "men": 230,
+        "women": 7
+      },
+      "data": [
+        {
+          "category": "Artesãos",
+          "value": 123
+        },
+        {
+          "category": "Trabalhadores gerais e jornaleiros",
+          "value": 36
+        },
+        {
+          "category": "Comércio e lojas",
+          "value": 19
+        },
+        {
+          "category": "Empregados",
+          "value": 8
+        },
+        {
+          "category": "Proprietários de terras",
+          "value": 5
+        },
+        {
+          "category": "Agricultores",
+          "value": 3
+        },
+        {
+          "category": "Marinheiros",
+          "value": 1
+        },
+        {
+          "category": "Profissões liberais",
+          "value": 1
+        },
+        {
+          "category": "Não classificados",
+          "value": 2
+        },
+        {
+          "category": "Outras profissões",
+          "value": 39
+        }
+      ],
+      "limits": [
+        "Tabela 3, contagens que somam 237.",
+        "Não calcular crescimento temporal da comunidade a partir da diferença entre os registros.",
+        "Não juntar automaticamente categorias com nomes próximos entre tabelas.",
+        "Não usar a tabela combinada 5 sem conciliar divergências."
+      ]
+    },
+    {
+      "id": "volkmer_origens_conhecidas",
+      "title": "O quanto se conhece do lugar de origem",
+      "source": "CTX-MIG-V13",
+      "pages": [
+        173
+      ],
+      "unit": "Franceses no corpus histórico",
+      "observedCounts": {
+        "totalFrenchReported": 264,
+        "originInFranceKnown": 36,
+        "pyreneesOrBasqueDeclaredAmongKnown": 19
+      },
+      "limits": [
+        "19 é parte dos 36 com origem conhecida, não dos 264 como amostra representativa.",
+        "Pirineus ou País Basco é categoria ampla do texto, não equivalente a Landes, identidade basca ou uma comuna.",
+        "O restante da inferência por sobrenomes feita pela autora não foi adotado como prova de origem individual.",
+        "Não produzir mapa de nascimento de todos os264 com base nesses dados."
+      ]
+    }
+  ]
+}

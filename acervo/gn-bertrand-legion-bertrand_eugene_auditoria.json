@@ -1,0 +1,195 @@
+{
+  "audit_date": "2026-09-07",
+  "type": "auditoria de fontes existentes, sem novo ato",
+  "research_note": "auditoria_bertrand_eugene_2026-09-07.md",
+  "conclusion": {
+    "same_person_within_legion_dossier": "Documentado com alta confiança: Bertrand Dominique, Bertrand Dominique Eugène e E. Guicheney são formas encontradas no mesmo processo, com encadeamento administrativo, nascimento e carreira compatíveis.",
+    "father_of_jean": "Associação de alta confiança pela combinação JF + GN-BERTRAND-LEGION + D10/D13/D14 + GN-LEGION. Não apenas coincidência de sobrenome ou alegação de árvore.",
+    "civil_birth_name": "Não estabelecido que Eugène integrava o assento civil original de 1875. P.1 cancela esse prenome; p.3 tem Bertrand Dominique como inscrição principal; p.5 traz os três prenomes sem cancelamento.",
+    "surname_links": "Nenhuma ligação nova com Pedro, Agostinha ou Víctor.",
+    "recommended_display_name": "Bertrand Dominique Guicheney",
+    "documented_variants": [
+      "Bertrand Dominique Eugène Guicheney",
+      "E. Guicheney",
+      "Eugène Guicheney nas fichas brasileiras de Jean, associação fundamentada"
+    ],
+    "public_text": "O pai de Jean aparece no nascimento do filho como Bertrand Dominique e nas fichas brasileiras como Eugène. Seu dossiê da Legião de Honra usa também Bertrand Dominique Eugène e E. Guicheney. As datas, a família e a carreira bancária sustentam fortemente que se trata do mesmo homem; permanece por esclarecer por que Eugène foi riscado numa das folhas."
+  },
+  "sources": [
+    {
+      "id": "GN-BERTRAND-LEGION",
+      "page": 5,
+      "url": "https://pt.geneanet.org/registos/view/786497?current=98408907",
+      "locator": "Archives nationales, cote 19800035/1403/62054, imagem 5",
+      "local_file": "fontes_pesquisa/geneanet_jean/bertrand_legion/19800035_1403_62054_5.jpg",
+      "type": "proposta ministerial",
+      "read_this_audit": "visual",
+      "quote": "GUICHENEY, Bertrand Dominique Eugène",
+      "evidence": "Nascimento 04/08/1875, Port-de-Lanne; francês, domiciliado em Lisboa, diretor do Crédit franco-portugais.",
+      "limit": "Nome sem cancelamento nesta folha; não é o assento civil original."
+    },
+    {
+      "id": "GN-BERTRAND-LEGION",
+      "page": 1,
+      "url": "https://pt.geneanet.org/registos/view/786497?current=98408907",
+      "local_file": "fontes_pesquisa/geneanet_jean/bertrand_legion/19800035_1403_62054_1.jpg",
+      "type": "ficha administrativa",
+      "read_this_audit": "visual",
+      "quote": "Bertrand Dominique [Eugène riscado]",
+      "evidence": "Mesmo nascimento e profissão bancária em Lisboa.",
+      "limit": "Sem explicação do risco."
+    },
+    {
+      "id": "GN-BERTRAND-LEGION",
+      "page": 3,
+      "url": "https://pt.geneanet.org/registos/view/786497?current=98408907",
+      "local_file": "fontes_pesquisa/geneanet_jean/bertrand_legion/19800035_1403_62054_3.jpg",
+      "type": "boletim de nascimento emitido em 1929",
+      "read_this_audit": "visual",
+      "quote": "Guicheney Bertrand Dominique",
+      "evidence": "Certidão sumária nº 18 emitida em 13/03/1929; nascimento 04/08/1875; pais Jean Guicheney e Marie Datchary.",
+      "limit": "Não é a imagem do assento integral de 1875. Traços tênues após Dominique não recebem valor civil certo."
+    },
+    {
+      "id": "GN-BERTRAND-LEGION",
+      "page": 7,
+      "url": "https://pt.geneanet.org/registos/view/786497?current=98408907",
+      "local_file": "fontes_pesquisa/geneanet_jean/bertrand_legion/19800035_1403_62054_7.jpg",
+      "type": "certidão judicial",
+      "read_this_audit": "visual",
+      "quote": "Guicheney Bertrand Dominique",
+      "evidence": "Mont-de-Marsan, 18/11/1928; nascimento 04/08/1875, Port-de-Lanne; pais Jean e Marie Datchary.",
+      "limit": "Não informa esposa ou filhos."
+    },
+    {
+      "id": "GN-BERTRAND-LEGION",
+      "page": 10,
+      "url": "https://pt.geneanet.org/registos/view/786497?current=98408907",
+      "local_file": "fontes_pesquisa/geneanet_jean/bertrand_legion/19800035_1403_62054_10.jpg",
+      "type": "carta assinada com rodapé datilografado",
+      "read_this_audit": "visual",
+      "quote": "E. Guicheney",
+      "evidence": "Lisboa, 18/03/1929; mesmo processo 150.386, banco e envio do nascimento.",
+      "limit": "Correção Guichamp refere-se ao sobrenome. Eugène Pralon é outra pessoa. Rodapé datilografado não equivale a leitura por extenso da assinatura."
+    },
+    {
+      "id": "JF",
+      "url": "https://archives.landes.fr/_recherche-images/download/441356/image/69650/175/full/max/0/default.jpg",
+      "locator": "AD40, 4 E 231/29, vista 176/197, ato 28",
+      "local_file": "fontes_pesquisa/arsague/jean_nascimento1907_recorte.png",
+      "type": "registro civil de nascimento",
+      "read_this_audit": "visual",
+      "quote": "Guicheney Bertrand Dominique",
+      "evidence": "Jean Eugène Jacques Léon nasceu em 19/12/1907; pai de 32 anos, empregado do Crédit Lyonnais, residente em Lisboa; mãe Constance Laulhé, 31 anos, esposa.",
+      "limit": "O ato não usa Eugène para o pai. A identificação com o banqueiro brasileiro é uma conclusão do conjunto."
+    },
+    {
+      "id": "D10",
+      "url": null,
+      "local_file": "C:/Users/antro/Downloads/Oscar/WhatsApp Image 2026-09-06 at 13.59.03 (2).jpeg",
+      "type": "ficha consular",
+      "read_this_audit": "visual",
+      "quote": "Eugène e Laulhe Constance",
+      "evidence": "Paris, 13/04/1949; Jean Eugène Jacques; nascimento em 19/12/1907, Port-de-Lanne.",
+      "limit": "Reprodução enviada pelo usuário; URL arquivística não preservada."
+    },
+    {
+      "id": "D13",
+      "url": null,
+      "local_file": "C:/Users/antro/Downloads/Oscar/WhatsApp Image 2026-09-06 at 13.59.04 (3).jpeg",
+      "type": "registro de estrangeiro",
+      "read_this_audit": "visual",
+      "quote": "EUGENE GUICHENEY",
+      "evidence": "18/01/1950; mãe Constance Laulhe; Jean Eugène Jacques, bancário, nascimento em 19/12/1907.",
+      "limit": "Reprodução enviada pelo usuário; as repetições administrativas não são todas provas independentes da filiação."
+    },
+    {
+      "id": "D14",
+      "url": null,
+      "local_file": "C:/Users/antro/Downloads/Oscar/WhatsApp Image 2026-09-06 at 13.59.04 (1).jpeg",
+      "type": "requerimento de visto",
+      "read_this_audit": "visual",
+      "quote": "Eugene Guicheney",
+      "evidence": "São Paulo, 23/10/1968; mãe Constance Laulhe; nascimento em 19/12/1907, Port-de-Lanne; banqueiro.",
+      "limit": "Não prova realização de viagens pretendidas."
+    },
+    {
+      "id": "GN-LEGION",
+      "url": "https://gw.geneanet.org/babethdu40?lang=pt&n=guicheney&p=jean+eugene+jacques+leon",
+      "local_file": "fontes_pesquisa/geneanet_jean/recebidos/42306916.jpg",
+      "type": "ficha da Legião de Honra",
+      "read_this_audit": "visual",
+      "quote": "Directeur de Banque à Rio de Janeiro",
+      "evidence": "Jean Eugène, nascimento em 19/12/1907, Port-de-Lanne; decreto de 16/03/1956; óbito em 02/12/1969.",
+      "limit": "Sem pais; URL é a árvore de proveniência, não a cota original."
+    },
+    {
+      "id": "JF",
+      "part": "margem casamento",
+      "url": "https://archives.landes.fr/_recherche-images/download/441356/image/69650/175/full/max/0/default.jpg",
+      "local_file": "fontes_pesquisa/franca_2/jean_mencao_retificacao1944.png",
+      "type": "anotação marginal de casamento",
+      "read_this_audit": "visual",
+      "quote": "a contracté mariage avec",
+      "evidence": "Jean casa com Yvette Louise Fernande Dutu em Pau; leitura provável 16/04/1941; pequena data ao pé termina em 44.",
+      "limit": "Não é retificação do nome paterno. Conservar ressalva paleográfica na pequena data de inclusão da menção."
+    },
+    {
+      "id": "GN-BERTRAND",
+      "url": "https://gw.geneanet.org/babethdu40?lang=pt&n=guicheney&p=bertrand+dominique+eugene",
+      "local_file": "fontes_pesquisa/geneanet_jean/recebidos/Bertrand Dominique Eugène GUICHENEY _ Árvore genealógica por babethdu40 - Geneanet.pdf",
+      "type": "árvore exportada",
+      "read_this_audit": "extração textual preexistente relida",
+      "evidence": "Nome composto, pais Jean Guicheney e Marie Datchary, casamento com Constance; nascimento em 04/08/1875.",
+      "limit": "Árvore cita nikou64. Legião confirma alguns elementos, não toda a árvore. Casamento em 09/04/1901, morte em 01/02/1944 e outros detalhes seguem sem novo ato nesta auditoria."
+    }
+  ],
+  "recommended_source_overrides": {
+    "D10": {
+      "note": "O nascimento de Jean nomeia Bertrand Dominique; as fichas brasileiras usam Eugène. No mesmo dossiê da Legião de Honra, Bertrand aparece como Bertrand Dominique Eugène e E. Guicheney. A comparação de nascimento, filiação e carreira sustenta fortemente a identificação; permanece por esclarecer por que Eugène foi riscado na ficha de controle."
+    },
+    "D11": {
+      "note": "D12 é outro exemplar da mesma data, sem demonstrar viagem adicional. O nascimento de Jean nomeia Bertrand Dominique; as fichas brasileiras usam Eugène. No mesmo dossiê da Legião de Honra, Bertrand aparece como Bertrand Dominique Eugène e E. Guicheney. A comparação de nascimento, filiação e carreira sustenta fortemente a identificação; permanece por esclarecer por que Eugène foi riscado na ficha de controle."
+    },
+    "D12": {
+      "note": "D11 e D12 não comprovam duas viagens. O nascimento de Jean nomeia Bertrand Dominique; as fichas brasileiras usam Eugène. No mesmo dossiê da Legião de Honra, Bertrand aparece como Bertrand Dominique Eugène e E. Guicheney. A comparação de nascimento, filiação e carreira sustenta fortemente a identificação; permanece por esclarecer por que Eugène foi riscado na ficha de controle."
+    },
+    "D13": {
+      "note": "A data do registro não determina o primeiro desembarque nem identifica o banco empregador. O nascimento de Jean nomeia Bertrand Dominique; as fichas brasileiras usam Eugène. No mesmo dossiê da Legião de Honra, Bertrand aparece como Bertrand Dominique Eugène e E. Guicheney. A comparação de nascimento, filiação e carreira sustenta fortemente a identificação; permanece por esclarecer por que Eugène foi riscado na ficha de controle."
+    },
+    "JF": {
+      "title": "Jean · nascimento em Port-de-Lanne",
+      "kind": "Registro civil de nascimento",
+      "note": "O nascimento de Jean nomeia Bertrand Dominique; as fichas brasileiras usam Eugène. No mesmo dossiê da Legião de Honra, Bertrand aparece como Bertrand Dominique Eugène e E. Guicheney. A comparação de nascimento, filiação e carreira sustenta fortemente a identificação; permanece por esclarecer por que Eugène foi riscado na ficha de controle."
+    },
+    "GN-BERTRAND": {
+      "note": "A árvore cita outra árvore, nikou64. A forma Bertrand Dominique Eugène, o nascimento em 04/08/1875 e os pais Jean Guicheney e Marie Datchary receberam apoio no dossiê GN-BERTRAND-LEGION; isso não confirma automaticamente os demais dados da árvore."
+    }
+  },
+  "recommended_research_questions": [
+    "Por que Eugène foi riscado na ficha de controle de Bertrand?",
+    "Qual era o nome no assento integral de nascimento de 1875?"
+  ],
+  "next_target_records": [
+    {
+      "place": "Port-de-Lanne, Landes, França",
+      "event": "nascimento",
+      "date": "1875-08-04",
+      "person": "Bertrand Dominique Guicheney",
+      "parents": "Jean Guicheney e Marie Datchary",
+      "basis": "boletim de nascimento e certidão judicial"
+    },
+    {
+      "place": "Port-de-Lanne, Landes, França",
+      "event": "casamento",
+      "date": "1901-04-09",
+      "people": [
+        "Bertrand Dominique Guicheney",
+        "Constance Laulhé"
+      ],
+      "basis": "data alegada pela árvore; original ainda necessário"
+    }
+  ],
+  "access_note": "Tentativa de reabrir URLs pelo mecanismo web retornou erro. Leitura efetiva foi das reproduções locais preservadas; nenhuma nova peça foi descoberta.",
+  "no_site_files_modified": true
+}

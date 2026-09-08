@@ -1,0 +1,1041 @@
+{
+  "schema_version": "1.0",
+  "title": "Salto, matrimônios: imagens preservadas durante a consulta de 1888",
+  "created_utc": "2026-09-07T01:42:06.105193+00:00",
+  "archive_filename": "consulta_salto1888.zip",
+  "scope": {
+    "package_type": "Seleção de imagens consultadas e de contexto; não livro inteiro",
+    "image_count": 57,
+    "image_numbers": [
+      2196,
+      2260,
+      2263,
+      2264,
+      2265,
+      2266,
+      2267,
+      2268,
+      2269,
+      2270,
+      2271,
+      2272,
+      2273,
+      2274,
+      2275,
+      2276,
+      2277,
+      2278,
+      2279,
+      2280,
+      2281,
+      2282,
+      2283,
+      2284,
+      2285,
+      2286,
+      2287,
+      2288,
+      2289,
+      2290,
+      2291,
+      2292,
+      2293,
+      2294,
+      2295,
+      2296,
+      2297,
+      2298,
+      2299,
+      2300,
+      2301,
+      2302,
+      2303,
+      2304,
+      2305,
+      2306,
+      2307,
+      2308,
+      2309,
+      2310,
+      2311,
+      2312,
+      2313,
+      2314,
+      2315,
+      2316,
+      2317
+    ],
+    "selected_ranges": [
+      "2196",
+      "2260",
+      "2263–2317"
+    ],
+    "total_jpeg_bytes": 38518968,
+    "completeness_statement": "A integridade aqui verificada é a dos 57 arquivos enumerados, não a completude do livro, do filme, do catálogo ou dos registros de Salto. Há imagens de contexto anteriores e posteriores ao trecho de 1888.",
+    "excluded": [
+      "PDFs derivados",
+      "transcrições",
+      "cadernos de leitura",
+      "demais arquivos da pasta"
+    ]
+  },
+  "source": {
+    "provider": "FamilySearch",
+    "catalog_id": "704612",
+    "film_number": "1935727",
+    "item_number": 12,
+    "dgs_number": "008165701",
+    "access_mode": "Consulta autenticada ao FamilySearch, conforme o registro da pesquisa nesta sessão.",
+    "known_reference_urls": [
+      {
+        "role": "Referência da consulta aos atos fornecida durante a pesquisa; não atribuída artificialmente a todas as imagens.",
+        "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2W-G9ZX-C?cat=704612&view=explore&lang=pt&groupId=M98P-3VL"
+      },
+      {
+        "role": "Capa do ano 1888, imagem 2265.",
+        "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2W-G9Z6-B?cat=704612&view=explore&lang=pt&groupId=M98P-3VL"
+      }
+    ],
+    "url_policy": "Quando não se preservou uma URL própria, individual_url é null. O localizador de cada JPEG é catálogo/filme/item/DGS/número da imagem; nenhuma URL individual foi inventada.",
+    "geographic_label_discrepancy": {
+      "reported_catalog_label": "Rocha",
+      "reported_issue": "O rótulo Rocha observado durante a consulta é inadequado para estas imagens.",
+      "image_evidence": [
+        {
+          "filename": "008165701_02196_capa.jpg",
+          "reading": "Departamento de Salto; actas de matrimonios, sección 1."
+        },
+        {
+          "filename": "008165701_02265.jpg",
+          "reading": "Juzgado de Paz de la 1ª sección; Departamento de Salto; ano 1888."
+        }
+      ],
+      "resolution": "A identificação geográfica deste pacote segue as cartelas, capas e atos que nomeiam Salto. A discordância do rótulo do catálogo fica registrada, sem renomear os originais ou extrapolar para todo o catálogo."
+    }
+  },
+  "preservation": {
+    "method": "Empacotamento dos bytes dos JPEGs locais preservados após o download, sem recorte, retoque, OCR ou nova compressão de imagem.",
+    "download_staging_note": "Downloads foi utilizado como área temporária de recebimento durante a consulta, conforme o histórico da pesquisa. Este manifesto identifica as cópias locais agora preservadas; não inventaria nem presume o estado atual de todos os arquivos temporários.",
+    "research_context": "As páginas completas incluem atos de terceiros sem parentesco demonstrado. Sua presença documenta a busca no acervo bruto; não os transforma em personagens ou membros da família.",
+    "manifest_in_archive": "manifesto.json, idêntico em bytes à cópia externa.",
+    "integrity_algorithm": "SHA-256 por JPEG, mais verificação de CRC e leitura de todos os membros do ZIP após sua criação."
+  },
+  "files": [
+    {
+      "filename": "008165701_02196_capa.jpg",
+      "image_number": 2196,
+      "bytes": 1399784,
+      "sha256": "04012b52db3cd141b06f0a45121716bd181aa0c8b184fbc7e2af46addbc63a26",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2196
+      },
+      "individual_url": null,
+      "description": "Cartela de microfilmagem: Departamento de Salto; actas de matrimonios, sección 1; volumen 12."
+    },
+    {
+      "filename": "008165701_02260.jpg",
+      "image_number": 2260,
+      "bytes": 801324,
+      "sha256": "12b763a17e42061652adff6d3a9a9d2b857f02b78133689fef38e4839c654aa0",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2260
+      },
+      "individual_url": null,
+      "description": "Página de atos de dezembro de 1887, preservada como contexto da busca."
+    },
+    {
+      "filename": "008165701_02263.jpg",
+      "image_number": 2263,
+      "bytes": 764809,
+      "sha256": "671477e6f62839f90aa0f263c7e458333b1c9e14ac2cd95e33e33faa0269421d",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2263
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02264.jpg",
+      "image_number": 2264,
+      "bytes": 498868,
+      "sha256": "01e039d28edca97d4f4452999d8ca80817f1b6172c6017c40fcdc9d5b83c6bea",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2264
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02265.jpg",
+      "image_number": 2265,
+      "bytes": 663020,
+      "sha256": "b4efdb6d4c30dbf5170d6d0cdaa06fa6a745d07ebddd18c017df033e137198b9",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2265
+      },
+      "individual_url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2W-G9Z6-B?cat=704612&view=explore&lang=pt&groupId=M98P-3VL",
+      "description": "Capa: Juzgado de Paz de la 1ª sección, Departamento de Salto; actas de matrimonios, ano 1888, tomo 2."
+    },
+    {
+      "filename": "008165701_02266.jpg",
+      "image_number": 2266,
+      "bytes": 655646,
+      "sha256": "c1bec6088c4a7c7af6df26a3b5a1e788df5bcc2ed27484218a221e9a96e29808",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2266
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02267.jpg",
+      "image_number": 2267,
+      "bytes": 725552,
+      "sha256": "6a3cf1dbce9cbff772043f35ac142b306764b9d1e1f47849220a0f9ec6b6983f",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2267
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02268.jpg",
+      "image_number": 2268,
+      "bytes": 756291,
+      "sha256": "261631c79458ee11093dfb3da7056acad0751ab14a6a97c9162fefa347d63c5f",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2268
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02269.jpg",
+      "image_number": 2269,
+      "bytes": 708021,
+      "sha256": "936488ce1ca8355c62c04f9789c4f7af2e1b4500ec5e6334a685c94806043185",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2269
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02270.jpg",
+      "image_number": 2270,
+      "bytes": 661392,
+      "sha256": "b102de3a8c21503aca9e39485080b09a128d62c1b08200e87b2c3a8f0fe3964b",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2270
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02271.jpg",
+      "image_number": 2271,
+      "bytes": 690565,
+      "sha256": "7144b7c64d73ab7ceb5f2f67ffedd35899c78a2b2d62da8ffabc9fb4d00c0de0",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2271
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02272.jpg",
+      "image_number": 2272,
+      "bytes": 684140,
+      "sha256": "f67b0841b48539f7d1acc622f062d118552fd1bd6c3d43e227239104b4c543ad",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2272
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02273.jpg",
+      "image_number": 2273,
+      "bytes": 666381,
+      "sha256": "ac2a03476446744f9b7a871edc66a1e0330723ead62c6069de56b662d7f167a4",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2273
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02274.jpg",
+      "image_number": 2274,
+      "bytes": 625876,
+      "sha256": "dca678aa1a830df82ea500729fc75eee271bb532455bca7cccba8089b2baa3d4",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2274
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02275.jpg",
+      "image_number": 2275,
+      "bytes": 641589,
+      "sha256": "a37dfe600f9f0261f90fc76c5bdcbd94a22cac87f82aed6f42c6335d53436ae0",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2275
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02276.jpg",
+      "image_number": 2276,
+      "bytes": 709955,
+      "sha256": "57c296de30164450839df249e7098ae9971350d63727f21d5eecfc14776e4765",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2276
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02277.jpg",
+      "image_number": 2277,
+      "bytes": 648287,
+      "sha256": "cec97f87caf03fc9fa9dbc7a4ddaa6aaceeee78e5e7996e7533f44a9ba95d956",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2277
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02278.jpg",
+      "image_number": 2278,
+      "bytes": 642830,
+      "sha256": "d2c7983104c53aa442dfb2ae431d6814df6fe7a04ee82934881c1d0fe84aa5cd",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2278
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02279.jpg",
+      "image_number": 2279,
+      "bytes": 618888,
+      "sha256": "9d6e57f5fe6e9c3ecb204f7a5c80ab667329e00a59e58bc2cc149f55ec0c6383",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2279
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02280.jpg",
+      "image_number": 2280,
+      "bytes": 667621,
+      "sha256": "57c460802574dce7ab27c0d5ca57ae2eb53796ce3ecc542307d6604d36ceeda2",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2280
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02281.jpg",
+      "image_number": 2281,
+      "bytes": 619457,
+      "sha256": "84416bce9b7d07c2a8d9c09c13e01d466532b968081e6ad62b68e1f45d1c45ba",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2281
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02282.jpg",
+      "image_number": 2282,
+      "bytes": 666807,
+      "sha256": "3e452be8a4214086668384ad85c2114a61832ff93759f5577263fd0f2dfbca71",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2282
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02283.jpg",
+      "image_number": 2283,
+      "bytes": 617500,
+      "sha256": "0b9bb22c103597417f18502c0f034cdb52e8885564c67c8e057a9d5399e96796",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2283
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02284.jpg",
+      "image_number": 2284,
+      "bytes": 668536,
+      "sha256": "24da7538a5132cf56c7323d6a8de7efdcb352af3500d37e1b427d786672e8343",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2284
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02285.jpg",
+      "image_number": 2285,
+      "bytes": 677758,
+      "sha256": "10661353ef5a11f999db4fcf11b972a2dfea8597e7547a6010d06304d04ba07f",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2285
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02286.jpg",
+      "image_number": 2286,
+      "bytes": 643620,
+      "sha256": "08e479a820e4fea51330196c63e2af15f8e56dd0d4297d78bec6e9523d823a95",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2286
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02287.jpg",
+      "image_number": 2287,
+      "bytes": 641667,
+      "sha256": "15e20001a6b06524426622ecd4bd5586e078cf9dbb284d1e260aed9366550347",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2287
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02288.jpg",
+      "image_number": 2288,
+      "bytes": 616588,
+      "sha256": "58cccdbba8944813fcb48c8607e1990f5825f59e64796863d0f38551b81e484f",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2288
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02289.jpg",
+      "image_number": 2289,
+      "bytes": 618728,
+      "sha256": "73c15f456305aa4a0ec44b158530207de1ee56d620b8b25d194baad6788e4899",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2289
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02290.jpg",
+      "image_number": 2290,
+      "bytes": 654040,
+      "sha256": "463a1ae655c6cf707d228425c1d8bf5919ff64532e625fbea0fdc65b2e1d5ffe",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2290
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02291.jpg",
+      "image_number": 2291,
+      "bytes": 589401,
+      "sha256": "64aa1c7d38cc4b0f52c7befba1854a54d5b9ef94b0070070e45be457676bc7db",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2291
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02292.jpg",
+      "image_number": 2292,
+      "bytes": 615201,
+      "sha256": "8eebfb36ed581cf7279d2f08286229f02841e8c037e831a297fb6442baae251b",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2292
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02293.jpg",
+      "image_number": 2293,
+      "bytes": 621400,
+      "sha256": "c0f145825456dda427d2249eeb46ae5a3259f36c777a57163b5ce1414f0c5703",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2293
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02294.jpg",
+      "image_number": 2294,
+      "bytes": 616021,
+      "sha256": "99959f672ace3e9b33f3dd2e4ba936ed98c07777664f5c799bfd56d3f3c656a0",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2294
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02295.jpg",
+      "image_number": 2295,
+      "bytes": 627869,
+      "sha256": "e134931123aae4e7f5ab2937009283333801a38b584f1cf89d06a2283eb2baae",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2295
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02296.jpg",
+      "image_number": 2296,
+      "bytes": 567541,
+      "sha256": "f1cc5a40dd15dd9d0d81180fa1c185f814e1e1010ce203fa6bf04c09b26259ed",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2296
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02297.jpg",
+      "image_number": 2297,
+      "bytes": 618871,
+      "sha256": "266f49a10edb67ea8e1b35a9920925cad8cf053cd96199401d06dcf013ea3b95",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2297
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02298.jpg",
+      "image_number": 2298,
+      "bytes": 625770,
+      "sha256": "a5efa93410f2bd304e6d8587c8f3e6ab9c4863af5f118a6804ea1c3cfe1fed24",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2298
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02299.jpg",
+      "image_number": 2299,
+      "bytes": 630896,
+      "sha256": "bb71c279455ff45c6159ff14e9ab12167a93b3b3f0715af9d1a13939f62fbc61",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2299
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02300.jpg",
+      "image_number": 2300,
+      "bytes": 620016,
+      "sha256": "54a43984bad1b13b19bfcd0f775633c6fe392bda8fe3851649b6a5a235fa1e15",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2300
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02301.jpg",
+      "image_number": 2301,
+      "bytes": 660460,
+      "sha256": "30ab7dacd4b8ed3dc4e003889c675340973a0efad7534c58af827199d911a5c5",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2301
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02302.jpg",
+      "image_number": 2302,
+      "bytes": 684795,
+      "sha256": "1be903817469b7cac0364842df6405944f46ae479c5a0d200e3f6ef6e8e7573f",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2302
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02303.jpg",
+      "image_number": 2303,
+      "bytes": 632752,
+      "sha256": "9ecb77771ab9950b1586b959e2f4d3d7a6a1d060901330872b33a6701cb40251",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2303
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02304.jpg",
+      "image_number": 2304,
+      "bytes": 664301,
+      "sha256": "74c7c3fa5950a97a9771d4184148eb34175a71cea9df28fe1f42ea0e6cf5423b",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2304
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02305.jpg",
+      "image_number": 2305,
+      "bytes": 664369,
+      "sha256": "43e351c9b9a1c1ce5e27819854a6442f5353a155bb114d0b02bec118ce3e6b5a",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2305
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02306.jpg",
+      "image_number": 2306,
+      "bytes": 626209,
+      "sha256": "783693821227bfc9b777aeb3638b7758574b4fa1843806f7fc59e5eee23a0a34",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2306
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02307.jpg",
+      "image_number": 2307,
+      "bytes": 629833,
+      "sha256": "2b00bbe246ae951655412f342dbf968b680c9d0426ba80d547ee7749016fe2e6",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2307
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02308.jpg",
+      "image_number": 2308,
+      "bytes": 641978,
+      "sha256": "42a471a8963fca706a4b89fdfd1fbfc1f55605104b9c63d5e0b5364116d4a49e",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2308
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02309.jpg",
+      "image_number": 2309,
+      "bytes": 594442,
+      "sha256": "9246fc22a904efae53b1476af3f3fb38257e7e57cf4298913ea1c1fd236f97b1",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2309
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02310.jpg",
+      "image_number": 2310,
+      "bytes": 620204,
+      "sha256": "60e79b099be626fbf05b505d9dcec94062a37b06c0b272bcbc522142846ec861",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2310
+      },
+      "individual_url": null,
+      "description": "Página esquerda: ato 86 de 15/12/1888, Víctor Juan Guicheney e Luisa Ferreira; página direita: ato 87."
+    },
+    {
+      "filename": "008165701_02311.jpg",
+      "image_number": 2311,
+      "bytes": 584827,
+      "sha256": "63cdd075a6718725a1d2b672a89ef58338c25293652a6547daf528fb668ef7bb",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2311
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02312.jpg",
+      "image_number": 2312,
+      "bytes": 512307,
+      "sha256": "83d50b152bb0f89b89834c46045c90a7bbfb7ee0fa355405bc3ec0aa9a923cab",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2312
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02313.jpg",
+      "image_number": 2313,
+      "bytes": 1691749,
+      "sha256": "6cc8ce3ec113e0ff0a7a821195f8fd04f6ef6fbfdd520750af4904635c241e9e",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2313
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02314.jpg",
+      "image_number": 2314,
+      "bytes": 468876,
+      "sha256": "a2f3a5b9e7fd40680255929339bf6afac28a3f835db0cc01b108616859a90b30",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2314
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02315.jpg",
+      "image_number": 2315,
+      "bytes": 593040,
+      "sha256": "b598935a95876687314d0cb6a0b1bd85def538df383a6ccdb0bb33b633a97518",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2315
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02316.jpg",
+      "image_number": 2316,
+      "bytes": 717881,
+      "sha256": "641ce4bb6b6c3b6470651bff153c4480ea48bb57ea9d7bd08ea7b3b7b9b54acc",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2316
+      },
+      "individual_url": null
+    },
+    {
+      "filename": "008165701_02317.jpg",
+      "image_number": 2317,
+      "bytes": 742419,
+      "sha256": "87759104d83617f10c131e660aee93b2f005ac39383cec02d534ede09d4cb467",
+      "media_type": "image/jpeg",
+      "source_locator": {
+        "provider": "FamilySearch",
+        "catalog_id": "704612",
+        "film_number": "1935727",
+        "item_number": 12,
+        "dgs_number": "008165701",
+        "image_number": 2317
+      },
+      "individual_url": null
+    }
+  ]
+}

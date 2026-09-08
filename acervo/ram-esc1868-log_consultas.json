@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-07",
+  "queries": [
+    {
+      "id": "Q01",
+      "mode": "indice",
+      "query": "DGS 4005639, Dionisia exato",
+      "resultCountDisplayed": 1,
+      "url": "https://www.familysearch.org/pt/search/record/results?count=20&q.filmNumber=4005639&q.givenName=Dionisia&q.givenName.exact=on",
+      "readScope": "linha do único resultado",
+      "result": "Dionisia Cáceres, mãe de noivo; nenhuma ligação com Pedro identificada no índice.",
+      "recordIndex": "https://www.familysearch.org/ark:/61903/1:1:6BLB-9FQT",
+      "originalRead": false
+    },
+    {
+      "id": "Q02",
+      "mode": "indice",
+      "query": "DGS 4005639, Dioni* exato",
+      "resultCountDisplayed": 17,
+      "url": "https://www.familysearch.org/pt/search/record/results?count=20&q.filmNumber=4005639&q.givenName=Dioni%2A&q.givenName.exact=on",
+      "readScope": "17 linhas de resultados, não 17 originais",
+      "result": "Nomes masculinos e mulheres Dionisia Cáceres, Dionizia de Oliveira e Dionizia Francisca Ma-1 no índice. Nenhuma ligação Pedro/López identificada nesse recorte.",
+      "originalRead": false
+    },
+    {
+      "id": "Q03",
+      "mode": "indice_e_texto_automatico",
+      "query": "DGS 4005636, Dioni* exato",
+      "resultCountDisplayed": 2,
+      "url": "https://www.familysearch.org/pt/search/record/results?count=20&q.filmNumber=4005636&q.givenName=Dioni%2A&q.givenName.exact=on",
+      "readScope": "duas linhas; leitura do texto automático de uma imagem",
+      "result": "Dionizio Martin e Dionisio Bigia D’Entre Rio no índice. O segundo é um padrinho masculino no batismo de Antonia, em 10/07/1847; não Dionísia Lopes.",
+      "originalUrlOpened": "https://www.familysearch.org/ark:/61903/3:1:939N-YQ99-MD",
+      "paleographicReadingCompleted": false,
+      "warning": "O título do item indicava batismos 1864, mas o texto deste ato indica 1847; não usar título como data de cada ato."
+    },
+    {
+      "id": "Q04",
+      "mode": "indice",
+      "query": "Dionisia exato; Lopez; sobrenome de cônjuge Guich*",
+      "resultCountDisplayed": 2,
+      "url": "https://www.familysearch.org/pt/search/record/results?count=20&q.givenName=Dionisia&q.givenName.exact=on&q.spouseSurname=Guich%2A&q.surname=Lopez",
+      "readScope": "duas linhas de resultados",
+      "result": "Somente casamento civil 1912 e óbito de Víctor 1943, já conhecidos como D08/O07; não houve novo registro próprio."
+    },
+    {
+      "id": "Q05",
+      "mode": "indice",
+      "query": "Dioni* exato; sobrenome de cônjuge Guich*; sem sobrenome da pessoa",
+      "resultCountDisplayed": 31,
+      "url": "https://www.familysearch.org/pt/search/record/results?count=100&q.givenName=Dioni%2A&q.givenName.exact=on&q.spouseSurname=Guich%2A",
+      "readScope": "31 linhas de resultados",
+      "result": "Nenhum outro filho do casal identificado; os dois registros de Víctor continuam os únicos reconhecidos como pertencentes à família."
+    },
+    {
+      "id": "Q06",
+      "mode": "indice",
+      "query": "Dioni* exato; Lopez exato; nascimento 1800–1853 exato; Entre Ríos Argentina exato",
+      "resultCountDisplayed": 8,
+      "url": "https://www.familysearch.org/pt/search/record/results?count=100&q.birthLikeDate.exact=on&q.birthLikeDate.from=1800&q.birthLikeDate.to=1853&q.birthLikePlace=Entre%20R%C3%ADos%2C%20Argentina&q.birthLikePlace.exact=on&q.givenName=Dioni%2A&q.givenName.exact=on&q.surname=Lopez&q.surname.exact=on",
+      "readScope": "oito linhas; original do batismo de Dionisia 1852; detalhe do índice de Victoria1869; perfil G5B6-B57",
+      "result": "Quatro entradas femininas separadas e quatro masculinas. Uma nova fonte original nomeia Mauricia como mãe da candidata de Concordia, sem identificação com a ancestral.",
+      "warning": "Recorte operacional e origem provincial usados para testar a pista familiar, não para afirmar local ou intervalo de nascimento."
+    },
+    {
+      "id": "Q07",
+      "mode": "texto_completo",
+      "query": "\"Dionisia\" \"Guicheney\"",
+      "resultCountDisplayed": 739511,
+      "url": "https://www.familysearch.org/pt/search/full-text/results?q.text=%22Dionisia%22%20%22Guicheney%22",
+      "readScope": "primeira página de resultados; seleção de um título de Uruguaiana; três imagens do ato visualmente conferidas",
+      "result": "Escritura Ramon Guicheney/Martha de 1868. A busca devolve documentos com apenas um termo; não prova coocorrência Dionisia/Guicheney.",
+      "followUpUnopenedUrls": [
+        "https://www.familysearch.org/ark:/61903/3:1:33S7-81RX-WTM",
+        "https://www.familysearch.org/ark:/61903/3:1:939D-VQQB-L"
+      ],
+      "warning": "Nenhuma conclusão negativa sobre o conjunto de 739.511 resultados; somente o ato selecionado foi lido integralmente."
+    },
+    {
+      "id": "Q08",
+      "mode": "web_publica",
+      "queries": [
+        "\"Dionisia Lopez\" \"Guicheney\"",
+        "\"Dionisia\" \"Pedro\" \"Guichinay\"",
+        "\"Dionisia Lopes\" \"Uruguaiana\"",
+        "\"Dionisia\" \"Palmeron\""
+      ],
+      "result": "Nenhuma nova evidência identitária pertinente recuperada nesta consulta; não equivale a ausência de registros na internet."
+    }
+  ],
+  "cautions": [
+    "Consulta nominal parcial não é varredura integral dos livros.",
+    "Os filtros efetivos foram conferidos na URL: limpar um campo de formulário nem sempre removeu o parâmetro antigo. Consultas com parâmetro residual não são contadas como buscas independentes.",
+    "Texto automático apenas localizado não é leitura visual do original.",
+    "Nenhum familiar contatado; nenhum registro ou árvore alterado."
+  ]
+}

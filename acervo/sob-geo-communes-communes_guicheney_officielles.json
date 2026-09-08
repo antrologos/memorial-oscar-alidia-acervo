@@ -1,0 +1,222 @@
+{
+  "source_id": "SOB-GEO-COMMUNES",
+  "documentation_url": "https://geo.api.gouv.fr/decoupage-administratif/communes",
+  "coordinate_order": "longitude, latitude",
+  "geometry": "centres des communes; limites administratives actuelles",
+  "places": [
+    {
+      "nom": "Guichen",
+      "code": "35126",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          -1.7969,
+          47.9623
+        ]
+      },
+      "_score": 1,
+      "departement": {
+        "code": "35",
+        "nom": "Ille-et-Vilaine"
+      },
+      "region": {
+        "code": "53",
+        "nom": "Bretagne"
+      },
+      "url": "https://geo.api.gouv.fr/communes?nom=Guichen&fields=nom%2Ccode%2Cdepartement%2Cregion%2Ccentre&format=json",
+      "local_filename": "geo_api_guichen.json",
+      "sha256": "2bf6fca567db27824ec6d89a7bdfd179bc413a94297b9312d857c9bf6880467b"
+    },
+    {
+      "nom": "Guiche",
+      "code": "64250",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          -1.2119,
+          43.5126
+        ]
+      },
+      "_score": 0.7182152985788214,
+      "departement": {
+        "code": "64",
+        "nom": "Pyrénées-Atlantiques"
+      },
+      "region": {
+        "code": "75",
+        "nom": "Nouvelle-Aquitaine"
+      },
+      "url": "https://geo.api.gouv.fr/communes?nom=Guiche&fields=nom%2Ccode%2Cdepartement%2Cregion%2Ccentre&format=json",
+      "local_filename": "geo_api_guiche.json",
+      "sha256": "9d3ff41cf50be73c1c5b489d0503acac40757db03f76d545cf5f4ab37ab15d9c"
+    },
+    {
+      "nom": "Arsague",
+      "code": "40011",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          -0.789,
+          43.581
+        ]
+      },
+      "_score": 1,
+      "departement": {
+        "code": "40",
+        "nom": "Landes"
+      },
+      "region": {
+        "code": "75",
+        "nom": "Nouvelle-Aquitaine"
+      },
+      "url": "https://geo.api.gouv.fr/communes?nom=Arsague&fields=nom%2Ccode%2Cdepartement%2Cregion%2Ccentre&format=json",
+      "local_filename": "geo_api_arsague.json",
+      "sha256": "4d8e0d116fee03586369e9249827bd934082f7beb53be98574d1a6853eafab2d"
+    },
+    {
+      "nom": "Amou",
+      "code": "40002",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          -0.7464,
+          43.5891
+        ]
+      },
+      "_score": 0.6664133052059991,
+      "departement": {
+        "code": "40",
+        "nom": "Landes"
+      },
+      "region": {
+        "code": "75",
+        "nom": "Nouvelle-Aquitaine"
+      },
+      "url": "https://geo.api.gouv.fr/communes?nom=Amou&fields=nom%2Ccode%2Cdepartement%2Cregion%2Ccentre&format=json",
+      "local_filename": "geo_api_amou.json",
+      "sha256": "b0f387b257849cd66cf9a97e953d4939442bac76b5be09dcf17eb048f5f7f413"
+    },
+    {
+      "nom": "Port-de-Lanne",
+      "code": "40231",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          -1.1857,
+          43.5758
+        ]
+      },
+      "_score": 0.13674407486045287,
+      "departement": {
+        "code": "40",
+        "nom": "Landes"
+      },
+      "region": {
+        "code": "75",
+        "nom": "Nouvelle-Aquitaine"
+      },
+      "url": "https://geo.api.gouv.fr/communes?nom=Port-de-Lanne&fields=nom%2Ccode%2Cdepartement%2Cregion%2Ccentre&format=json",
+      "local_filename": "geo_api_port-de-lanne.json",
+      "sha256": "c4f0d2e43983c7656ffa5b1ad824fd324514983a9ed06c66a4c4cda91741c6f1"
+    },
+    {
+      "nom": "Capbreton",
+      "code": "40065",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          -1.4289,
+          43.6311
+        ]
+      },
+      "_score": 1,
+      "departement": {
+        "code": "40",
+        "nom": "Landes"
+      },
+      "region": {
+        "code": "75",
+        "nom": "Nouvelle-Aquitaine"
+      },
+      "url": "https://geo.api.gouv.fr/communes?nom=Capbreton&fields=nom%2Ccode%2Cdepartement%2Cregion%2Ccentre&format=json",
+      "local_filename": "geo_api_capbreton.json",
+      "sha256": "096a551d733dfb24d04744fbb7460e4dace916d85d1807bb9b102a23625b2f05"
+    },
+    {
+      "nom": "Bayonne",
+      "code": "64102",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          -1.4611,
+          43.4844
+        ]
+      },
+      "_score": 1,
+      "departement": {
+        "code": "64",
+        "nom": "Pyrénées-Atlantiques"
+      },
+      "region": {
+        "code": "75",
+        "nom": "Nouvelle-Aquitaine"
+      },
+      "url": "https://geo.api.gouv.fr/communes?nom=Bayonne&fields=nom%2Ccode%2Cdepartement%2Cregion%2Ccentre&format=json",
+      "local_filename": "geo_api_bayonne.json",
+      "sha256": "cea71d073939f9e079dc20bbade1d145c11bd2cbb7b404b3a4cd338b54326f47"
+    },
+    {
+      "nom": "Soustons",
+      "code": "40310",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          -1.3305,
+          43.754
+        ]
+      },
+      "_score": 1,
+      "departement": {
+        "code": "40",
+        "nom": "Landes"
+      },
+      "region": {
+        "code": "75",
+        "nom": "Nouvelle-Aquitaine"
+      }
+    }
+  ],
+  "calculated_distances": [
+    {
+      "from": "Guichen",
+      "to": "Guiche",
+      "km": 496.9
+    },
+    {
+      "from": "Guiche",
+      "to": "Port-de-Lanne",
+      "km": 7.3
+    },
+    {
+      "from": "Port-de-Lanne",
+      "to": "Bayonne",
+      "km": 24.4
+    },
+    {
+      "from": "Arsague",
+      "to": "Amou",
+      "km": 3.5
+    },
+    {
+      "from": "Arsague",
+      "to": "Port-de-Lanne",
+      "km": 32.0
+    },
+    {
+      "from": "Capbreton",
+      "to": "Port-de-Lanne",
+      "km": 20.5
+    }
+  ],
+  "distance_note": "Distâncias calculadas em linha reta (haversine, raio terrestre médio 6371,0088 km) entre centros municipais. Não são trajetos, fronteiras históricas, endereços ou prova de deslocamento."
+}

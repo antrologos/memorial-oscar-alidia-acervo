@@ -1,0 +1,97 @@
+{
+  "created_at": "2026-09-07",
+  "source_provenance": "catalogo_e_controles.md",
+  "original_target": "victor_batismo_1867_dgs4005637_item2_img41.jpg",
+  "files": [
+    {
+      "file": "catalogo_e_controles.md",
+      "bytes": 3790,
+      "sha256": "099daea0d979d0e1403a45028d7c01a34c0d96d565285d007d594f9fc51386f8"
+    },
+    {
+      "file": "controle_item1_img113_1866-11.pdf",
+      "bytes": 542472,
+      "sha256": "c318329ef14287d8f719e8c458cf6d043fbd9055e662e600df614a185daab116"
+    },
+    {
+      "file": "controle_item1_img48_1865-04.pdf",
+      "bytes": 571587,
+      "sha256": "a559c1a49b2f532aba5e054028d4daac0e957fd989a1ef0404591ac7d027c22f"
+    },
+    {
+      "file": "controle_item1_img60_1865-11.pdf",
+      "bytes": 575890,
+      "sha256": "ba1e440403358bfc5e914e6b3c14b9dcff2e801dc5126094aaed7829aea549d2"
+    },
+    {
+      "file": "controle_item1_img61_1865-11.pdf",
+      "bytes": 584866,
+      "sha256": "09a1a1973dfae163564568b279cf5d7e6f7560bc5e8eaa15b075156242b1eb09"
+    },
+    {
+      "file": "controle_item1_img62_inserto.pdf",
+      "bytes": 517557,
+      "sha256": "eec9e8859291e722958dbfd57b768ca6a6c7a7bd3df04ab92dfe69866fb6122d"
+    },
+    {
+      "file": "controle_item1_img63_1865-12.pdf",
+      "bytes": 573434,
+      "sha256": "d6b82da2972e53542da575a877dd75f9dd7d8e902e23bbc2dfe67c798f1c315c"
+    },
+    {
+      "file": "controle_item1_inicio1864.jpg",
+      "bytes": 548531,
+      "sha256": "3e59284b56202224a10a2f5986dad9b4477e80dc5ae648ca955f75671c332a3e"
+    },
+    {
+      "file": "controle_item2_img3_abertura_livro6.jpg",
+      "bytes": 709104,
+      "sha256": "51733f524877951d8fda70a93e927a8535a2fdd7984dcc2d7c1a502649dcf135"
+    },
+    {
+      "file": "controle_livro6_abertura_recorte.png",
+      "bytes": 240319,
+      "sha256": "d5b8628b8290dafec77888f231b0eead4b38539e0240d0cf0517c03373636738"
+    },
+    {
+      "file": "controle_livro6_titulo_recorte.png",
+      "bytes": 198031,
+      "sha256": "a6d06affdabc0fd4119b2badf5931c3950786ef6ebacd9f066277893b28ef65c"
+    },
+    {
+      "file": "fonte_victor_batismo.json",
+      "bytes": 7108,
+      "sha256": "2c3ad29184940052a45191bbf3a23337b60b149ef56dc4004da9ce48d18f9d9d"
+    },
+    {
+      "file": "relatorio.md",
+      "bytes": 9183,
+      "sha256": "32403f826dddf383ad4b9ecbce374e347a51f3733588b3dc6451eb414b05a7b5"
+    },
+    {
+      "file": "victor_ato348_leitura.png",
+      "bytes": 244814,
+      "sha256": "8879ff48d15a05632934f30d1ced84ab124434d5f759a0d5174fdd7b5db9ad5c"
+    },
+    {
+      "file": "victor_batismo_1867_dgs4005637_item2_img41.jpg",
+      "bytes": 704506,
+      "sha256": "aa5e60fc8a32790f9be2f7bbaf5aa41e6b61d4650ac6bd7e200f9b7fb9237650"
+    },
+    {
+      "file": "victor_batismo_1867_foliacao_leitura.png",
+      "bytes": 53554,
+      "sha256": "4eade03b342d68ba3ad17261c0b81cb8c627b04756cf5211d37180c410afb3eb"
+    },
+    {
+      "file": "victor_batismo_1867_imagem_ocr_citacao_familysearch.pdf",
+      "bytes": 710751,
+      "sha256": "0a5ce089d6b2a984a609f5331c64737de429280b53aa98ef4975ad81360075e7"
+    },
+    {
+      "file": "victor_batismo_1867_recorte_leitura.png",
+      "bytes": 265994,
+      "sha256": "d14a8878458c09db26a8ae2512a260066ce37906a8801b013054f5b1f5491630"
+    }
+  ]
+}

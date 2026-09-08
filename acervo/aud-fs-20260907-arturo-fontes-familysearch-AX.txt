@@ -1,0 +1,2232 @@
+Browser tab: 81, Title: "Arturo Salgado Marquez (1867–1927) • Pessoa • Árvore familiar", URL: "https://www.familysearch.org/pt/tree/person/sources/L4MM-63J".
+0 AXWebArea Arturo Salgado Marquez (1867–1927) • Pessoa • Árvore familiar, URL: familysearch.org/pt/tree/person/sources…
+	1 container
+		2 container root
+			3 container app-content-scroller
+				4 link Description: IR PARA O CONTEÚDO PRINCIPAL, Value: familysearch.org/pt/tree/person/sources…
+				5 container
+					6 link Description: FamilySearch — Página Inicial, Value: familysearch.org/pt/home/portal/
+					13 link Description: Localizações, Value: familysearch.org/pt/locations/about
+					14 button Escolha o idioma
+					15 button Ajuda
+					40 button Chat
+					41 link Description: Novas notificações disponíveis, Value: familysearch.org/pt/notifications/
+					42 button Abrir menu
+				43 container main
+					44 container Menu secundário da árvore
+						45 content list
+							46 link Description: Árvore, Value: familysearch.org/pt/tree/pedigree
+							47 button Recentes
+							48 link Description: Encontrar, Value: familysearch.org/pt/search/tree
+							49 link Description: Seguindo, Value: familysearch.org/pt/tree/following
+							50 pop up button (collapsed) Mais, Secondary Actions: Expand
+							51 pop up button (collapsed) Description: O que há de novo, Secondary Actions: Expand
+					52 container skipToMainContent
+						53 button Atualizar o retrato para Arturo Salgado Marquez
+						54 heading Arturo Salgado Marquez 1867–1927 · L4MM-63J, Value: 1
+							55 container Arturo Salgado Marquez 1867–1927 · L4MM-63J
+								56 text Arturo Salgado Marquez
+								57 text Masculino 1867–1927 •
+								58 button L 4 M M 6 3 J, Selecione para copiar.
+						59 button Exibir o menu
+						60 container
+							61 text Índice de qualidade:
+							62 button Médio
+						63 container
+							64 link Description: VER ÁRVORE, Value: familysearch.org/pt/tree/pedigree/L4MM-…
+							65 button VER PARENTESCO
+							66 button Description: Para receber notificações sobre quaisquer alterações feitas a essa pessoa, clique em “Seguir” , Help: Para receber notificações sobre quaisquer alterações feitas a essa pessoa, clique em “Seguir”
+						67 container
+							68 button Role a tela para a direita
+							69 container
+								70 link Description: Sobre, Value: familysearch.org/pt/tree/person/about/L…, ID: tabs--2--tab--0
+								71 link Description: Dados vitais, Value: familysearch.org/pt/tree/person/vitals/…, ID: tabs--2--tab--1
+								72 link Description: Outro, Value: familysearch.org/pt/tree/person/non-vit…, ID: tabs--2--tab--2
+								73 link Description: Família, Value: familysearch.org/pt/tree/person/family/…, ID: tabs--2--tab--3
+								74 link Description: Fontes (54), Value: familysearch.org/pt/tree/person/sources…, ID: tabs--2--tab--4
+								75 link Description: Colaborar (0), Value: familysearch.org/pt/tree/person/collabo…, ID: tabs--2--tab--5
+								76 link Description: Recordações (0), Value: familysearch.org/pt/tree/person/memorie…, ID: tabs--2--tab--6
+								77 link Description: Linha do tempo, Value: familysearch.org/pt/tree/person/timelin…, ID: tabs--2--tab--7
+						78 container Description: Fontes (54), ID: tabs--2--panel--4
+						79 container
+							80 heading Description: Ocultar esta seção: Fontes, Value: 2
+								81 text Fontes  ( 54 )
+							82 switch Description: Visualização detalhada, Value: 1
+							83 pop up button (collapsed) + ACRESCENTAR FONTE, Secondary Actions: Expand
+							84 button OPÇÕES
+							85 text Data Título Criado
+							86 container 7K3C-FYC
+								87 button (expanded) 1879 Arturo M. Salgado, "Uruguay, registro civil, 1879-2020" 29 de maio de 2025 Mengo, Terrel O'neal, Secondary Actions: Collapse
+									88 button 1879 Arturo M. Salgado, "Uruguay, registro civil, 1879-2020" 29 de maio de 2025 Mengo, Terrel O'neal
+										89 button
+										90 text 1879
+										91 text Arturo M. Salgado, "Uruguay, registro civil, 1879-2020"
+										92 text 29 de maio de 2025
+										93 button Mengo, Terrel O'neal
+								576 container Fsf8xiv9aq2
+									577 button VISUALIZAR
+									578 button EDITAR
+									579 button ANALISAR ANEXOS
+									580 button DESANEXAR
+									581 heading Marcadores, Value: 3
+										582 text Marcadores
+									583 button Nascimento
+									584 button Sexo
+									585 button Nome
+									586 button Profissão
+									587 button + Acrescentar marcação
+									588 heading Data da fonte março de 1879, Value: 3
+										589 text Data da fonte
+										590 text março de 1879
+									591 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSX9-WB9Q, Value: 3
+										592 text Página do site (link para o registro)
+										593 link Description: https://familysearch.org/ark:/61903/1:1:XSX9-WB9Q, Value: familysearch.org/ark:/61903/1:1:XSX9-WB…
+									594 heading Onde o registro foi encontrado (referência) , Value: 3
+										595 text Onde o registro foi encontrado (referência)
+									596 container
+										597 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSX9-WB93 : Sat Dec 20 04:57:22 UTC 2025), Entry for Juan Gallegos and Arturo M. Salgado, marzo de 1879.
+									598 heading Informações indexadas, Value: 3
+										599 text Informações indexadas
+									600 button EXIBIR
+									601 heading Fonte modificada:, Value: 3
+										602 text Fonte modificada:
+									603 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									604 text 29 de maio de 2025
+									605 button Mengo, Terrel O'neal
+									606 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										607 text Motivo pela qual esta fonte está anexada:
+									608 button + ACRESCENTAR
+							94 container 76JX-L92
+								95 button (expanded) Secondary Actions: Collapse, 1879 Arturo N. Salgado, "Uruguay, registro civil, 1879-2020" 20 de fevereiro de 2025 Alicia Leguizamón de Casco registros
+									96 button 1879 Arturo N. Salgado, "Uruguay, registro civil, 1879-2020" 20 de fevereiro de 2025 Alicia Leguizamón de Casco registros
+										97 button
+										98 text 1879
+										99 text Arturo N. Salgado, "Uruguay, registro civil, 1879-2020"
+										100 text 20 de fevereiro de 2025
+										101 button Alicia Leguizamón de Casco registros
+								102 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								103 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/art…
+								104 button ANEXOS COM INDIVÍDUOS PENDENTES
+								105 button DISPENSAR
+								609 container wpjhbejrxqe
+									610 button VISUALIZAR
+									611 button EDITAR
+									612 button ANALISAR ANEXOS
+									613 button DESANEXAR
+									614 heading Marcadores, Value: 3
+										615 text Marcadores
+									616 button Nascimento
+									617 button Sexo
+									618 button Nome
+									619 button + Acrescentar marcação
+									620 heading Data da fonte agosto de 1879, Value: 3
+										621 text Data da fonte
+										622 text agosto de 1879
+									623 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSXS-DCQY, Value: 3
+										624 text Página do site (link para o registro)
+										625 link Description: https://familysearch.org/ark:/61903/1:1:XSXS-DCQY, Value: familysearch.org/ark:/61903/1:1:XSXS-DC…
+									626 heading Onde o registro foi encontrado (referência) , Value: 3
+										627 text Onde o registro foi encontrado (referência)
+									628 container
+										629 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSXS-DCQT : Sat Dec 20 03:30:53 UTC 2025), Entry for Manuel Salgado and Arturo N. Salgado, agosto de 1879.
+									630 heading Informações indexadas, Value: 3
+										631 text Informações indexadas
+									632 button EXIBIR
+									633 heading Fonte modificada:, Value: 3
+										634 text Fonte modificada:
+									635 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									636 text 20 de fevereiro de 2025
+									637 button Alicia Leguizamón de Casco registros
+									638 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										639 text Motivo pela qual esta fonte está anexada:
+									640 button + ACRESCENTAR
+							106 container 76JC-J89
+								107 button (expanded) 1879 Artural . Salgado, "Uruguay, registro civil, 1879-2020" 20 de fevereiro de 2025 treehelper_a321, Secondary Actions: Collapse
+									108 button 1879 Artural . Salgado, "Uruguay, registro civil, 1879-2020" 20 de fevereiro de 2025 treehelper_a321
+										109 button
+										110 text 1879
+										111 text Artural . Salgado, "Uruguay, registro civil, 1879-2020"
+										112 text 20 de fevereiro de 2025
+										113 button treehelper_a321
+								641 container l4fc5kvtiwsv
+									642 button VISUALIZAR
+									643 button EDITAR
+									644 button ANALISAR ANEXOS
+									645 button DESANEXAR
+									646 heading Marcadores, Value: 3
+										647 text Marcadores
+									648 button Nascimento
+									649 button Sexo
+									650 button Nome
+									651 button + Acrescentar marcação
+									652 heading Data da fonte outubro de 1879, Value: 3
+										653 text Data da fonte
+										654 text outubro de 1879
+									655 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSX9-P3HG, Value: 3
+										656 text Página do site (link para o registro)
+										657 link Description: https://familysearch.org/ark:/61903/1:1:XSX9-P3HG, Value: familysearch.org/ark:/61903/1:1:XSX9-P3…
+									658 heading Onde o registro foi encontrado (referência) , Value: 3
+										659 text Onde o registro foi encontrado (referência)
+									660 container
+										661 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSX9-P3HL : Sat Dec 20 09:04:22 UTC 2025), Entry for Luís Alberto Salgado and Artural . Salgado, octubre de 1879.
+									662 heading Informações indexadas, Value: 3
+										663 text Informações indexadas
+									664 button EXIBIR
+									665 heading Fonte modificada:, Value: 3
+										666 text Fonte modificada:
+									667 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									668 text 20 de fevereiro de 2025
+									669 button treehelper_a321
+									670 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										671 text Motivo pela qual esta fonte está anexada:
+									672 button + ACRESCENTAR
+							114 container 7VY5-DQX
+								115 button (expanded) Secondary Actions: Collapse, 1879 Arturo Márquez Salgado, "Uruguay, registro civil, 1879-2020" 26 de maio de 2025 Abraham Ernest Etukudoh
+									116 button 1879 Arturo Márquez Salgado, "Uruguay, registro civil, 1879-2020" 26 de maio de 2025 Abraham Ernest Etukudoh
+										117 button
+										118 text 1879
+										119 text Arturo Márquez Salgado, "Uruguay, registro civil, 1879-2020"
+										120 text 26 de maio de 2025
+										121 button Abraham Ernest Etukudoh
+								673 container U4sd8jhm1ops
+									674 button VISUALIZAR
+									675 button EDITAR
+									676 button ANALISAR ANEXOS
+									677 button DESANEXAR
+									678 heading Marcadores, Value: 3
+										679 text Marcadores
+									680 button Nascimento
+									681 button Sexo
+									682 button Nome
+									683 button Profissão
+									684 button + Acrescentar marcação
+									685 heading Data da fonte dezembro de 1879, Value: 3
+										686 text Data da fonte
+										687 text dezembro de 1879
+									688 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSXS-NLPG, Value: 3
+										689 text Página do site (link para o registro)
+										690 link Description: https://familysearch.org/ark:/61903/1:1:XSXS-NLPG, Value: familysearch.org/ark:/61903/1:1:XSXS-NL…
+									691 heading Onde o registro foi encontrado (referência) , Value: 3
+										692 text Onde o registro foi encontrado (referência)
+									693 container
+										694 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSXS-NLPL : Sat Dec 20 03:45:40 UTC 2025), Entry for René Salgado Acevedes and Arturo Márquez Salgado, diciembre de 1879.
+									695 heading Informações indexadas, Value: 3
+										696 text Informações indexadas
+									697 button EXIBIR
+									698 heading Fonte modificada:, Value: 3
+										699 text Fonte modificada:
+									700 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									701 text 26 de maio de 2025
+									702 button Abraham Ernest Etukudoh
+									703 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										704 text Motivo pela qual esta fonte está anexada:
+									705 button + ACRESCENTAR
+							122 container 7F1P-YJH
+								123 button (expanded) 1902 Arturo Márquez, "Uruguay, registros parroquiales, 1726-2000" 3 de abril de 2025 treehelper_a423, Secondary Actions: Collapse
+									124 button 1902 Arturo Márquez, "Uruguay, registros parroquiales, 1726-2000" 3 de abril de 2025 treehelper_a423
+										125 button
+										126 text 1902
+										127 text Arturo Márquez, "Uruguay, registros parroquiales, 1726-2000"
+										128 text 3 de abril de 2025
+										129 button treehelper_a423
+								130 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								131 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/art…
+								132 button ANEXOS COM INDIVÍDUOS PENDENTES
+								133 button DISPENSAR
+								706 container ay6va1np7mfr
+									707 button VISUALIZAR
+									708 button EDITAR
+									709 button ANALISAR ANEXOS
+									710 button DESANEXAR
+									711 heading Marcadores, Value: 3
+										712 text Marcadores
+									713 button Nascimento
+									714 button Sexo
+									715 button Nome
+									716 button + Acrescentar marcação
+									717 heading Data da fonte 15 de dezembro de 1902, Value: 3
+										718 text Data da fonte
+										719 text 15 de dezembro de 1902
+									720 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS6J-6K27, Value: 3
+										721 text Página do site (link para o registro)
+										722 link Description: https://familysearch.org/ark:/61903/1:1:XS6J-6K27, Value: familysearch.org/ark:/61903/1:1:XS6J-6K…
+									723 heading Onde o registro foi encontrado (referência) , Value: 3
+										724 text Onde o registro foi encontrado (referência)
+									725 container
+										726 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS6J-6K27 : Tue Dec 30 08:00:46 UTC 2025), Entry for Arturo Márquez and Manuel Márquez, 15 de diciembre de 1902.
+									727 heading Informações indexadas, Value: 3
+										728 text Informações indexadas
+									729 button EXIBIR
+									730 heading Fonte modificada:, Value: 3
+										731 text Fonte modificada:
+									732 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									733 text 3 de abril de 2025
+									734 button treehelper_a423
+									735 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										736 text Motivo pela qual esta fonte está anexada:
+									737 button + ACRESCENTAR
+							134 container 72KP-CKY
+								135 button (expanded) 1902 Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020" 27 de junho de 2025 Anibal Bonzi, Secondary Actions: Collapse
+									136 button 1902 Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020" 27 de junho de 2025 Anibal Bonzi
+										137 button
+										138 text 1902
+										139 text Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020"
+										140 text 27 de junho de 2025
+										141 button Anibal Bonzi
+								738 container U78kpmx9ikgx
+									739 button VISUALIZAR
+									740 button EDITAR
+									741 button ANALISAR ANEXOS
+									742 button DESANEXAR
+									743 heading Marcadores, Value: 3
+										744 text Marcadores
+									745 button Nascimento
+									746 button Nome
+									747 button + Acrescentar marcação
+									748 heading Data da fonte 15 de dezembro de 1902, Value: 3
+										749 text Data da fonte
+										750 text 15 de dezembro de 1902
+									751 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS13-1V76, Value: 3
+										752 text Página do site (link para o registro)
+										753 link Description: https://familysearch.org/ark:/61903/1:1:XS13-1V76, Value: familysearch.org/ark:/61903/1:1:XS13-1V…
+									754 heading Onde o registro foi encontrado (referência) , Value: 3
+										755 text Onde o registro foi encontrado (referência)
+									756 container
+										757 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS13-1V76 : Wed Mar 12 04:14:47 UTC 2025), Entry for Arturo Marquez Salgado and Manuel Salgado, 15 Dec 1902.
+									758 heading Informações indexadas, Value: 3
+										759 text Informações indexadas
+									760 button EXIBIR
+									761 heading Fonte modificada:, Value: 3
+										762 text Fonte modificada:
+									763 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									764 text 27 de junho de 2025
+									765 button Anibal Bonzi
+									766 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										767 text Motivo pela qual esta fonte está anexada:
+									768 button + ACRESCENTAR
+							142 container SQFC-28L
+								143 button (expanded) Secondary Actions: Collapse, 1903 Arturo M, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+									144 button 1903 Arturo M, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+										145 button
+										146 text 1903
+										147 text Arturo M, "Uruguay, Índice del Registro Civil, 1900-1937"
+										148 text 12 de janeiro de 2019
+										149 button Sergio AndresTortomano Claramunt
+								769 container Mb2uadfd9di
+									770 button VISUALIZAR
+									771 button EDITAR
+									772 button ANALISAR ANEXOS
+									773 button DESANEXAR
+									774 heading Marcadores, Value: 3
+										775 text Marcadores
+									776 button Sexo
+									777 button Nome
+									778 button + Acrescentar marcação
+									779 heading Data da fonte 1903, Value: 3
+										780 text Data da fonte
+										781 text 1903
+									782 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3F-YZ7P, Value: 3
+										783 text Página do site (link para o registro)
+										784 link Description: https://familysearch.org/ark:/61903/1:1:QG3F-YZ7P, Value: familysearch.org/ark:/61903/1:1:QG3F-YZ…
+									785 heading Onde o registro foi encontrado (referência) , Value: 3
+										786 text Onde o registro foi encontrado (referência)
+									787 container
+										788 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3F-YZ7K : Tue Sep 16 20:36:00 UTC 2025), Entry for Manuel Joaquín Salgado and Arturo M, 1903.
+									789 heading Informações indexadas, Value: 3
+										790 text Informações indexadas
+									791 button EXIBIR
+									792 heading Fonte modificada:, Value: 3
+										793 text Fonte modificada:
+									794 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									795 text 12 de janeiro de 2019
+									796 button Sergio AndresTortomano Claramunt
+									797 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										798 text Motivo pela qual esta fonte está anexada:
+									799 button + ACRESCENTAR
+							150 container SQFC-5DW
+								151 button (expanded) Secondary Actions: Collapse, 1904 Arturo Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+									152 button 1904 Arturo Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+										153 button
+										154 text 1904
+										155 text Arturo Salgado, "Uruguay, Índice del Registro Civil, 1900-1937"
+										156 text 12 de janeiro de 2019
+										157 button Sergio AndresTortomano Claramunt
+								800 container Kc2bksqtaiac
+									801 button VISUALIZAR
+									802 button EDITAR
+									803 button ANALISAR ANEXOS
+									804 button DESANEXAR
+									805 heading Marcadores, Value: 3
+										806 text Marcadores
+									807 button Sexo
+									808 button Nome
+									809 button + Acrescentar marcação
+									810 heading Data da fonte 1904, Value: 3
+										811 text Data da fonte
+										812 text 1904
+									813 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3F-4DVM, Value: 3
+										814 text Página do site (link para o registro)
+										815 link Description: https://familysearch.org/ark:/61903/1:1:QG3F-4DVM, Value: familysearch.org/ark:/61903/1:1:QG3F-4D…
+									816 heading Onde o registro foi encontrado (referência) , Value: 3
+										817 text Onde o registro foi encontrado (referência)
+									818 container
+										819 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3F-4DJT : Wed Sep 17 14:24:29 UTC 2025), Entry for Olga Maria Salgado Mendez and Arturo Salgado, 1904.
+									820 heading Informações indexadas, Value: 3
+										821 text Informações indexadas
+									822 button EXIBIR
+									823 heading Fonte modificada:, Value: 3
+										824 text Fonte modificada:
+									825 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									826 text 12 de janeiro de 2019
+									827 button Sergio AndresTortomano Claramunt
+									828 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										829 text Motivo pela qual esta fonte está anexada:
+									830 button + ACRESCENTAR
+							158 container 72KP-N2X
+								159 button (expanded) 1904 Arturo M Salgado, "Uruguay, registro civil, 1879-2020" 27 de junho de 2025 Anibal Bonzi, Secondary Actions: Collapse
+									160 button 1904 Arturo M Salgado, "Uruguay, registro civil, 1879-2020" 27 de junho de 2025 Anibal Bonzi
+										161 button
+										162 text 1904
+										163 text Arturo M Salgado, "Uruguay, registro civil, 1879-2020"
+										164 text 27 de junho de 2025
+										165 button Anibal Bonzi
+								831 container vro44ze5oq2f
+									832 button VISUALIZAR
+									833 button EDITAR
+									834 button ANALISAR ANEXOS
+									835 button DESANEXAR
+									836 heading Marcadores, Value: 3
+										837 text Marcadores
+									838 button Sexo
+									839 button Nome
+									840 button + Acrescentar marcação
+									841 heading Data da fonte 4 de agosto de 1904, Value: 3
+										842 text Data da fonte
+										843 text 4 de agosto de 1904
+									844 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:X3MY-ZLCN, Value: 3
+										845 text Página do site (link para o registro)
+										846 link Description: https://familysearch.org/ark:/61903/1:1:X3MY-ZLCN, Value: familysearch.org/ark:/61903/1:1:X3MY-ZL…
+									847 heading Onde o registro foi encontrado (referência) , Value: 3
+										848 text Onde o registro foi encontrado (referência)
+									849 container
+										850 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:X3MY-ZLCF : Wed Mar 12 06:50:25 UTC 2025), Entry for Olga Maria Salgado and Arturo M Salgado, 4 Aug 1904.
+									851 heading Informações indexadas, Value: 3
+										852 text Informações indexadas
+									853 button EXIBIR
+									854 heading Fonte modificada:, Value: 3
+										855 text Fonte modificada:
+									856 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									857 text 27 de junho de 2025
+									858 button Anibal Bonzi
+									859 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										860 text Motivo pela qual esta fonte está anexada:
+									861 button + ACRESCENTAR
+							166 container Q9BM-MZQ
+								167 button (expanded) Secondary Actions: Collapse, 1904 Arturo M. Salgado, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+									168 button 1904 Arturo M. Salgado, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+										169 button
+										170 text 1904
+										171 text Arturo M. Salgado, "Uruguay, registros parroquiales, 1726-2000"
+										172 text 30 de dezembro de 2022
+										173 button Rogério J Barbosa
+								174 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								175 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/art…
+								176 button ANEXOS COM INDIVÍDUOS PENDENTES
+								177 button DISPENSAR
+								862 container w98ps9sq58km
+									863 button VISUALIZAR
+									864 button EDITAR
+									865 button ANALISAR ANEXOS
+									866 button DESANEXAR
+									867 heading Marcadores, Value: 3
+										868 text Marcadores
+									869 button Sexo
+									870 button Nome
+									871 button + Acrescentar marcação
+									872 heading Data da fonte 30 de dezembro de 1904, Value: 3
+										873 text Data da fonte
+										874 text 30 de dezembro de 1904
+									875 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-KQCW, Value: 3
+										876 text Página do site (link para o registro)
+										877 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-KQCW, Value: familysearch.org/ark:/61903/1:1:6D3H-KQ…
+									878 heading Onde o registro foi encontrado (referência) , Value: 3
+										879 text Onde o registro foi encontrado (referência)
+									880 container
+										881 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-KQC7 : Sun Oct 19 09:51:36 UTC 2025), Entry for Manuel Joaquín and Juan Pérez, 30 de diciembre de 1904.
+									882 heading Informações indexadas, Value: 3
+										883 text Informações indexadas
+									884 button EXIBIR
+									885 heading Fonte modificada:, Value: 3
+										886 text Fonte modificada:
+									887 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									888 text 30 de dezembro de 2022
+									889 button Rogério J Barbosa
+									890 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										891 text Motivo pela qual esta fonte está anexada:
+									892 button + ACRESCENTAR
+							178 container 3L9Z-CF1
+								179 button (expanded) Secondary Actions: Collapse, 1904 Arturo M. Casibro Salgado, "Uruguay, registros parroquiales, 1726-2000" 8 de maio de 2022 JavierIttermann Oliveri
+									180 button 1904 Arturo M. Casibro Salgado, "Uruguay, registros parroquiales, 1726-2000" 8 de maio de 2022 JavierIttermann Oliveri
+										181 button
+										182 text 1904
+										183 text Arturo M. Casibro Salgado, "Uruguay, registros parroquiales, 1726-2000"
+										184 text 8 de maio de 2022
+										185 button JavierIttermann Oliveri
+								186 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								187 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/art…
+								188 button ANEXOS COM INDIVÍDUOS PENDENTES
+								189 button DISPENSAR
+								893 container lf9hhiao0dzo
+									894 button VISUALIZAR
+									895 button EDITAR
+									896 button ANALISAR ANEXOS
+									897 button DESANEXAR
+									898 heading Marcadores, Value: 3
+										899 text Marcadores
+									900 button Sexo
+									901 button Nome
+									902 button + Acrescentar marcação
+									903 heading Data da fonte 31 de dezembro de 1904, Value: 3
+										904 text Data da fonte
+										905 text 31 de dezembro de 1904
+									906 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-VQX7, Value: 3
+										907 text Página do site (link para o registro)
+										908 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-VQX7, Value: familysearch.org/ark:/61903/1:1:6D3H-VQ…
+									909 heading Onde o registro foi encontrado (referência) , Value: 3
+										910 text Onde o registro foi encontrado (referência)
+									911 container
+										912 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-VQXQ : Wed Oct 22 00:55:40 UTC 2025), Entry for María Olga and Juan Ilardia, 31 de diciembre de 1904.
+									913 heading Informações indexadas, Value: 3
+										914 text Informações indexadas
+									915 button EXIBIR
+									916 heading Fonte modificada:, Value: 3
+										917 text Fonte modificada:
+									918 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									919 text 8 de maio de 2022
+									920 button JavierIttermann Oliveri
+									921 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										922 text Motivo pela qual esta fonte está anexada:
+									923 button + ACRESCENTAR
+							190 container Q9Y1-4LW
+								191 button (expanded) Secondary Actions: Collapse, 1906 Arturo M. Salgado Brasilero, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+									192 button 1906 Arturo M. Salgado Brasilero, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+										193 button
+										194 text 1906
+										195 text Arturo M. Salgado Brasilero, "Uruguay, registros parroquiales, 1726-2000"
+										196 text 30 de dezembro de 2022
+										197 button Rogério J Barbosa
+								198 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								199 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/art…
+								200 button ANEXOS COM INDIVÍDUOS PENDENTES
+								201 button DISPENSAR
+								924 container Owrenlum1m0f
+									925 button VISUALIZAR
+									926 button EDITAR
+									927 button ANALISAR ANEXOS
+									928 button DESANEXAR
+									929 heading Marcadores, Value: 3
+										930 text Marcadores
+									931 button Sexo
+									932 button Nome
+									933 button + Acrescentar marcação
+									934 heading Data da fonte 3 de dezembro de 1906, Value: 3
+										935 text Data da fonte
+										936 text 3 de dezembro de 1906
+									937 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-KYN8, Value: 3
+										938 text Página do site (link para o registro)
+										939 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-KYN8, Value: familysearch.org/ark:/61903/1:1:6D3H-KY…
+									940 heading Onde o registro foi encontrado (referência) , Value: 3
+										941 text Onde o registro foi encontrado (referência)
+									942 container
+										943 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-KYNC : Thu Jan 01 00:29:02 UTC 2026), Entry for René Concepción and Eugenio Melía, 3 de diciembre de 1906.
+									944 heading Informações indexadas, Value: 3
+										945 text Informações indexadas
+									946 button EXIBIR
+									947 heading Fonte modificada:, Value: 3
+										948 text Fonte modificada:
+									949 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									950 text 30 de dezembro de 2022
+									951 button Rogério J Barbosa
+									952 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										953 text Motivo pela qual esta fonte está anexada:
+									954 button + ACRESCENTAR
+							202 container S9YH-RMK
+								203 button (expanded) 1907 Arturo M, "Uruguay, Índice del Registro Civil, 1900-1937" 9 de outubro de 2018 Alexandro9383, Secondary Actions: Collapse
+									204 button 1907 Arturo M, "Uruguay, Índice del Registro Civil, 1900-1937" 9 de outubro de 2018 Alexandro9383
+										205 button
+										206 text 1907
+										207 text Arturo M, "Uruguay, Índice del Registro Civil, 1900-1937"
+										208 text 9 de outubro de 2018
+										209 button Alexandro9383
+								955 container X9o3xugk4ure
+									956 button VISUALIZAR
+									957 button EDITAR
+									958 button ANALISAR ANEXOS
+									959 button DESANEXAR
+									960 heading Marcadores, Value: 3
+										961 text Marcadores
+									962 button Sexo
+									963 button Nome
+									964 button + Acrescentar marcação
+									965 heading Data da fonte 1907, Value: 3
+										966 text Data da fonte
+										967 text 1907
+									968 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3F-Y232, Value: 3
+										969 text Página do site (link para o registro)
+										970 link Description: https://familysearch.org/ark:/61903/1:1:QG3F-Y232, Value: familysearch.org/ark:/61903/1:1:QG3F-Y2…
+									971 heading Onde o registro foi encontrado (referência) , Value: 3
+										972 text Onde o registro foi encontrado (referência)
+									973 container
+										974 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3F-Y23N : Tue Sep 16 13:04:22 UTC 2025), Entry for María Ester Salgado Mendez and Arturo M, 1907.
+									975 heading Informações indexadas, Value: 3
+										976 text Informações indexadas
+									977 button EXIBIR
+									978 heading Fonte modificada:, Value: 3
+										979 text Fonte modificada:
+									980 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									981 text 9 de outubro de 2018
+									982 button Alexandro9383
+									983 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										984 text Motivo pela qual esta fonte está anexada:
+									985 button + ACRESCENTAR
+							210 container S94W-WWK
+								211 button (expanded) 1908 Arturo a, "Uruguay, Índice del Registro Civil, 1900-1937" 14 de setembro de 2018 Alexandro9383, Secondary Actions: Collapse
+									212 button 1908 Arturo a, "Uruguay, Índice del Registro Civil, 1900-1937" 14 de setembro de 2018 Alexandro9383
+										213 button
+										214 text 1908
+										215 text Arturo a, "Uruguay, Índice del Registro Civil, 1900-1937"
+										216 text 14 de setembro de 2018
+										217 button Alexandro9383
+								986 container t4d8ief3rkni
+									987 button VISUALIZAR
+									988 button EDITAR
+									989 button ANALISAR ANEXOS
+									990 button DESANEXAR
+									991 heading Marcadores, Value: 3
+										992 text Marcadores
+									993 button Sexo
+									994 button Nome
+									995 button + Acrescentar marcação
+									996 heading Data da fonte 1908, Value: 3
+										997 text Data da fonte
+										998 text 1908
+									999 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3F-V6ZD, Value: 3
+										1000 text Página do site (link para o registro)
+										1001 link Description: https://familysearch.org/ark:/61903/1:1:QG3F-V6ZD, Value: familysearch.org/ark:/61903/1:1:QG3F-V6…
+									1002 heading Onde o registro foi encontrado (referência) , Value: 3
+										1003 text Onde o registro foi encontrado (referência)
+									1004 container
+										1005 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3F-V6ZS : Tue Sep 16 18:06:10 UTC 2025), Entry for Luis Alberto Salgado Méndez and Arturo a, 1908.
+									1006 heading Informações indexadas, Value: 3
+										1007 text Informações indexadas
+									1008 button EXIBIR
+									1009 heading Fonte modificada:, Value: 3
+										1010 text Fonte modificada:
+									1011 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1012 text 14 de setembro de 2018
+									1013 button Alexandro9383
+									1014 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1015 text Motivo pela qual esta fonte está anexada:
+									1016 button + ACRESCENTAR
+							218 container SQFC-JQD
+								219 button (expanded) Secondary Actions: Collapse, 1909 Arturo Marquéz, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+									220 button 1909 Arturo Marquéz, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+										221 button
+										222 text 1909
+										223 text Arturo Marquéz, "Uruguay, Índice del Registro Civil, 1900-1937"
+										224 text 12 de janeiro de 2019
+										225 button Sergio AndresTortomano Claramunt
+								1017 container Rwofabksvnq
+									1018 button VISUALIZAR
+									1019 button EDITAR
+									1020 button ANALISAR ANEXOS
+									1021 button DESANEXAR
+									1022 heading Marcadores, Value: 3
+										1023 text Marcadores
+									1024 button Sexo
+									1025 button Nome
+									1026 button + Acrescentar marcação
+									1027 heading Data da fonte 1909, Value: 3
+										1028 text Data da fonte
+										1029 text 1909
+									1030 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3K-Z5F6, Value: 3
+										1031 text Página do site (link para o registro)
+										1032 link Description: https://familysearch.org/ark:/61903/1:1:QG3K-Z5F6, Value: familysearch.org/ark:/61903/1:1:QG3K-Z5…
+									1033 heading Onde o registro foi encontrado (referência) , Value: 3
+										1034 text Onde o registro foi encontrado (referência)
+									1035 container
+										1036 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3K-Z5FW : Wed Sep 17 10:53:55 UTC 2025), Entry for Euridice Salgado Mendez and Arturo Marquéz, 1909.
+									1037 heading Informações indexadas, Value: 3
+										1038 text Informações indexadas
+									1039 button EXIBIR
+									1040 heading Fonte modificada:, Value: 3
+										1041 text Fonte modificada:
+									1042 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1043 text 12 de janeiro de 2019
+									1044 button Sergio AndresTortomano Claramunt
+									1045 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1046 text Motivo pela qual esta fonte está anexada:
+									1047 button + ACRESCENTAR
+							226 container Q9BM-HTX
+								227 button (expanded) Secondary Actions: Collapse, 1911 Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									228 button 1911 Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										229 button
+										230 text 1911
+										231 text Arturo, "Uruguay, Índice del Registro Civil, 1900-1937"
+										232 text 30 de dezembro de 2022
+										233 button Rogério J Barbosa
+								1048 container cmnathr4ym2
+									1049 button VISUALIZAR
+									1050 button EDITAR
+									1051 button ANALISAR ANEXOS
+									1052 button DESANEXAR
+									1053 heading Marcadores, Value: 3
+										1054 text Marcadores
+									1055 button Sexo
+									1056 button Nome
+									1057 button + Acrescentar marcação
+									1058 heading Data da fonte 1911, Value: 3
+										1059 text Data da fonte
+										1060 text 1911
+									1061 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3V-PBXV, Value: 3
+										1062 text Página do site (link para o registro)
+										1063 link Description: https://familysearch.org/ark:/61903/1:1:QG3V-PBXV, Value: familysearch.org/ark:/61903/1:1:QG3V-PB…
+									1064 heading Onde o registro foi encontrado (referência) , Value: 3
+										1065 text Onde o registro foi encontrado (referência)
+									1066 container
+										1067 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3V-PBXD : Mon Aug 17 15:18:04 UTC 2026), Entry for Juan José Alves Salgado Mendez and Arturo, 1911.
+									1068 heading Informações indexadas, Value: 3
+										1069 text Informações indexadas
+									1070 button EXIBIR
+									1071 heading Fonte modificada:, Value: 3
+										1072 text Fonte modificada:
+									1073 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1074 text 30 de dezembro de 2022
+									1075 button Rogério J Barbosa
+									1076 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1077 text Motivo pela qual esta fonte está anexada:
+									1078 button + ACRESCENTAR
+							234 container Q9Y1-31N
+								235 button (expanded) Secondary Actions: Collapse, 1912 Arthuro Marques Salgado, “Brasil, Rio Grande do Sul, Registro Civil, 1810-2022” 30 de dezembro de 2022 Rogério J Barbosa
+									236 button 1912 Arthuro Marques Salgado, “Brasil, Rio Grande do Sul, Registro Civil, 1810-2022” 30 de dezembro de 2022 Rogério J Barbosa
+										237 button
+										238 text 1912
+										239 text Arthuro Marques Salgado, “Brasil, Rio Grande do Sul, Registro Civil, 1810-2022”
+										240 text 30 de dezembro de 2022
+										241 button Rogério J Barbosa
+								1079 container V18yulh2b0a6
+									1080 button VISUALIZAR
+									1081 button EDITAR
+									1082 button ANALISAR ANEXOS
+									1083 button DESANEXAR
+									1084 heading Marcadores, Value: 3
+										1085 text Marcadores
+									1086 button Sexo
+									1087 button Nome
+									1088 button + Acrescentar marcação
+									1089 heading Data da fonte 27 de setembro de 1912, Value: 3
+										1090 text Data da fonte
+										1091 text 27 de setembro de 1912
+									1092 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D1T-FR9Q, Value: 3
+										1093 text Página do site (link para o registro)
+										1094 link Description: https://familysearch.org/ark:/61903/1:1:6D1T-FR9Q, Value: familysearch.org/ark:/61903/1:1:6D1T-FR…
+									1095 heading Onde o registro foi encontrado (referência) , Value: 3
+										1096 text Onde o registro foi encontrado (referência)
+									1097 container
+										1098 text "Brasil, Rio Grande do Sul, Registro Civil, 1810-2022",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D1T-FR93 : Sat Mar 09 10:56:51 UTC 2024), Entry for Julio Cesar Salgado and Arthuro Marques Salgado, 27 Sep 1912.
+									1099 heading Informações indexadas, Value: 3
+										1100 text Informações indexadas
+									1101 button EXIBIR
+									1102 heading Fonte modificada:, Value: 3
+										1103 text Fonte modificada:
+									1104 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1105 text 30 de dezembro de 2022
+									1106 button Rogério J Barbosa
+									1107 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1108 text Motivo pela qual esta fonte está anexada:
+									1109 button + ACRESCENTAR
+							242 container SQFC-VWN
+								243 button (expanded) Secondary Actions: Collapse, 1914 Arturo M, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+									244 button 1914 Arturo M, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+										245 button
+										246 text 1914
+										247 text Arturo M, "Uruguay, Índice del Registro Civil, 1900-1937"
+										248 text 12 de janeiro de 2019
+										249 button Sergio AndresTortomano Claramunt
+								1110 container E00wjhbi301x7k
+									1111 button VISUALIZAR
+									1112 button EDITAR
+									1113 button ANALISAR ANEXOS
+									1114 button DESANEXAR
+									1115 heading Marcadores, Value: 3
+										1116 text Marcadores
+									1117 button Sexo
+									1118 button Nome
+									1119 button + Acrescentar marcação
+									1120 heading Data da fonte 1914, Value: 3
+										1121 text Data da fonte
+										1122 text 1914
+									1123 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3K-8JM9, Value: 3
+										1124 text Página do site (link para o registro)
+										1125 link Description: https://familysearch.org/ark:/61903/1:1:QG3K-8JM9, Value: familysearch.org/ark:/61903/1:1:QG3K-8J…
+									1126 heading Onde o registro foi encontrado (referência) , Value: 3
+										1127 text Onde o registro foi encontrado (referência)
+									1128 container
+										1129 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3V-KV18 : Wed Sep 17 11:38:23 UTC 2025), Entry for Oscar Salgado Mendez and Arturo M, 1914.
+									1130 heading Informações indexadas, Value: 3
+										1131 text Informações indexadas
+									1132 button EXIBIR
+									1133 heading Fonte modificada:, Value: 3
+										1134 text Fonte modificada:
+									1135 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1136 text 12 de janeiro de 2019
+									1137 button Sergio AndresTortomano Claramunt
+									1138 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1139 text Motivo pela qual esta fonte está anexada:
+									1140 button + ACRESCENTAR
+							250 container SQFC-LZY
+								251 button (expanded) Secondary Actions: Collapse, 1916 Arturo Marques, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+									252 button 1916 Arturo Marques, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+										253 button
+										254 text 1916
+										255 text Arturo Marques, "Uruguay, Índice del Registro Civil, 1900-1937"
+										256 text 12 de janeiro de 2019
+										257 button Sergio AndresTortomano Claramunt
+								1141 container Cq1hocsn0agc
+									1142 button VISUALIZAR
+									1143 button EDITAR
+									1144 button ANALISAR ANEXOS
+									1145 button DESANEXAR
+									1146 heading Marcadores, Value: 3
+										1147 text Marcadores
+									1148 button Sexo
+									1149 button Nome
+									1150 button + Acrescentar marcação
+									1151 heading Data da fonte 1916, Value: 3
+										1152 text Data da fonte
+										1153 text 1916
+									1154 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3K-SD5J, Value: 3
+										1155 text Página do site (link para o registro)
+										1156 link Description: https://familysearch.org/ark:/61903/1:1:QG3K-SD5J, Value: familysearch.org/ark:/61903/1:1:QG3K-SD…
+									1157 heading Onde o registro foi encontrado (referência) , Value: 3
+										1158 text Onde o registro foi encontrado (referência)
+									1159 container
+										1160 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3K-SDPT : Tue Sep 16 16:15:38 UTC 2025), Entry for Carolina Isabel Salgado Mendez and Arturo Marques, 1916.
+									1161 heading Informações indexadas, Value: 3
+										1162 text Informações indexadas
+									1163 button EXIBIR
+									1164 heading Fonte modificada:, Value: 3
+										1165 text Fonte modificada:
+									1166 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1167 text 12 de janeiro de 2019
+									1168 button Sergio AndresTortomano Claramunt
+									1169 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1170 text Motivo pela qual esta fonte está anexada:
+									1171 button + ACRESCENTAR
+							258 container 7WQM-9MZ
+								259 button (expanded) 1916 Arturo Marques Salgado, "Uruguay, registro civil, 1879-2020" 10 de outubro de 2024 szhuanginyu, Secondary Actions: Collapse
+									260 button 1916 Arturo Marques Salgado, "Uruguay, registro civil, 1879-2020" 10 de outubro de 2024 szhuanginyu
+										261 button
+										262 text 1916
+										263 text Arturo Marques Salgado, "Uruguay, registro civil, 1879-2020"
+										264 text 10 de outubro de 2024
+										265 button szhuanginyu
+								1172 container Hrdh0nmqgel
+									1173 button VISUALIZAR
+									1174 button EDITAR
+									1175 button ANALISAR ANEXOS
+									1176 button DESANEXAR
+									1177 heading Marcadores, Value: 3
+										1178 text Marcadores
+									1179 button Sexo
+									1180 button Nome
+									1181 button + Acrescentar marcação
+									1182 heading Data da fonte 6 de março de 1916, Value: 3
+										1183 text Data da fonte
+										1184 text 6 de março de 1916
+									1185 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:62XK-KQJ6, Value: 3
+										1186 text Página do site (link para o registro)
+										1187 link Description: https://familysearch.org/ark:/61903/1:1:62XK-KQJ6, Value: familysearch.org/ark:/61903/1:1:62XK-KQ…
+									1188 heading Onde o registro foi encontrado (referência) , Value: 3
+										1189 text Onde o registro foi encontrado (referência)
+									1190 container
+										1191 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:62XK-KQJD : Sat Mar 09 22:04:58 UTC 2024), Entry for Carolina Isabel Marques Mendez and Arturo Marques Salgado, 6 Mar 1916.
+									1192 heading Informações indexadas, Value: 3
+										1193 text Informações indexadas
+									1194 button EXIBIR
+									1195 heading Fonte modificada:, Value: 3
+										1196 text Fonte modificada:
+									1197 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1198 text 10 de outubro de 2024
+									1199 button szhuanginyu
+									1200 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1201 text Motivo pela qual esta fonte está anexada:
+									1202 button + ACRESCENTAR
+							266 container SQFC-GNJ
+								267 button (expanded) Secondary Actions: Collapse, 1918 Arturo Marquez, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+									268 button 1918 Arturo Marquez, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+										269 button
+										270 text 1918
+										271 text Arturo Marquez, "Uruguay, Índice del Registro Civil, 1900-1937"
+										272 text 12 de janeiro de 2019
+										273 button Sergio AndresTortomano Claramunt
+								1203 container Emqtka4dyn9p
+									1204 button VISUALIZAR
+									1205 button EDITAR
+									1206 button ANALISAR ANEXOS
+									1207 button DESANEXAR
+									1208 heading Marcadores, Value: 3
+										1209 text Marcadores
+									1210 button Sexo
+									1211 button Nome
+									1212 button + Acrescentar marcação
+									1213 heading Data da fonte 1918, Value: 3
+										1214 text Data da fonte
+										1215 text 1918
+									1216 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3F-FQCS, Value: 3
+										1217 text Página do site (link para o registro)
+										1218 link Description: https://familysearch.org/ark:/61903/1:1:QG3F-FQCS, Value: familysearch.org/ark:/61903/1:1:QG3F-FQ…
+									1219 heading Onde o registro foi encontrado (referência) , Value: 3
+										1220 text Onde o registro foi encontrado (referência)
+									1221 container
+										1222 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3F-FQH9 : Fri Sep 19 06:25:11 UTC 2025), Entry for Elmira Salgado Méndez and Arturo Marquez, 1918.
+									1223 heading Informações indexadas, Value: 3
+										1224 text Informações indexadas
+									1225 button EXIBIR
+									1226 heading Fonte modificada:, Value: 3
+										1227 text Fonte modificada:
+									1228 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1229 text 12 de janeiro de 2019
+									1230 button Sergio AndresTortomano Claramunt
+									1231 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1232 text Motivo pela qual esta fonte está anexada:
+									1233 button + ACRESCENTAR
+							274 container Q9BM-XKX
+								275 button (expanded) Secondary Actions: Collapse, 1918 Arturo Marques Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									276 button 1918 Arturo Marques Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										277 button
+										278 text 1918
+										279 text Arturo Marques Salgado, "Uruguay, Índice del Registro Civil, 1900-1937"
+										280 text 30 de dezembro de 2022
+										281 button Rogério J Barbosa
+								1234 container Q45lwk8y2me
+									1235 button VISUALIZAR
+									1236 button EDITAR
+									1237 button ANALISAR ANEXOS
+									1238 button DESANEXAR
+									1239 heading Marcadores, Value: 3
+										1240 text Marcadores
+									1241 button Sexo
+									1242 button Nome
+									1243 button + Acrescentar marcação
+									1244 heading Data da fonte 1918, Value: 3
+										1245 text Data da fonte
+										1246 text 1918
+									1247 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZWP-PCM7, Value: 3
+										1248 text Página do site (link para o registro)
+										1249 link Description: https://familysearch.org/ark:/61903/1:1:6ZWP-PCM7, Value: familysearch.org/ark:/61903/1:1:6ZWP-PC…
+									1250 heading Onde o registro foi encontrado (referência) , Value: 3
+										1251 text Onde o registro foi encontrado (referência)
+									1252 container
+										1253 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZWP-PCMQ : Sat Oct 18 17:18:49 UTC 2025), Entry for Elmira Marques Salgado Mendez and Arturo Marques Salgado, 1918.
+									1254 heading Informações indexadas, Value: 3
+										1255 text Informações indexadas
+									1256 button EXIBIR
+									1257 heading Fonte modificada:, Value: 3
+										1258 text Fonte modificada:
+									1259 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1260 text 30 de dezembro de 2022
+									1261 button Rogério J Barbosa
+									1262 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1263 text Motivo pela qual esta fonte está anexada:
+									1264 button + ACRESCENTAR
+							282 container Q9BM-N1V
+								283 button (expanded) Secondary Actions: Collapse, 1918 Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									284 button 1918 Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										285 button
+										286 text 1918
+										287 text Arturo, "Uruguay, Índice del Registro Civil, 1900-1937"
+										288 text 30 de dezembro de 2022
+										289 button Rogério J Barbosa
+								1265 container hnrlwjcopsg
+									1266 button VISUALIZAR
+									1267 button EDITAR
+									1268 button ANALISAR ANEXOS
+									1269 button DESANEXAR
+									1270 heading Marcadores, Value: 3
+										1271 text Marcadores
+									1272 button Sexo
+									1273 button Nome
+									1274 button + Acrescentar marcação
+									1275 heading Data da fonte 1918, Value: 3
+										1276 text Data da fonte
+										1277 text 1918
+									1278 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:CY8N-XKT2, Value: 3
+										1279 text Página do site (link para o registro)
+										1280 link Description: https://familysearch.org/ark:/61903/1:1:CY8N-XKT2, Value: familysearch.org/ark:/61903/1:1:CY8N-XK…
+									1281 heading Onde o registro foi encontrado (referência) , Value: 3
+										1282 text Onde o registro foi encontrado (referência)
+									1283 container
+										1284 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:CY8N-XKPZ : Sat Oct 18 11:04:55 UTC 2025), Entry for Elmira Marquez Salgado Mendez and Arturo, 1918.
+									1285 heading Informações indexadas, Value: 3
+										1286 text Informações indexadas
+									1287 button EXIBIR
+									1288 heading Fonte modificada:, Value: 3
+										1289 text Fonte modificada:
+									1290 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1291 text 30 de dezembro de 2022
+									1292 button Rogério J Barbosa
+									1293 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1294 text Motivo pela qual esta fonte está anexada:
+									1295 button + ACRESCENTAR
+							290 container Q9BM-DCN
+								291 button (expanded) Secondary Actions: Collapse, 1919 Arturo Marquez, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									292 button 1919 Arturo Marquez, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										293 button
+										294 text 1919
+										295 text Arturo Marquez, "Uruguay, Índice del Registro Civil, 1900-1937"
+										296 text 30 de dezembro de 2022
+										297 button Rogério J Barbosa
+								1296 container I4j93mt81coe
+									1297 button VISUALIZAR
+									1298 button EDITAR
+									1299 button ANALISAR ANEXOS
+									1300 button DESANEXAR
+									1301 heading Marcadores, Value: 3
+										1302 text Marcadores
+									1303 button Sexo
+									1304 button Nome
+									1305 button + Acrescentar marcação
+									1306 heading Data da fonte 1919, Value: 3
+										1307 text Data da fonte
+										1308 text 1919
+									1309 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZC8-3QH7, Value: 3
+										1310 text Página do site (link para o registro)
+										1311 link Description: https://familysearch.org/ark:/61903/1:1:6ZC8-3QH7, Value: familysearch.org/ark:/61903/1:1:6ZC8-3Q…
+									1312 heading Onde o registro foi encontrado (referência) , Value: 3
+										1313 text Onde o registro foi encontrado (referência)
+									1314 container
+										1315 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZC8-3QHQ : Wed Sep 17 01:17:57 UTC 2025), Entry for Angélica Marquez Mendez and Arturo Marquez, 1919.
+									1316 heading Informações indexadas, Value: 3
+										1317 text Informações indexadas
+									1318 button EXIBIR
+									1319 heading Fonte modificada:, Value: 3
+										1320 text Fonte modificada:
+									1321 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1322 text 30 de dezembro de 2022
+									1323 button Rogério J Barbosa
+									1324 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1325 text Motivo pela qual esta fonte está anexada:
+									1326 button + ACRESCENTAR
+							298 container Q9BM-JXC
+								299 button (expanded) Secondary Actions: Collapse, 1919 Arturo Brasilero Marques Salgado, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+									300 button 1919 Arturo Brasilero Marques Salgado, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+										301 button
+										302 text 1919
+										303 text Arturo Brasilero Marques Salgado, "Uruguay, registros parroquiales, 1726-2000"
+										304 text 30 de dezembro de 2022
+										305 button Rogério J Barbosa
+								306 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								307 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/art…
+								308 button ANEXOS COM INDIVÍDUOS PENDENTES
+								309 button DISPENSAR
+								1327 container Kjroow07rn3
+									1328 button VISUALIZAR
+									1329 button EDITAR
+									1330 button ANALISAR ANEXOS
+									1331 button DESANEXAR
+									1332 heading Marcadores, Value: 3
+										1333 text Marcadores
+									1334 button Sexo
+									1335 button Nome
+									1336 button + Acrescentar marcação
+									1337 heading Data da fonte 4 de julho de 1919, Value: 3
+										1338 text Data da fonte
+										1339 text 4 de julho de 1919
+									1340 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-7GR6, Value: 3
+										1341 text Página do site (link para o registro)
+										1342 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-7GR6, Value: familysearch.org/ark:/61903/1:1:6D3H-7G…
+									1343 heading Onde o registro foi encontrado (referência) , Value: 3
+										1344 text Onde o registro foi encontrado (referência)
+									1345 container
+										1346 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-7GRD : Tue Apr 29 21:11:30 UTC 2025), Entry for Elmira and Justo Curtí, 4 de julio de 1919.
+									1347 heading Informações indexadas, Value: 3
+										1348 text Informações indexadas
+									1349 button EXIBIR
+									1350 heading Fonte modificada:, Value: 3
+										1351 text Fonte modificada:
+									1352 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1353 text 30 de dezembro de 2022
+									1354 button Rogério J Barbosa
+									1355 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1356 text Motivo pela qual esta fonte está anexada:
+									1357 button + ACRESCENTAR
+							310 container QMTG-BPR
+								311 button (expanded) Secondary Actions: Collapse, 1919 Arturo Salgado, honlero, "Uruguay, registros parroquiales, 1726-2000" 8 de dezembro de 2022 sole15
+									312 button 1919 Arturo Salgado, honlero, "Uruguay, registros parroquiales, 1726-2000" 8 de dezembro de 2022 sole15
+										313 button
+										314 text 1919
+										315 text Arturo Salgado, honlero, "Uruguay, registros parroquiales, 1726-2000"
+										316 text 8 de dezembro de 2022
+										317 button sole15
+								318 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								319 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/art…
+								320 button ANEXOS COM INDIVÍDUOS PENDENTES
+								321 button DISPENSAR
+								1358 container F1j6mwjxehnz
+									1359 button VISUALIZAR
+									1360 button EDITAR
+									1361 button ANALISAR ANEXOS
+									1362 button DESANEXAR
+									1363 heading Marcadores, Value: 3
+										1364 text Marcadores
+									1365 button Sexo
+									1366 button Nome
+									1367 button + Acrescentar marcação
+									1368 heading Data da fonte 12 de julho de 1919, Value: 3
+										1369 text Data da fonte
+										1370 text 12 de julho de 1919
+									1371 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-KCDJ, Value: 3
+										1372 text Página do site (link para o registro)
+										1373 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-KCDJ, Value: familysearch.org/ark:/61903/1:1:6D3H-KC…
+									1374 heading Onde o registro foi encontrado (referência) , Value: 3
+										1375 text Onde o registro foi encontrado (referência)
+									1376 container
+										1377 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-KCDN : Sun Oct 19 05:27:48 UTC 2025), Entry for Carolina Isabel Méndez and Carlos Lligliani, 12 de julio de 1919.
+									1378 heading Informações indexadas, Value: 3
+										1379 text Informações indexadas
+									1380 button EXIBIR
+									1381 heading Fonte modificada:, Value: 3
+										1382 text Fonte modificada:
+									1383 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1384 text 8 de dezembro de 2022
+									1385 button sole15
+									1386 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1387 text Motivo pela qual esta fonte está anexada:
+									1388 button + ACRESCENTAR
+							322 container QGVZ-6GM
+								323 button (expanded) Secondary Actions: Collapse, 1919 Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+									324 button 1919 Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+										325 button
+										326 text 1919
+										327 text Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020"
+										328 text 21 de fevereiro de 2024
+										329 button Sandramacedo3
+								1389 container Gn78g7dveeej
+									1390 button VISUALIZAR
+									1391 button EDITAR
+									1392 button ANALISAR ANEXOS
+									1393 button DESANEXAR
+									1394 heading Marcadores, Value: 3
+										1395 text Marcadores
+									1396 button Sexo
+									1397 button Nome
+									1398 button + Acrescentar marcação
+									1399 heading Data da fonte 29 de julho de 1919, Value: 3
+										1400 text Data da fonte
+										1401 text 29 de julho de 1919
+									1402 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:623T-VH5F, Value: 3
+										1403 text Página do site (link para o registro)
+										1404 link Description: https://familysearch.org/ark:/61903/1:1:623T-VH5F, Value: familysearch.org/ark:/61903/1:1:623T-VH…
+									1405 heading Onde o registro foi encontrado (referência) , Value: 3
+										1406 text Onde o registro foi encontrado (referência)
+									1407 container
+										1408 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:623T-VH5X : Sat Mar 09 09:58:54 UTC 2024), Entry for Angélica Salgado and Arturo Marquez Salgado, 29 Jul 1919.
+									1409 heading Informações indexadas, Value: 3
+										1410 text Informações indexadas
+									1411 button EXIBIR
+									1412 heading Fonte modificada:, Value: 3
+										1413 text Fonte modificada:
+									1414 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1415 text 21 de fevereiro de 2024
+									1416 button Sandramacedo3
+									1417 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1418 text Motivo pela qual esta fonte está anexada:
+									1419 button + ACRESCENTAR
+							330 container Q9YB-RV9
+								331 button (expanded) Secondary Actions: Collapse, 1919 Arturo M. Salgado, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+									332 button 1919 Arturo M. Salgado, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+										333 button
+										334 text 1919
+										335 text Arturo M. Salgado, "Uruguay, registros parroquiales, 1726-2000"
+										336 text 30 de dezembro de 2022
+										337 button Rogério J Barbosa
+								338 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								339 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/art…
+								340 button ANEXOS COM INDIVÍDUOS PENDENTES
+								341 button DISPENSAR
+								1420 container q9pjvroeuid
+									1421 button VISUALIZAR
+									1422 button EDITAR
+									1423 button ANALISAR ANEXOS
+									1424 button DESANEXAR
+									1425 heading Marcadores, Value: 3
+										1426 text Marcadores
+									1427 button Sexo
+									1428 button Nome
+									1429 button + Acrescentar marcação
+									1430 heading Data da fonte 30 de julho de 1919, Value: 3
+										1431 text Data da fonte
+										1432 text 30 de julho de 1919
+									1433 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:68XP-WGWG, Value: 3
+										1434 text Página do site (link para o registro)
+										1435 link Description: https://familysearch.org/ark:/61903/1:1:68XP-WGWG, Value: familysearch.org/ark:/61903/1:1:68XP-WG…
+									1436 heading Onde o registro foi encontrado (referência) , Value: 3
+										1437 text Onde o registro foi encontrado (referência)
+									1438 container
+										1439 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:68XP-WGWL : Thu Jan 01 07:52:56 UTC 2026), Entry for Oscar and Carlos Ligliani, 30 de julio de 1919.
+									1440 heading Informações indexadas, Value: 3
+										1441 text Informações indexadas
+									1442 button EXIBIR
+									1443 heading Fonte modificada:, Value: 3
+										1444 text Fonte modificada:
+									1445 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1446 text 30 de dezembro de 2022
+									1447 button Rogério J Barbosa
+									1448 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1449 text Motivo pela qual esta fonte está anexada:
+									1450 button + ACRESCENTAR
+							342 container Q9Y1-1NF
+								343 button (expanded) Secondary Actions: Collapse, 1919 {name} na entrada para Oscar Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+									344 button 1919 {name} na entrada para Oscar Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+										345 button
+										346 text 1919
+										347 text {name} na entrada para Oscar Salgado, “Batismos peruanos, 1556-1930”
+										348 text 30 de dezembro de 2022
+										349 button Rogério J Barbosa
+								1451 container Ys896e1n428n
+									1452 button VISUALIZAR
+									1453 button EDITAR
+									1454 button ANALISAR ANEXOS
+									1455 button DESANEXAR
+									1456 heading Marcadores, Value: 3
+										1457 text Marcadores
+									1458 button Sexo
+									1459 button Nome
+									1460 button + Acrescentar marcação
+									1461 heading Data da fonte 30 de julho de 1919, Value: 3
+										1462 text Data da fonte
+										1463 text 30 de julho de 1919
+									1464 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:HR3C-9GPZ, Value: 3
+										1465 text Página do site (link para o registro)
+										1466 link Description: https://familysearch.org/ark:/61903/1:1:HR3C-9GPZ, Value: familysearch.org/ark:/61903/1:1:HR3C-9G…
+									1467 heading Onde o registro foi encontrado (referência) , Value: 3
+										1468 text Onde o registro foi encontrado (referência)
+									1469 container
+										1470 text "Perú, bautismos, 1556-1930", database,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:HR3C-9GPZ : 8 February 2020), Arturo M Salgado in entry for Oscar Salgado, 1919.
+									1471 heading Informações indexadas, Value: 3
+										1472 text Informações indexadas
+									1473 button EXIBIR
+									1474 heading Fonte modificada:, Value: 3
+										1475 text Fonte modificada:
+									1476 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1477 text 30 de dezembro de 2022
+									1478 button Rogério J Barbosa
+									1479 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1480 text Motivo pela qual esta fonte está anexada:
+									1481 button + ACRESCENTAR
+							350 container SQFC-YCG
+								351 button (expanded) Secondary Actions: Collapse, 1919 {name} na entrada para Euridice Marques Salgado, “Batismos peruanos, 1556-1930” 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+									352 button 1919 {name} na entrada para Euridice Marques Salgado, “Batismos peruanos, 1556-1930” 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+										353 button
+										354 text 1919
+										355 text {name} na entrada para Euridice Marques Salgado, “Batismos peruanos, 1556-1930”
+										356 text 12 de janeiro de 2019
+										357 button Sergio AndresTortomano Claramunt
+								1482 container x5049anx6bzc
+									1483 button VISUALIZAR
+									1484 button EDITAR
+									1485 button ANALISAR ANEXOS
+									1486 button DESANEXAR
+									1487 heading Marcadores, Value: 3
+										1488 text Marcadores
+									1489 button Sexo
+									1490 button Nome
+									1491 button + Acrescentar marcação
+									1492 heading Data da fonte 31 de julho de 1919, Value: 3
+										1493 text Data da fonte
+										1494 text 31 de julho de 1919
+									1495 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:FNJF-7XM, Value: 3
+										1496 text Página do site (link para o registro)
+										1497 link Description: https://familysearch.org/ark:/61903/1:1:FNJF-7XM, Value: familysearch.org/ark:/61903/1:1:FNJF-7XM
+									1498 heading Onde o registro foi encontrado (referência) , Value: 3
+										1499 text Onde o registro foi encontrado (referência)
+									1500 container
+										1501 text "Perú, bautismos, 1556-1930", database,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:FNJF-7XM : 7 February 2020), Arturo Marques Salgado in entry for Euridice Marques Salgado, 1919.
+									1502 heading Informações indexadas, Value: 3
+										1503 text Informações indexadas
+									1504 button EXIBIR
+									1505 heading Fonte modificada:, Value: 3
+										1506 text Fonte modificada:
+									1507 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1508 text 12 de janeiro de 2019
+									1509 button Sergio AndresTortomano Claramunt
+									1510 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1511 text Motivo pela qual esta fonte está anexada:
+									1512 button + ACRESCENTAR
+							358 container Q9BM-6C8
+								359 button (expanded) Secondary Actions: Collapse, 1919 {name} na entrada para Angelica Marques Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+									360 button 1919 {name} na entrada para Angelica Marques Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+										361 button
+										362 text 1919
+										363 text {name} na entrada para Angelica Marques Salgado, “Batismos peruanos, 1556-1930”
+										364 text 30 de dezembro de 2022
+										365 button Rogério J Barbosa
+								1513 container m1lc3fgrel3v
+									1514 button VISUALIZAR
+									1515 button EDITAR
+									1516 button ANALISAR ANEXOS
+									1517 button DESANEXAR
+									1518 heading Marcadores, Value: 3
+										1519 text Marcadores
+									1520 button Sexo
+									1521 button Nome
+									1522 button + Acrescentar marcação
+									1523 heading Data da fonte 10 de agosto de 1919, Value: 3
+										1524 text Data da fonte
+										1525 text 10 de agosto de 1919
+									1526 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:HR34-LCZM, Value: 3
+										1527 text Página do site (link para o registro)
+										1528 link Description: https://familysearch.org/ark:/61903/1:1:HR34-LCZM, Value: familysearch.org/ark:/61903/1:1:HR34-LC…
+									1529 heading Onde o registro foi encontrado (referência) , Value: 3
+										1530 text Onde o registro foi encontrado (referência)
+									1531 container
+										1532 text "Perú, bautismos, 1556-1930", database,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:HR34-LCZM : 8 February 2020), Arturo Marques Salgado in entry for Angelica Marques Salgado, 1919.
+									1533 heading Informações indexadas, Value: 3
+										1534 text Informações indexadas
+									1535 button EXIBIR
+									1536 heading Fonte modificada:, Value: 3
+										1537 text Fonte modificada:
+									1538 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1539 text 30 de dezembro de 2022
+									1540 button Rogério J Barbosa
+									1541 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1542 text Motivo pela qual esta fonte está anexada:
+									1543 button + ACRESCENTAR
+							366 container SQFC-RCK
+								367 button (expanded) Secondary Actions: Collapse, 1920 Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+									368 button 1920 Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+										369 button
+										370 text 1920
+										371 text Arturo, "Uruguay, Índice del Registro Civil, 1900-1937"
+										372 text 12 de janeiro de 2019
+										373 button Sergio AndresTortomano Claramunt
+								1544 container Ytc5etouewen
+									1545 button VISUALIZAR
+									1546 button EDITAR
+									1547 button ANALISAR ANEXOS
+									1548 button DESANEXAR
+									1549 heading Marcadores, Value: 3
+										1550 text Marcadores
+									1551 button Sexo
+									1552 button Nome
+									1553 button + Acrescentar marcação
+									1554 heading Data da fonte 1920, Value: 3
+										1555 text Data da fonte
+										1556 text 1920
+									1557 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3N-ZZRV, Value: 3
+										1558 text Página do site (link para o registro)
+										1559 link Description: https://familysearch.org/ark:/61903/1:1:QG3N-ZZRV, Value: familysearch.org/ark:/61903/1:1:QG3N-ZZ…
+									1560 heading Onde o registro foi encontrado (referência) , Value: 3
+										1561 text Onde o registro foi encontrado (referência)
+									1562 container
+										1563 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3N-ZZRD : Wed Sep 17 11:24:33 UTC 2025), Entry for Ema Alice Salgado Mendez and Arturo, 1920.
+									1564 heading Informações indexadas, Value: 3
+										1565 text Informações indexadas
+									1566 button EXIBIR
+									1567 heading Fonte modificada:, Value: 3
+										1568 text Fonte modificada:
+									1569 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1570 text 12 de janeiro de 2019
+									1571 button Sergio AndresTortomano Claramunt
+									1572 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1573 text Motivo pela qual esta fonte está anexada:
+									1574 button + ACRESCENTAR
+							374 container Q9Y1-BWB
+								375 button (expanded) Secondary Actions: Collapse, 1920 Arturo Marquez Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									376 button 1920 Arturo Marquez Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										377 button
+										378 text 1920
+										379 text Arturo Marquez Salgado, "Uruguay, Índice del Registro Civil, 1900-1937"
+										380 text 30 de dezembro de 2022
+										381 button Rogério J Barbosa
+								1575 container gg8tmprwfnla
+									1576 button VISUALIZAR
+									1577 button EDITAR
+									1578 button ANALISAR ANEXOS
+									1579 button DESANEXAR
+									1580 heading Marcadores, Value: 3
+										1581 text Marcadores
+									1582 button Sexo
+									1583 button Nome
+									1584 button + Acrescentar marcação
+									1585 heading Data da fonte 1920, Value: 3
+										1586 text Data da fonte
+										1587 text 1920
+									1588 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZWP-PC9P, Value: 3
+										1589 text Página do site (link para o registro)
+										1590 link Description: https://familysearch.org/ark:/61903/1:1:6ZWP-PC9P, Value: familysearch.org/ark:/61903/1:1:6ZWP-PC…
+									1591 heading Onde o registro foi encontrado (referência) , Value: 3
+										1592 text Onde o registro foi encontrado (referência)
+									1593 container
+										1594 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZWP-PC9G : Tue Sep 16 20:50:41 UTC 2025), Entry for Ema Alice Marquez Salgado Mendez and Arturo Marquez Salgado, 1920.
+									1595 heading Informações indexadas, Value: 3
+										1596 text Informações indexadas
+									1597 button EXIBIR
+									1598 heading Fonte modificada:, Value: 3
+										1599 text Fonte modificada:
+									1600 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1601 text 30 de dezembro de 2022
+									1602 button Rogério J Barbosa
+									1603 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1604 text Motivo pela qual esta fonte está anexada:
+									1605 button + ACRESCENTAR
+							382 container Q9BM-ZF3
+								383 button (expanded) Secondary Actions: Collapse, 1920 Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									384 button 1920 Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										385 button
+										386 text 1920
+										387 text Arturo, "Uruguay, Índice del Registro Civil, 1900-1937"
+										388 text 30 de dezembro de 2022
+										389 button Rogério J Barbosa
+								1606 container Ey4a3yupeur
+									1607 button VISUALIZAR
+									1608 button EDITAR
+									1609 button ANALISAR ANEXOS
+									1610 button DESANEXAR
+									1611 heading Marcadores, Value: 3
+										1612 text Marcadores
+									1613 button Sexo
+									1614 button Nome
+									1615 button + Acrescentar marcação
+									1616 heading Data da fonte 1920, Value: 3
+										1617 text Data da fonte
+										1618 text 1920
+									1619 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:CYPV-JYW2, Value: 3
+										1620 text Página do site (link para o registro)
+										1621 link Description: https://familysearch.org/ark:/61903/1:1:CYPV-JYW2, Value: familysearch.org/ark:/61903/1:1:CYPV-JY…
+									1622 heading Onde o registro foi encontrado (referência) , Value: 3
+										1623 text Onde o registro foi encontrado (referência)
+									1624 container
+										1625 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:CYPV-JY3Z : Tue Sep 16 20:25:28 UTC 2025), Entry for Ema Alice Marquez Salgado Mendez and Arturo, 1920.
+									1626 heading Informações indexadas, Value: 3
+										1627 text Informações indexadas
+									1628 button EXIBIR
+									1629 heading Fonte modificada:, Value: 3
+										1630 text Fonte modificada:
+									1631 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1632 text 30 de dezembro de 2022
+									1633 button Rogério J Barbosa
+									1634 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1635 text Motivo pela qual esta fonte está anexada:
+									1636 button + ACRESCENTAR
+							390 container Q9BM-3GJ
+								391 button (expanded) Secondary Actions: Collapse, 1920 {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+									392 button 1920 {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+										393 button
+										394 text 1920
+										395 text {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930”
+										396 text 30 de dezembro de 2022
+										397 button Rogério J Barbosa
+								1637 container nineepof7ry
+									1638 button VISUALIZAR
+									1639 button EDITAR
+									1640 button ANALISAR ANEXOS
+									1641 button DESANEXAR
+									1642 heading Marcadores, Value: 3
+										1643 text Marcadores
+									1644 button Sexo
+									1645 button Nome
+									1646 button + Acrescentar marcação
+									1647 heading Data da fonte 29 de junho de 1920, Value: 3
+										1648 text Data da fonte
+										1649 text 29 de junho de 1920
+									1650 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:HR3C-9TN2, Value: 3
+										1651 text Página do site (link para o registro)
+										1652 link Description: https://familysearch.org/ark:/61903/1:1:HR3C-9TN2, Value: familysearch.org/ark:/61903/1:1:HR3C-9T…
+									1653 heading Onde o registro foi encontrado (referência) , Value: 3
+										1654 text Onde o registro foi encontrado (referência)
+									1655 container
+										1656 text "Perú, bautismos, 1556-1930", database,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:HR3C-9TN2 : 8 February 2020), Arturo Salgado in entry for Luis Alberto Salgado, 1920.
+									1657 heading Informações indexadas, Value: 3
+										1658 text Informações indexadas
+									1659 button EXIBIR
+									1660 heading Fonte modificada:, Value: 3
+										1661 text Fonte modificada:
+									1662 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1663 text 30 de dezembro de 2022
+									1664 button Rogério J Barbosa
+									1665 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1666 text Motivo pela qual esta fonte está anexada:
+									1667 button + ACRESCENTAR
+							398 container QGVZ-4BG
+								399 button (expanded) Secondary Actions: Collapse, 1920 Arturo Salgado Marquez, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+									400 button 1920 Arturo Salgado Marquez, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+										401 button
+										402 text 1920
+										403 text Arturo Salgado Marquez, "Uruguay, registro civil, 1879-2020"
+										404 text 21 de fevereiro de 2024
+										405 button Sandramacedo3
+								1668 container Pmonkpftrrrs
+									1669 button VISUALIZAR
+									1670 button EDITAR
+									1671 button ANALISAR ANEXOS
+									1672 button DESANEXAR
+									1673 heading Marcadores, Value: 3
+										1674 text Marcadores
+									1675 button Sexo
+									1676 button Nome
+									1677 button + Acrescentar marcação
+									1678 heading Data da fonte 13 de setembro de 1920, Value: 3
+										1679 text Data da fonte
+										1680 text 13 de setembro de 1920
+									1681 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6232-6Q51, Value: 3
+										1682 text Página do site (link para o registro)
+										1683 link Description: https://familysearch.org/ark:/61903/1:1:6232-6Q51, Value: familysearch.org/ark:/61903/1:1:6232-6Q…
+									1684 heading Onde o registro foi encontrado (referência) , Value: 3
+										1685 text Onde o registro foi encontrado (referência)
+									1686 container
+										1687 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6232-6Q5B : Tue Mar 19 19:16:54 UTC 2024), Entry for Ema Alice Salgado Mendez and Arturo Salgado Marquez, 13 Sep 1920.
+									1688 heading Informações indexadas, Value: 3
+										1689 text Informações indexadas
+									1690 button EXIBIR
+									1691 heading Fonte modificada:, Value: 3
+										1692 text Fonte modificada:
+									1693 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1694 text 21 de fevereiro de 2024
+									1695 button Sandramacedo3
+									1696 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1697 text Motivo pela qual esta fonte está anexada:
+									1698 button + ACRESCENTAR
+							406 container Q9BM-7P6
+								407 button (expanded) Secondary Actions: Collapse, 1921 Arturo Márquez Salgado, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+									408 button 1921 Arturo Márquez Salgado, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+										409 button
+										410 text 1921
+										411 text Arturo Márquez Salgado, "Uruguay, registros parroquiales, 1726-2000"
+										412 text 30 de dezembro de 2022
+										413 button Rogério J Barbosa
+								414 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								415 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/art…
+								416 button ANEXOS COM INDIVÍDUOS PENDENTES
+								417 button DISPENSAR
+								1699 container T5062j252hz
+									1700 button VISUALIZAR
+									1701 button EDITAR
+									1702 button ANALISAR ANEXOS
+									1703 button DESANEXAR
+									1704 heading Marcadores, Value: 3
+										1705 text Marcadores
+									1706 button Sexo
+									1707 button Nome
+									1708 button + Acrescentar marcação
+									1709 heading Data da fonte 23 de abril de 1921, Value: 3
+										1710 text Data da fonte
+										1711 text 23 de abril de 1921
+									1712 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:68XR-VMBH, Value: 3
+										1713 text Página do site (link para o registro)
+										1714 link Description: https://familysearch.org/ark:/61903/1:1:68XR-VMBH, Value: familysearch.org/ark:/61903/1:1:68XR-VM…
+									1715 heading Onde o registro foi encontrado (referência) , Value: 3
+										1716 text Onde o registro foi encontrado (referência)
+									1717 container
+										1718 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:68XR-VMB4 : Thu Jan 01 07:57:39 UTC 2026), Entry for Ema Alice and Luís Ferrari, 23 de abril de 1921.
+									1719 heading Informações indexadas, Value: 3
+										1720 text Informações indexadas
+									1721 button EXIBIR
+									1722 heading Fonte modificada:, Value: 3
+										1723 text Fonte modificada:
+									1724 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1725 text 30 de dezembro de 2022
+									1726 button Rogério J Barbosa
+									1727 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1728 text Motivo pela qual esta fonte está anexada:
+									1729 button + ACRESCENTAR
+							418 container Q9BM-NMZ
+								419 button (expanded) Secondary Actions: Collapse, 1921 {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+									420 button 1921 {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+										421 button
+										422 text 1921
+										423 text {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930”
+										424 text 30 de dezembro de 2022
+										425 button Rogério J Barbosa
+								1730 container qtpuvv4g2lwt
+									1731 button VISUALIZAR
+									1732 button EDITAR
+									1733 button ANALISAR ANEXOS
+									1734 button DESANEXAR
+									1735 heading Marcadores, Value: 3
+										1736 text Marcadores
+									1737 button Sexo
+									1738 button Nome
+									1739 button + Acrescentar marcação
+									1740 heading Data da fonte 23 de abril de 1921, Value: 3
+										1741 text Data da fonte
+										1742 text 23 de abril de 1921
+									1743 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:HR3H-YHW2, Value: 3
+										1744 text Página do site (link para o registro)
+										1745 link Description: https://familysearch.org/ark:/61903/1:1:HR3H-YHW2, Value: familysearch.org/ark:/61903/1:1:HR3H-YH…
+									1746 heading Onde o registro foi encontrado (referência) , Value: 3
+										1747 text Onde o registro foi encontrado (referência)
+									1748 container
+										1749 text "Perú, bautismos, 1556-1930", database,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:HR3H-YHW2 : 8 February 2020), Arturo Marquez Salgado in entry for Ema Alice Marquez Salgado, 1921.
+									1750 heading Informações indexadas, Value: 3
+										1751 text Informações indexadas
+									1752 button EXIBIR
+									1753 heading Fonte modificada:, Value: 3
+										1754 text Fonte modificada:
+									1755 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/change…
+									1756 text 30 de dezembro de 2022
+									1757 button Rogério J Barbosa
+									1758 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1759 text Motivo pela qual esta fonte está anexada:
+									1760 button + ACRESCENTAR
+							426 container Q9Y1-78H
+								427 button (expanded) Secondary Actions: Collapse, 1927 Arturo Salgado Marquez, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									428 button 1927 Arturo Salgado Marquez, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										429 button
+										430 text 1927
+										431 text Arturo Salgado Marquez, "Uruguay, Índice del Registro Civil, 1900-1937"
+										432 text 30 de dezembro de 2022
+										433 button Rogério J Barbosa
+								1761 container qxdx9e6745aq
+									1762 button VISUALIZAR
+									1763 button EDITAR
+									1764 button ANALISAR ANEXOS
+									1765 button DESANEXAR
+									1766 heading Marcadores, Value: 3
+										1767 text Marcadores
+									1768 button Nome
+									1769 button + Acrescentar marcação
+									1770 heading Data da fonte 1927, Value: 3
+										1771 text Data da fonte
+										1772 text 1927
+									1773 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3F-2PKT, Value: 3
+										1774 text Página do site (link para o registro)
+										1775 link Description: https://familysearch.org/ark:/61903/1:1:QG3F-2PKT, Value: …
+									1776 heading Onde o registro foi encontrado (referência) , Value: 3
+										1777 text Onde o registro foi encontrado (referência)
+									1778 container
+										1779 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3F-2PKT : Wed Sep 17 11:38:59 UTC 2025), Entry for Arturo Salgado Marquez and Manuel Salgado, 1927.
+									1780 heading Informações indexadas, Value: 3
+										1781 text Informações indexadas
+									1782 button EXIBIR
+									1783 heading Fonte modificada:, Value: 3
+										1784 text Fonte modificada:
+									1785 link Description: VER ALTERAÇÕES, Value: …
+									1786 text 30 de dezembro de 2022
+									1787 button Rogério J Barbosa
+									1788 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1789 text Motivo pela qual esta fonte está anexada:
+									1790 button + ACRESCENTAR
+							434 container SQFC-KN6
+								435 button (expanded) Secondary Actions: Collapse, 1935 Arturo Marquez Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+									436 button 1935 Arturo Marquez Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+										437 button
+										438 text 1935
+										439 text Arturo Marquez Salgado, "Uruguay, Índice del Registro Civil, 1900-1937"
+										440 text 12 de janeiro de 2019
+										441 button Sergio AndresTortomano Claramunt
+								1791 container bkpxba1m041
+									1792 button VISUALIZAR
+									1793 button EDITAR
+									1794 button ANALISAR ANEXOS
+									1795 button DESANEXAR
+									1796 heading Marcadores, Value: 3
+										1797 text Marcadores
+									1798 button Sexo
+									1799 button Nome
+									1800 button + Acrescentar marcação
+									1801 heading Data da fonte 1935, Value: 3
+										1802 text Data da fonte
+										1803 text 1935
+									1804 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3F-ZCMM, Value: 3
+										1805 text Página do site (link para o registro)
+										1806 link Description: https://familysearch.org/ark:/61903/1:1:QG3F-ZCMM, Value: …
+									1807 heading Onde o registro foi encontrado (referência) , Value: 3
+										1808 text Onde o registro foi encontrado (referência)
+									1809 container
+										1810 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3F-N133 : Wed Sep 17 23:06:53 UTC 2025), Entry for Juan José Salgado Méndez and Arturo Marquez Salgado, 1935.
+									1811 heading Informações indexadas, Value: 3
+										1812 text Informações indexadas
+									1813 button EXIBIR
+									1814 heading Fonte modificada:, Value: 3
+										1815 text Fonte modificada:
+									1816 link Description: VER ALTERAÇÕES, Value: …
+									1817 text 12 de janeiro de 2019
+									1818 button Sergio AndresTortomano Claramunt
+									1819 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1820 text Motivo pela qual esta fonte está anexada:
+									1821 button + ACRESCENTAR
+							442 container 7W74-TXM
+								443 button (expanded) Secondary Actions: Collapse, 1935 Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020" 11 de outubro de 2024 treehelper_a35
+									444 button 1935 Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020" 11 de outubro de 2024 treehelper_a35
+										445 button
+										446 text 1935
+										447 text Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020"
+										448 text 11 de outubro de 2024
+										449 button treehelper_a35
+								1822 container T4glczutwzr2
+									1823 button VISUALIZAR
+									1824 button EDITAR
+									1825 button ANALISAR ANEXOS
+									1826 button DESANEXAR
+									1827 heading Marcadores, Value: 3
+										1828 text Marcadores
+									1829 button Sexo
+									1830 button Nome
+									1831 button + Acrescentar marcação
+									1832 heading Data da fonte 20 de abril de 1935, Value: 3
+										1833 text Data da fonte
+										1834 text 20 de abril de 1935
+									1835 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6RRY-KC2X, Value: 3
+										1836 text Página do site (link para o registro)
+										1837 link Description: https://familysearch.org/ark:/61903/1:1:6RRY-KC2X, Value: …
+									1838 heading Onde o registro foi encontrado (referência) , Value: 3
+										1839 text Onde o registro foi encontrado (referência)
+									1840 container
+										1841 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6RRY-KC26 : Fri Mar 08 23:50:47 UTC 2024), Entry for Juan Jose Salgado and Arturo Marquez Salgado, 20 Apr 1935.
+									1842 heading Informações indexadas, Value: 3
+										1843 text Informações indexadas
+									1844 button EXIBIR
+									1845 heading Fonte modificada:, Value: 3
+										1846 text Fonte modificada:
+									1847 link Description: VER ALTERAÇÕES, Value: …
+									1848 text 11 de outubro de 2024
+									1849 button treehelper_a35
+									1850 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1851 text Motivo pela qual esta fonte está anexada:
+									1852 button + ACRESCENTAR
+							450 container 7F83-XDM
+								451 button (expanded) Secondary Actions: Collapse, 1948 Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020" 24 de março de 2025 treehelper_a426
+									452 button 1948 Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020" 24 de março de 2025 treehelper_a426
+										453 button
+										454 text 1948
+										455 text Arturo Marquez Salgado, "Uruguay, registro civil, 1879-2020"
+										456 text 24 de março de 2025
+										457 button treehelper_a426
+								1853 container amx1urkcydk
+									1854 button VISUALIZAR
+									1855 button EDITAR
+									1856 button ANALISAR ANEXOS
+									1857 button DESANEXAR
+									1858 heading Marcadores, Value: 3
+										1859 text Marcadores
+									1860 button Sexo
+									1861 button Nome
+									1862 button + Acrescentar marcação
+									1863 heading Data da fonte 16 de março de 1948, Value: 3
+										1864 text Data da fonte
+										1865 text 16 de março de 1948
+									1866 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6RR5-4PDH, Value: 3
+										1867 text Página do site (link para o registro)
+										1868 link Description: https://familysearch.org/ark:/61903/1:1:6RR5-4PDH, Value: …
+									1869 heading Onde o registro foi encontrado (referência) , Value: 3
+										1870 text Onde o registro foi encontrado (referência)
+									1871 container
+										1872 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6RR5-4PD4 : Sun Mar 10 15:38:18 UTC 2024), Entry for Angelica Salgado Mendez and Arturo Marquez Salgado, 16 Mar 1948.
+									1873 heading Informações indexadas, Value: 3
+										1874 text Informações indexadas
+									1875 button EXIBIR
+									1876 heading Fonte modificada:, Value: 3
+										1877 text Fonte modificada:
+									1878 link Description: VER ALTERAÇÕES, Value: …
+									1879 text 24 de março de 2025
+									1880 button treehelper_a426
+									1881 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1882 text Motivo pela qual esta fonte está anexada:
+									1883 button + ACRESCENTAR
+							458 container QP73-6DC
+								459 button (expanded) 1949 Arturo Márquez Salgado, "Uruguay, registro civil, 1879-2020" 3 de março de 2024 Sandramacedo3, Secondary Actions: Collapse
+									460 button 1949 Arturo Márquez Salgado, "Uruguay, registro civil, 1879-2020" 3 de março de 2024 Sandramacedo3
+										461 button
+										462 text 1949
+										463 text Arturo Márquez Salgado, "Uruguay, registro civil, 1879-2020"
+										464 text 3 de março de 2024
+										465 button Sandramacedo3
+								466 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								467 link Description: SAIBA MAIS, Value: …
+								468 button ANEXOS COM INDIVÍDUOS PENDENTES
+								469 button DISPENSAR
+								1884 container X4nn5jl8u1po
+									1885 button VISUALIZAR
+									1886 button EDITAR
+									1887 button ANALISAR ANEXOS
+									1888 button DESANEXAR
+									1889 heading Marcadores, Value: 3
+										1890 text Marcadores
+									1891 button Sexo
+									1892 button Nome
+									1893 button + Acrescentar marcação
+									1894 heading Data da fonte 22 de dezembro de 1949, Value: 3
+										1895 text Data da fonte
+										1896 text 22 de dezembro de 1949
+									1897 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6VKT-K92M, Value: 3
+										1898 text Página do site (link para o registro)
+										1899 link Description: https://familysearch.org/ark:/61903/1:1:6VKT-K92M, Value: …
+									1900 heading Onde o registro foi encontrado (referência) , Value: 3
+										1901 text Onde o registro foi encontrado (referência)
+									1902 container
+										1903 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6VKT-7DNJ : Thu Jan 22 18:31:18 UTC 2026), Entry for Ricardo Alberto Mernes and Cecilio Mernes, 22 Dec 1949.
+									1904 heading Informações indexadas, Value: 3
+										1905 text Informações indexadas
+									1906 button EXIBIR
+									1907 heading Fonte modificada:, Value: 3
+										1908 text Fonte modificada:
+									1909 link Description: VER ALTERAÇÕES, Value: …
+									1910 text 3 de março de 2024
+									1911 button Sandramacedo3
+									1912 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1913 text Motivo pela qual esta fonte está anexada:
+									1914 button + ACRESCENTAR
+							470 container 9FKB-Y8B
+								471 button (expanded) Secondary Actions: Collapse, 1958 Arturo Marques Salgado, “Brasil, Cartões de Imigração, 1900-1980” 15 de julho de 2016 Alexandro9383
+									472 button 1958 Arturo Marques Salgado, “Brasil, Cartões de Imigração, 1900-1980” 15 de julho de 2016 Alexandro9383
+										473 button
+										474 text 1958
+										475 text Arturo Marques Salgado, “Brasil, Cartões de Imigração, 1900-1980”
+										476 text 15 de julho de 2016
+										477 button Alexandro9383
+								1915 container S9wo2yzf2o7e
+									1916 button VISUALIZAR
+									1917 button EDITAR
+									1918 button ANALISAR ANEXOS
+									1919 button DESANEXAR
+									1920 heading Marcadores, Value: 3
+										1921 text Marcadores
+									1922 button Sexo
+									1923 button Nome
+									1924 button + Acrescentar marcação
+									1925 heading Data da fonte 1958, Value: 3
+										1926 text Data da fonte
+										1927 text 1958
+									1928 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:27NZ-WLB, Value: 3
+										1929 text Página do site (link para o registro)
+										1930 link Description: https://familysearch.org/ark:/61903/1:1:27NZ-WLB, Value: …
+									1931 heading Onde o registro foi encontrado (referência) , Value: 3
+										1932 text Onde o registro foi encontrado (referência)
+									1933 container
+										1934 text "Brasil, Cartões de Imigração, 1900-1980",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:27NZ-WLY : Tue Jun 30 11:02:15 UTC 2026), Entry for Oscar Salgado Mendez and Arturo Marques Salgado, 1958.
+									1935 heading Informações indexadas, Value: 3
+										1936 text Informações indexadas
+									1937 button EXIBIR
+									1938 heading Fonte modificada:, Value: 3
+										1939 text Fonte modificada:
+									1940 link Description: VER ALTERAÇÕES, Value: …
+									1941 text 15 de julho de 2016
+									1942 button Alexandro9383
+									1943 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1944 text Motivo pela qual esta fonte está anexada:
+									1945 button + ACRESCENTAR
+							478 container 9FKB-TXZ
+								479 button (expanded) Secondary Actions: Collapse, 1962 Arturo Marquez Salgado, “Brasil, Cartões de Imigração, 1900-1980” 15 de julho de 2016 Alexandro9383
+									480 button 1962 Arturo Marquez Salgado, “Brasil, Cartões de Imigração, 1900-1980” 15 de julho de 2016 Alexandro9383
+										481 button
+										482 text 1962
+										483 text Arturo Marquez Salgado, “Brasil, Cartões de Imigração, 1900-1980”
+										484 text 15 de julho de 2016
+										485 button Alexandro9383
+								1946 container Eytla7wcyqh
+									1947 button VISUALIZAR
+									1948 button EDITAR
+									1949 button ANALISAR ANEXOS
+									1950 button DESANEXAR
+									1951 heading Marcadores, Value: 3
+										1952 text Marcadores
+									1953 button Sexo
+									1954 button Nome
+									1955 button + Acrescentar marcação
+									1956 heading Data da fonte 1962, Value: 3
+										1957 text Data da fonte
+										1958 text 1962
+									1959 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:27F6-3X9, Value: 3
+										1960 text Página do site (link para o registro)
+										1961 link Description: https://familysearch.org/ark:/61903/1:1:27F6-3X9, Value: …
+									1962 heading Onde o registro foi encontrado (referência) , Value: 3
+										1963 text Onde o registro foi encontrado (referência)
+									1964 container
+										1965 text "Brasil, Cartões de Imigração, 1900-1980",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:27F6-3XM : Sun Aug 23 22:28:30 UTC 2026), Entry for Oscar Salgado Méndez and Arturo Marquez Salgado, 1962.
+									1966 heading Informações indexadas, Value: 3
+										1967 text Informações indexadas
+									1968 button EXIBIR
+									1969 heading Fonte modificada:, Value: 3
+										1970 text Fonte modificada:
+									1971 link Description: VER ALTERAÇÕES, Value: …
+									1972 text 15 de julho de 2016
+									1973 button Alexandro9383
+									1974 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1975 text Motivo pela qual esta fonte está anexada:
+									1976 button + ACRESCENTAR
+							486 container 9FKB-TB1
+								487 button (expanded) 1963 Arturo Salgado, “Brasil, Cartões de Imigração, 1900-1980” 15 de julho de 2016 Alexandro9383, Secondary Actions: Collapse
+									488 button 1963 Arturo Salgado, “Brasil, Cartões de Imigração, 1900-1980” 15 de julho de 2016 Alexandro9383
+										489 button
+										490 text 1963
+										491 text Arturo Salgado, “Brasil, Cartões de Imigração, 1900-1980”
+										492 text 15 de julho de 2016
+										493 button Alexandro9383
+								1977 container Ryct1w2wrexr
+									1978 button VISUALIZAR
+									1979 button EDITAR
+									1980 button ANALISAR ANEXOS
+									1981 button DESANEXAR
+									1982 heading Marcadores, Value: 3
+										1983 text Marcadores
+									1984 button Sexo
+									1985 button Nome
+									1986 button + Acrescentar marcação
+									1987 heading Data da fonte 1963, Value: 3
+										1988 text Data da fonte
+										1989 text 1963
+									1990 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:KNGL-XPX, Value: 3
+										1991 text Página do site (link para o registro)
+										1992 link Description: https://familysearch.org/ark:/61903/1:1:KNGL-XPX, Value: …
+									1993 heading Onde o registro foi encontrado (referência) , Value: 3
+										1994 text Onde o registro foi encontrado (referência)
+									1995 container
+										1996 text "Brasil, Cartões de Imigração, 1900-1980",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:KNGL-XP6 : Wed Jul 08 08:54:57 UTC 2026), Entry for Oscar Salgado Méndez and Arturo Salgado, 1963.
+									1997 heading Informações indexadas, Value: 3
+										1998 text Informações indexadas
+									1999 button EXIBIR
+									2000 heading Fonte modificada:, Value: 3
+										2001 text Fonte modificada:
+									2002 link Description: VER ALTERAÇÕES, Value: …
+									2003 text 15 de julho de 2016
+									2004 button Alexandro9383
+									2005 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2006 text Motivo pela qual esta fonte está anexada:
+									2007 button + ACRESCENTAR
+							494 container 9J1N-XDM
+								495 button (expanded) Secondary Actions: Collapse, 1963 Arturo Salgado, “Brasil, Cartões de Imigração, 1900-1980” 14 de fevereiro de 2017 Rogério J Barbosa
+									496 button 1963 Arturo Salgado, “Brasil, Cartões de Imigração, 1900-1980” 14 de fevereiro de 2017 Rogério J Barbosa
+										497 button
+										498 text 1963
+										499 text Arturo Salgado, “Brasil, Cartões de Imigração, 1900-1980”
+										500 text 14 de fevereiro de 2017
+										501 button Rogério J Barbosa
+								2008 container qi3n3occeafj
+									2009 button VISUALIZAR
+									2010 button EDITAR
+									2011 button ANALISAR ANEXOS
+									2012 button DESANEXAR
+									2013 heading Marcadores, Value: 3
+										2014 text Marcadores
+									2015 button Sexo
+									2016 button Nome
+									2017 button + Acrescentar marcação
+									2018 heading Data da fonte 1963, Value: 3
+										2019 text Data da fonte
+										2020 text 1963
+									2021 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:27FD-YTG, Value: 3
+										2022 text Página do site (link para o registro)
+										2023 link Description: https://familysearch.org/ark:/61903/1:1:27FD-YTG, Value: …
+									2024 heading Onde o registro foi encontrado (referência) , Value: 3
+										2025 text Onde o registro foi encontrado (referência)
+									2026 container
+										2027 text "Brasil, Cartões de Imigração, 1900-1980",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:27FD-YTL : Sun Aug 23 22:28:30 UTC 2026), Entry for Oscar Salgado Méndez and Arturo Salgado, 1963.
+									2028 heading Informações indexadas, Value: 3
+										2029 text Informações indexadas
+									2030 button EXIBIR
+									2031 heading Fonte modificada:, Value: 3
+										2032 text Fonte modificada:
+									2033 link Description: VER ALTERAÇÕES, Value: …
+									2034 text 14 de fevereiro de 2017
+									2035 button Rogério J Barbosa
+									2036 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2037 text Motivo pela qual esta fonte está anexada:
+									2038 button + ACRESCENTAR
+							502 container QSZY-W8F
+								503 button (expanded) Secondary Actions: Collapse, 1963 Arturo Marquez, “Brasil, Cartões de Imigração, 1900-1980” 8 de janeiro de 2023 Rogério J Barbosa
+									504 button 1963 Arturo Marquez, “Brasil, Cartões de Imigração, 1900-1980” 8 de janeiro de 2023 Rogério J Barbosa
+										505 button
+										506 text 1963
+										507 text Arturo Marquez, “Brasil, Cartões de Imigração, 1900-1980”
+										508 text 8 de janeiro de 2023
+										509 button Rogério J Barbosa
+								2039 container P2asyikthl2i
+									2040 button VISUALIZAR
+									2041 button EDITAR
+									2042 button ANALISAR ANEXOS
+									2043 button DESANEXAR
+									2044 heading Marcadores, Value: 3
+										2045 text Marcadores
+									2046 button Sexo
+									2047 button Nome
+									2048 button + Acrescentar marcação
+									2049 heading Data da fonte 1963, Value: 3
+										2050 text Data da fonte
+										2051 text 1963
+									2052 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:27F8-R8K, Value: 3
+										2053 text Página do site (link para o registro)
+										2054 link Description: https://familysearch.org/ark:/61903/1:1:27F8-R8K, Value: …
+									2055 heading Onde o registro foi encontrado (referência) , Value: 3
+										2056 text Onde o registro foi encontrado (referência)
+									2057 container
+										2058 text "Brasil, Cartões de Imigração, 1900-1980",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:27F8-R8V : Fri Jul 31 13:26:23 UTC 2026), Entry for Elmira Marquez Salgado Mendez de Urro and Arturo Marquez, 1963.
+									2059 heading Informações indexadas, Value: 3
+										2060 text Informações indexadas
+									2061 button EXIBIR
+									2062 heading Fonte modificada:, Value: 3
+										2063 text Fonte modificada:
+									2064 link Description: VER ALTERAÇÕES, Value: …
+									2065 text 8 de janeiro de 2023
+									2066 button Rogério J Barbosa
+									2067 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2068 text Motivo pela qual esta fonte está anexada:
+									2069 button + ACRESCENTAR
+							510 container 7K7S-97T
+								511 button (expanded) 1977 Salgado, "Uruguay, registro civil, 1879-2020" 30 de maio de 2025 Isaacanokye, Secondary Actions: Collapse
+									512 button 1977 Salgado, "Uruguay, registro civil, 1879-2020" 30 de maio de 2025 Isaacanokye
+										513 button
+										514 text 1977
+										515 text Salgado, "Uruguay, registro civil, 1879-2020"
+										516 text 30 de maio de 2025
+										517 button Isaacanokye
+								2070 container gp5hf9pdlien
+									2071 button VISUALIZAR
+									2072 button EDITAR
+									2073 button ANALISAR ANEXOS
+									2074 button DESANEXAR
+									2075 heading Marcadores, Value: 3
+										2076 text Marcadores
+									2077 button Sexo
+									2078 button Nome
+									2079 button + Acrescentar marcação
+									2080 heading Data da fonte 30 de novembro de 1977, Value: 3
+										2081 text Data da fonte
+										2082 text 30 de novembro de 1977
+									2083 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:624D-H9RW, Value: 3
+										2084 text Página do site (link para o registro)
+										2085 link Description: https://familysearch.org/ark:/61903/1:1:624D-H9RW, Value: …
+									2086 heading Onde o registro foi encontrado (referência) , Value: 3
+										2087 text Onde o registro foi encontrado (referência)
+									2088 container
+										2089 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:624D-H9R7 : Sun Jul 07 02:14:27 UTC 2024), Entry for Carolina Isabel Salgado Mendez de Beltramelli and Salgado, 30 Nov 1977.
+									2090 heading Informações indexadas, Value: 3
+										2091 text Informações indexadas
+									2092 button EXIBIR
+									2093 heading Fonte modificada:, Value: 3
+										2094 text Fonte modificada:
+									2095 link Description: VER ALTERAÇÕES, Value: …
+									2096 text 30 de maio de 2025
+									2097 button Isaacanokye
+									2098 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2099 text Motivo pela qual esta fonte está anexada:
+									2100 button + ACRESCENTAR
+							518 container QGVZ-6WK
+								519 button (expanded) 1978 Arturo Salgado, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3, Secondary Actions: Collapse
+									520 button 1978 Arturo Salgado, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+										521 button
+										522 text 1978
+										523 text Arturo Salgado, "Uruguay, registro civil, 1879-2020"
+										524 text 21 de fevereiro de 2024
+										525 button Sandramacedo3
+								2101 container Qqorgmjklf6o
+									2102 button VISUALIZAR
+									2103 button EDITAR
+									2104 button ANALISAR ANEXOS
+									2105 button DESANEXAR
+									2106 heading Marcadores, Value: 3
+										2107 text Marcadores
+									2108 button Sexo
+									2109 button Nome
+									2110 button + Acrescentar marcação
+									2111 heading Data da fonte 10 de julho de 1978, Value: 3
+										2112 text Data da fonte
+										2113 text 10 de julho de 1978
+									2114 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6L4X-C4VR, Value: 3
+										2115 text Página do site (link para o registro)
+										2116 link Description: https://familysearch.org/ark:/61903/1:1:6L4X-C4VR, Value: …
+									2117 heading Onde o registro foi encontrado (referência) , Value: 3
+										2118 text Onde o registro foi encontrado (referência)
+									2119 container
+										2120 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6L4X-C4V5 : Sun Mar 10 22:34:50 UTC 2024), Entry for Eurídice Salgado Méndez and Arturo Salgado, 10 Jul 1978.
+									2121 heading Informações indexadas, Value: 3
+										2122 text Informações indexadas
+									2123 button EXIBIR
+									2124 heading Fonte modificada:, Value: 3
+										2125 text Fonte modificada:
+									2126 link Description: VER ALTERAÇÕES, Value: …
+									2127 text 21 de fevereiro de 2024
+									2128 button Sandramacedo3
+									2129 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2130 text Motivo pela qual esta fonte está anexada:
+									2131 button + ACRESCENTAR
+							526 container WDTL-35W
+								527 button (expanded) Secondary Actions: Collapse, 2001 Arturo Marques Salgado, “Brasil, Mato Grosso, Registro Civil, 1845-2014” 9 de agosto de 2026 Sandramacedo3
+									528 button 2001 Arturo Marques Salgado, “Brasil, Mato Grosso, Registro Civil, 1845-2014” 9 de agosto de 2026 Sandramacedo3
+										529 button
+										530 text 2001
+										531 text Arturo Marques Salgado, “Brasil, Mato Grosso, Registro Civil, 1845-2014”
+										532 text 9 de agosto de 2026
+										533 button Sandramacedo3
+								534 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								535 link Description: SAIBA MAIS, Value: …
+								536 button ANEXOS COM INDIVÍDUOS PENDENTES
+								537 button DISPENSAR
+								2132 container Qao7j7qn5j7p
+									2133 button VISUALIZAR
+									2134 button EDITAR
+									2135 button ANALISAR ANEXOS
+									2136 button DESANEXAR
+									2137 heading Marcadores, Value: 3
+										2138 text Marcadores
+									2139 button Falecimento
+									2140 button Sexo
+									2141 button Nome
+									2142 button + Acrescentar marcação
+									2143 heading Data da fonte 9 de maio de 2001, Value: 3
+										2144 text Data da fonte
+										2145 text 9 de maio de 2001
+									2146 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:65TG-SR3R, Value: 3
+										2147 text Página do site (link para o registro)
+										2148 link Description: https://familysearch.org/ark:/61903/1:1:65TG-SR3R, Value: …
+									2149 heading Onde o registro foi encontrado (referência) , Value: 3
+										2150 text Onde o registro foi encontrado (referência)
+									2151 container
+										2152 text "Brasil, Mato Grosso, Registro Civil, 1845-2014",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:65TG-SR35 : Thu May 28 12:49:13 UTC 2026), Entry for Oscar Salgado Mendes and Arturo Marques Salgado, 9 May 2001.
+									2153 heading Informações indexadas, Value: 3
+										2154 text Informações indexadas
+									2155 button EXIBIR
+									2156 heading Fonte modificada:, Value: 3
+										2157 text Fonte modificada:
+									2158 link Description: VER ALTERAÇÕES, Value: …
+									2159 text 9 de agosto de 2026
+									2160 button Sandramacedo3
+									2161 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2162 text Motivo pela qual esta fonte está anexada:
+									2163 button + ACRESCENTAR
+							538 container Q9BM-CP1
+								539 button (expanded) Secondary Actions: Collapse, + ACRESCENTAR Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									540 button + ACRESCENTAR Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										541 button
+										542 link Description: + ACRESCENTAR, Value: …
+										543 text Arturo, "Uruguay, Índice del Registro Civil, 1900-1937"
+										544 text 30 de dezembro de 2022
+										545 button Rogério J Barbosa
+								2164 container Qi2x4vx1vegs
+									2165 button VISUALIZAR
+									2166 button EDITAR
+									2167 button ANALISAR ANEXOS
+									2168 button DESANEXAR
+									2169 heading Marcadores, Value: 3
+										2170 text Marcadores
+									2171 button Sexo
+									2172 button Nome
+									2173 button + Acrescentar marcação
+									2174 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QGP5-WSDR, Value: 3
+										2175 text Página do site (link para o registro)
+										2176 link Description: https://familysearch.org/ark:/61903/1:1:QGP5-WSDR, Value: …
+									2177 heading Onde o registro foi encontrado (referência) , Value: 3
+										2178 text Onde o registro foi encontrado (referência)
+									2179 container
+										2180 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QGP5-WSDV : Wed Sep 02 11:48:59 UTC 2026), Entry for Euridice Marquez Salgado Mendez and Arturo.
+									2181 heading Informações indexadas, Value: 3
+										2182 text Informações indexadas
+									2183 button EXIBIR
+									2184 heading Fonte modificada:, Value: 3
+										2185 text Fonte modificada:
+									2186 link Description: VER ALTERAÇÕES, Value: …
+									2187 text 30 de dezembro de 2022
+									2188 button Rogério J Barbosa
+									2189 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2190 text Motivo pela qual esta fonte está anexada:
+									2191 button + ACRESCENTAR
+							546 container Q9Y1-ZKL
+								547 button (expanded) Secondary Actions: Collapse, + ACRESCENTAR Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									548 button + ACRESCENTAR Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										549 button
+										550 link Description: + ACRESCENTAR, Value: …
+										551 text Arturo, "Uruguay, Índice del Registro Civil, 1900-1937"
+										552 text 30 de dezembro de 2022
+										553 button Rogério J Barbosa
+								2192 container F9w5j0z404dr
+									2193 button VISUALIZAR
+									2194 button EDITAR
+									2195 button ANALISAR ANEXOS
+									2196 button DESANEXAR
+									2197 heading Marcadores, Value: 3
+										2198 text Marcadores
+									2199 button Sexo
+									2200 button Nome
+									2201 button + Acrescentar marcação
+									2202 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QGP5-4XV3, Value: 3
+										2203 text Página do site (link para o registro)
+										2204 link Description: https://familysearch.org/ark:/61903/1:1:QGP5-4XV3, Value: …
+									2205 heading Onde o registro foi encontrado (referência) , Value: 3
+										2206 text Onde o registro foi encontrado (referência)
+									2207 container
+										2208 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QGP5-4XJ1 : Tue Sep 01 23:48:33 UTC 2026), Entry for René Concepción Marquez Salgado Mendes and Arturo.
+									2209 heading Informações indexadas, Value: 3
+										2210 text Informações indexadas
+									2211 button EXIBIR
+									2212 heading Fonte modificada:, Value: 3
+										2213 text Fonte modificada:
+									2214 link Description: VER ALTERAÇÕES, Value: …
+									2215 text 30 de dezembro de 2022
+									2216 button Rogério J Barbosa
+									2217 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2218 text Motivo pela qual esta fonte está anexada:
+									2219 button + ACRESCENTAR
+							554 container SQFC-THY
+								555 button (expanded) Secondary Actions: Collapse, + ACRESCENTAR Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+									556 button + ACRESCENTAR Arturo, "Uruguay, Índice del Registro Civil, 1900-1937" 12 de janeiro de 2019 Sergio AndresTortomano Claramunt
+										557 button
+										558 link Description: + ACRESCENTAR, Value: …
+										559 text Arturo, "Uruguay, Índice del Registro Civil, 1900-1937"
+										560 text 12 de janeiro de 2019
+										561 button Sergio AndresTortomano Claramunt
+								2220 container Ru0g6c7dp8u
+									2221 button VISUALIZAR
+									2222 button EDITAR
+									2223 button ANALISAR ANEXOS
+									2224 button DESANEXAR
+									2225 heading Marcadores, Value: 3
+										2226 text Marcadores
+									2227 button Sexo
+									2228 button Nome
+									2229 button + Acrescentar marcação
+									2230 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QGP5-4NC2, Value: 3
+										2231 text Página do site (link para o registro)
+										2232 link Description: https://familysearch.org/ark:/61903/1:1:QGP5-4NC2, Value: …
+									2233 heading Onde o registro foi encontrado (referência) , Value: 3
+										2234 text Onde o registro foi encontrado (referência)
+									2235 container
+										2236 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QGP5-4NCN : Wed Sep 02 11:15:03 UTC 2026), Entry for Juan José Marquez Salgado Mendez and Arturo.
+									2237 heading Informações indexadas, Value: 3
+										2238 text Informações indexadas
+									2239 button EXIBIR
+									2240 heading Fonte modificada:, Value: 3
+										2241 text Fonte modificada:
+									2242 link Description: VER ALTERAÇÕES, Value: …
+									2243 text 12 de janeiro de 2019
+									2244 button Sergio AndresTortomano Claramunt
+									2245 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2246 text Motivo pela qual esta fonte está anexada:
+									2247 button + ACRESCENTAR
+				21 container
+					22 container Links no rodapé
+						562 link Description: Sobre, Value: …
+						563 link Description: Voluntário, Value: …
+						564 link Description: Blog, Value: …
+						565 link Description: Encontrar antepassados, Value: …
+						566 link Description: DNA, Value: …
+						567 link Description: Entre em Contato Conosco, Value: …
+						568 link Description: Mapa do Site, Value: …
+						23 text |
+						24 button mais links
+					25 container Links jurídicos
+						569 link Description: Suporte de acessibilidade, Value: …
+						27 container
+							570 link Description: Termos de uso do FamilySearch, Value: …
+							29 text  | 
+							571 link Description: Notificação de privacidade, Value: …
+							33 text  | 
+							572 link Description: Mapa do Site, Value: …
+							35 text  | 
+							573 link Description: Opções de país e idioma, Value: …
+						37 container
+							574 text © 2026 Intellectual Reserve, Inc. Todos os direitos reservados. Um serviço fornecido por 
+							39 link Description: A Igreja de Jesus Cristo dos Santos dos Últimos Dias, Value: …
+							575 text .
+
+The focused UI element is 82 switch Description: Visualização detalhada, Value: 1

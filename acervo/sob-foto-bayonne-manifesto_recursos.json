@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.0",
+  "verified_on": "2026-09-07",
+  "purpose": "Recursos reais de contexto geográfico para a narrativa do sobrenome; não constituem prova de residência ou parentesco.",
+  "images": [
+    {
+      "id": "SOB-FOTO-CHALOSSE",
+      "title": "Panorama da Chalosse visto da via verde em Montfort",
+      "author": "BotaFlo",
+      "date": "2025-09-16",
+      "date_basis": "Ficha e metadados oficiais da imagem no Wikimedia Commons.",
+      "page_url": "https://commons.wikimedia.org/wiki/File:2025-09-16_Montfort-Chalosse_panorama_depuis_voie_verte_DSCF9218.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/2025-09-16_Montfort-Chalosse_panorama_depuis_voie_verte_DSCF9218.jpg",
+      "local_file": "chalosse-montfort-botaflo-2025.jpg",
+      "page_snapshot": "commons-chalosse-montfort.html",
+      "width": 3216,
+      "height": 1216,
+      "bytes": 692097,
+      "sha256": "8894464EE3BB28F10EAFBC8FB19E88DB3124A828BA63BB7EF5B9DF86D8E60261",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit": "Fotografia: BotaFlo, via Wikimedia Commons — CC BY 4.0.",
+      "caption_pt": "Paisagem da Chalosse vista da via verde em Montfort, em setembro de 2025.",
+      "alt_pt": "Pastagens e campos ondulados, cercas vivas, árvores e gado sob céu nublado.",
+      "scope_note": "Fotografia atual de contexto geográfico. Não apresentar como Arsague, Amou ou propriedade da família.",
+      "original_downloaded": true,
+      "visual_inspection": true,
+      "modifications": "Nenhuma; arquivo original preservado.",
+      "selection_status": "Recomendada para substituir Banos; inspeção visual não encontrou as faixas ou blocos relatados na imagem anterior."
+    },
+    {
+      "id": "SOB-FOTO-BAYONNE",
+      "title": "Bayonne Adour HdV",
+      "author": "Cham",
+      "date": "2004-04-08",
+      "date_basis": "EXIF exibido na ficha Commons: 17:09, 8 April 2004",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Bayonne_Adour_HdV.jpg",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bayonne_Adour_HdV.jpg",
+      "local_file": "bayonne-adour-cham-2004.jpg",
+      "page_snapshot": "commons-bayonne.html",
+      "width": 1024,
+      "height": 768,
+      "bytes": 396951,
+      "sha256": "50E29AC3655C7203C6CF631BB6E9B05E5DC2A2C157200C8E07DFC83120ACC4EE",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "license_note": "Selecionada entre as licenças da ficha; também é oferecida sob GFDL.",
+      "credit": "Fotografia: Cham, via Wikimedia Commons — CC BY-SA 3.0.",
+      "caption_pt": "Bayonne vista da margem direita do Adour, em 2004.",
+      "alt_pt": "O Adour em primeiro plano e os edifícios de Bayonne na outra margem, sob céu com nuvens.",
+      "scope_note": "Vista geográfica contemporânea; não mostra uma viagem ou residência da família.",
+      "original_downloaded": true,
+      "visual_inspection": true,
+      "modifications": "Nenhuma; arquivo original preservado."
+    }
+  ],
+  "geography": {
+    "id": "SOB-GEO-DEPARTEMENTS2025",
+    "title": "Départements 2025 1000m (format GeoJSON)",
+    "producer": "data.gouv.fr",
+    "source_product": "IGN Admin Express para metrópole; conjunto oficial também contém territórios ultramarinos com outras fontes descritas na ficha.",
+    "page_url": "https://www.data.gouv.fr/datasets/contours-administratifs",
+    "api_metadata_url": "https://www.data.gouv.fr/api/1/datasets/contours-administratifs/",
+    "file_url": "https://object.data.gouv.fr/contours-administratifs/2025/geojson/departements-1000m.geojson",
+    "local_file": "departements-2025-1000m.geojson",
+    "metadata_snapshot": "contours-administratifs-metadata.json",
+    "bytes": 337886,
+    "sha256": "C4BE02F0454ADDB63D8A327D008FE983561D3E063340825F953B3A4E59A2198F",
+    "license": "ODbL 1.0 conforme ficha do conjunto",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "feature_collection_count": 109,
+    "metropolitan_feature_count": 96,
+    "metropole_code_rule": "Código 01 a 95, incluindo 2A e 2B; filtrar códigos de 3 algarismos para o mapa metropolitano.",
+    "geometry_types": [
+      "Polygon",
+      "MultiPolygon"
+    ],
+    "property_keys": [
+      "code",
+      "nom",
+      "region"
+    ],
+    "verified_targets": [
+      {
+        "code": "33",
+        "nom": "Gironde",
+        "region": "75"
+      },
+      {
+        "code": "40",
+        "nom": "Landes",
+        "region": "75"
+      },
+      {
+        "code": "64",
+        "nom": "Pyrénées-Atlantiques",
+        "region": "75"
+      }
+    ],
+    "credit": "Limites administrativos: data.gouv.fr, Contours administratifs 2025, a partir de IGN Admin Express — ODbL.",
+    "usage": "Orientação geográfica atual, com limites generalizados em 1000m. Não chamar de mapa histórico de 1891, nem usar os contornos como evidência de migração.",
+    "finer_alternative_url": "https://object.data.gouv.fr/contours-administratifs/2025/geojson/departements-100m.geojson",
+    "finer_alternative_status": "URL observada nos metadados; não baixada nesta rodada."
+  },
+  "series": {
+    "id": "SOB-INSEE",
+    "page_url": "https://www.insee.fr/fr/statistiques/3536630",
+    "existing_dataset": "../sobrenome/guicheney_distribuicao_observada.json",
+    "publication_date": "2018-05-22",
+    "surname_exact": "GUICHENEY",
+    "periods": [
+      "1891–1900",
+      "1901–1910",
+      "1911–1920",
+      "1921–1930",
+      "1931–1940",
+      "1941–1950",
+      "1951–1960",
+      "1961–1970",
+      "1971–1980",
+      "1981–1990",
+      "1991–2000"
+    ],
+    "counts": [
+      25,
+      31,
+      28,
+      31,
+      25,
+      43,
+      32,
+      32,
+      37,
+      35,
+      24
+    ],
+    "total_calculated": 343,
+    "total_to_1990_calculated": 319,
+    "documentation_rechecked": true,
+    "notes": [
+      "Série de nascimento no universo definido pelo INSEE, não população viva ou emigração.",
+      "Metrópole1891–2000 exclui nascidos antes de1946 e falecidos antes de1972; cobertura ultramarina especificada pelo INSEE começa em1900.",
+      "Limite de divulgação é30 ocorrências na série inteira. Departamentos abaixo do limiar são agrupados emXX; XX não é uma unidade cartografável.",
+      "Filae usa quatro faixas de25 anos até1990, não estas11 décadas; sua soma320 difere da oficial319 até1990. Não ajustar um conjunto ao outro.",
+      "Nenhuma nova extração foi feita; reutilizar os dados oficiais já preservados e documentados no projeto."
+    ]
+  },
+  "rejected_images": [
+    {
+      "id": "SOB-FOTO-CHALOSSE-BANOS",
+      "title": "Chalosse vue depuis Banos",
+      "author": "Jibi44",
+      "date": "2014-12-23",
+      "date_basis": "Descrição da fotografia e EXIF",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Chalosse_vue_depuis_Banos.JPG",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Chalosse_vue_depuis_Banos.JPG",
+      "local_file": "chalosse-banos-jibi44-2014.jpg",
+      "page_snapshot": "commons-chalosse.html",
+      "width": 4608,
+      "height": 3456,
+      "bytes": 3712540,
+      "sha256": "36BCB730BD70CB753C5A28C2BCC46417E8FB4286B6A7793560FFC25221500103",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit": "Fotografia: Jibi44, via Wikimedia Commons — CC BY-SA 4.0.",
+      "caption_pt": "A paisagem da Chalosse vista de Banos, no sul de Landes, em 2014.",
+      "alt_pt": "Campos, vinhas e pequenos bosques vistos de uma elevação, sob névoa no horizonte.",
+      "scope_note": "Banos é o local indicado pelo fotógrafo. Não apresentar como Arsague, Amou ou uma propriedade familiar.",
+      "original_downloaded": true,
+      "visual_inspection": true,
+      "modifications": "Nenhuma; arquivo original preservado.",
+      "selection_status": "Fora da seleção visual; original preservado para rastreabilidade.",
+      "checksum_check": "SHA-1 E90BD3E216A8ED64C545F83CD2CF1CBBDB8BF0B4 coincide com o checksum do original no Commons; não há evidência de corrupção durante o download."
+    }
+  ]
+}

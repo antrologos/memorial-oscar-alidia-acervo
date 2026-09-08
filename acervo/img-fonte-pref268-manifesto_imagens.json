@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "research_date": "2026-09-07",
+  "scope": "Fotografias dos lugares do Banco Francês e Brasileiro e endereços documentados de Jean Guicheney; arquivos fora do site.",
+  "editorial_rules": [
+    "Endereço declarado de residência, endereço de emprego, local visitado e localização de uma agência são categorias diferentes.",
+    "Fotografias de épocas distintas não demonstram presença de Jean no momento da tomada.",
+    "A fotografia de cerca de 1910 mostra o Brasilianische Bank für Deutschland, não o Banco Francês e Brasileiro naquela data.",
+    "Não confundir Banco Francês e Brasileiro/Banco Franco Brasileiro com Banco Francês e Italiano.",
+    "Não interpretar a expressão hoje da ficha IMS como atualização de ocupação em 2026.",
+    "Anúncios contemporâneos comprovam apenas o endereço anunciado; não comprovam continuidade da construção histórica nem a identidade de um apartamento."
+  ],
+  "documented_addresses": [
+    {
+      "id": "jean-residencia-1950",
+      "type": "residencia_declarada",
+      "address": "Rua Corumbá, 101 — Sumaré, São Paulo",
+      "date": "1950-01-18",
+      "refs": [
+        "D13"
+      ],
+      "verification": "Campo Residência lido visualmente em jean-1950.jpg.",
+      "image_status": "Somente anúncios atuais localizados; licença de reutilização e continuidade material não verificadas."
+    },
+    {
+      "id": "jean-emprego-1950",
+      "type": "endereco_de_emprego_declarado",
+      "address": "Rua 15 de Novembro, 268 — São Paulo",
+      "date": "1950-01-18",
+      "refs": [
+        "D13",
+        "IMG-FONTE-BASTIDE1952",
+        "IMG-FONTE-PREF268"
+      ],
+      "verification": "Campo Emprego lido visualmente em jean-1950.jpg. D13 não nomeia o empregador. Carta de Roger Bastide de 20/02/1952 dá este endereço ao Banco Francês e Brasileiro; cadastro de patrimônio municipal associa o nº268/esquina Três de Dezembro 34 ao Banco Franco Brasileiro.",
+      "image_status": "Duas fotos selecionadas, cerca de 1910 e 2009."
+    },
+    {
+      "id": "jean-residencia-1968-1969",
+      "type": "residencia_declarada",
+      "address": "Rua Baroneza de Itú, 752 — São Paulo",
+      "normalized_for_search": "Rua Baronesa de Itu, 752 — São Paulo",
+      "dates": [
+        "1968-10-23",
+        "1969-04-17"
+      ],
+      "refs": [
+        "D14",
+        "D15"
+      ],
+      "verification": "D14 lido visualmente em jean-1968.jpg; D15 coincide conforme ficha do acervo. A data 20/05/1964 é de expedição da carteira citada, não início demonstrado da residência.",
+      "image_status": "Loft apresenta fachada do Condomínio Edifício Celia no endereço; sem licença aberta e sem continuidade histórica demonstrada."
+    },
+    {
+      "id": "jean-visita-bh-1957",
+      "type": "agencia_em_evento_documentado",
+      "address": "Rua Carijós, 550/554 — Belo Horizonte",
+      "date": "1957-12-09",
+      "date_role": "Data do jornal que relata a visita",
+      "refs": [
+        "J-BINOMIO"
+      ],
+      "verification": "Reportagem do Binômio, p.16, relaciona Jean e a agência; fonte existente no acervo. Fotografia de grupo não identifica a posição de Jean.",
+      "image_status": "Fotografia da reportagem já no acervo; não criada nova reprodução nesta rodada."
+    },
+    {
+      "id": "jean-paris-1949",
+      "type": "residencia_declarada_cidade",
+      "address": "Paris",
+      "dates": [
+        "1949-04-13",
+        "1949-10-25"
+      ],
+      "refs": [
+        "D10",
+        "D11",
+        "D12"
+      ],
+      "verification": "Cidade declarada; nenhum endereço de rua extraído desses documentos nesta rodada.",
+      "image_status": "Sem escolha de rua parisiense arbitrária."
+    }
+  ],
+  "reusable_images": [
+    {
+      "id": "IMG-BFB-SP-1910",
+      "file": "sao-paulo-banco-pastore-c1910.jpg",
+      "title": "Edifício do Brasilianische Bank für Deutschland",
+      "author": "Vincenzo Pastore",
+      "collection": "Acervo Instituto Moreira Salles, coleção Vincenzo Pastore",
+      "institutional_identifier": "004VP002.jpg",
+      "date_label": "cerca de 1910",
+      "date_range": [
+        1905,
+        1915
+      ],
+      "page_url": "https://acervos.ims.com.br/index.php/Detail/objects/172814?lang=pt_BR",
+      "download_page_url": "https://commons.wikimedia.org/w/index.php?curid=65418308",
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Edif%C3%ADcio_do_Brasilianische_Bank_f%C3%BCr_Deutschland_-_Vincenzo_Pastore.jpg",
+      "license": "Domínio público",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rights_evidence": "IMS declara domínio público e download liberado, com uso cultural e crédito ao autor/acervo; Wikimedia também declara domínio público.",
+      "credit": "Vincenzo Pastore/Acervo Instituto Moreira Salles",
+      "width": 2500,
+      "height": 3305,
+      "bytes": 1468838,
+      "sha256": "EC27F380003A552106E4378B9FFDC9D3F3FD934A7D738CFD08B248DBF0F4B9B1",
+      "modified": false,
+      "visual_check": "Original aberto e inspecionado; íntegro. Marca IMS já presente no arquivo, preservada.",
+      "caption": "Rua XV de Novembro com Rua Três de Dezembro, em São Paulo, cerca de 1910. O prédio abrigava então o Brasilianische Bank für Deutschland e seria depois ocupado pelo Banco Francês e Brasileiro.",
+      "relation_to_jean": "O endereço profissional de Jean em 1950 é Rua 15 de Novembro 268 (D13); fontes municipais identificam esse edifício no nº268/esquina Três de Dezembro 34. A foto antecede a fase brasileira de Jean.",
+      "refs": [
+        "D13",
+        "IMG-FONTE-PREF268",
+        "IMG-FONTE-BASTIDE1952"
+      ],
+      "limits": [
+        "Não é fotografia de Jean.",
+        "Não nomear o prédio Banco Francês e Brasileiro em 1910.",
+        "O edifício ganhou pavimento adicional entre esta foto e vistas posteriores; não tratar como aparência exata de 1950 sem prova cronológica."
+      ]
+    },
+    {
+      "id": "IMG-BFB-SP-2009",
+      "file": "sao-paulo-xv-novembro-lukaaz-2009.jpg",
+      "title": "Rua XV de Novembro, SP - by Lucas",
+      "author": "Lukaaz",
+      "collection": "Wikimedia Commons",
+      "date_label": "8 de março de 2009 (EXIF)",
+      "date": "2009-03-08",
+      "upload_date": "2010-05-08",
+      "page_url": "https://commons.wikimedia.org/w/index.php?curid=10277206",
+      "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Rua_XV_de_Novembro%2C_SP_-_by_Lucas.JPG",
+      "license": "Creative Commons Attribution 3.0 Unported",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "credit": "Lukaaz/Wikimedia Commons — CC BY 3.0",
+      "width": 640,
+      "height": 480,
+      "bytes": 151361,
+      "sha256": "9357767C530CC781F8FBAAE3587006871A94D2FFF5CB013C954ADA304E9AAC1D",
+      "modified": false,
+      "visual_check": "Original aberto e inspecionado. Vista da rua; edifício histórico parcialmente visível à esquerda.",
+      "caption": "A Rua XV de Novembro em 2009. À esquerda aparece o edifício de esquina associado ao antigo Banco Francês e Brasileiro.",
+      "relation_to_jean": "Vista posterior da rua de seu endereço de trabalho de 1950, contextualizada por D13 e cadastro municipal.",
+      "refs": [
+        "D13",
+        "IMG-FONTE-PREF268"
+      ],
+      "limits": [
+        "Resolução 640×480; usar como imagem pequena, não ampliar como hero.",
+        "É vista de2009, não fotografia atual de 2026.",
+        "A categorização Commons e cotejo visual sustentam o edifício à esquerda; a página do fotógrafo descreve a rua genericamente.",
+        "Não demonstra que Jean esteve ali em 2009."
+      ]
+    }
+  ],
+  "institutional_reference_only": [
+    {
+      "id": "IMG-BFB-RIO-1960",
+      "title": "[Praça Pio X]",
+      "author": "Fotógrafo não identificado",
+      "collection": "Acervo Light / Rio Memórias",
+      "institutional_identifier": "Obra 3067; identificador 452",
+      "date_label": "[déc. 1960]",
+      "page_url": "https://acervolight.riomemorias.com.br/explore/3067/praca-pio-x",
+      "file_url_observed": "https://light-acervo.s3.sa-east-1.amazonaws.com/1b826b17b1123a02c40ee2d4a14a5624.jpeg",
+      "caption": "Edifício do Banco Francês e Brasileiro na Praça Pio X, no Centro do Rio de Janeiro, na década de 1960. A Rua da Candelária aparece à direita, segundo a ficha do acervo.",
+      "license": "Licença de republicação não informada na ficha consultada.",
+      "downloaded": false,
+      "use_status": "Manter link externo ao acervo; não incorporar automaticamente a imagem ao site.",
+      "relation_to_jean": "Contexto institucional do banco durante sua vida; nenhum documento consultado nesta rodada situa Jean neste edifício.",
+      "limits": [
+        "O acervo disponibiliza visualização e compartilhamento por link; isso não foi convertido em licença aberta.",
+        "A ficha identifica a praça, sem número predial.",
+        "Data aproximada; não substituir por 1960 exato."
+      ]
+    }
+  ],
+  "residence_leads": [
+    {
+      "id": "IMG-PISTA-CORUMBA101",
+      "page_url": "https://www.sellimoveis.com.br/imovel/sobrado/venda/sao-paulo/sp/sumare/SO0103_SELL",
+      "address": "Rua Corumbá,101 — Sumaré",
+      "source": "Sell Imóveis, anúncio SO0103_SELL",
+      "status": "Anúncio indexado com endereço exato; página não carregou pelo leitor web nesta rodada.",
+      "license": "Não apurada; não baixado.",
+      "historical_limit": "Mesmo número de endereço de D13 não prova que o sobrado anunciado é a construção de 1950.",
+      "refs": [
+        "D13"
+      ]
+    },
+    {
+      "id": "IMG-PISTA-CELIA752",
+      "page_url": "https://loft.com.br/condominio/condominio-edificio-celia-santa-cecilia-sao-paulo-sp/7NR8B4FA",
+      "address": "Rua Baronesa de Itu,752 — Santa Cecília",
+      "source": "Loft, Condomínio Edifício Celia",
+      "status": "Página aberta; descreve 1 foto de fachada e endereço exato.",
+      "license": "Não apurada; não baixado.",
+      "historical_limit": "Não há aqui prova da data de construção nem de que a fachada atual corresponda ao imóvel ocupado por Jean em 1968–1969. Não usar data de cadastro CNPJ como data de construção.",
+      "refs": [
+        "D14",
+        "D15"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "IMG-FONTE-BASTIDE1952",
+      "url": "https://revistacult.uol.com.br/home/quebra-de-padrao/",
+      "title": "Aqui se fala sempre de você: cartas de Roger Bastide a Florestan Fernandes",
+      "nature": "Transcrição e tradução publicadas de carta do Fundo de Arquivo Florestan Fernandes, UFSCar",
+      "date_of_document": "1952-02-20",
+      "claim": "A carta identifica Banco Francês e Brasileiro em 268, rua 15 de Novembro. É confirmação independente de endereço da instituição, não testemunho sobre emprego de Jean.",
+      "access": "Página aberta no leitor web."
+    },
+    {
+      "id": "IMG-FONTE-PREF268",
+      "url": "https://www.prefeitura.sp.gov.br/web/habitacao/w/plantas_on_lineold/legislacao/11832",
+      "title": "Prefeitura de São Paulo — legislação, item Z8-200-056",
+      "nature": "Página municipal de legislação patrimonial",
+      "claim": "Associa Rua Quinze de Novembro 268 e Rua Três de Dezembro 34 ao Banco Franco Brasileiro.",
+      "access": "Trecho indexado consultado; abertura direta retornou erro de cache."
+    },
+    {
+      "id": "IMG-FONTE-IMS",
+      "url": "https://acervos.ims.com.br/index.php/Detail/objects/172814?lang=pt_BR",
+      "title": "IMS — Edifício do Brasilianische Bank für Deutschland,004VP002.jpg",
+      "nature": "Ficha institucional de fotografia",
+      "claim": "Autoria,data,local,uso bancário posterior e domínio público.",
+      "access": "Ficha HTML pública salva como ims-pastore-ficha.html."
+    },
+    {
+      "id": "IMG-FONTE-LIGHT",
+      "url": "https://acervolight.riomemorias.com.br/explore/3067/praca-pio-x",
+      "title": "Acervo Light — Praça Pio X, obra3067",
+      "nature": "Ficha institucional de fotografia",
+      "claim": "Fotografia do Banco Francês e Brasileiro no Rio, década de 1960.",
+      "access": "Ficha HTML pública salva; direitos de republicação não localizados."
+    }
+  ],
+  "research_limits": [
+    "Não foram procurados dados pessoais dos ocupantes contemporâneos das residências.",
+    "Não foram feitas aproximações de trajeto residência-trabalho ou inferências sobre meios de transporte.",
+    "Nenhuma imagem foi gerada, retocada ou recortada. Site não foi alterado."
+  ]
+}

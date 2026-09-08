@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "researchedAt": "2026-09-07",
+  "scope": "Jean Guicheney / Banco Francês e Brasileiro / SIMCA",
+  "sources": [
+    {
+      "id": "BFB-CM1966",
+      "title": "Balancete do Banco Francês e Brasileiro, 4 de fevereiro de 1966",
+      "publication": "Correio da Manhã, 19/02/1966, primeiro caderno, p. 13",
+      "url": "https://hemeroteca-pdf.bn.gov.br/089842/per089842_1966_22355.pdf",
+      "file": "correio_manha_1966-02-19.pdf",
+      "pdfPages": [
+        5
+      ],
+      "printedPages": [
+        "13"
+      ],
+      "type": "anuncio_institucional_contemporaneo",
+      "verification": "texto extraído e conferência visual da página completa",
+      "images": [
+        "correio_manha_1966-02-19_pdfp5.jpg"
+      ],
+      "limits": "Quadro BFB no canto inferior direito; o anúncio maior à esquerda pertence ao Banco Moreira Salles. Cargos não equivalem a datas de posse."
+    },
+    {
+      "id": "BFB-SIMCA1958",
+      "title": "Constituída a SIMCA do Brasil",
+      "publication": "O Observador, ano XXIII, nº 267, maio/1958, p. 70",
+      "url": "https://hemeroteca-pdf.bn.gov.br/123021/per123021_1958_00267.pdf",
+      "file": "simca_1958_maio267.pdf",
+      "pdfPages": [
+        73
+      ],
+      "printedPages": [
+        "70"
+      ],
+      "type": "noticia_contemporanea",
+      "verification": "texto extraído e leitura visual da página",
+      "images": [
+        "simca_1958_maio267_pdfp73.jpg"
+      ],
+      "limits": "Nome somente Sr. Guicheney; Jean Eugene explicitado na carta de 1959. O dia 5 não vem acompanhado de mês no corpo. Fábricas futuras eram projetos."
+    },
+    {
+      "id": "BFB-SEN1959",
+      "title": "Carta da SIMCA de 13/07/1959, lida na sessão do Senado de 14/07/1959",
+      "publication": "Anais do Senado, 1959, livro 5; 66ª sessão da 1ª sessão legislativa da 4ª legislatura",
+      "url": "https://www.senado.leg.br/publicacoes/anais/pdf/anais_republica/1959/1959%20livro%205.pdf",
+      "file": "senado_1959_livro5.pdf",
+      "pdfPages": [
+        392,
+        405,
+        406,
+        407,
+        408,
+        409
+      ],
+      "printedPages": [
+        "404",
+        "405",
+        "406",
+        "407",
+        "408"
+      ],
+      "type": "registro_parlamentar_transcricao_oficial_de_carta",
+      "verification": "texto lido; conferência visual da abertura da sessão, data da carta e nomes/cargos",
+      "images": [
+        "senado_1959_livro5_pdfp392.jpg",
+        "senado_1959_livro5_pdfp405.jpg",
+        "senado_1959_livro5_pdfp406.jpg",
+        "senado_1959_livro5_pdfp407.jpg",
+        "senado_1959_livro5_pdfp408.jpg",
+        "senado_1959_livro5_pdfp409.jpg"
+      ],
+      "limits": "Não é carta autógrafa; nomes corporativos transcritos. Não prova presença de Jean no Senado. Defesa comercial representa alegações da empresa."
+    },
+    {
+      "id": "BFB-FGV1949",
+      "title": "Estudos especiais: Os bancos estrangeiros no Brasil",
+      "publication": "Conjuntura Econômica, ano III, nº 3, 1949 (edição identificada por referência bibliográfica); p. 25",
+      "url": "https://periodicos.fgv.br/rce/article/download/49244/48081",
+      "file": "fgv_bancos_estrangeiros.pdf",
+      "pdfPages": [
+        3
+      ],
+      "printedPages": [
+        "25"
+      ],
+      "type": "estudo_institucional_contemporaneo",
+      "verification": "PDF integral extraído; página 25 conferida visualmente",
+      "images": [
+        "fgv_bancos_estrangeiros_pdfp3.jpg"
+      ],
+      "limits": "O PDF isolado não exibe data da edição na página lida; referência bibliográfica secundária disponível no repositório IPEA.",
+      "bibliographyCrosscheck": "https://repositorio.ipea.gov.br/bitstreams/f1edb0f4-dc53-4c7c-b327-9bfe0d250ec5/download"
+    },
+    {
+      "id": "BFB-INDOSUEZ",
+      "title": "Notre histoire — cartão 1947, Entrée au Brésil",
+      "url": "https://ca-indosuez.com/fr/nous-connaitre/notre-histoire",
+      "file": "indosuez_notre_histoire.html",
+      "type": "historia_institucional_retrospectiva",
+      "verification": "Texto web lido e HTML preservado; cartão id 1947-759 conferido",
+      "limits": "Operação Lyonnais referida como ocorrida no ano seguinte ao cartão 1947, portanto 1948. Evento Indochine de 1947 é distinto."
+    },
+    {
+      "id": "BFB-JORF1995",
+      "title": "Décret nº 95-1111 du 18 octobre 1995; JORF nº 0244 du 19 octobre 1995",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/1995/10/19/0244",
+      "fullTextUrl": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000372779",
+      "file": null,
+      "type": "sumario_oficial_legislacao",
+      "verification": "Sumário oficial lido; texto integral não carregou",
+      "limits": "A autorização de venda não determina a data de conclusão. Sem reprodução local do original."
+    },
+    {
+      "id": "BFB-ITAU2002",
+      "title": "Banco Francês e Brasileiro S.A. — Assembleia Geral Extraordinária de 21/11/2002",
+      "url": "https://www.itau.com.br/download-file/v2/d/42787847-4cf6-4461-94a5-40ed237dca33/9facb489-49c3-4fc1-ac95-6ee03f41a2da?origin=1",
+      "file": null,
+      "pdfPages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "ata_societaria_publicacao_institucional",
+      "verification": "PDF de quatro páginas lido como texto extraído pela ferramenta web; download local HTTP 403",
+      "limits": "Incorporação de ações, não de ativos operacionais diretamente. Identifica denominação em alteração; não comprova nesta rodada data posterior de homologação."
+    },
+    {
+      "id": "J-BINOMIO",
+      "title": "Visita de dirigentes do Banco Francês e Brasileiro a Belo Horizonte",
+      "publication": "Binômio, 09/12/1957, p. 16",
+      "url": "https://pergamum.bu.ufmg.br/pergamumweb/vinculos/000028/0000287b.pdf",
+      "existingFile": "fontes_pesquisa/jornais/binomio_1957-12-09.pdf",
+      "existingImage": "fontes_pesquisa/jornais/binomio_1957-12-09_p16.jpg",
+      "type": "noticia_contemporanea",
+      "verification": "Reutiliza conferência visual já registrada no acervo",
+      "limits": "Data da notícia, não necessariamente da visita; fotografias de grupo."
+    },
+    {
+      "id": "D16",
+      "title": "Aviso do falecimento de Jean Guicheney pela direção e funcionários do BFB",
+      "date": "1969-12-04",
+      "existingFile": "C:/Users/antro/Downloads/Oscar/WhatsApp Image 2026-09-06 at 13.59.05.jpeg",
+      "type": "recorte_institucional_fornecido_pelo_usuario",
+      "verification": "Reutiliza leitura documental do acervo",
+      "limits": "Jornal, edição e página ainda não identificados; Paris é local da morte e Porto Alegre local datado do aviso."
+    },
+    {
+      "id": "D13",
+      "title": "Registro brasileiro de Jean Guicheney, 18/01/1950",
+      "type": "registro_administrativo",
+      "verification": "Reutiliza inventário documental e auditoria já existentes",
+      "limits": "Profissão bancário e endereço profissional; empregador não nomeado."
+    },
+    {
+      "id": "GN-LEGION",
+      "title": "Ficha de Jean Eugène Guicheney na Legião de Honra",
+      "existingFile": "fontes_pesquisa/geneanet_jean/recebidos/42306916.jpg",
+      "type": "ficha_administrativa",
+      "verification": "Reutiliza conferência visual do acervo",
+      "limits": "Diretor de banco no Rio de Janeiro em 1956; banco não nomeado."
+    }
+  ],
+  "claims": [
+    {
+      "id": "BFB-C01",
+      "text": "Crédit Lyonnais adquiriu mais de 80% do Banco da Metrópole de São Paulo.",
+      "date": "1948",
+      "refs": [
+        "BFB-INDOSUEZ"
+      ],
+      "kind": "instituicao",
+      "place": {
+        "name": "São Paulo",
+        "kind": "sede_institucional"
+      },
+      "confidence": "alta",
+      "limits": "História institucional retrospectiva; não prova envolvimento pessoal de Jean."
+    },
+    {
+      "id": "BFB-C02",
+      "text": "O BFB foi inaugurado em 1948 em substituição ao Banco da Metrópole de São Paulo, figurando juridicamente como banco nacional e correspondente do Crédit Lyonnais.",
+      "date": "1948",
+      "refs": [
+        "BFB-FGV1949"
+      ],
+      "kind": "instituicao",
+      "place": {
+        "name": "São Paulo",
+        "kind": "sede_institucional"
+      },
+      "confidence": "alta",
+      "limits": null
+    },
+    {
+      "id": "BFB-C03",
+      "text": "Jean exercia a profissão de bancário em seu registro brasileiro.",
+      "date": "1950-01-18",
+      "refs": [
+        "D13"
+      ],
+      "kind": "pessoa",
+      "place": {
+        "name": "São Paulo",
+        "kind": "residencia_e_endereco_profissional"
+      },
+      "confidence": "alta",
+      "limits": "Documento não nomeia empregador."
+    },
+    {
+      "id": "BFB-C04",
+      "text": "Jean foi identificado como diretor de banco no Rio de Janeiro na documentação da Legião de Honra.",
+      "date": "1956",
+      "refs": [
+        "GN-LEGION"
+      ],
+      "kind": "pessoa",
+      "place": {
+        "name": "Rio de Janeiro",
+        "kind": "atividade_profissional"
+      },
+      "confidence": "alta",
+      "limits": "Banco não nomeado."
+    },
+    {
+      "id": "BFB-C05",
+      "text": "Jean Guicheney, diretor-superintendente do BFB, teve visita a Belo Horizonte noticiada com o presidente Roberto Moreira.",
+      "date": "1957-12-09",
+      "refs": [
+        "J-BINOMIO"
+      ],
+      "kind": "pessoa",
+      "place": {
+        "name": "Belo Horizonte",
+        "kind": "visita_noticiada"
+      },
+      "confidence": "alta",
+      "limits": "Data da notícia; não residência comprovada."
+    },
+    {
+      "id": "BFB-C06",
+      "text": "BFB, representando Crédit Lyonnais, foi apresentado entre os quatro acionistas iniciais da SIMCA do Brasil, cada qual com um quarto do capital.",
+      "date": "1958-05",
+      "refs": [
+        "BFB-SIMCA1958"
+      ],
+      "kind": "instituicao",
+      "place": {
+        "name": "Belo Horizonte",
+        "kind": "local_de_constituicao_noticiado"
+      },
+      "confidence": "alta",
+      "limits": "Data da edição; o corpo menciona apenas dia 5. Guicheney na diretoria, sem prenome."
+    },
+    {
+      "id": "BFB-C07",
+      "text": "Jean Eugene Guicheney consta como diretor administrativo entre os nomes que subscrevem carta da SIMCA.",
+      "date": "1959-07-13",
+      "refs": [
+        "BFB-SEN1959"
+      ],
+      "kind": "pessoa",
+      "place": {
+        "name": "Rio de Janeiro",
+        "kind": "local_datado_da_carta"
+      },
+      "confidence": "alta",
+      "limits": "Transcrição oficial parlamentar, não assinatura autógrafa. Não prova deslocamento ou presença no Senado."
+    },
+    {
+      "id": "BFB-C08",
+      "text": "Jean Guicheney foi apresentado pelo BFB como diretor vice-presidente e superintendente-geral no balancete de 4 de fevereiro de 1966.",
+      "date": "1966-02-04",
+      "refs": [
+        "BFB-CM1966"
+      ],
+      "kind": "pessoa",
+      "place": {
+        "name": "São Paulo",
+        "kind": "sede_do_banco"
+      },
+      "confidence": "alta",
+      "limits": "Publicado em 19/02; não determina data de posse."
+    },
+    {
+      "id": "BFB-C09",
+      "text": "Jean, diretor vice-presidente do BFB, faleceu em Paris em 2 de dezembro de 1969, segundo aviso da direção e funcionários datado de 4 de dezembro.",
+      "date": "1969-12-02",
+      "refs": [
+        "D16"
+      ],
+      "kind": "pessoa",
+      "place": {
+        "name": "Paris",
+        "kind": "falecimento"
+      },
+      "confidence": "alta",
+      "limits": "Porto Alegre é local do anúncio."
+    },
+    {
+      "id": "BFB-C10",
+      "text": "Decreto francês autorizou cessão ao Banco Itaú da participação majoritária no BFB detida direta ou indiretamente pelo Crédit Lyonnais Global Banking.",
+      "date": "1995-10-18",
+      "refs": [
+        "BFB-JORF1995"
+      ],
+      "kind": "instituicao",
+      "place": null,
+      "confidence": "alta",
+      "limits": "Sumário oficial; autorização não é data de conclusão."
+    },
+    {
+      "id": "BFB-C11",
+      "text": "Ata do BFB, em alteração para Banco Itaú Holding Financeira, aprovou incorporação de todas as ações do Banco Itaú, convertendo-o em subsidiária integral.",
+      "date": "2002-11-21",
+      "refs": [
+        "BFB-ITAU2002"
+      ],
+      "kind": "instituicao",
+      "place": {
+        "name": "São Paulo",
+        "kind": "assembleia"
+      },
+      "confidence": "alta",
+      "limits": "Não é incorporação direta de ativos operacionais; homologação posterior não conferida."
+    }
+  ],
+  "identityLimits": [
+    "Nenhuma ligação genealógica comprovada com Pedro ou Víctor.",
+    "Instituições e suas controladoras são entidades distintas.",
+    "Não atribuir a Jean fundação do banco, aquisição de 1948 ou deslocamentos apenas com base em sedes empresariais.",
+    "Pierre da nota HEC permanece pista até filiação nominativa independente."
+  ],
+  "otherRelevantSources": [
+    "D10",
+    "D11",
+    "D12",
+    "D14",
+    "D15"
+  ],
+  "relatedNotes": [
+    "auditoria_bertrand_eugene_2026-09-07.md",
+    "inventario_documental.md"
+  ]
+}

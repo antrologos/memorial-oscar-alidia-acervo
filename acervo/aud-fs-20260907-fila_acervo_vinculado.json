@@ -1,0 +1,731 @@
+{
+  "data": "2026-09-07",
+  "escopo": "Auditoria local limitada e fila para aproveitar anexos online já vinculados; sem novas buscas externas e sem edição das árvores.",
+  "observacao_central": "O arquivo .rmtree tem 143 vínculos FamilySearch, mas zero fontes, citações e mídias importadas. Isso não demonstra ausência no acervo online do usuário. O inventário completo das fontes de cada perfil continua sendo trabalho de navegação.",
+  "origem_ids": "Arquivo .rmtree completo aberto em mode=ro, extração inicial e cadernos de consultas anteriores. ML7Z-8WQ e ML7Z-8WR provêm da consulta online anterior.",
+  "sha256_rmtree": "e512f03c1667fe50590c30f804dc3de4c38d08719b245d83b93838c302471416",
+  "contagens_rmtree": {
+    "PersonTable": 145,
+    "FamilySearchTable": 143,
+    "SourceTable": 0,
+    "CitationTable": 0,
+    "MediaLinkTable": 0,
+    "MultimediaTable": 0
+  },
+  "limite_urls": "As URLs de perfil foram montadas a partir dos FSIDs auditados para navegação; não foram reabertas nesta auditoria. Os ARKs e URLs externos listados já estavam nos cadernos locais ou foram fornecidos pelo responsável principal.",
+  "procedimento_por_perfil": [
+    "Registrar todos os títulos e links de fontes, total exibido e recordações; não limitar a três cartões do resumo público.",
+    "Distinguir registro da própria pessoa, papel de pai/avô/testemunha e mera referência de árvore.",
+    "Reunir índices que apontam ao mesmo assento; classificar como original preservado, original acessível ainda não copiado, índice apenas ou imagem indisponível.",
+    "Abrir primeiro atos próprios que possam acrescentar filiação; aproveitar anexos já fornecidos antes de pesquisas externas.",
+    "Guardar a imagem que realmente abriu com URL, DGS/item/imagem, transcrição e dúvidas. Não declarar original JPG se o arquivo é uma captura da tela."
+  ],
+  "fila": [
+    {
+      "prioridade": 1,
+      "pessoa": "Manuel Alves Salgado / Manuel Joaquín Alvez Salgado",
+      "familySearchId": "L9CF-BHG",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/L9CF-BHG",
+      "contagem_fontes_online_conhecida": {
+        "valor": 23,
+        "consulta": "2026-09-07; sessão autenticada, lista integral expandida"
+      },
+      "acervo_ja_disponivel": [
+        "RAO02: avô paterno de Julio Cesar, 1912, original preservado.",
+        "D09: pai de Julia na ficha de 1940, fotografia recebida.",
+        "Civil de Arturo, 15/12/1902: Manuel Alves Salgado, brasileiro, viúvo, hacendado; captura em leitura."
+      ],
+      "lacuna": "Lista completa de 23 fontes preservada, sem citação nominal de óbito próprio de 1912 nos títulos/datas. Falta documento com os pais de Manuel.",
+      "primeira_acao_no_perfil": "Aproveitar os atos familiares já vinculados antes da varredura de filmes. Alvo brasileiro concreto: Alvin Marques Salgado, 21/06/1907, 68SP-HG6Y; índice do pai 68SP-HG6B. Não inferir que a ausência do óbito na lista prova inexistência.",
+      "referencias_locais": [
+        "pesquisa_antepassados_oscar.md",
+        "oscar_origens_geracoes.json"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/1:1:6D1T-FR93",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2Z-XS6T-5"
+      ],
+      "cautela": "Não fundir com homônimos nem considerar pais de árvore como documentados antes da filiação própria.",
+      "inventario_fontes_completo_disponivel": {
+        "arquivo": "inventario_fontes_vinculadas.json",
+        "perfil": "L9CF-BHG",
+        "ocorrencias": 23,
+        "captura_AX": "manuel-fontes-familysearch-AX.txt"
+      }
+    },
+    {
+      "prioridade": 2,
+      "pessoa": "Bernardina Méndez",
+      "familySearchId": "L4MN-22P",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/L4MN-22P",
+      "contagem_fontes_online_conhecida": {
+        "valor": 54,
+        "consulta": "2026-09-07; sessão autenticada, lista integral expandida"
+      },
+      "acervo_ja_disponivel": [
+        "D01: mãe de Óscar no batismo.",
+        "RAO02: Bernardina Mendes Salgado e pais Joaquim Mendes de Arruda / Carolina Portugal de Mendes.",
+        "Civil 1902: nascimento declarado em 20/08/1878, Paysandú; pais Joaquin Méndez e Carolina Olivera.",
+        "BERN-BAT1878: batismo de 22/01/1878 com nascimento em 20/08 do ano anterior e quatro avós; duas capturas lidas."
+      ],
+      "lacuna": "Birth 20/08/1877 no batismo versus 20/08/1878 no casamento; fontes próprias de óbito ainda não lidas. Lista de 54 fontes inventariada integralmente.",
+      "primeira_acao_no_perfil": "Não recuperar novamente o batismo já preservado. Priorizar outros atos próprios e os documentos do casal parental já vinculados, sobretudo o casamento de 1868.",
+      "referencias_locais": [
+        "ancestry_consulta.md",
+        "pesquisa_antepassados_oscar.md",
+        "oscar_origens_geracoes.json"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/1:1:XS13-1V76",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2Z-XS6T-5",
+        "https://www.ancestry.com/family-tree/person/tree/19370317/person/797774147/facts"
+      ],
+      "cautela": null,
+      "inventario_fontes_completo_disponivel": {
+        "arquivo": "inventario_fontes_vinculadas.json",
+        "perfil": "L4MN-22P",
+        "ocorrencias": 54,
+        "captura_AX": "bernardina-fontes-familysearch-AX.txt"
+      }
+    },
+    {
+      "prioridade": 3,
+      "pessoa": "Arturo Marquez Salgado",
+      "familySearchId": "L4MM-63J",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/L4MM-63J",
+      "contagem_fontes_online_conhecida": {
+        "valor": 54,
+        "consulta": "2026-09-07; sessão autenticada, lista integral expandida"
+      },
+      "acervo_ja_disponivel": [
+        "RAO02: nascimento de Julio Cesar, duas imagens lidas.",
+        "Civil 15/12/1902, ato 23: imagem localizada e capturas recebidas.",
+        "Índice paroquial de 15/12/1902 e índice de óbito de 1927 localizados nesta rodada."
+      ],
+      "lacuna": "Civil de 1902 concluído em três capturas. As 54 fontes estão inventariadas; paroquial de 1902, óbito e nascimento/batismo próprio continuam alvos.",
+      "primeira_acao_no_perfil": "Abrir paroquial XS6J-6K27 e óbito QG3F-2PKT; conferir os anexos de nascimento/batismo antes de pesquisar fora da lista.",
+      "referencias_locais": [
+        "pesquisa_antepassados_oscar.md",
+        "familysearch_consulta.md",
+        "antepassados/resultados.json"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/1:1:XS13-1V76",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2Z-XS6T-5",
+        "https://www.familysearch.org/ark:/61903/1:1:XS6J-6K27",
+        "https://www.familysearch.org/ark:/61903/1:1:QG3F-2PKT",
+        "https://www.familysearch.org/ark:/61903/1:1:6D1T-FR9Q"
+      ],
+      "cautela": "O resumo de árvore dizia 1900; o civil aberto diz 1902. Títulos de fontes não são documentos independentes sem comparar eventos.",
+      "inventario_fontes_completo_disponivel": {
+        "arquivo": "inventario_fontes_vinculadas.json",
+        "perfil": "L4MM-63J",
+        "ocorrencias": 54,
+        "captura_AX": "arturo-fontes-familysearch-AX.txt"
+      }
+    },
+    {
+      "prioridade": 4,
+      "pessoa": "Maria Joaquina Marques",
+      "familySearchId": "2Z3L-5R7",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/2Z3L-5R7",
+      "contagem_fontes_online_conhecida": null,
+      "acervo_ja_disponivel": [
+        "RAO02: avó paterna de Julio Cesar.",
+        "D09: mãe de Julia.",
+        "Civil 1902: brasileira, falecida em Salto."
+      ],
+      "lacuna": "Óbito atribuído a 22/09/1899, Salto, ainda sem original próprio; pais José Vasco Márquez / Fermina Machado só atribuídos pela árvore.",
+      "primeira_acao_no_perfil": "Abrir todas as fontes vinculadas e priorizar óbito de 1899 e casamento. Buscar a filiação no assento próprio antes de avançar aos pais atribuídos.",
+      "referencias_locais": [
+        "pesquisa_antepassados_oscar.md",
+        "oscar_origens_geracoes.json"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2Z-XS6T-5"
+      ],
+      "cautela": null
+    },
+    {
+      "prioridade": 5,
+      "pessoa": "Joaquim Mendes de Arruda / Joaquin Mendez",
+      "familySearchId": "K198-GNL",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/K198-GNL",
+      "contagem_fontes_online_conhecida": {
+        "valor": 23,
+        "consulta": "2026-09-07; sessão autenticada, lista integral expandida"
+      },
+      "acervo_ja_disponivel": [
+        "RAO02: pai de Bernardina.",
+        "Civil 1902: brasileiro, falecido em Paysandú.",
+        "BERN-BAT1878: pais declarados Francisco e Ana Maria de Freitas; JOAC-CAS1868-IND: índice do casamento em 04/11/1868, FLMC-WPV."
+      ],
+      "lacuna": "Filiação ganhou apoio no batismo da filha. O casamento próprio de 1868 tem índice, mas falta manuscrito e documento do óbito em Paysandú.",
+      "primeira_acao_no_perfil": "Abrir o casamento de 04/11/1868 por filme 625280 / DGS 008143325 se existir outro visualizador autorizado; a página do índice está sem imagem. Depois óbito próprio entre os anexos.",
+      "referencias_locais": [
+        "oscar_origens_geracoes.json",
+        "pesquisa_antepassados_oscar.md"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2Z-XS6T-5"
+      ],
+      "cautela": null,
+      "inventario_fontes_completo_disponivel": {
+        "arquivo": "inventario_fontes_vinculadas.json",
+        "perfil": "K198-GNL",
+        "ocorrencias": 23,
+        "captura_AX": "joaquin-fontes-familysearch-AX.txt"
+      }
+    },
+    {
+      "prioridade": 6,
+      "pessoa": "Carolina Portugal de Mendes / candidata Carolina Bernardina Oliveira Porbigas",
+      "familySearchId": "K198-GXK",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/K198-GXK",
+      "contagem_fontes_online_conhecida": {
+        "valor": 60,
+        "consulta": "2026-09-07; sessão autenticada, lista integral expandida"
+      },
+      "acervo_ja_disponivel": [
+        "RAO02: Carolina Portugal de Mendes, mãe de Bernardina.",
+        "Civil 1902: Carolina Olivera, brasileira, casada, residente na calle Uruguay 441.",
+        "BERN-BAT1878: mãe de Bernardina chamada Carolina Oliveira; avós maternos Antonio e Bernarda Leonarda German."
+      ],
+      "lacuna": "Correspondência com a candidata extensa reforçada, sem validar todo o nome ou datas. Sessenta fontes foram inventariadas; casamento próprio e demais atos precisam leitura.",
+      "primeira_acao_no_perfil": "Ler fontes já anexadas à candidata; priorizar casamento com Joaquin, registro de Bernardina e eventuais uniões Sanchez. Registrar separadamente o que pertence a cada ato.",
+      "referencias_locais": [
+        "ancestry_consulta.md",
+        "oscar_origens_geracoes.json"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2Z-XS6T-5",
+        "https://www.ancestry.com/family-tree/person/tree/19370317/person/797774147/facts"
+      ],
+      "cautela": "K198-GXK identifica a candidata da árvore; a equivalência integral de identidade continua por demonstrar.",
+      "inventario_fontes_completo_disponivel": {
+        "arquivo": "inventario_fontes_vinculadas.json",
+        "perfil": "K198-GXK",
+        "ocorrencias": 60,
+        "captura_AX": "carolina-fontes-familysearch-AX.txt"
+      }
+    },
+    {
+      "prioridade": 7,
+      "pessoa": "Víctor Juan Guicheney",
+      "familySearchId": "ML7Z-8WQ",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/ML7Z-8WQ",
+      "contagem_fontes_online_conhecida": {
+        "valor": 19,
+        "consulta": "2026-09-07; sessão autenticada, lista integral expandida"
+      },
+      "acervo_ja_disponivel": [
+        "D08: casamento civil de 03/06/1912, primeira página recebida.",
+        "O05: casamento religioso original lido.",
+        "O02/O08: nascimentos de Alidia e Petra.",
+        "O07: óbito de 1943 lido.",
+        "Pesquisa de 1888 examinou casamento anterior.",
+        "VIC-BAT1867: batismo compatível de Victor João em Uruguaiana, já lido e preservado no pacote de pontes; não repetir como descoberta."
+      ],
+      "lacuna": "As 19 fontes agora estão inventariadas. A continuação online do casamento civil D08 pode estar no ARK sem data 6CB9-LL8D; equivalência ainda por confirmar.",
+      "primeira_acao_no_perfil": "Abrir 6CB9-LL8D e conferir se corresponde ao D08; preservar a continuação que não veio na foto inicial. Não repetir o batismo de 1867 já examinado.",
+      "referencias_locais": [
+        "familysearch_consulta.md",
+        "pesquisa_salto1888.md",
+        "auditoria_d08_casamento_anterior.md"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/1:1:QLWW-3NMG",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSMS-9TNW",
+        "https://www.familysearch.org/ark:/61903/1:1:6RTS-19QS",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSJY-KSZ3-D"
+      ],
+      "cautela": "Este FSID veio da consulta online; o PersonID 84 do arquivo local está sem FSID.",
+      "inventario_fontes_completo_disponivel": {
+        "arquivo": "inventario_fontes_vinculadas.json",
+        "perfil": "ML7Z-8WQ",
+        "ocorrencias": 19,
+        "captura_AX": "victor-fontes-familysearch-AX.txt"
+      }
+    },
+    {
+      "prioridade": 8,
+      "pessoa": "Antonia Ignacia Muñoa",
+      "familySearchId": "ML7Z-8WR",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/ML7Z-8WR",
+      "contagem_fontes_online_conhecida": {
+        "valor": 19,
+        "consulta": "2026-09-07; sessão autenticada, lista integral expandida"
+      },
+      "acervo_ja_disponivel": [
+        "D08/O05: casamento civil e religioso de 1912.",
+        "O02/O08: mãe de Alidia e Petra.",
+        "RB02: índice espanhol candidato, manuscrito não recebido."
+      ],
+      "lacuna": "As 19 fontes agora estão inventariadas; nenhuma é o manuscrito espanhol RB02. Registro civil argentino sem data 6CB9-LL8N remete à mesma citação 6CB9-LL8D de Víctor.",
+      "primeira_acao_no_perfil": "Conferir o civil argentino 6CB9-LL8N/6CB9-LL8D e sua continuação; depois documentos das filhas que acrescentem naturalidade e filiação. Os índices espanhóis seguem dependentes da reprodução.",
+      "referencias_locais": [
+        "familysearch_consulta.md",
+        "pesquisa_raizes_bascas.md"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSMS-9TNW",
+        "https://artxiboa.mendezmende.org/es/busque-partidas-sacramentales/ver.html?id=1898593&sacramento=b"
+      ],
+      "cautela": "Este FSID veio da consulta online; o PersonID 85 local está sem FSID. Não repetir como certa a data local c.1871/Salto.",
+      "inventario_fontes_completo_disponivel": {
+        "arquivo": "inventario_fontes_vinculadas.json",
+        "perfil": "ML7Z-8WR",
+        "ocorrencias": 19,
+        "captura_AX": "antonia-fontes-familysearch-AX.txt"
+      }
+    },
+    {
+      "prioridade": 9,
+      "pessoa": "Juan José Muñoa",
+      "familySearchId": "M94T-9QD",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/M94T-9QD",
+      "contagem_fontes_online_conhecida": null,
+      "acervo_ja_disponivel": [
+        "D08/O02/O08: pai de Antonia.",
+        "RB01/RB02: índices espanhóis candidato e filha, já conhecidos."
+      ],
+      "lacuna": "Original de casamento de 1879 e filiação própria ainda não lidos; tabela local diverge sobre paróquia.",
+      "primeira_acao_no_perfil": "Examinar fontes já vinculadas e verificar se há reprodução espanhola anexada. Se não, usar a minuta RB01 já preparada, sem repetir buscas amplas.",
+      "referencias_locais": [
+        "pesquisa_raizes_bascas.md",
+        "antepassados/pedido_zizurkil_nao_enviado.md"
+      ],
+      "urls_ja_citadas": [
+        "https://artxiboa.mendezmende.org/es/busque-partidas-sacramentales/ver.html?id=1864991&sacramento=m"
+      ],
+      "cautela": null
+    },
+    {
+      "prioridade": 10,
+      "pessoa": "Juana Bautista Arizmendi",
+      "familySearchId": "M94T-974",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/M94T-974",
+      "contagem_fontes_online_conhecida": null,
+      "acervo_ja_disponivel": [
+        "D08/O02/O08: mãe de Antonia.",
+        "RB01: índice espanhol candidato com sobrenome Barriola."
+      ],
+      "lacuna": "Original e filiação própria não lidos; há perfil separado Juana B.c de Muñoa no download.",
+      "primeira_acao_no_perfil": "Revisar fontes e verificar vínculos com GR9L-W99, sem fundir pessoas. Priorizar imagem original RB01/RB02 já anexada, se existir.",
+      "referencias_locais": [
+        "pesquisa_raizes_bascas.md"
+      ],
+      "urls_ja_citadas": [
+        "https://artxiboa.mendezmende.org/es/busque-partidas-sacramentales/ver.html?id=1864991&sacramento=m"
+      ],
+      "cautela": null
+    },
+    {
+      "prioridade": 11,
+      "pessoa": "Pedro Guicheney, pai de Víctor",
+      "familySearchId": "LRL5-BMJ",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LRL5-BMJ",
+      "contagem_fontes_online_conhecida": null,
+      "acervo_ja_disponivel": [
+        "D08/O08: pai de Víctor, francês, com anos de morte retrospectivos conflitantes.",
+        "O09: carpinteiro Pedro Guichinay de 1897 preservado como candidato, sem fusão."
+      ],
+      "lacuna": "Não há inventário completo de fontes do perfil; falta assento próprio que identifique o pai de Víctor.",
+      "primeira_acao_no_perfil": "Inventariar todos os anexos, incluindo fotos e recordações; primeiro aproveitar documentos já ligados pelo usuário, sem atribuir automaticamente o carpinteiro de 1897.",
+      "referencias_locais": [
+        "pesquisa_pedro_guicheney.md",
+        "confronto_pedro_amelia_dionisia.md"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKV-F3ZL-N",
+        "https://www.familysearch.org/ark:/61903/1:1:66BW-TV3K"
+      ],
+      "cautela": "O índice de 1897 é candidato distinto no dossiê; não prova filiação de Víctor."
+    },
+    {
+      "prioridade": 12,
+      "pessoa": "Dionisia López / Lopes",
+      "familySearchId": "LRLR-9PP",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LRLR-9PP",
+      "contagem_fontes_online_conhecida": null,
+      "acervo_ja_disponivel": [
+        "D08/O08: mãe de Víctor.",
+        "Óbito de Dionisia em Salto de 1883 pesquisado em caderno próprio."
+      ],
+      "lacuna": "Perfil e seus anexos completos não foram inventariados; declarações sobre nacionalidade e ano de morte divergem.",
+      "primeira_acao_no_perfil": "Abrir fontes já vinculadas, especialmente morte própria e registros de filhos; confrontar com auditoria do ato de 1883 antes de ampliar a árvore.",
+      "referencias_locais": [
+        "dionisia_pesquisa.json",
+        "pesquisa_dionisia_2026-09-07.md",
+        "fontes_pesquisa/dionisia/leitura_independente_dionisia_ato169.md"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKV-F3ZL-N"
+      ],
+      "cautela": null
+    },
+    {
+      "prioridade": 13,
+      "pessoa": "Alfredo Márquez Salgado",
+      "familySearchId": "L717-J4D",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/L717-J4D",
+      "contagem_fontes_online_conhecida": {
+        "valor": 32,
+        "consulta": "Página pública referida no caderno de 2026-09-06"
+      },
+      "acervo_ja_disponivel": [
+        "RAO04: perfil público, títulos civis sob três formas do nome."
+      ],
+      "lacuna": "As 32 fontes não foram lidas integralmente; filiação de irmão de Arturo ainda depende de assento.",
+      "primeira_acao_no_perfil": "Abrir casamento próprio de 20/06/1880, Salto, com Modesta Ramona de la Caridad Silva Casañas; depois óbito de 1930.",
+      "referencias_locais": [
+        "pesquisa_antepassados_oscar.md"
+      ],
+      "urls_ja_citadas": [
+        "https://ancestors.familysearch.org/en/L717-J4D/marqu%C3%A9s-alfredo-salgado-1856-1880"
+      ],
+      "cautela": null
+    },
+    {
+      "prioridade": 14,
+      "pessoa": "Julia Marques Salgado de Coronel",
+      "familySearchId": "K8P3-D1Z",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/K8P3-D1Z",
+      "contagem_fontes_online_conhecida": null,
+      "acervo_ja_disponivel": [
+        "D09: ficha de 1940 recebida, filiação lida.",
+        "RAO01: referência a propriedade em aviso oficial, sem prova sucessória da filiação."
+      ],
+      "lacuna": "Nascimento diverge entre 09/11/1884 da ficha e 09/01/1884 da árvore; óbito atribuído a 13/08/1954 sem original próprio.",
+      "primeira_acao_no_perfil": "Revisar fontes do perfil, priorizando nascimento e óbito; usar a filiação de D09 para escolher o documento correto.",
+      "referencias_locais": [
+        "inventario_documental.md",
+        "pesquisa_antepassados_oscar.md"
+      ],
+      "urls_ja_citadas": [],
+      "cautela": null
+    },
+    {
+      "prioridade": 15,
+      "pessoa": "Emma Alice Salgado Mendez",
+      "familySearchId": "KZQ8-YGF",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/KZQ8-YGF",
+      "contagem_fontes_online_conhecida": null,
+      "acervo_ja_disponivel": [
+        "RAO03: títulos de fontes civis, paroquiais e de fichas já identificados."
+      ],
+      "lacuna": "Nenhum original próprio de nascimento/batismo conferido no caderno.",
+      "primeira_acao_no_perfil": "Abrir documentos de 05/09/1920, Salto, para conferir os pais e avós, especialmente as variantes de Carolina.",
+      "referencias_locais": [
+        "pesquisa_antepassados_oscar.md"
+      ],
+      "urls_ja_citadas": [
+        "https://ancestors.familysearch.org/en/KZQ8-YGF/emma-alice-salgado-mendez-1920-2000"
+      ],
+      "cautela": null
+    },
+    {
+      "prioridade": 16,
+      "pessoa": "Julio Cesar Salgado",
+      "familySearchId": "LW54-Y1Y",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LW54-Y1Y",
+      "contagem_fontes_online_conhecida": null,
+      "acervo_ja_disponivel": [
+        "RAO02: nascimento de 1912 integralmente lido e preservado; não recuperar de novo."
+      ],
+      "lacuna": "FSID consta no arquivo completo, mas não no recorte inicial; fontes próprias posteriores não inventariadas.",
+      "primeira_acao_no_perfil": "Inventariar os anexos sem refazer RAO02; aproveitar eventual casamento/óbito para confrontar nomes dos pais.",
+      "referencias_locais": [
+        "pesquisa_antepassados_oscar.md",
+        "antepassados/ids_locais_auditados.json"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/1:1:6D1T-FR93",
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-89L5-S9S5-B",
+        "https://www.familysearch.org/ark:/61903/3:1:3QS7-89L5-S99B-3"
+      ],
+      "cautela": null
+    },
+    {
+      "prioridade": 17,
+      "pessoa": "Petra Magdalena Guicheney Muñoa",
+      "familySearchId": "LRL5-L96",
+      "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LRL5-L96",
+      "contagem_fontes_online_conhecida": null,
+      "acervo_ja_disponivel": [
+        "O08/P04: nascimento de 1920 integral e recorte dos avós preservados.",
+        "U02: Laura Antonia Calvo em aviso judicial, ainda sem ponte de filiação completa."
+      ],
+      "lacuna": "Consulta anterior não mostrava cônjuge, filhos nem fonte de óbito; isso não inventaria todos os tipos de anexo.",
+      "primeira_acao_no_perfil": "Conferir fontes e recordações existentes, evitando recuperar novamente o nascimento já lido; buscar ponte própria para união/filha/óbito.",
+      "referencias_locais": [
+        "familysearch_consulta.md",
+        "pesquisa_petra_ampliada.md",
+        "pesquisa_ramos_uruguai.md"
+      ],
+      "urls_ja_citadas": [
+        "https://www.familysearch.org/ark:/61903/1:1:62ST-BCWD",
+        "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKV-F3ZL-N"
+      ],
+      "cautela": null
+    },
+    {
+      "prioridade": 18,
+      "pessoa": "Bertrand Dominique Eugène Guicheney",
+      "familySearchId": null,
+      "perfil_url": null,
+      "contagem_fontes_online_conhecida": null,
+      "acervo_ja_disponivel": [
+        "GN-BERTRAND-LEGION: dez páginas originais recebidas e lidas, incluindo filiação Jean Guicheney / Marie Datchary.",
+        "GN-BERTRAND: PDF de árvore fornecido pelo usuário; não confundir com fonte primária."
+      ],
+      "lacuna": "Nenhum FSID localizado nos arquivos locais consultados; atos próprios dos pais e casamento de 1874 permanecem alvo.",
+      "primeira_acao_no_perfil": "Revisar referências já anexas ao perfil Geneanet fornecido; conferir citações para casamento parental 20/23 de novembro de 1874 e nascimento de 1875 antes de nova busca.",
+      "referencias_locais": [
+        "pesquisa_bertrand_legion_original.md",
+        "fontes_pesquisa/geneanet_jean/metadados_geneanet_recebidos.json"
+      ],
+      "urls_ja_citadas": [
+        "https://gw.geneanet.org/babethdu40?lang=pt&n=guicheney&p=bertrand+dominique+eugene",
+        "https://pt.geneanet.org/registos/view/786497?current=98408907"
+      ],
+      "cautela": "Ramo documentado separado. Não conectado genealogicamente a Pedro, Víctor ou Alidia."
+    },
+    {
+      "prioridade": 19,
+      "pessoa": "Jean Eugène Jacques Léon Guicheney",
+      "familySearchId": null,
+      "perfil_url": null,
+      "contagem_fontes_online_conhecida": null,
+      "acervo_ja_disponivel": [
+        "Nascimento francês de 1907 e fichas brasileiras lidos; dossiê do pai disponível.",
+        "PDF e grafo Geneanet recebidos."
+      ],
+      "lacuna": "Nenhum FSID localizado nos arquivos locais; referências completas da árvore Geneanet ainda não auditadas.",
+      "primeira_acao_no_perfil": "Examinar as fontes já citadas no perfil Geneanet e seus pais; priorizar documentos genealógicos, sem repetir pesquisa bancária.",
+      "referencias_locais": [
+        "pesquisa_geneanet_pdfs_2026-09-06.md",
+        "bancos_memorial.json"
+      ],
+      "urls_ja_citadas": [
+        "https://gw.geneanet.org/babethdu40?lang=pt&n=guicheney&p=jean+eugene+jacques+leon",
+        "https://archives.landes.fr/_recherche-images/download/441356/image/69650/175/full/max/0/default.jpg"
+      ],
+      "cautela": null
+    }
+  ],
+  "filas_condicionais": [
+    {
+      "ordem": 20,
+      "titulo": "Pais atribuídos a Manuel, Maria Joaquina e Joaquim: revisar citações disponíveis antes de expandir",
+      "acao": "Abrir os seis perfis para inventariar fontes já vinculadas. A comprovação da filiação deve vir preferencialmente do assento próprio do filho da geração anterior. Não chamar essa geração de documentada só porque há links na árvore.",
+      "pessoas": [
+        {
+          "familySearchId": "GDQX-V8R",
+          "nome_arvore": "Juan Salgado",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/GDQX-V8R"
+        },
+        {
+          "familySearchId": "GDQX-VD7",
+          "nome_arvore": "Francisca Margarita Carneiro",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/GDQX-VD7"
+        },
+        {
+          "familySearchId": "L717-V3J",
+          "nome_arvore": "josé vasco marquez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/L717-V3J"
+        },
+        {
+          "familySearchId": "L717-VH6",
+          "nome_arvore": "Fermina Machado",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/L717-VH6"
+        },
+        {
+          "familySearchId": "GKXZ-7CH",
+          "nome_arvore": "Francisco Mendez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/GKXZ-7CH"
+        },
+        {
+          "familySearchId": "GKXZ-QPW",
+          "nome_arvore": "Ana Freiras",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/GKXZ-QPW"
+        }
+      ]
+    },
+    {
+      "ordem": 21,
+      "titulo": "Pais atribuídos à candidata Carolina: dependem antes da identidade e filiação dela",
+      "acao": "Revisar citações já disponíveis, mantendo os dois pais como atribuições da árvore até conciliar K198-GXK com Carolina dos documentos de 1902/1912.",
+      "pessoas": [
+        {
+          "familySearchId": "LZ6B-NSS",
+          "nome_arvore": "Antonio Joaquìn De Olivera Portugal",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LZ6B-NSS"
+        },
+        {
+          "familySearchId": "LZ6B-NSJ",
+          "nome_arvore": "Bernardina Leonarda Germán",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LZ6B-NSJ"
+        }
+      ]
+    },
+    {
+      "ordem": 22,
+      "titulo": "Outros perfis do núcleo Méndez no arquivo completo",
+      "acao": "Se os assentos próprios de Bernardina/Joaquin/Carolina não bastarem, abrir os documentos de filiação já anexos a esses possíveis irmãos de Bernardina. Conferir relação em cada original; não tratar agrupamento da árvore como prova.",
+      "pessoas": [
+        {
+          "familySearchId": "9WHH-3H5",
+          "nome_arvore": "Sixta Maria Del Carmen Mendez De Arruda OLIVEIRA",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/9WHH-3H5"
+        },
+        {
+          "familySearchId": "2HXM-W9N",
+          "nome_arvore": "Juan Pantaleon Mendez De Arruda OLIVEIRA",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/2HXM-W9N"
+        },
+        {
+          "familySearchId": "M5M6-X5F",
+          "nome_arvore": "Cosme Damian Mendez Portugal",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/M5M6-X5F"
+        },
+        {
+          "familySearchId": "L8D6-83G",
+          "nome_arvore": "Belicia Mendez De Olivera",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/L8D6-83G"
+        },
+        {
+          "familySearchId": "KN7H-TKB",
+          "nome_arvore": "Francisco Mendez De Arruda Oliveira",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/KN7H-TKB"
+        },
+        {
+          "familySearchId": "L717-KXG",
+          "nome_arvore": "luis alberto mendez olivera",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/L717-KXG"
+        }
+      ]
+    },
+    {
+      "ordem": 23,
+      "titulo": "Filhos atribuídos ao casal Arturo–Bernardina, além dos já priorizados",
+      "acao": "Revisar os títulos já anexos e selecionar atos que acrescentem naturalidade dos pais ou nomes dos avós. Evitar multiplicar recuperações do mesmo assento civil em dois índices.",
+      "pessoas": [
+        {
+          "familySearchId": "K4XZ-TFV",
+          "nome_arvore": "Manuel Joaquin Salgado Mendez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/K4XZ-TFV"
+        },
+        {
+          "familySearchId": "MYCW-PMR",
+          "nome_arvore": "Maria Olga Salgado Mendez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/MYCW-PMR"
+        },
+        {
+          "familySearchId": "KC32-GM3",
+          "nome_arvore": "Juan Jose Salgado Mendez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/KC32-GM3"
+        },
+        {
+          "familySearchId": "GJTP-QFY",
+          "nome_arvore": "Elmira Marques Salgado Mendez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/GJTP-QFY"
+        },
+        {
+          "familySearchId": "LW54-BVQ",
+          "nome_arvore": "Luis Alberto Salgado Mendez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LW54-BVQ"
+        },
+        {
+          "familySearchId": "MYC4-QDV",
+          "nome_arvore": "Angelica Salgado Mendez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/MYC4-QDV"
+        },
+        {
+          "familySearchId": "LW54-BXR",
+          "nome_arvore": "Rene Concepcion Salgado Mendez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LW54-BXR"
+        },
+        {
+          "familySearchId": "LHZ8-8ZD",
+          "nome_arvore": "Carolina Isabel Salgado Mendez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LHZ8-8ZD"
+        },
+        {
+          "familySearchId": "LW54-YRQ",
+          "nome_arvore": "Maria Esther Salgado Mendez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LW54-YRQ"
+        },
+        {
+          "familySearchId": "L7JB-KRW",
+          "nome_arvore": "Euridice Salgado Méndez",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/L7JB-KRW"
+        }
+      ]
+    },
+    {
+      "ordem": 24,
+      "titulo": "Muñoa: irmãs candidatas e representação possivelmente duplicada",
+      "acao": "Verificar fontes de Juana Micaela, María Eugenia Nicolasa e Juana B.c de Muñoa; RB03/RB04 são índices já conhecidos. Não assumir uma segunda esposa nem fundir perfis.",
+      "pessoas": [
+        {
+          "familySearchId": "GJT2-8TP",
+          "nome_arvore": "Juana Micaela Muñoz Arizmendi",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/GJT2-8TP"
+        },
+        {
+          "familySearchId": "GDVD-Y44",
+          "nome_arvore": "Marìa Eugenia Nicolasa Muñoa",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/GDVD-Y44"
+        },
+        {
+          "familySearchId": "GR9L-W99",
+          "nome_arvore": "Juana B.c de Muñoa",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/GR9L-W99"
+        }
+      ]
+    },
+    {
+      "ordem": 25,
+      "titulo": "Outros Guicheney diretos no arquivo local",
+      "acao": "Examinar fontes de Juana Ignacia, Laura Josefa e Luisa Ferreyra se ajudarem a filiação dos pais ou à primeira união de Víctor. Preservar a situação documental de cada vínculo.",
+      "pessoas": [
+        {
+          "familySearchId": "LRLR-SCT",
+          "nome_arvore": "Juana Inacia Guicheney Munoa de Migliaro",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LRLR-SCT"
+        },
+        {
+          "familySearchId": "LRNN-GHQ",
+          "nome_arvore": "Laura Josefa Guicheney Munoa",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/LRNN-GHQ"
+        },
+        {
+          "familySearchId": "GJTN-M9M",
+          "nome_arvore": "Luisa Ferreyra de Guicheney",
+          "perfil_url": "https://www.familysearch.org/pt/tree/person/details/GJTN-M9M"
+        }
+      ]
+    }
+  ],
+  "ancestry_ja_consultado": {
+    "arvore": "Moreira Fernandez, 19370317",
+    "limite": "Os perfis examinados anteriormente não mostraram fontes e algumas galerias estavam vazias; não estender essa observação a toda a conta do usuário.",
+    "urls": [
+      "https://www.ancestry.com/family-tree/person/tree/19370317/person/797774147/facts",
+      "https://www.ancestry.com/family-tree/person/tree/19370317/person/797774149/facts",
+      "https://www.ancestry.com/family-tree/person/tree/19370317/person/797782631/facts",
+      "https://www.ancestry.com/family-tree/person/tree/19370317/person/792368212/facts"
+    ]
+  },
+  "artefato_auditoria_completa": "ids_locais_auditados.json",
+  "atualizacao_apos_leitura_originais": {
+    "data": "2026-09-07",
+    "documentos_concluidos": [
+      "ART-CAS1902",
+      "BERN-BAT1878"
+    ],
+    "inventario_online": "252 ocorrências em sete perfis, contagens exibidas e extraídas coincidentes. Trata-se de inventário de anexos, não de 252 originais lidos.",
+    "fonte_direta_util_nova": "6CB9-LL8D / 6CB9-LL8N: civil argentino já vinculado, provável D08, útil para recuperar continuação."
+  }
+}

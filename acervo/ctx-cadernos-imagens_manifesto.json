@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-07",
+  "selected": [
+    {
+      "id": "CTX-IMG-MONTEVIDEO1875",
+      "file": "ABN_1188.jpg",
+      "title": "Vista general desde la cima del Cerro",
+      "dateLabel": "Álbum atribuído a 1875 na ficha do Commons; data exata da tomada não comprovada.",
+      "authorOrPublisher": "Galli & Cia. (editores, conforme inscrição da prancha)",
+      "collection": "Biblioteca Nacional do Uruguai, Materiais Especiais, ABN 1188",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:ABN_1188.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/ABN_1188.jpg",
+      "license": "Domínio público, PD-old-70-expired e Public Domain Mark 1.0 declarados pelo Commons",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "Galli & Cia. / Biblioteca Nacional do Uruguai, ABN 1188. Reprodução via Wikimedia Commons, domínio público.",
+      "caption": "Montevidéu e sua baía vistos do Cerro, em prancha do álbum de Galli & Cia., datado de 1875. As embarcações ajudam a visualizar a cidade como porto do Atlântico e do Prata.",
+      "limits": [
+        "Prancha histórica, não registro da chegada dos Guicheney.",
+        "Data 1875 atribuída ao álbum; não afirmar data exata da imagem original.",
+        "Editor e coleção identificados; fotógrafo individual não confirmado.",
+        "Original da reprodução baixado sem alterações; mantidas bordas e etiquetas."
+      ],
+      "bytes": 271553,
+      "sha256": "c528e2f2f9bbcb44f3b9a4bbf4183ff449feca570df76cf91d2f85f0db72a284",
+      "dimensions": {
+        "width": 1500,
+        "height": 1151
+      },
+      "visualInspection": "Realizada em 7 de setembro de 2026; conteúdo e legendas da prancha conferidos."
+    },
+    {
+      "id": "CTX-IMG-VIDAURBANA1875",
+      "file": "ABN_1213-16.jpg",
+      "title": "Mercado Nuevo, Usina del Gas, Banco de Londres e Alcazar Lyrico",
+      "dateLabel": "Álbum atribuído a 1875 na ficha do Commons; datas exatas das tomadas não comprovadas.",
+      "authorOrPublisher": "Galli & Cia. (editores)",
+      "collection": "Biblioteca Nacional do Uruguai, Materiais Especiais, ABN 1213–1216",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:ABN_1213-16.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/ABN_1213-16.jpg",
+      "license": "Domínio público, PD-old-70-expired e Public Domain Mark 1.0 declarados pelo Commons",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "credit": "Galli & Cia. / Biblioteca Nacional do Uruguai, ABN 1213–1216. Reprodução via Wikimedia Commons, domínio público.",
+      "caption": "Uma prancha reúne mercado, usina de gás, Banco de Londres e teatro em Montevidéu. Álbum de Galli & Cia., datado de 1875: comércio, serviços e lazer no cenário urbano da imigração.",
+      "limits": [
+        "Não atribuir emprego, residência ou visita de nenhum familiar a esses prédios.",
+        "O banco da prancha é Banco de Londres, não Banco Francês e Brasileiro.",
+        "Montagem já faz parte da reprodução de origem; nenhuma imagem foi editada nesta rodada.",
+        "Data 1875 atribuída ao álbum; fotógrafo individual não confirmado."
+      ],
+      "bytes": 319844,
+      "sha256": "364858f164c90ba1cca7ef768f5a3250dcfaf510cfededf89c4460fb8e9b1476",
+      "dimensions": {
+        "width": 1500,
+        "height": 1115
+      },
+      "visualInspection": "Realizada em 7 de setembro de 2026; conteúdo e legendas da prancha conferidos."
+    }
+  ],
+  "unselected": [
+    {
+      "filePage": "https://commons.wikimedia.org/wiki/File:ABN_recuerdo_montevideo_galli_mapa_uruguay.jpg",
+      "reason": "Ficha e licença verificadas; arquivo não baixado por resposta 429. Não necessário para a entrega, que já tem duas imagens inspecionadas.",
+      "date": 1875,
+      "author": "Galli & Cia.",
+      "collection": "Biblioteca Nacional do Uruguai",
+      "license": "Domínio público conforme Commons",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/ABN_recuerdo_montevideo_galli_mapa_uruguay.jpg"
+    },
+    {
+      "filePage": "https://commons.wikimedia.org/wiki/File:ABN_1195.jpg",
+      "reason": "Ficha consultada, download 429; conteúdo visual não inspecionado, não selecionado."
+    }
+  ],
+  "note": "As fichas HTML públicas foram preservadas. Licenciamento e atribuição são os declarados pelo repositório. Fotografias/pranchas são material contextual, não evidência genealógica."
+}

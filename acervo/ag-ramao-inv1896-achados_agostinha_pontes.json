@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "date": "2026-09-07",
+  "researcher": "Codex — leitura de catálogo público",
+  "scope": "Agostinha: óbito Bayonne e referências testamentárias/inventários, sem alteração de genealogia.",
+  "sources": [
+    {
+      "id": "AG-RAMAO-INV1896",
+      "title": "APERS — Inventário de Ramão Guicheney, processo111,1896",
+      "type": "catálogo institucional de processo judicial",
+      "institution": "Arquivo Público do Estado do Rio Grande do Sul (APERS)",
+      "url": "https://aap.procergs.com.br/aap/arq4/rest/documentos/_Qlqn50Bk_UcDmM7iVZe",
+      "searchUrl": "https://aap.procergs.com.br/aap/arq4/rest/documentos?tipo=1&palavra=GUICHENEY",
+      "interfaceUrl": "https://buscadocumentos.apers.rs.gov.br/pesquisa-documentos",
+      "interfaceInstructions": "Pesquisar Guicheney; abrir Processo judicial / Inventário / Comarca de Uruguaiana / Ramão Guicheney.",
+      "localFile": "apers-ramao-inventario111-1896.json",
+      "archiveLocator": {
+        "fund": "Comarca de Uruguaiana",
+        "species": "Processo judicial",
+        "type": "Inventário",
+        "process": "111",
+        "year": 1896,
+        "internalNumber": "793260",
+        "queryId": "_Qlqn50Bk_UcDmM7iVZe",
+        "box": null,
+        "bundle": null
+      },
+      "rawCatalogDate": "1896-01-01",
+      "displayDate": "1896",
+      "dateLimit": "Dia e mês não confirmados; a API usa datas padronizadas em muitos resultados. Não divulgar 1/1 como data documental exata.",
+      "people": [
+        {
+          "name": "Ramão Guicheney",
+          "role": "inventariado"
+        },
+        {
+          "name": "João Zaconteguy Sobrinho",
+          "role": "inventariante"
+        }
+      ],
+      "digitalAccess": {
+        "imagesAvailable": null,
+        "completePdf": null,
+        "meaning": "Nenhum arquivo digital anexado foi apresentado pela ficha recuperada. Isso não prova ausência de reprodução em todos os serviços do arquivo."
+      }
+    },
+    {
+      "id": "AG-BAYONNE-CATALOGO1920",
+      "title": "AD64 — consulta de Bayonne,1920: único resultado1913–1922",
+      "type": "resultado de catálogo institucional",
+      "institution": "Archives départementales des Pyrénées-Atlantiques",
+      "url": "https://earchives.le64.fr/archives-en-ligne/syndication/rss/results/getchannel.xml?base=ead&rbase=ead&name=etat-civil&champ1=root-id&query1=FRAD064003_IR0002&cop1=AND&champ3=id_annee&du3=1920&cop3=AND&champ4=fulltext&query4=Bayonne&cop4=AND&locale=fr",
+      "localFile": "ad64-bayonne1920-rss.xml",
+      "observedResultCount": 1,
+      "result": {
+        "title": "1913–1922",
+        "component": "FRAD064003_IR0002_e0032955",
+        "viewer": "r17831zm80xzzk",
+        "url": "https://earchives.le64.fr/archives-en-ligne/ead.html?id=FRAD064003_IR0002&c=FRAD064003_IR0002_e0032955"
+      },
+      "limit": "Resultado corresponde à tabela decenal já conhecida; o inteiro teor do óbito8/9/1920 não foi obtido. Não demonstra indisponibilidade universal do livro."
+    }
+  ],
+  "claims": [
+    {
+      "id": "AG-RAMAO-INV1896-C1",
+      "text": "O catálogo APERS identifica Ramão Guicheney como inventariado e João Zaconteguy Sobrinho como inventariante no processo111,de1896,Comarca de Uruguaiana.",
+      "status": "documentado_no_catalogo",
+      "refs": [
+        "AG-RAMAO-INV1896"
+      ]
+    },
+    {
+      "id": "AG-RAMAO-INV1896-C2",
+      "text": "A combinação nominal justifica confrontar o processo com o pai Romão declarado em AJ03, o Ramão1896 de Volkmer e o marido João Zacoteguy Sobrinho. A ficha não prova as identidades nem filiação.",
+      "status": "hipotese_de_identificacao",
+      "refs": [
+        "AG-RAMAO-INV1896",
+        "AJ03"
+      ],
+      "noGenealogicalEdge": true
+    }
+  ],
+  "excludedInferences": [
+    "João inventariante = genro de Ramão",
+    "Agostinha é filha/herdeira de Ramão1896",
+    "Ramão1896 = RamonGuicheney1868, cuja mulher é Martha",
+    "Jeanne de Arsague1851 = Agostinha/Augustine",
+    "Ramão = Romain/Raymond por tradução",
+    "Qualquer ligação com Pedro Guicheney ou o ramo do banqueiro"
+  ],
+  "nextSteps": [
+    {
+      "priority": 1,
+      "target": "APERS Inventário111,1896,RamãoGuicheney,nº interno793260",
+      "question": "Quem são os herdeiros? Por que João Zaconteguy Sobrinho é inventariante? Há óbito/nascimento, filiação ou origem francesa?",
+      "pieces": [
+        "abertura",
+        "termo do inventariante",
+        "declaração de herdeiros",
+        "óbito anexado",
+        "procurações",
+        "partilha"
+      ],
+      "status": "Ficha localizada; autos/imagens não obtidos; pedido não enviado."
+    },
+    {
+      "priority": 2,
+      "target": "Bayonne,óbito Augustine Guichené,8set1920; cota candidata4E102/225",
+      "question": "Quais os pais, nascimento e cônjuge? Coincidem com o traslado brasileiro?",
+      "status": "Tabela decenal conhecida; cota apenas secundária; íntegra não obtida."
+    }
+  ],
+  "searches": [
+    {
+      "term": "GUICHENEY",
+      "period": null,
+      "count": 3,
+      "file": "apers-guicheney.json"
+    },
+    {
+      "term": "ZACOTEGUY",
+      "period": null,
+      "count": 46,
+      "file": "apers-zacoteguy.json"
+    },
+    {
+      "term": "AGOSTINHA",
+      "period": "1906–1925",
+      "count": 487,
+      "file": "apers-agostinha-1906-1925.json"
+    },
+    {
+      "term": "AUGUSTINE",
+      "period": "1906–1925",
+      "count": 58,
+      "file": "apers-augustine-1906-1925.json"
+    }
+  ],
+  "searchLimit": "Contagens de resultados fonéticos, não de identidades exatas. Nos prenomes foram filtrados Uruguaiana e sobrenomes Guich*/Zac*; não se leu o teor dos demais autos."
+}

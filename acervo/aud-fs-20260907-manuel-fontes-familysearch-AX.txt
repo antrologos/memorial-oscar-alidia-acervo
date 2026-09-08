@@ -1,0 +1,1017 @@
+Browser tab: 80, Title: "Manuel Joaquín Alvez Salgado (1830–1912) • Pessoa • Árvore familiar", URL: "https://www.familysearch.org/pt/tree/person/sources/L9CF-BHG".
+1 AXWebArea Manuel Joaquín Alvez Salgado (1830–1912) • Pessoa • Árvore familiar, URL: familysearch.org/pt/tree/person/sources/L9CF-BHG
+	2 container
+		3 container root
+			4 container app-content-scroller
+				5 link Description: IR PARA O CONTEÚDO PRINCIPAL, Value: familysearch.org/pt/tree/person/sources/L9CF-BHG#skipToMainContent
+				6 container
+					7 link Description: FamilySearch — Página Inicial, Value: familysearch.org/pt/home/portal/
+					8 container Principal
+						9 pop up button (collapsed) Árvore Familiar, Secondary Actions: Expand
+						10 pop up button (collapsed) Pesquisa, Secondary Actions: Expand
+						11 pop up button (collapsed) Recordações, Secondary Actions: Expand
+						12 pop up button (collapsed) Participe, Secondary Actions: Expand
+						13 pop up button (collapsed) Atividades, Secondary Actions: Expand
+					14 link Description: Localizações, Value: familysearch.org/pt/locations/about
+					15 button Escolha o idioma
+					16 button Ajuda
+					17 button Chat
+					18 link Description: Novas notificações disponíveis, Value: familysearch.org/pt/notifications/
+					19 pop up button (collapsed) Conta: Rogério J Barbosa, Secondary Actions: Expand
+						20 container Conta: Rogério J Barbosa
+				21 container main
+					22 container Menu secundário da árvore
+						23 content list
+							24 link Description: Árvore, Value: familysearch.org/pt/tree/pedigree
+							25 button Recentes
+							26 link Description: Encontrar, Value: familysearch.org/pt/search/tree?from=tree
+							27 link Description: Seguindo, Value: familysearch.org/pt/tree/following
+							28 link Description: Lista de pessoas, Value: familysearch.org/pt/tree/private-people
+							29 link Description: Minhas colaborações, Value: familysearch.org/pt/tree/contributions
+							30 pop up button (collapsed) Description: O que há de novo, Secondary Actions: Expand
+					31 container skipToMainContent
+						32 button Atualizar o retrato para Manuel Joaquín Alvez Salgado
+						33 heading Manuel Joaquín Alvez Salgado 1830–1912 · L9CF-BHG, Value: 1
+							34 container Manuel Joaquín Alvez Salgado 1830–1912 · L9CF-BHG
+								35 text Manuel Joaquín Alvez Salgado
+								36 text Masculino aproximadamente 1830 – 13 de maio de 1912 •
+								37 button L 9 C F B H G, Selecione para copiar.
+						38 link Description: VER ÁRVORE, Value: familysearch.org/pt/tree/pedigree/L9CF-BHG
+						39 button VER PARENTESCO
+						40 button Description: Para receber notificações sobre quaisquer alterações feitas a essa pessoa, clique em “Seguir” , Help: Para receber notificações sobre quaisquer alterações feitas a essa pessoa, clique em “Seguir”
+						41 container
+							42 link Description: Sobre, Value: familysearch.org/pt/tree/person/about/L9CF-BHG, ID: tabs--2--tab--0
+							43 link Description: Detalhes, Value: familysearch.org/pt/tree/person/details/L9CF-BHG, ID: tabs--2--tab--1
+							44 link Description: Fontes (23), Value: familysearch.org/pt/tree/person/sources/L9CF-BHG, ID: tabs--2--tab--2
+							45 link Description: Colaborar (0), Value: familysearch.org/pt/tree/person/collaborate/L9CF-BHG, ID: tabs--2--tab--3
+							46 link Description: Recordações (0), Value: familysearch.org/pt/tree/person/memories/L9CF-BHG, ID: tabs--2--tab--4
+							47 link Description: Linha do tempo, Value: familysearch.org/pt/tree/person/timeline/L9CF-BHG, ID: tabs--2--tab--5
+						48 container Description: Fontes (23), ID: tabs--2--panel--2
+						49 container
+							50 heading Description: Ocultar esta seção: Fontes, Value: 2
+								51 text Fontes  ( 23 )
+							52 switch Description: Visualização detalhada, Value: 1
+							53 pop up button (collapsed) + ACRESCENTAR FONTE, Secondary Actions: Expand
+							54 button OPÇÕES
+							55 text Data Título Criado
+							56 container 7GLG-7N7
+								57 button (expanded) Secondary Actions: Collapse, 1869 Manuel Manuel Alves Selgada, "Uruguay, registros parroquiales, 1726-2000" 1 de agosto de 2025 marinamuñoz
+									58 button 1869 Manuel Manuel Alves Selgada, "Uruguay, registros parroquiales, 1726-2000" 1 de agosto de 2025 marinamuñoz
+										59 button
+										60 text 1869
+										61 text Manuel Manuel Alves Selgada, "Uruguay, registros parroquiales, 1726-2000"
+										62 text 1 de agosto de 2025
+										63 button marinamuñoz
+								64 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								65 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								66 button ANEXOS COM INDIVÍDUOS PENDENTES
+								67 button DISPENSAR
+								297 container Ftagry6zrfns
+									298 button VISUALIZAR
+									299 button EDITAR
+									300 button ANALISAR ANEXOS
+									301 button DESANEXAR
+									302 heading Marcadores, Value: 3
+										303 text Marcadores
+									304 button Sexo
+									305 button Nome
+									306 button + Acrescentar marcação
+									307 heading Data da fonte janeiro de 1869, Value: 3
+										308 text Data da fonte
+										309 text janeiro de 1869
+									310 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D7Z-B1CQ, Value: 3
+										311 text Página do site (link para o registro)
+										312 link Description: https://familysearch.org/ark:/61903/1:1:6D7Z-B1CQ, Value: familysearch.org/ark:/61903/1:1:6D7Z-B1CQ?lang=pt
+									313 heading Onde o registro foi encontrado (referência) , Value: 3
+										314 text Onde o registro foi encontrado (referência)
+									315 container
+										316 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D7Z-B1C4 : Fri Apr 25 00:56:00 UTC 2025), Entry for Ma Tosta Revera and Baricaques Quindin, enero de 1869.
+									317 heading Informações indexadas, Value: 3
+										318 text Informações indexadas
+									319 button EXIBIR
+									320 heading Fonte modificada:, Value: 3
+										321 text Fonte modificada:
+									322 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7GLG-7N7?entityId=L9CF-BHG&entityType=person
+									323 text 1 de agosto de 2025
+									324 button marinamuñoz
+									325 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										326 text Motivo pela qual esta fonte está anexada:
+									327 button + ACRESCENTAR
+							68 container 3PB4-29R
+								69 button (expanded) Secondary Actions: Collapse, 1876 Manuel Alver Salgado, "Uruguay, registros parroquiales, 1726-2000" 18 de julho de 2022 Alexandro9383
+									70 button 1876 Manuel Alver Salgado, "Uruguay, registros parroquiales, 1726-2000" 18 de julho de 2022 Alexandro9383
+										71 button
+										72 text 1876
+										73 text Manuel Alver Salgado, "Uruguay, registros parroquiales, 1726-2000"
+										74 text 18 de julho de 2022
+										75 button Alexandro9383
+								76 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								77 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								78 button ANEXOS COM INDIVÍDUOS PENDENTES
+								79 button DISPENSAR
+								328 container Dp9kgqtpnlk
+									329 button VISUALIZAR
+									330 button EDITAR
+									331 button ANALISAR ANEXOS
+									332 button DESANEXAR
+									333 heading Marcadores, Value: 3
+										334 text Marcadores
+									335 button Sexo
+									336 button Nome
+									337 button + Acrescentar marcação
+									338 heading Data da fonte 4 de maio de 1876, Value: 3
+										339 text Data da fonte
+										340 text 4 de maio de 1876
+									341 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZCQ-FZPR, Value: 3
+										342 text Página do site (link para o registro)
+										343 link Description: https://familysearch.org/ark:/61903/1:1:6ZCQ-FZPR, Value: familysearch.org/ark:/61903/1:1:6ZCQ-FZPR?lang=pt
+									344 heading Onde o registro foi encontrado (referência) , Value: 3
+										345 text Onde o registro foi encontrado (referência)
+									346 container
+										347 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZCQ-FZP5 : Thu Jan 01 11:15:44 UTC 2026), Entry for Arlindo and Gerónimo Gana, 4 de mayo de 1876.
+									348 heading Informações indexadas, Value: 3
+										349 text Informações indexadas
+									350 button EXIBIR
+									351 heading Fonte modificada:, Value: 3
+										352 text Fonte modificada:
+									353 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/3PB4-29R?entityId=L9CF-BHG&entityType=person
+									354 text 18 de julho de 2022
+									355 button Alexandro9383
+									356 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										357 text Motivo pela qual esta fonte está anexada:
+									358 button + ACRESCENTAR
+							80 container 7K3C-JZ9
+								81 button (expanded) Secondary Actions: Collapse, 1879 Manuel Alver Salgado, "Uruguay, registro civil, 1879-2020" 29 de maio de 2025 Mengo, Terrel O'neal
+									82 button 1879 Manuel Alver Salgado, "Uruguay, registro civil, 1879-2020" 29 de maio de 2025 Mengo, Terrel O'neal
+										83 button
+										84 text 1879
+										85 text Manuel Alver Salgado, "Uruguay, registro civil, 1879-2020"
+										86 text 29 de maio de 2025
+										87 button Mengo, Terrel O'neal
+								359 container up5yflaeoivj
+									360 button VISUALIZAR
+									361 button EDITAR
+									362 button ANALISAR ANEXOS
+									363 button DESANEXAR
+									364 heading Marcadores, Value: 3
+										365 text Marcadores
+									366 button Nascimento
+									367 button Sexo
+									368 button Nome
+									369 button + Acrescentar marcação
+									370 heading Data da fonte março de 1879, Value: 3
+										371 text Data da fonte
+										372 text março de 1879
+									373 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSX9-WB9W, Value: 3
+										374 text Página do site (link para o registro)
+										375 link Description: https://familysearch.org/ark:/61903/1:1:XSX9-WB9W, Value: familysearch.org/ark:/61903/1:1:XSX9-WB9W?lang=pt
+									376 heading Onde o registro foi encontrado (referência) , Value: 3
+										377 text Onde o registro foi encontrado (referência)
+									378 container
+										379 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSX9-WB93 : Sat Dec 20 04:57:22 UTC 2025), Entry for Juan Gallegos and Arturo M. Salgado, marzo de 1879.
+									380 heading Informações indexadas, Value: 3
+										381 text Informações indexadas
+									382 button EXIBIR
+									383 heading Fonte modificada:, Value: 3
+										384 text Fonte modificada:
+									385 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7K3C-JZ9?entityId=L9CF-BHG&entityType=person
+									386 text 29 de maio de 2025
+									387 button Mengo, Terrel O'neal
+									388 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										389 text Motivo pela qual esta fonte está anexada:
+									390 button + ACRESCENTAR
+							88 container 76JX-2VP
+								89 button (expanded) Secondary Actions: Collapse, 1879 Manuel Alan Salgado, "Uruguay, registro civil, 1879-2020" 20 de fevereiro de 2025 Alicia Leguizamón de Casco registros
+									90 button 1879 Manuel Alan Salgado, "Uruguay, registro civil, 1879-2020" 20 de fevereiro de 2025 Alicia Leguizamón de Casco registros
+										91 button
+										92 text 1879
+										93 text Manuel Alan Salgado, "Uruguay, registro civil, 1879-2020"
+										94 text 20 de fevereiro de 2025
+										95 button Alicia Leguizamón de Casco registros
+								96 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								97 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								98 button ANEXOS COM INDIVÍDUOS PENDENTES
+								99 button DISPENSAR
+								391 container Xikiec5lwfoh
+									392 button VISUALIZAR
+									393 button EDITAR
+									394 button ANALISAR ANEXOS
+									395 button DESANEXAR
+									396 heading Marcadores, Value: 3
+										397 text Marcadores
+									398 button Nascimento
+									399 button Sexo
+									400 button Nome
+									401 button + Acrescentar marcação
+									402 heading Data da fonte agosto de 1879, Value: 3
+										403 text Data da fonte
+										404 text agosto de 1879
+									405 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSXS-DCQ1, Value: 3
+										406 text Página do site (link para o registro)
+										407 link Description: https://familysearch.org/ark:/61903/1:1:XSXS-DCQ1, Value: familysearch.org/ark:/61903/1:1:XSXS-DCQ1?lang=pt
+									408 heading Onde o registro foi encontrado (referência) , Value: 3
+										409 text Onde o registro foi encontrado (referência)
+									410 container
+										411 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSXS-DCQT : Sat Dec 20 03:30:53 UTC 2025), Entry for Manuel Salgado and Arturo N. Salgado, agosto de 1879.
+									412 heading Informações indexadas, Value: 3
+										413 text Informações indexadas
+									414 button EXIBIR
+									415 heading Fonte modificada:, Value: 3
+										416 text Fonte modificada:
+									417 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/76JX-2VP?entityId=L9CF-BHG&entityType=person
+									418 text 20 de fevereiro de 2025
+									419 button Alicia Leguizamón de Casco registros
+									420 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										421 text Motivo pela qual esta fonte está anexada:
+									422 button + ACRESCENTAR
+							100 container 76JC-NR7
+								101 button (expanded) Secondary Actions: Collapse, 1879 Manuel , Alvez Salgado Brasilero, "Uruguay, registro civil, 1879-2020" 20 de fevereiro de 2025 treehelper_a321
+									102 button 1879 Manuel , Alvez Salgado Brasilero, "Uruguay, registro civil, 1879-2020" 20 de fevereiro de 2025 treehelper_a321
+										103 button
+										104 text 1879
+										105 text Manuel , Alvez Salgado Brasilero, "Uruguay, registro civil, 1879-2020"
+										106 text 20 de fevereiro de 2025
+										107 button treehelper_a321
+								423 container ojj1e7pxbu4
+									424 button VISUALIZAR
+									425 button EDITAR
+									426 button ANALISAR ANEXOS
+									427 button DESANEXAR
+									428 heading Marcadores, Value: 3
+										429 text Marcadores
+									430 button Nascimento
+									431 button Sexo
+									432 button Nome
+									433 button + Acrescentar marcação
+									434 heading Data da fonte outubro de 1879, Value: 3
+										435 text Data da fonte
+										436 text outubro de 1879
+									437 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSX9-P3H5, Value: 3
+										438 text Página do site (link para o registro)
+										439 link Description: https://familysearch.org/ark:/61903/1:1:XSX9-P3H5, Value: familysearch.org/ark:/61903/1:1:XSX9-P3H5?lang=pt
+									440 heading Onde o registro foi encontrado (referência) , Value: 3
+										441 text Onde o registro foi encontrado (referência)
+									442 container
+										443 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSX9-P3HL : Sat Dec 20 09:04:22 UTC 2025), Entry for Luís Alberto Salgado and Artural . Salgado, octubre de 1879.
+									444 heading Informações indexadas, Value: 3
+										445 text Informações indexadas
+									446 button EXIBIR
+									447 heading Fonte modificada:, Value: 3
+										448 text Fonte modificada:
+									449 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/76JC-NR7?entityId=L9CF-BHG&entityType=person
+									450 text 20 de fevereiro de 2025
+									451 button treehelper_a321
+									452 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										453 text Motivo pela qual esta fonte está anexada:
+									454 button + ACRESCENTAR
+							108 container 76T2-XBH
+								109 button (expanded) Secondary Actions: Collapse, 1879 Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020" 26 de fevereiro de 2025 treehelper_a416
+									110 button 1879 Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020" 26 de fevereiro de 2025 treehelper_a416
+										111 button
+										112 text 1879
+										113 text Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020"
+										114 text 26 de fevereiro de 2025
+										115 button treehelper_a416
+								455 container qm3ouhbypks
+									456 button VISUALIZAR
+									457 button EDITAR
+									458 button ANALISAR ANEXOS
+									459 button DESANEXAR
+									460 heading Marcadores, Value: 3
+										461 text Marcadores
+									462 button Sexo
+									463 button Nome
+									464 button + Acrescentar marcação
+									465 heading Data da fonte 11 de outubro de 1879, Value: 3
+										466 text Data da fonte
+										467 text 11 de outubro de 1879
+									468 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSX7-M768, Value: 3
+										469 text Página do site (link para o registro)
+										470 link Description: https://familysearch.org/ark:/61903/1:1:XSX7-M768, Value: familysearch.org/ark:/61903/1:1:XSX7-M768?lang=pt
+									471 heading Onde o registro foi encontrado (referência) , Value: 3
+										472 text Onde o registro foi encontrado (referência)
+									473 container
+										474 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSX7-M76W : Sat Dec 20 03:50:21 UTC 2025), Entry for Juan Manuel Vidal and Ataliva Coronel, 11 de octubre de 1879.
+									475 heading Informações indexadas, Value: 3
+										476 text Informações indexadas
+									477 button EXIBIR
+									478 heading Fonte modificada:, Value: 3
+										479 text Fonte modificada:
+									480 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/76T2-XBH?entityId=L9CF-BHG&entityType=person
+									481 text 26 de fevereiro de 2025
+									482 button treehelper_a416
+									483 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										484 text Motivo pela qual esta fonte está anexada:
+									485 button + ACRESCENTAR
+							116 container 72KP-8SD
+								117 button (expanded) Secondary Actions: Collapse, 1879 Manuel Alves Salgado Grasilero, "Uruguay, registro civil, 1879-2020" 27 de junho de 2025 Anibal Bonzi
+									118 button 1879 Manuel Alves Salgado Grasilero, "Uruguay, registro civil, 1879-2020" 27 de junho de 2025 Anibal Bonzi
+										119 button
+										120 text 1879
+										121 text Manuel Alves Salgado Grasilero, "Uruguay, registro civil, 1879-2020"
+										122 text 27 de junho de 2025
+										123 button Anibal Bonzi
+								486 container sr1fgoxki42m
+									487 button VISUALIZAR
+									488 button EDITAR
+									489 button ANALISAR ANEXOS
+									490 button DESANEXAR
+									491 heading Marcadores, Value: 3
+										492 text Marcadores
+									493 button Nascimento
+									494 button Sexo
+									495 button Nome
+									496 button + Acrescentar marcação
+									497 heading Data da fonte dezembro de 1879, Value: 3
+										498 text Data da fonte
+										499 text dezembro de 1879
+									500 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSXS-NLP5, Value: 3
+										501 text Página do site (link para o registro)
+										502 link Description: https://familysearch.org/ark:/61903/1:1:XSXS-NLP5, Value: familysearch.org/ark:/61903/1:1:XSXS-NLP5?lang=pt
+									503 heading Onde o registro foi encontrado (referência) , Value: 3
+										504 text Onde o registro foi encontrado (referência)
+									505 container
+										506 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSXS-NLPL : Sat Dec 20 03:45:40 UTC 2025), Entry for René Salgado Acevedes and Arturo Márquez Salgado, diciembre de 1879.
+									507 heading Informações indexadas, Value: 3
+										508 text Informações indexadas
+									509 button EXIBIR
+									510 heading Fonte modificada:, Value: 3
+										511 text Fonte modificada:
+									512 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/72KP-8SD?entityId=L9CF-BHG&entityType=person
+									513 text 27 de junho de 2025
+									514 button Anibal Bonzi
+									515 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										516 text Motivo pela qual esta fonte está anexada:
+									517 button + ACRESCENTAR
+							124 container 9FKB-YB2
+								125 button (expanded) 1881 Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020" 15 de julho de 2016 Alexandro9383, Secondary Actions: Collapse
+									126 button 1881 Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020" 15 de julho de 2016 Alexandro9383
+										127 button
+										128 text 1881
+										129 text Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020"
+										130 text 15 de julho de 2016
+										131 button Alexandro9383
+								518 container R3r2bl4jgfgh
+									519 button VISUALIZAR
+									520 button EDITAR
+									521 button ANALISAR ANEXOS
+									522 button DESANEXAR
+									523 heading Marcadores, Value: 3
+										524 text Marcadores
+									525 button Sexo
+									526 button Nome
+									527 button + Acrescentar marcação
+									528 heading Data da fonte 6 de abril de 1881, Value: 3
+										529 text Data da fonte
+										530 text 6 de abril de 1881
+									531 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:VR4Y-YG7, Value: 3
+										532 text Página do site (link para o registro)
+										533 link Description: https://familysearch.org/ark:/61903/1:1:VR4Y-YG7, Value: familysearch.org/ark:/61903/1:1:VR4Y-YG7?lang=pt
+									534 heading Onde o registro foi encontrado (referência) , Value: 3
+										535 text Onde o registro foi encontrado (referência)
+									536 container
+										537 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:VR4Y-YG4 : Mon Jan 20 05:09:17 UTC 2025), Entry for Alvino Alves Salgado and Manuel Alves Salgado, 06 Apr 1881.
+									538 heading Informações indexadas, Value: 3
+										539 text Informações indexadas
+									540 button EXIBIR
+									541 heading Fonte modificada:, Value: 3
+										542 text Fonte modificada:
+									543 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/9FKB-YB2?entityId=L9CF-BHG&entityType=person
+									544 text 15 de julho de 2016
+									545 button Alexandro9383
+									546 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										547 text Motivo pela qual esta fonte está anexada:
+									548 button + ACRESCENTAR
+							132 container 3PB4-L3C
+								133 button (expanded) 1881 Manuel Salgado, "Uruguay, registros parroquiales, 1726-2000" 18 de julho de 2022 Alexandro9383, Secondary Actions: Collapse
+									134 button 1881 Manuel Salgado, "Uruguay, registros parroquiales, 1726-2000" 18 de julho de 2022 Alexandro9383
+										135 button
+										136 text 1881
+										137 text Manuel Salgado, "Uruguay, registros parroquiales, 1726-2000"
+										138 text 18 de julho de 2022
+										139 button Alexandro9383
+								140 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								141 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								142 button ANEXOS COM INDIVÍDUOS PENDENTES
+								143 button DISPENSAR
+								549 container thh16bnhbe9h
+									550 button VISUALIZAR
+									551 button EDITAR
+									552 button ANALISAR ANEXOS
+									553 button DESANEXAR
+									554 heading Marcadores, Value: 3
+										555 text Marcadores
+									556 button Sexo
+									557 button Nome
+									558 button + Acrescentar marcação
+									559 heading Data da fonte 2 de junho de 1881, Value: 3
+										560 text Data da fonte
+										561 text 2 de junho de 1881
+									562 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZMQ-CF23, Value: 3
+										563 text Página do site (link para o registro)
+										564 link Description: https://familysearch.org/ark:/61903/1:1:6ZMQ-CF23, Value: familysearch.org/ark:/61903/1:1:6ZMQ-CF23?lang=pt
+									565 heading Onde o registro foi encontrado (referência) , Value: 3
+										566 text Onde o registro foi encontrado (referência)
+									567 container
+										568 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZMQ-CF2S : Thu Jan 01 11:12:50 UTC 2026), Entry for Alvi and Germenio Gama, 2 de junio de 1881.
+									569 heading Informações indexadas, Value: 3
+										570 text Informações indexadas
+									571 button EXIBIR
+									572 heading Fonte modificada:, Value: 3
+										573 text Fonte modificada:
+									574 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/3PB4-L3C?entityId=L9CF-BHG&entityType=person
+									575 text 18 de julho de 2022
+									576 button Alexandro9383
+									577 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										578 text Motivo pela qual esta fonte está anexada:
+									579 button + ACRESCENTAR
+							144 container 3Z64-GVB
+								145 button (expanded) 1884 Manuel A Salgado, "Uruguay, registro civil, 1879-2020" 10 de agosto de 2021 MarlyDa Silva Perez, Secondary Actions: Collapse
+									146 button 1884 Manuel A Salgado, "Uruguay, registro civil, 1879-2020" 10 de agosto de 2021 MarlyDa Silva Perez
+										147 button
+										148 text 1884
+										149 text Manuel A Salgado, "Uruguay, registro civil, 1879-2020"
+										150 text 10 de agosto de 2021
+										151 button MarlyDa Silva Perez
+								580 container xq610bqjx7gc
+									581 button VISUALIZAR
+									582 button EDITAR
+									583 button ANALISAR ANEXOS
+									584 button DESANEXAR
+									585 heading Marcadores, Value: 3
+										586 text Marcadores
+									587 button Sexo
+									588 button Nome
+									589 button + Acrescentar marcação
+									590 heading Data da fonte 9 de janeiro de 1884, Value: 3
+										591 text Data da fonte
+										592 text 9 de janeiro de 1884
+									593 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:VR4Y-T6N, Value: 3
+										594 text Página do site (link para o registro)
+										595 link Description: https://familysearch.org/ark:/61903/1:1:VR4Y-T6N, Value: familysearch.org/ark:/61903/1:1:VR4Y-T6N?lang=pt
+									596 heading Onde o registro foi encontrado (referência) , Value: 3
+										597 text Onde o registro foi encontrado (referência)
+									598 container
+										599 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:VR4Y-T6V : Tue Oct 07 11:51:07 UTC 2025), Entry for Julia Salgado and Manuel A Salgado, 09 Jan 1884.
+									600 heading Informações indexadas, Value: 3
+										601 text Informações indexadas
+									602 button EXIBIR
+									603 heading Fonte modificada:, Value: 3
+										604 text Fonte modificada:
+									605 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/3Z64-GVB?entityId=L9CF-BHG&entityType=person
+									606 text 10 de agosto de 2021
+									607 button MarlyDa Silva Perez
+									608 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										609 text Motivo pela qual esta fonte está anexada:
+									610 button EDITAR
+									611 text indexado Registro Civil.
+							152 container WQJ7-ZXH
+								153 button (expanded) 1895 Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020" 15 de março de 2026 SilviaAlonzo1, Secondary Actions: Collapse
+									154 button 1895 Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020" 15 de março de 2026 SilviaAlonzo1
+										155 button
+										156 text 1895
+										157 text Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020"
+										158 text 15 de março de 2026
+										159 button SilviaAlonzo1
+								612 container gh3upgiurrke
+									613 button VISUALIZAR
+									614 button EDITAR
+									615 button ANALISAR ANEXOS
+									616 button DESANEXAR
+									617 heading Marcadores, Value: 3
+										618 text Marcadores
+									619 button Sexo
+									620 button Nome
+									621 button + Acrescentar marcação
+									622 heading Data da fonte 8 de março de 1895, Value: 3
+										623 text Data da fonte
+										624 text 8 de março de 1895
+									625 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSXQ-GGM7, Value: 3
+										626 text Página do site (link para o registro)
+										627 link Description: https://familysearch.org/ark:/61903/1:1:XSXQ-GGM7, Value: familysearch.org/ark:/61903/1:1:XSXQ-GGM7?lang=pt
+									628 heading Onde o registro foi encontrado (referência) , Value: 3
+										629 text Onde o registro foi encontrado (referência)
+									630 container
+										631 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSXQ-GGMS : Wed Feb 05 18:42:52 UTC 2025), Entry for Modesta Salgado and Alfredo Salgado, 8 de marzo de 1895.
+									632 heading Informações indexadas, Value: 3
+										633 text Informações indexadas
+									634 button EXIBIR
+									635 heading Fonte modificada:, Value: 3
+										636 text Fonte modificada:
+									637 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/WQJ7-ZXH?entityId=L9CF-BHG&entityType=person
+									638 text 15 de março de 2026
+									639 button SilviaAlonzo1
+									640 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										641 text Motivo pela qual esta fonte está anexada:
+									642 button + ACRESCENTAR
+							160 container 72KP-HRF
+								161 button (expanded) 1902 Manuel Salgado, "Uruguay, registro civil, 1879-2020" 27 de junho de 2025 Anibal Bonzi, Secondary Actions: Collapse
+									162 button 1902 Manuel Salgado, "Uruguay, registro civil, 1879-2020" 27 de junho de 2025 Anibal Bonzi
+										163 button
+										164 text 1902
+										165 text Manuel Salgado, "Uruguay, registro civil, 1879-2020"
+										166 text 27 de junho de 2025
+										167 button Anibal Bonzi
+								643 container rluoraixjoq
+									644 button VISUALIZAR
+									645 button EDITAR
+									646 button ANALISAR ANEXOS
+									647 button DESANEXAR
+									648 heading Marcadores, Value: 3
+										649 text Marcadores
+									650 button Sexo
+									651 button Nome
+									652 button + Acrescentar marcação
+									653 heading Data da fonte 15 de dezembro de 1902, Value: 3
+										654 text Data da fonte
+										655 text 15 de dezembro de 1902
+									656 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS13-1V7X, Value: 3
+										657 text Página do site (link para o registro)
+										658 link Description: https://familysearch.org/ark:/61903/1:1:XS13-1V7X, Value: familysearch.org/ark:/61903/1:1:XS13-1V7X?lang=pt
+									659 heading Onde o registro foi encontrado (referência) , Value: 3
+										660 text Onde o registro foi encontrado (referência)
+									661 container
+										662 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS13-1V76 : Wed Mar 12 04:14:47 UTC 2025), Entry for Arturo Marquez Salgado and Manuel Salgado, 15 Dec 1902.
+									663 heading Informações indexadas, Value: 3
+										664 text Informações indexadas
+									665 button EXIBIR
+									666 heading Fonte modificada:, Value: 3
+										667 text Fonte modificada:
+									668 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/72KP-HRF?entityId=L9CF-BHG&entityType=person
+									669 text 27 de junho de 2025
+									670 button Anibal Bonzi
+									671 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										672 text Motivo pela qual esta fonte está anexada:
+									673 button + ACRESCENTAR
+							168 container QSMD-ZN6
+								169 button (expanded) 1904 Manuel, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa, Secondary Actions: Collapse
+									170 button 1904 Manuel, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa
+										171 button
+										172 text 1904
+										173 text Manuel, "Uruguay, registros parroquiales, 1726-2000"
+										174 text 1 de janeiro de 2023
+										175 button Rogério J Barbosa
+								176 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								177 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								178 button ANEXOS COM INDIVÍDUOS PENDENTES
+								179 button DISPENSAR
+								674 container cj5we073euf
+									675 button VISUALIZAR
+									676 button EDITAR
+									677 button ANALISAR ANEXOS
+									678 button DESANEXAR
+									679 heading Marcadores, Value: 3
+										680 text Marcadores
+									681 button Sexo
+									682 button Nome
+									683 button + Acrescentar marcação
+									684 heading Data da fonte 30 de dezembro de 1904, Value: 3
+										685 text Data da fonte
+										686 text 30 de dezembro de 1904
+									687 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-KQCH, Value: 3
+										688 text Página do site (link para o registro)
+										689 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-KQCH, Value: familysearch.org/ark:/61903/1:1:6D3H-KQCH?lang=pt
+									690 heading Onde o registro foi encontrado (referência) , Value: 3
+										691 text Onde o registro foi encontrado (referência)
+									692 container
+										693 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-KQC7 : Sun Oct 19 09:51:36 UTC 2025), Entry for Manuel Joaquín and Juan Pérez, 30 de diciembre de 1904.
+									694 heading Informações indexadas, Value: 3
+										695 text Informações indexadas
+									696 button EXIBIR
+									697 heading Fonte modificada:, Value: 3
+										698 text Fonte modificada:
+									699 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSMD-ZN6?entityId=L9CF-BHG&entityType=person
+									700 text 1 de janeiro de 2023
+									701 button Rogério J Barbosa
+									702 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										703 text Motivo pela qual esta fonte está anexada:
+									704 button + ACRESCENTAR
+							180 container QSMD-KMF
+								181 button (expanded) 1906 Manuel, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa, Secondary Actions: Collapse
+									182 button 1906 Manuel, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa
+										183 button
+										184 text 1906
+										185 text Manuel, "Uruguay, registros parroquiales, 1726-2000"
+										186 text 1 de janeiro de 2023
+										187 button Rogério J Barbosa
+								188 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								189 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								190 button ANEXOS COM INDIVÍDUOS PENDENTES
+								191 button DISPENSAR
+								705 container Lct57jf6yqm9
+									706 button VISUALIZAR
+									707 button EDITAR
+									708 button ANALISAR ANEXOS
+									709 button DESANEXAR
+									710 heading Marcadores, Value: 3
+										711 text Marcadores
+									712 button Sexo
+									713 button Nome
+									714 button + Acrescentar marcação
+									715 heading Data da fonte 3 de dezembro de 1906, Value: 3
+										716 text Data da fonte
+										717 text 3 de dezembro de 1906
+									718 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-KYN6, Value: 3
+										719 text Página do site (link para o registro)
+										720 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-KYN6, Value: familysearch.org/ark:/61903/1:1:6D3H-KYN6?lang=pt
+									721 heading Onde o registro foi encontrado (referência) , Value: 3
+										722 text Onde o registro foi encontrado (referência)
+									723 container
+										724 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-KYNC : Thu Jan 01 00:29:02 UTC 2026), Entry for René Concepción and Eugenio Melía, 3 de diciembre de 1906.
+									725 heading Informações indexadas, Value: 3
+										726 text Informações indexadas
+									727 button EXIBIR
+									728 heading Fonte modificada:, Value: 3
+										729 text Fonte modificada:
+									730 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSMD-KMF?entityId=L9CF-BHG&entityType=person
+									731 text 1 de janeiro de 2023
+									732 button Rogério J Barbosa
+									733 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										734 text Motivo pela qual esta fonte está anexada:
+									735 button + ACRESCENTAR
+							192 container QSZ7-ZVP
+								193 button (expanded) Secondary Actions: Collapse, 1907 Manoel Salgado, “Brasil, Rio Grande do Sul, Registro Civil, 1810-2022” 8 de janeiro de 2023 Rogério J Barbosa
+									194 button 1907 Manoel Salgado, “Brasil, Rio Grande do Sul, Registro Civil, 1810-2022” 8 de janeiro de 2023 Rogério J Barbosa
+										195 button
+										196 text 1907
+										197 text Manoel Salgado, “Brasil, Rio Grande do Sul, Registro Civil, 1810-2022”
+										198 text 8 de janeiro de 2023
+										199 button Rogério J Barbosa
+								200 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								201 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								202 button ANEXOS COM INDIVÍDUOS PENDENTES
+								203 button DISPENSAR
+								736 container Vwapwybx17j
+									737 button VISUALIZAR
+									738 button EDITAR
+									739 button ANALISAR ANEXOS
+									740 button DESANEXAR
+									741 heading Marcadores, Value: 3
+										742 text Marcadores
+									743 button Sexo
+									744 button Nome
+									745 button + Acrescentar marcação
+									746 heading Data da fonte 21 de junho de 1907, Value: 3
+										747 text Data da fonte
+										748 text 21 de junho de 1907
+									749 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:68SP-HG6B, Value: 3
+										750 text Página do site (link para o registro)
+										751 link Description: https://familysearch.org/ark:/61903/1:1:68SP-HG6B, Value: familysearch.org/ark:/61903/1:1:68SP-HG6B?lang=pt
+									752 heading Onde o registro foi encontrado (referência) , Value: 3
+										753 text Onde o registro foi encontrado (referência)
+									754 container
+										755 text "Brasil, Rio Grande do Sul, Registro Civil, 1810-2022",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:68SP-HG6Y : Sun Mar 10 06:07:57 UTC 2024), Entry for Alvin Marques Salgado and Manoel Salgado, 21 Jun 1907.
+									756 heading Informações indexadas, Value: 3
+										757 text Informações indexadas
+									758 button EXIBIR
+									759 heading Fonte modificada:, Value: 3
+										760 text Fonte modificada:
+									761 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSZ7-ZVP?entityId=L9CF-BHG&entityType=person
+									762 text 8 de janeiro de 2023
+									763 button Rogério J Barbosa
+									764 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										765 text Motivo pela qual esta fonte está anexada:
+									766 button + ACRESCENTAR
+							204 container 7FCZ-VLF
+								205 button (expanded) Secondary Actions: Collapse, 1915 Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020" 23 de março de 2025 joseyudaelgonzalezmarquez1
+									206 button 1915 Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020" 23 de março de 2025 joseyudaelgonzalezmarquez1
+										207 button
+										208 text 1915
+										209 text Manuel Alves Salgado, "Uruguay, registro civil, 1879-2020"
+										210 text 23 de março de 2025
+										211 button joseyudaelgonzalezmarquez1
+								767 container Bqyceroo0fm
+									768 button VISUALIZAR
+									769 button EDITAR
+									770 button ANALISAR ANEXOS
+									771 button DESANEXAR
+									772 heading Marcadores, Value: 3
+										773 text Marcadores
+									774 button Sexo
+									775 button Nome
+									776 button + Acrescentar marcação
+									777 heading Data da fonte 17 de fevereiro de 1915, Value: 3
+										778 text Data da fonte
+										779 text 17 de fevereiro de 1915
+									780 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS1Q-95NT, Value: 3
+										781 text Página do site (link para o registro)
+										782 link Description: https://familysearch.org/ark:/61903/1:1:XS1Q-95NT, Value: familysearch.org/ark:/61903/1:1:XS1Q-95NT?lang=pt
+									783 heading Onde o registro foi encontrado (referência) , Value: 3
+										784 text Onde o registro foi encontrado (referência)
+									785 container
+										786 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS1Q-95NP : Wed Mar 12 06:36:04 UTC 2025), Entry for Ataliva Coronel and Juan Blas Coronel, 17 Feb 1915.
+									787 heading Informações indexadas, Value: 3
+										788 text Informações indexadas
+									789 button EXIBIR
+									790 heading Fonte modificada:, Value: 3
+										791 text Fonte modificada:
+									792 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7FCZ-VLF?entityId=L9CF-BHG&entityType=person
+									793 text 23 de março de 2025
+									794 button joseyudaelgonzalezmarquez1
+									795 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										796 text Motivo pela qual esta fonte está anexada:
+									797 button + ACRESCENTAR
+							212 container Q9BM-3VS
+								213 button (expanded) Secondary Actions: Collapse, 1920 {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+									214 button 1920 {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+										215 button
+										216 text 1920
+										217 text {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930”
+										218 text 30 de dezembro de 2022
+										219 button Rogério J Barbosa
+								798 container O3aj6db8bguy
+									799 button VISUALIZAR
+									800 button EDITAR
+									801 button ANALISAR ANEXOS
+									802 button DESANEXAR
+									803 heading Marcadores, Value: 3
+										804 text Marcadores
+									805 button Sexo
+									806 button Nome
+									807 button + Acrescentar marcação
+									808 heading Data da fonte 29 de junho de 1920, Value: 3
+										809 text Data da fonte
+										810 text 29 de junho de 1920
+									811 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:HR3C-3MZM, Value: 3
+										812 text Página do site (link para o registro)
+										813 link Description: https://familysearch.org/ark:/61903/1:1:HR3C-3MZM, Value: familysearch.org/ark:/61903/1:1:HR3C-3MZM?lang=pt
+									814 heading Onde o registro foi encontrado (referência) , Value: 3
+										815 text Onde o registro foi encontrado (referência)
+									816 container
+										817 text "Perú, bautismos, 1556-1930", ,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:HR3C-3MZM : 8 February 2020), Manuel in entry for Luis Alberto Salgado, 1920.
+									818 heading Informações indexadas, Value: 3
+										819 text Informações indexadas
+									820 button EXIBIR
+									821 heading Fonte modificada:, Value: 3
+										822 text Fonte modificada:
+									823 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/Q9BM-3VS?entityId=L9CF-BHG&entityType=person
+									824 text 30 de dezembro de 2022
+									825 button Rogério J Barbosa
+									826 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										827 text Motivo pela qual esta fonte está anexada:
+									828 button + ACRESCENTAR
+							220 container Q9BM-FG5
+								221 button (expanded) Secondary Actions: Collapse, 1921 {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+									222 button 1921 {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+										223 button
+										224 text 1921
+										225 text {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930”
+										226 text 30 de dezembro de 2022
+										227 button Rogério J Barbosa
+								829 container Zddgxp6in0yh
+									830 button VISUALIZAR
+									831 button EDITAR
+									832 button ANALISAR ANEXOS
+									833 button DESANEXAR
+									834 heading Marcadores, Value: 3
+										835 text Marcadores
+									836 button Sexo
+									837 button Nome
+									838 button + Acrescentar marcação
+									839 heading Data da fonte 23 de abril de 1921, Value: 3
+										840 text Data da fonte
+										841 text 23 de abril de 1921
+									842 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:HR3H-YH2M, Value: 3
+										843 text Página do site (link para o registro)
+										844 link Description: https://familysearch.org/ark:/61903/1:1:HR3H-YH2M, Value: familysearch.org/ark:/61903/1:1:HR3H-YH2M?lang=pt
+									845 heading Onde o registro foi encontrado (referência) , Value: 3
+										846 text Onde o registro foi encontrado (referência)
+									847 container
+										848 text "Perú, bautismos, 1556-1930", ,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:HR3H-YH2M : 8 February 2020), Manuel in entry for Ema Alice Marquez Salgado, 1921.
+									849 heading Informações indexadas, Value: 3
+										850 text Informações indexadas
+									851 button EXIBIR
+									852 heading Fonte modificada:, Value: 3
+										853 text Fonte modificada:
+									854 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/Q9BM-FG5?entityId=L9CF-BHG&entityType=person
+									855 text 30 de dezembro de 2022
+									856 button Rogério J Barbosa
+									857 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										858 text Motivo pela qual esta fonte está anexada:
+									859 button + ACRESCENTAR
+							228 container QSMD-74S
+								229 button (expanded) 1921 Manuel, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa, Secondary Actions: Collapse
+									230 button 1921 Manuel, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa
+										231 button
+										232 text 1921
+										233 text Manuel, "Uruguay, registros parroquiales, 1726-2000"
+										234 text 1 de janeiro de 2023
+										235 button Rogério J Barbosa
+								236 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								237 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								238 button ANEXOS COM INDIVÍDUOS PENDENTES
+								239 button DISPENSAR
+								860 container jbixx1vl02sq
+									861 button VISUALIZAR
+									862 button EDITAR
+									863 button ANALISAR ANEXOS
+									864 button DESANEXAR
+									865 heading Marcadores, Value: 3
+										866 text Marcadores
+									867 button Sexo
+									868 button Nome
+									869 button + Acrescentar marcação
+									870 heading Data da fonte 23 de abril de 1921, Value: 3
+										871 text Data da fonte
+										872 text 23 de abril de 1921
+									873 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:68XR-VMBZ, Value: 3
+										874 text Página do site (link para o registro)
+										875 link Description: https://familysearch.org/ark:/61903/1:1:68XR-VMBZ, Value: familysearch.org/ark:/61903/1:1:68XR-VMBZ?lang=pt
+									876 heading Onde o registro foi encontrado (referência) , Value: 3
+										877 text Onde o registro foi encontrado (referência)
+									878 container
+										879 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:68XR-VMB4 : Thu Jan 01 07:57:39 UTC 2026), Entry for Ema Alice and Luís Ferrari, 23 de abril de 1921.
+									880 heading Informações indexadas, Value: 3
+										881 text Informações indexadas
+									882 button EXIBIR
+									883 heading Fonte modificada:, Value: 3
+										884 text Fonte modificada:
+									885 link Description: VER ALTERAÇÕES, Value: …
+									886 text 1 de janeiro de 2023
+									887 button Rogério J Barbosa
+									888 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										889 text Motivo pela qual esta fonte está anexada:
+									890 button + ACRESCENTAR
+							240 container Q9Y1-7N5
+								241 button (expanded) Secondary Actions: Collapse, 1927 Manuel Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									242 button 1927 Manuel Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										243 button
+										244 text 1927
+										245 text Manuel Salgado, "Uruguay, Índice del Registro Civil, 1900-1937"
+										246 text 30 de dezembro de 2022
+										247 button Rogério J Barbosa
+								891 container t7h82iew9145
+									892 button VISUALIZAR
+									893 button EDITAR
+									894 button ANALISAR ANEXOS
+									895 button DESANEXAR
+									896 heading Marcadores, Value: 3
+										897 text Marcadores
+									898 button Sexo
+									899 button Nome
+									900 button + Acrescentar marcação
+									901 heading Data da fonte 1927, Value: 3
+										902 text Data da fonte
+										903 text 1927
+									904 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3F-2PK1, Value: 3
+										905 text Página do site (link para o registro)
+										906 link Description: https://familysearch.org/ark:/61903/1:1:QG3F-2PK1, Value: …
+									907 heading Onde o registro foi encontrado (referência) , Value: 3
+										908 text Onde o registro foi encontrado (referência)
+									909 container
+										910 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3F-2PKT : Wed Sep 17 11:38:59 UTC 2025), Entry for Arturo Salgado Marquez and Manuel Salgado, 1927.
+									911 heading Informações indexadas, Value: 3
+										912 text Informações indexadas
+									913 button EXIBIR
+									914 heading Fonte modificada:, Value: 3
+										915 text Fonte modificada:
+									916 link Description: VER ALTERAÇÕES, Value: …
+									917 text 30 de dezembro de 2022
+									918 button Rogério J Barbosa
+									919 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										920 text Motivo pela qual esta fonte está anexada:
+									921 button + ACRESCENTAR
+							248 container QSZ7-545
+								249 button (expanded) Secondary Actions: Collapse, 1930 Manuel A. Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 8 de janeiro de 2023 Rogério J Barbosa
+									250 button 1930 Manuel A. Salgado, "Uruguay, Índice del Registro Civil, 1900-1937" 8 de janeiro de 2023 Rogério J Barbosa
+										251 button
+										252 text 1930
+										253 text Manuel A. Salgado, "Uruguay, Índice del Registro Civil, 1900-1937"
+										254 text 8 de janeiro de 2023
+										255 button Rogério J Barbosa
+								922 container Xmyvy0ovz16j
+									923 button VISUALIZAR
+									924 button EDITAR
+									925 button ANALISAR ANEXOS
+									926 button DESANEXAR
+									927 heading Marcadores, Value: 3
+										928 text Marcadores
+									929 button Sexo
+									930 button Nome
+									931 button + Acrescentar marcação
+									932 heading Data da fonte 1930, Value: 3
+										933 text Data da fonte
+										934 text 1930
+									935 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZZF-P9T7, Value: 3
+										936 text Página do site (link para o registro)
+										937 link Description: https://familysearch.org/ark:/61903/1:1:6ZZF-P9T7, Value: …
+									938 heading Onde o registro foi encontrado (referência) , Value: 3
+										939 text Onde o registro foi encontrado (referência)
+									940 container
+										941 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZZF-P9TQ : Wed Sep 17 11:56:11 UTC 2025), Entry for Alfredo Márquez Salgado and Manuel A. Salgado, 1930.
+									942 heading Informações indexadas, Value: 3
+										943 text Informações indexadas
+									944 button EXIBIR
+									945 heading Fonte modificada:, Value: 3
+										946 text Fonte modificada:
+									947 link Description: VER ALTERAÇÕES, Value: …
+									948 text 8 de janeiro de 2023
+									949 button Rogério J Barbosa
+									950 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										951 text Motivo pela qual esta fonte está anexada:
+									952 button + ACRESCENTAR
+							256 container 7W3V-LJB
+								257 button (expanded) Secondary Actions: Collapse, 1939 Manuel Aloiz Salgado, "Uruguay, registro civil, 1879-2020" 10 de outubro de 2024 treehelper_a301
+									258 button 1939 Manuel Aloiz Salgado, "Uruguay, registro civil, 1879-2020" 10 de outubro de 2024 treehelper_a301
+										259 button
+										260 text 1939
+										261 text Manuel Aloiz Salgado, "Uruguay, registro civil, 1879-2020"
+										262 text 10 de outubro de 2024
+										263 button treehelper_a301
+								953 container A8b8htrcaoqk
+									954 button VISUALIZAR
+									955 button EDITAR
+									956 button ANALISAR ANEXOS
+									957 button DESANEXAR
+									958 heading Marcadores, Value: 3
+										959 text Marcadores
+									960 button Sexo
+									961 button Nome
+									962 button + Acrescentar marcação
+									963 heading Data da fonte 6 de setembro de 1939, Value: 3
+										964 text Data da fonte
+										965 text 6 de setembro de 1939
+									966 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6RR1-ZQPJ, Value: 3
+										967 text Página do site (link para o registro)
+										968 link Description: https://familysearch.org/ark:/61903/1:1:6RR1-ZQPJ, Value: …
+									969 heading Onde o registro foi encontrado (referência) , Value: 3
+										970 text Onde o registro foi encontrado (referência)
+									971 container
+										972 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6RR1-ZQPN : Thu Mar 07 17:16:49 UTC 2024), Entry for Elmira Marquez Salgado and Manuel Aloiz Salgado, 6 Sep 1939.
+									973 heading Informações indexadas, Value: 3
+										974 text Informações indexadas
+									975 button EXIBIR
+									976 heading Fonte modificada:, Value: 3
+										977 text Fonte modificada:
+									978 link Description: VER ALTERAÇÕES, Value: …
+									979 text 10 de outubro de 2024
+									980 button treehelper_a301
+									981 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										982 text Motivo pela qual esta fonte está anexada:
+									983 button + ACRESCENTAR
+							264 container 9J1X-1V2
+								265 button (expanded) Secondary Actions: Collapse, 1940 Manoel Alves Salgado, “Brasil, Cartões de Imigração, 1900-1980” 13 de fevereiro de 2017 Rogério J Barbosa
+									266 button 1940 Manoel Alves Salgado, “Brasil, Cartões de Imigração, 1900-1980” 13 de fevereiro de 2017 Rogério J Barbosa
+										267 button
+										268 text 1940
+										269 text Manoel Alves Salgado, “Brasil, Cartões de Imigração, 1900-1980”
+										270 text 13 de fevereiro de 2017
+										271 button Rogério J Barbosa
+								984 container A5klduvq4jl
+									985 button VISUALIZAR
+									986 button EDITAR
+									987 button ANALISAR ANEXOS
+									988 button DESANEXAR
+									989 heading Marcadores, Value: 3
+										990 text Marcadores
+									991 button Sexo
+									992 button Nome
+									993 button + Acrescentar marcação
+									994 heading Data da fonte 1940, Value: 3
+										995 text Data da fonte
+										996 text 1940
+									997 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:27FJ-2ML, Value: 3
+										998 text Página do site (link para o registro)
+										999 link Description: https://familysearch.org/ark:/61903/1:1:27FJ-2ML, Value: …
+									1000 heading Onde o registro foi encontrado (referência) , Value: 3
+										1001 text Onde o registro foi encontrado (referência)
+									1002 container
+										1003 text "Brasil, Cartões de Imigração, 1900-1980",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:27FJ-2M2 : Sun Aug 23 22:34:53 UTC 2026), Entry for Julia Marques Salgado de Coronel and Manoel Alves Salgado, 1940.
+									1004 heading Informações indexadas, Value: 3
+										1005 text Informações indexadas
+									1006 button EXIBIR
+									1007 heading Fonte modificada:, Value: 3
+										1008 text Fonte modificada:
+									1009 link Description: VER ALTERAÇÕES, Value: …
+									1010 text 13 de fevereiro de 2017
+									1011 button Rogério J Barbosa
+									1012 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1013 text Motivo pela qual esta fonte está anexada:
+									1014 button + ACRESCENTAR
+				272 container
+					273 container Links no rodapé
+						274 link Description: Sobre, Value: familysearch.org/pt/about/
+						275 link Description: Voluntário, Value: …
+						276 link Description: Blog, Value: …
+						277 link Description: Encontrar antepassados, Value: …
+						278 link Description: DNA, Value: …
+						279 link Description: Entre em Contato Conosco, Value: …
+						280 link Description: Mapa do Site, Value: …
+						281 text |
+						282 button mais links
+					283 container Links jurídicos
+						284 link Description: Suporte de acessibilidade, Value: …
+						285 container
+							286 link Description: Termos de uso do FamilySearch, Value: …
+							287 text  | 
+							288 link Description: Notificação de privacidade, Value: …
+							289 text  | 
+							290 link Description: Mapa do Site, Value: …
+							291 text  | 
+							292 link Description: Opções de país e idioma, Value: …
+						293 container
+							294 text © 2026 Intellectual Reserve, Inc. Todos os direitos reservados. Um serviço fornecido por 
+							295 link Description: A Igreja de Jesus Cristo dos Santos dos Últimos Dias, Value: …
+							296 text .
+
+The focused UI element is 52 switch Description: Visualização detalhada, Value: 1

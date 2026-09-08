@@ -1,0 +1,368 @@
+{
+  "updated": "2026-09-07",
+  "sources": [
+    {
+      "id": "BPT-GAZ1895",
+      "title": "Constituição do Crédit Franco-Portugais",
+      "date": "16/01/1895",
+      "kind": "Imprensa contemporânea — leitura do original",
+      "summary": "Uma notícia financeira de Paris relata a segunda assembleia constitutiva do Crédit Franco-Portugais, em 4 de janeiro de 1895. A nova sociedade tinha sede em Paris e um administrador ligado ao Crédit Lyonnais.",
+      "note": "Constituição societária francesa; não equivale à autorização portuguesa para operar. Não menciona Guicheney.",
+      "url": "https://www.cp.pt/info/documents/d/cp/1895-gazeta-n170?download=true",
+      "locator": "Gazeta dos Caminhos de Ferro n.º170, p.23; PDF p.7, coluna direita.",
+      "files": [
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\gazeta1895_n170.pdf",
+          "role": "PDF integral",
+          "bytes": 8963549,
+          "sha256": "6743c7d176d035e355cfbe1abeb085c710cc0ed5557e781d98183f2f110bc71d"
+        },
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\gazeta1895_n170_p007.jpg",
+          "role": "Página lida",
+          "bytes": 897464,
+          "sha256": "afe12d09b356fe41caddd1c00ef6c6538149cd44f726412e494259a73eb2617d"
+        }
+      ],
+      "claims": [
+        "Notícia relata segunda assembleia constitutiva em 04/01/1895.",
+        "Sede: Paris, 17 rue de Grammont.",
+        "Capital: 5 milhões de francos, 10 mil ações de 500 francos, cada uma liberada em um quarto.",
+        "Conselho: Ed. Kleinmann, administrador do Crédit Lyonnais; Cellérier; de Bondeli."
+      ],
+      "short_quote": "La société est définitivement constituée."
+    },
+    {
+      "id": "BPT-DR1911",
+      "title": "O banco em Lisboa e no Porto em 1910",
+      "date": "20/02/1911",
+      "kind": "Publicação oficial — balanço bancário",
+      "summary": "O balanço de 31 de maio de 1910 apresenta as agências de Lisboa e Porto do Crédit Franco-Portugais. O nome publicado como diretor é George Fose.",
+      "note": "O balanço não menciona Bertrand. Impede atribuir-lhe a direção do banco desde sua chegada, em 1903, sem outra fonte para a data da promoção.",
+      "url": "https://files.dre.pt/gratuitos/1s/1911/02/04100.pdf",
+      "locator": "Diário do Governo n.º41, p.673; PDF p.21, coluna esquerda.",
+      "files": [
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\dr1911_041.pdf",
+          "role": "PDF integral",
+          "bytes": 10464434,
+          "sha256": "2977b8655bed93ebe7846e49ebf46a2c863a56a82f161de20d7183426022985e"
+        },
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\dr1911_041_p021.jpg",
+          "role": "Página lida",
+          "bytes": 1845221,
+          "sha256": "3881bdfb3207ea06dd4ec92b05104c5316e89cb14affe35e4ae5abc70a147cb1"
+        }
+      ],
+      "claims": [
+        "Agências em Lisboa e Porto.",
+        "Balanço datado 31/05/1910, publicado em 20/02/1911.",
+        "Diretor impresso: George Fose."
+      ],
+      "short_quote": "O Director, George Fose."
+    },
+    {
+      "id": "BPT-GAZ1933",
+      "title": "Eugène Guicheney eleito para o conselho da C. P.",
+      "date": "01/06/1933",
+      "kind": "Imprensa contemporânea — leitura do original",
+      "summary": "A Gazeta noticia a eleição de Eugène Guicheney e Manuel José Pinto para o conselho de administração da Companhia dos Caminhos de Ferro Portugueses. A matéria trata da assembleia que examinou as contas de 1932.",
+      "note": "O prenome e o sobrenome são claros, mas esta página não fornece nascimento ou filiação. A identificação com Bertrand ganha força pela referência de 1939 ao diretor do Crédit Franco-Portugais.",
+      "url": "https://www.cp.pt/info/documents/d/cp/1933-gazeta-n1091?download=true",
+      "locator": "Gazeta n.º1091, p.348; PDF p.24, fim da coluna direita; capa confirma data.",
+      "files": [
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\gazeta1933_n1091.pdf",
+          "role": "PDF integral",
+          "bytes": 18640651,
+          "sha256": "e231face46383202ead2a8fe96aad9531900d9655fd117ad352e1af65d1169a6"
+        },
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\gazeta1933_n1091_p024.jpg",
+          "role": "Página lida",
+          "bytes": 901030,
+          "sha256": "d7510b5afe139c521608489d606216362a9df3f3851d04150057c43f4b14454c"
+        }
+      ],
+      "claims": [
+        "Eugène Guicheney eleito vogal do conselho de administração da CP em notícia publicada 01/06/1933.",
+        "O nome não está na eleição ao conselho fiscal."
+      ],
+      "short_quote": "Eugène Guicheney e Manuel José Pinto para vogais do Conselho de Administração"
+    },
+    {
+      "id": "BPT-CP1933",
+      "title": "Eugène entre os administradores da companhia ferroviária",
+      "date": "Agosto de 1933",
+      "kind": "Boletim institucional — leitura do original",
+      "summary": "O boletim destinado ao pessoal da C. P. lista Eugène Guicheney entre os membros do conselho de administração. A notícia separa esse conselho da comissão executiva e do conselho fiscal.",
+      "note": "A lista não identifica o conselheiro por filiação ou nascimento e não o inclui na comissão executiva. Não chamá-lo diretor executivo da ferrovia.",
+      "url": "https://www.cp.pt/info/documents/d/cp/boletim-50-1933?download=true",
+      "locator": "Boletim da C. P., n.º50, agosto de 1933, p.144; PDF p.6.",
+      "files": [
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\cp_boletim50_1933.pdf",
+          "role": "PDF integral",
+          "bytes": 9848205,
+          "sha256": "046709c738cceaeb30aaf2280f63a293194afa76dc203e04e8e7a22756cea2b2"
+        },
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\cp_boletim50_1933_p006.jpg",
+          "role": "Página lida",
+          "bytes": 618544,
+          "sha256": "08a1bd2d0b7d704c5bdf306b8d9ffc4b90218e61ca9edb91f64d84836b880b0d"
+        }
+      ],
+      "claims": [
+        "Eugène Guicheney integra o conselho de administração no quadro dos corpos gerentes publicado em agosto de 1933."
+      ],
+      "short_quote": "Eugène Guicheney"
+    },
+    {
+      "id": "BPT-GAZ1939",
+      "title": "Banco e ferrovia: a identificação profissional de Guicheney",
+      "date": "01/07/1939",
+      "kind": "Imprensa contemporânea e retrospectiva histórica",
+      "summary": "A edição noticia Eugène Guicheney eleito para o conselho de administração da C. P. Uma retrospectiva, na mesma edição, registra em julho de 1930 a eleição do diretor do Crédit Franco-Portugais para substituir Pierre Girarde.",
+      "note": "Na retrospectiva de 1930, a grafia impressa é Guichenoy, sem prenome. A combinação do banco, cargo e conselho é uma ponte profissional forte, mas não fornece nascimento ou filiação. A notícia retrospectiva foi publicada em 1939.",
+      "url": "https://www.cp.pt/info/documents/d/cp/1939-gazeta-n1237?download=true",
+      "locator": "Gazeta n.º1237, p.310 (PDF p.6) e p.322 (PDF p.17, efemérides de 1930, entrada 16 de julho).",
+      "files": [
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\gazeta1939_n1237.pdf",
+          "role": "PDF integral",
+          "bytes": 10868137,
+          "sha256": "61b9ded6e8598cf76e423627b2a6457630db6406220a67dbf2ed049f82ebd5d0"
+        },
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\gazeta1939_n1237_p006.jpg",
+          "role": "Eleição de 1939",
+          "bytes": 1108094,
+          "sha256": "691b32d56cd2e47443c3da3ea276dfa5f605ac17beb6c57bcaad3b58166f6c13"
+        },
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\gazeta1939_n1237_p017.jpg",
+          "role": "Retrospectiva de 1930",
+          "bytes": 696855,
+          "sha256": "20e7c8a29084217dc130f33d2d94f121e7003da174b7dba694f0e758e695ff25"
+        }
+      ],
+      "claims": [
+        "P.310: notícia da assembleia de 17 de junho de 1939 e eleição de Eugène Guicheney para o conselho.",
+        "P.322: retrospectiva atribui à entrada de 16/07/1930 a substituição do falecido Pierre Girarde pelo diretor do Crédit Franco-Portugais, M. Guichenoy.",
+        "Não demonstra atuação ferroviária de Jean, filho de Bertrand."
+      ],
+      "short_quote": "o director da Crédit Franco Portugais, M. Guichenoy"
+    },
+    {
+      "id": "BPT-DFIH1948",
+      "title": "Os dois bancos na rede internacional do Crédit Lyonnais",
+      "date": "1948",
+      "kind": "Anuário financeiro — transcrição OCR institucional",
+      "summary": "A ficha do Crédit Lyonnais no Annuaire Desfossés de 1948 lista o Crédit Franco-Portugais, em Lisboa e Porto, e o Banco Francês e Brasileiro, em São Paulo, entre suas unidades no exterior. É um elo empresarial entre os ambientes de trabalho de Bertrand e Jean.",
+      "note": "Consulta à transcrição OCR do projeto DFIH, não à imagem da página. A lista de agências não informa percentuais de capital, data inicial do vínculo, transferência de empregados nem contratação por parentesco.",
+      "url": "https://dfih.fr/issuers/1245/yearbook-ocr?source=annuaire_df_1948",
+      "locator": "Crédit Lyonnais, Annuaire Desfossés 1948; metadados da página DFIH indicam p.317; rubrica Agences à l’étranger.",
+      "files": [
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\dfih_credit_lyonnais1948.html",
+          "role": "Página HTML preservada",
+          "bytes": 67759,
+          "sha256": "d5b86836d17242735ca42d496c23ed87c89eb7b00185b6f6dfd22c2013d50569"
+        },
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\dfih_credit_lyonnais1948.txt",
+          "role": "Extração textual da página",
+          "bytes": 60713,
+          "sha256": "249eac9f67841cc74e7a974a58664819374d5f9e7387a1a71b7e48525e33e4f5"
+        }
+      ],
+      "claims": [
+        "Em 1948 o anuário inclui os dois bancos na rede internacional do Crédit Lyonnais.",
+        "Os nomes designam instituições distintas, relacionadas pela rede bancária."
+      ],
+      "short_quote": "Crédit Franco-Portugais (Lisbonne, Porto). Banco frances e brasileiro (Sâo-Paulo)."
+    },
+    {
+      "id": "BPT-DR1985",
+      "title": "A sociedade francesa e sua sucursal portuguesa",
+      "date": "29/10/1985",
+      "kind": "Publicação oficial — documento empresarial",
+      "summary": "Um documento empresarial publicado no Diário da República distingue a sociedade francesa de sua sucursal portuguesa. O texto identifica o Crédit Franco-Portugais como fundado em 1895 e integrante do grupo Crédit Lyonnais.",
+      "note": "Documento posterior à vida de Bertrand. Sustenta a estrutura empresarial em 1984–1985, não a identidade dos diretores de décadas anteriores. O endereço da tradutora não é o endereço bancário.",
+      "url": "https://files.diariodarepublica.pt/gratuitos/3s/1985/10/1985d249s000.pdf",
+      "locator": "Diário da República, III Série, n.º249, p.11699; PDF p.35, coluna esquerda.",
+      "files": [
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\dr1985_249.pdf",
+          "role": "PDF integral",
+          "bytes": 5058200,
+          "sha256": "7cb3c188eee730ab628b78043986de3dbcfc7b0be80b4c5ca2b88da7eb69c942"
+        },
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\dr1985_249_p035.jpg",
+          "role": "Página lida",
+          "bytes": 794914,
+          "sha256": "82343323c547a8c3e26baf96cc519a8ae8fff7d2783f8cd43dd631b79bc5fb95"
+        }
+      ],
+      "claims": [
+        "Publicação de extrato do conselho de administração de 13/12/1984, cópia certificada em Paris em 02/01/1985.",
+        "Sociedade anônima francesa, RCS Paris B542016431, Grupo Crédit Lyonnais.",
+        "Endereço postal societário então informado: 16 rue de Choiseul, 75002 Paris."
+      ],
+      "short_quote": "Fundado em 1895. RCS Paris B 542016431 — Grupo Crédit Lyonnais."
+    },
+    {
+      "id": "BPT-ARQ818",
+      "title": "Balanços do Crédit Franco-Portugais no arquivo português",
+      "date": "1895–1909",
+      "kind": "Catálogo arquivístico — pista de documentos",
+      "summary": "O Arquivo Central da Economia conserva documentação do Crédit Franco-Portugais de Lisboa entre 1895 e 1909. O catálogo descreve balanços mensais, ativos e passivos organizados cronologicamente.",
+      "note": "Foi consultada a descrição do arquivo, não os documentos individuais. O conjunto não foi usado para atribuir cargos ou datas pessoais a Bertrand.",
+      "url": "https://arquivohistorico.sgeconomia.gov.pt/details?detailsType=Description&id=1446",
+      "locator": "PT/AHMOP/MOPCI-DGCI/RCI/BANCOS/818; extensão indicada: 8,5 cm.",
+      "files": [
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\arquivo_economia_818.html",
+          "role": "Descrição de catálogo preservada",
+          "bytes": 53399,
+          "sha256": "544fceaf33a61e0a98142272c173f9dfbb453c04dd5213747c585013613575cd"
+        }
+      ],
+      "claims": [
+        "Existe conjunto documental do banco, Lisboa, 1895–1909, no arquivo institucional português."
+      ],
+      "short_quote": ""
+    },
+    {
+      "id": "BPT-FOTO-CFP",
+      "title": "Por dentro do Crédit Franco-Portugais de Lisboa",
+      "date": "Sem data; intervalo do catálogo 1927–1988",
+      "kind": "Fotografia de acervo institucional",
+      "summary": "Uma fotografia de Horácio Novais mostra o interior do Crédit Franco-Portugais em Lisboa. A Biblioteca de Arte da Fundação Calouste Gulbenkian situa o edifício na Rua da Conceição, junto à Rua dos Sapateiros.",
+      "note": "A fotografia não tem data individual atribuída. O intervalo 1927–1988 corresponde à atividade do estúdio; 2013 e 2022 no Flickr não são datas históricas da cena. Não afirmar que mostra o escritório tal como era durante a direção de Bertrand. Licença CC BY-NC-ND 2.0: usar imagem sem alterações, com crédito, em contexto não comercial.",
+      "url": "https://www.flickr.com/photos/biblarte/52404402178",
+      "locator": "Horácio Novais (1910–1988); Biblioteca de Arte/Fundação Calouste Gulbenkian; CFT164.163741.",
+      "files": [
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\gulbenkian_cfp_interior_CFT164_163741.jpg",
+          "role": "Fotografia institucional sem alterações",
+          "bytes": 102933,
+          "sha256": "a893bef36af64a93e853ca0c3e8c0fd95a589c1fd10caadac77c41457adf4132"
+        },
+        {
+          "path": "C:\\Users\\antro\\.codex\\visualizations\\2026\\09\\06\\01a077f2-785e-7bc1-9137-8f119320f35e\\memorial-familia\\fontes_pesquisa\\bancos_2026-09-07\\portugal\\flickr_banco_interior.html",
+          "role": "Catálogo e licença preservados",
+          "bytes": 525743,
+          "sha256": "b0a24d7106e811f20e82ecac6fc0f1b7574a5f35deeebd498a17df73d26166c4"
+        }
+      ],
+      "claims": [
+        "Interior do banco em Lisboa segundo legenda da instituição.",
+        "Fonte visual de contexto; não retrato de Bertrand nem prova de data específica."
+      ],
+      "short_quote": "",
+      "license": "CC BY-NC-ND 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en",
+      "credit": "Horácio Novais / Biblioteca de Arte e Arquivos da Fundação Calouste Gulbenkian, CFT164.163741, CC BY-NC-ND 2.0"
+    }
+  ],
+  "narrative": [
+    {
+      "text": "Antes de Lisboa, Bertrand trabalhara dois anos e meio no Crédit Lyonnais de Madrid. Em 1903, chegou à capital portuguesa para trabalhar no Crédit Franco-Portugais. O dossiê que acompanhou sua condecoração descreve a passagem por cargos de procurador, subdiretor e diretor.",
+      "refs": [
+        "GN-BERTRAND-LEGION"
+      ],
+      "locator": "Folhas 5–6; proposta assinada em 26/01/1929."
+    },
+    {
+      "text": "O nome do banco pode confundir: o Crédit Franco-Portugais era uma sociedade francesa ligada ao Crédit Lyonnais. A proposta de condecoração de Bertrand afirma que suas ações estavam todas em poder do Crédit Lyonnais. Em 1910, porém, o balanço ainda apresenta George Fose como diretor; a data da promoção de Bertrand não está estabelecida.",
+      "refs": [
+        "GN-BERTRAND-LEGION",
+        "BPT-DR1911"
+      ]
+    },
+    {
+      "text": "As ferrovias acrescentam outra dimensão à história portuguesa. Em 1933, Eugène Guicheney aparece no conselho de administração da C. P. Uma retrospectiva publicada em 1939 identifica o Guichenoy eleito em 1930 como diretor do Crédit Franco-Portugais. É uma ligação profissional forte com Bertrand, embora a notícia use outra grafia e não informe sua filiação.",
+      "refs": [
+        "BPT-CP1933",
+        "BPT-GAZ1939"
+      ],
+      "status": "Identificação pessoal fortemente apoiada pelo contexto, sem novo identificador civil."
+    },
+    {
+      "text": "Na geração seguinte, o banco brasileiro em que Jean trabalhou também aparece ligado à mesma rede. O anuário financeiro de 1948 lista tanto o Crédit Franco-Portugais quanto o Banco Francês e Brasileiro na presença internacional do Crédit Lyonnais. A ligação empresarial é documentada; uma transferência de pai para filho ou influência familiar na contratação ainda não foi demonstrada.",
+      "refs": [
+        "BPT-DFIH1948",
+        "GN-BERTRAND-LEGION"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "date": "Antes de 1903",
+      "place": "Madrid",
+      "text": "Dois anos e meio no Crédit Lyonnais; o dossiê não fixa o dia de início.",
+      "refs": [
+        "GN-BERTRAND-LEGION"
+      ]
+    },
+    {
+      "date": "1903",
+      "place": "Lisboa",
+      "text": "Chegada ao Crédit Franco-Portugais segundo proposta de condecoração.",
+      "refs": [
+        "GN-BERTRAND-LEGION"
+      ]
+    },
+    {
+      "date": "1929",
+      "place": "Lisboa",
+      "text": "Documentado como diretor nas folhas 5, 10 e 4 do dossiê; carta de março e recepção da condecoração em dezembro.",
+      "refs": [
+        "GN-BERTRAND-LEGION"
+      ]
+    },
+    {
+      "date": "1930 / notícia retrospectiva de 1939",
+      "place": "Portugal",
+      "text": "M. Guichenoy, diretor do Crédit Franco-Portugais, eleito para substituir Pierre Girarde no conselho ferroviário.",
+      "refs": [
+        "BPT-GAZ1939"
+      ],
+      "status": "Ponte profissional; grafia divergente."
+    },
+    {
+      "date": "1933 e 1939",
+      "place": "Portugal",
+      "text": "Eugène Guicheney documentado no conselho de administração da C. P.",
+      "refs": [
+        "BPT-GAZ1933",
+        "BPT-CP1933",
+        "BPT-GAZ1939"
+      ]
+    }
+  ],
+  "limits": [
+    "Não afirmar saída de Portugal em 1927. O total de 24 anos declarado na proposta de 1929 não autoriza essa subtração; documentos de março e dezembro de 1929 ainda o situam em Lisboa.",
+    "Não há ato primário de morte em 01/02/1944 no pacote. A data está em árvore de usuário e não foi confirmada por este dossiê.",
+    "Não atribuir direção bancária a Bertrand durante todo o período desde 1903. O dossiê enumera cargos sucessivos sem datas das promoções.",
+    "O dossiê descreve educação, serviço militar e atividades associativas, mas não informa esposa, filhos ou irmãos. A filiação de Jean depende do nascimento JF e demais fontes auditadas.",
+    "Nenhum achado aqui liga Pedro, Agostinha, Víctor ou o ramo uruguaio a Bertrand.",
+    "Não confundir banqueiro ou diretor com proprietário do banco. A rede do Crédit Lyonnais não prova uma instituição possuída pela família.",
+    "Busca de Diário1944: o resultado indexado que sugeria p.411/Rua da Conceição92 não se confirmou na página consultada. PDF preservado como material de pesquisa; endereço não promovido a prova.",
+    "Legifrance decreto95-1111 sobre cessão de controle do BFB ao Itaú: acesso direto HTTP403 nesta rodada, texto integral não preservado. Anúncio BFB1966: tentativa de download interrompida por falha de certificado; não contado como novo original consultado."
+  ],
+  "additional_leads": [
+    {
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000571577",
+      "note": "Decreto95-1111 de18/10/1995: título indexado indica cessão ao BancoItaú de participação majoritária BFB detida pela CLGlobalBanking, filialCL. Confirmar texto integral antes de inferir estrutura em outras épocas."
+    },
+    {
+      "url": "https://hemeroteca-pdf.bn.gov.br/089842/per089842_1966_22355.pdf",
+      "note": "Correio da Manhã19/02/1966,p.13: anúncio indexado BFB CorrespondenteCréditLyonnais com JeanVicePresidente. Download falhou por certificado; busca textual não substitui leitura original."
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "retrieved_on": "2026-09-06",
+  "surname_exact": "GUICHENEY",
+  "purpose": "Números observados para gráficos separados; não demonstram origem ancestral, parentesco ou migração.",
+  "sources": {
+    "insee": {
+      "title": "Fichier des noms, edição publicada em 22/05/2018",
+      "url": "https://www.insee.fr/fr/statistiques/3536630",
+      "access": "Arquivos ZIP oficiais baixados e linhas lidas diretamente.",
+      "national_download": "https://www.insee.fr/fr/statistiques/fichier/3536630/noms2008nat_txt.zip",
+      "departmental_download": "https://www.insee.fr/fr/statistiques/fichier/3536630/noms2008dep_txt.zip",
+      "national_sha256": "C8693FF69BED32621250F1FC06E71B686E72BBA1DBD771055E431D305527CFBA",
+      "departmental_sha256": "D46698E90BB90783F3FF99DEA779A51BC8186CE375BB340FAC6BB84988B87B43",
+      "unit": "nascimentos no universo definido pelo RNIPP",
+      "coverage": "França metropolitana: 1891–2000, excluídos os nascidos antes de 1946 e falecidos antes de 1972. DOM e Saint-Pierre-et-Miquelon: 1900–2000.",
+      "suppression": "Só há departamento identificado quando a grafia soma pelo menos 30 ocorrências nele em 1891–2000; os demais são agrupados em XX. Não interpretar departamento ausente como zero."
+    },
+    "filae": {
+      "title": "GUICHENEY: popularité du nom",
+      "url": "https://www.filae.com/nom-de-famille/GUICHENEY.html",
+      "access": "Texto indexado pelo mecanismo de busca; abertura direta retornou ciclo de redirecionamento.",
+      "reported_cache_age": "last month",
+      "claimed_source": "Fichier des noms patronymiques, RNIPP, INSEE",
+      "unit": "nascimentos apresentados pelo Filae",
+      "coverage": "Quatro períodos de 1891–1990; não confundir com a seção de resultados genealógicos da mesma página."
+    },
+    "geneanet": {
+      "title": "Surname GUICHENEY: genealogy",
+      "url": "https://en.geneanet.org/genealogy/guicheney/GUICHENEY",
+      "access": "Página textual aberta; captura do índice com idade informada de sete meses.",
+      "reported_cache_age": "7 months",
+      "unit": "menções nos fundos do Geneanet, não pessoas únicas",
+      "coverage": "Árvores e diferentes fundos; não há recorte temporal uniforme demonstrado para as contagens abaixo.",
+      "warning": "Localidades, códigos postais e códigos de comuna aparecem como rótulos distintos; não somar rótulos ou interpretar as contagens como censo."
+    }
+  },
+  "insee": {
+    "periods": [
+      {
+        "start": 1891,
+        "end": 1900
+      },
+      {
+        "start": 1901,
+        "end": 1910
+      },
+      {
+        "start": 1911,
+        "end": 1920
+      },
+      {
+        "start": 1921,
+        "end": 1930
+      },
+      {
+        "start": 1931,
+        "end": 1940
+      },
+      {
+        "start": 1941,
+        "end": 1950
+      },
+      {
+        "start": 1951,
+        "end": 1960
+      },
+      {
+        "start": 1961,
+        "end": 1970
+      },
+      {
+        "start": 1971,
+        "end": 1980
+      },
+      {
+        "start": 1981,
+        "end": 1990
+      },
+      {
+        "start": 1991,
+        "end": 2000
+      }
+    ],
+    "national": {
+      "source": "insee",
+      "zip_entry": "noms2008nat_txt.txt",
+      "line_number_1_based": 100279,
+      "raw_line": "GUICHENEY\t25\t31\t28\t31\t25\t43\t32\t32\t37\t35\t24",
+      "counts": [
+        25,
+        31,
+        28,
+        31,
+        25,
+        43,
+        32,
+        32,
+        37,
+        35,
+        24
+      ]
+    },
+    "departments": [
+      {
+        "code": "33",
+        "label": "Gironde",
+        "source": "insee",
+        "line_number_1_based": 101179,
+        "raw_line": "GUICHENEY\t33\t18\t22\t21\t16\t17\t26\t15\t14\t17\t19\t12",
+        "counts": [
+          18,
+          22,
+          21,
+          16,
+          17,
+          26,
+          15,
+          14,
+          17,
+          19,
+          12
+        ],
+        "map_eligible": true
+      },
+      {
+        "code": "64",
+        "label": "Pyrénées-Atlantiques",
+        "source": "insee",
+        "line_number_1_based": 237114,
+        "raw_line": "GUICHENEY\t64\t1\t3\t2\t2\t1\t6\t4\t0\t10\t5\t1",
+        "counts": [
+          1,
+          3,
+          2,
+          2,
+          1,
+          6,
+          4,
+          0,
+          10,
+          5,
+          1
+        ],
+        "map_eligible": true
+      },
+      {
+        "code": "XX",
+        "label": "Demais departamentos, agrupados pelo INSEE",
+        "source": "insee",
+        "line_number_1_based": 451497,
+        "raw_line": "GUICHENEY\tXX\t6\t6\t5\t13\t7\t11\t13\t18\t10\t11\t11",
+        "counts": [
+          6,
+          6,
+          5,
+          13,
+          7,
+          11,
+          13,
+          18,
+          10,
+          11,
+          11
+        ],
+        "map_eligible": false
+      }
+    ],
+    "aggregation_rule": "Somar counts para total 1891–2000. Para 1891–1990, somar apenas as dez primeiras posições. Totais não foram inseridos como observações diretas.",
+    "national_geographical_check": "Em cada década, a soma de 33, 64 e XX corresponde ao total nacional."
+  },
+  "filae": {
+    "source": "filae",
+    "births_by_period": [
+      {
+        "start": 1891,
+        "end": 1915,
+        "count": 74
+      },
+      {
+        "start": 1916,
+        "end": 1940,
+        "count": 66
+      },
+      {
+        "start": 1941,
+        "end": 1965,
+        "count": 95
+      },
+      {
+        "start": 1966,
+        "end": 1990,
+        "count": 85
+      }
+    ],
+    "displayed_total": 320,
+    "displayed_number_of_departments": 27,
+    "genealogical_results_not_births": [
+      {
+        "department": "Gironde",
+        "code": "33",
+        "count": 2878
+      },
+      {
+        "department": "Landes",
+        "code": "40",
+        "count": 993
+      },
+      {
+        "department": "Pyrénées-Atlantiques",
+        "code": "64",
+        "count": 116
+      },
+      {
+        "department": "Lot-et-Garonne",
+        "code": "47",
+        "count": 96
+      },
+      {
+        "department": "Paris",
+        "code": "75",
+        "count": 51
+      }
+    ],
+    "note": "Os resultados genealógicos acima pertencem a outro bloco da página e NÃO podem alimentar o mapa de nascimentos."
+  },
+  "geneanet": {
+    "source": "geneanet",
+    "raw_place_labels": [
+      {
+        "label": "Capbreton",
+        "count": 518
+      },
+      {
+        "label": "Capbreton, 40130",
+        "count": 364
+      },
+      {
+        "label": "Capbreton, 40065",
+        "count": 174
+      },
+      {
+        "label": "Port-de-Lanne, 40300",
+        "count": 93
+      },
+      {
+        "label": "Port-de-Lanne, 40231",
+        "count": 76
+      },
+      {
+        "label": "Port de Lanne, 400231",
+        "count": 47
+      }
+    ],
+    "snapshot_note": "Preservados como exemplo observável de heterogeneidade dos rótulos, não como total municipal. O último rótulo foi mantido literalmente, sem validar seu código.",
+    "discrepant_caches": [
+      {
+        "metric": "France, menções por país",
+        "count": 5003,
+        "page_url": "https://en.geneanet.org/genealogy/guicheney/GUICHENEY",
+        "reported_cache_age": "7 months"
+      },
+      {
+        "metric": "France, menções por país",
+        "count": 5513,
+        "page_url": "https://www.geneanet.org/genealogie/guicheney/GUICHENEY",
+        "reported_cache_age": "last week"
+      }
+    ]
+  },
+  "reproducibility": {
+    "method": [
+      "Baixar os dois ZIPs a partir dos links oficiais registrados em sources.insee.",
+      "Conferir SHA-256.",
+      "Ler o TXT tabulado dentro de cada ZIP, preservando o cabeçalho.",
+      "Selecionar linhas cujo primeiro campo é exatamente GUICHENEY; não incluir variantes.",
+      "Conferir números e posição de cada década com os raw_line armazenados.",
+      "Manter Filae, INSEE e Geneanet como séries distintas."
+    ],
+    "rounding": "Nenhum arredondamento ou estimativa nos números observados.",
+    "unobserved": [
+      "Contagens de nascimentos por departamento no endpoint detalhado do Filae não foram obtidas.",
+      "Não foram inferidos números para departamentos ausentes do arquivo INSEE.",
+      "Não foram deduplicados os registros do Geneanet."
+    ]
+  }
+}

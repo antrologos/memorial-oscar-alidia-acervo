@@ -1,0 +1,2513 @@
+Browser tab: 80, Title: "Carolina Bernardina Oliveira Porbigas (1851–1923) • Pessoa • Árvore familiar", URL: "https://www.familysearch.org/pt/tree/person/sources/K198-GXK".
+1 AXWebArea Carolina Bernardina Oliveira Porbigas (1851–1923) • Pessoa • Árvore familiar, URL: familysearch.org/pt…
+	2 container
+		3 container root
+			4 container app-content-scroller
+				5 link Description: IR PARA O CONTEÚDO PRINCIPAL, Value: familysearch.org/pt…
+				6 container
+					7 link Description: FamilySearch — Página Inicial, Value: familysearch.org/pt…
+					8 container Principal
+						9 pop up button (collapsed) Árvore Familiar, Secondary Actions: Expand
+						10 pop up button (collapsed) Pesquisa, Secondary Actions: Expand
+						11 pop up button (collapsed) Recordações, Secondary Actions: Expand
+						12 pop up button (collapsed) Participe, Secondary Actions: Expand
+						13 pop up button (collapsed) Atividades, Secondary Actions: Expand
+					14 link Description: Localizações, Value: familysearch.org/pt…
+					15 button Escolha o idioma
+					16 button Ajuda
+					17 button Chat
+					18 link Description: Novas notificações disponíveis, Value: familysearch.org/pt…
+					19 pop up button (collapsed) Conta: Rogério J Barbosa, Secondary Actions: Expand
+						20 container Conta: Rogério J Barbosa
+				21 container main
+					22 container Menu secundário da árvore
+						23 content list
+							24 link Description: Árvore, Value: familysearch.org/pt…
+							25 button Recentes
+							26 link Description: Encontrar, Value: familysearch.org/pt…
+							27 link Description: Seguindo, Value: familysearch.org/pt…
+							28 link Description: Lista de pessoas, Value: familysearch.org/pt…
+							29 link Description: Minhas colaborações, Value: familysearch.org/pt…
+							30 pop up button (collapsed) Description: O que há de novo, Secondary Actions: Expand
+					31 container skipToMainContent
+						32 button Atualizar o retrato para Carolina Bernardina Oliveira Porbigas
+						33 heading Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK, Value: 1
+							34 container Carolina Bernardina Oliveira Porbigas 1851–1923 · K198-GXK
+								35 text Carolina Bernardina Oliveira Porbigas
+								36 text Feminino 1851 – 6 de julho de 1923 •
+								37 button K 1 9 8 G X K, Selecione para copiar.
+						38 link Description: VER ÁRVORE, Value: familysearch.org/pt…
+						39 button VER PARENTESCO
+						40 button Description: Para receber notificações sobre quaisquer alterações feitas a essa pessoa, clique em “Seguir” , Help: Para receber notificações sobre quaisquer alterações feitas a essa pessoa, clique em “Seguir”
+						41 container
+							42 link Description: Sobre, Value: familysearch.org/pt…, ID: tabs--2--tab--0
+							43 link Description: Detalhes, Value: familysearch.org/pt…, ID: tabs--2--tab--1
+							44 link Description: Fontes (60), Value: familysearch.org/pt…, ID: tabs--2--tab--2
+							45 link Description: Colaborar (0), Value: familysearch.org/pt…, ID: tabs--2--tab--3
+							46 link Description: Recordações (0), Value: familysearch.org/pt…, ID: tabs--2--tab--4
+							47 link Description: Linha do tempo, Value: familysearch.org/pt…, ID: tabs--2--tab--5
+						48 container Description: Fontes (60), ID: tabs--2--panel--2
+						49 container
+							50 heading Description: Ocultar esta seção: Fontes, Value: 2
+								51 text Fontes  ( 60 )
+							52 switch Description: Visualização detalhada, Value: 1
+							53 pop up button (collapsed) + ACRESCENTAR FONTE, Secondary Actions: Expand
+							54 button OPÇÕES
+							55 text Data Título Criado
+							56 container 9M9D-V6S
+								57 button (expanded) Secondary Actions: Collapse, 1868 {name} na entrada para Joaquin Mendes, “Casamentos no Uruguai, 1840-1900” 7 de novembro de 2014 FamilySearch
+									58 button 1868 {name} na entrada para Joaquin Mendes, “Casamentos no Uruguai, 1840-1900” 7 de novembro de 2014 FamilySearch
+										59 button
+										60 text 1868
+										61 text {name} na entrada para Joaquin Mendes, “Casamentos no Uruguai, 1840-1900”
+										62 text 7 de novembro de 2014
+										63 button FamilySearch
+								657 container Tyavhjw4qxy
+									658 button VISUALIZAR
+									659 button EDITAR
+									660 button ANALISAR ANEXOS
+									661 button DESANEXAR
+									662 heading Marcadores, Value: 3
+										663 text Marcadores
+									664 button + Acrescentar marcação
+									665 heading Data da fonte 4 de novembro de 1868, Value: 3
+										666 text Data da fonte
+										667 text 4 de novembro de 1868
+									668 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:FLMC-WPJ, Value: 3
+										669 text Página do site (link para o registro)
+										670 link Description: https://familysearch.org/ark:/61903/1:1:FLMC-WPJ, Value: familysearch.org/ar…
+									671 heading Onde o registro foi encontrado (referência) , Value: 3
+										672 text Onde o registro foi encontrado (referência)
+									673 container
+										674 text "Uruguay, matrimonios, 1840-1900", ,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:FLMC-WPJ : 10 February 2020), Carolina Ysabel Olivera in entry for Joaquin Mendes, 1868.
+									675 heading Descrever o registro (anotações) , Value: 3
+										676 text Descrever o registro (anotações)
+									677 text This extracted record was used to create this person in Family Tree.
+									678 heading Informações indexadas, Value: 3
+										679 text Informações indexadas
+									680 button EXIBIR
+									681 heading Fonte modificada:, Value: 3
+										682 text Fonte modificada:
+									683 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									684 text 7 de novembro de 2014
+									685 button FamilySearch
+									686 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										687 text Motivo pela qual esta fonte está anexada:
+									688 button + ACRESCENTAR
+							64 container QSZY-F8T
+								65 button (expanded) Secondary Actions: Collapse, 1872 Carolina Oliveira, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									66 button 1872 Carolina Oliveira, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										67 button
+										68 text 1872
+										69 text Carolina Oliveira, "Uruguay, registros parroquiales, 1726-2000"
+										70 text 8 de janeiro de 2023
+										71 button Rogério J Barbosa
+								72 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								73 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								74 button ANEXOS COM INDIVÍDUOS PENDENTES
+								75 button DISPENSAR
+								689 container swqiq7ap2vv
+									690 button VISUALIZAR
+									691 button EDITAR
+									692 button ANALISAR ANEXOS
+									693 button DESANEXAR
+									694 heading Marcadores, Value: 3
+										695 text Marcadores
+									696 button Sexo
+									697 button Nome
+									698 button + Acrescentar marcação
+									699 heading Data da fonte 1 de fevereiro de 1872, Value: 3
+										700 text Data da fonte
+										701 text 1 de fevereiro de 1872
+									702 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZCQ-HDH9, Value: 3
+										703 text Página do site (link para o registro)
+										704 link Description: https://familysearch.org/ark:/61903/1:1:6ZCQ-HDH9, Value: familysearch.org/ar…
+									705 heading Onde o registro foi encontrado (referência) , Value: 3
+										706 text Onde o registro foi encontrado (referência)
+									707 container
+										708 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZCQ-HD41 : Thu Jan 01 00:34:37 UTC 2026), Entry for Sixta Méndez and Joaquín Méndez, 1 de febrero de 1872.
+									709 heading Informações indexadas, Value: 3
+										710 text Informações indexadas
+									711 button EXIBIR
+									712 heading Fonte modificada:, Value: 3
+										713 text Fonte modificada:
+									714 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									715 text 8 de janeiro de 2023
+									716 button Rogério J Barbosa
+									717 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										718 text Motivo pela qual esta fonte está anexada:
+									719 button + ACRESCENTAR
+							76 container 3R8Z-DHH
+								77 button (expanded) Secondary Actions: Collapse, 1874 Carolina Bernardina Olivera, "Uruguay, registros parroquiales, 1726-2000" 17 de agosto de 2022 FloresSylviaAnabel
+									78 button 1874 Carolina Bernardina Olivera, "Uruguay, registros parroquiales, 1726-2000" 17 de agosto de 2022 FloresSylviaAnabel
+										79 button
+										80 text 1874
+										81 text Carolina Bernardina Olivera, "Uruguay, registros parroquiales, 1726-2000"
+										82 text 17 de agosto de 2022
+										83 button FloresSylviaAnabel
+								84 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								85 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								86 button ANEXOS COM INDIVÍDUOS PENDENTES
+								87 button DISPENSAR
+								720 container u3rmjk1v31ri
+									721 button VISUALIZAR
+									722 button EDITAR
+									723 button ANALISAR ANEXOS
+									724 button DESANEXAR
+									725 heading Marcadores, Value: 3
+										726 text Marcadores
+									727 button Sexo
+									728 button Nome
+									729 button + Acrescentar marcação
+									730 heading Data da fonte 6 de janeiro de 1874, Value: 3
+										731 text Data da fonte
+										732 text 6 de janeiro de 1874
+									733 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZCQ-H6BQ, Value: 3
+										734 text Página do site (link para o registro)
+										735 link Description: https://familysearch.org/ark:/61903/1:1:6ZCQ-H6BQ, Value: familysearch.org/ar…
+									736 heading Onde o registro foi encontrado (referência) , Value: 3
+										737 text Onde o registro foi encontrado (referência)
+									738 container
+										739 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZCQ-H6BS : Thu Jan 01 11:09:06 UTC 2026), Entry for Belicia and Gerónimo Garia, 6 de enero de 1874.
+									740 heading Informações indexadas, Value: 3
+										741 text Informações indexadas
+									742 button EXIBIR
+									743 heading Fonte modificada:, Value: 3
+										744 text Fonte modificada:
+									745 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									746 text 17 de agosto de 2022
+									747 button FloresSylviaAnabel
+									748 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										749 text Motivo pela qual esta fonte está anexada:
+									750 button + ACRESCENTAR
+							88 container QSZB-QYV
+								89 button (expanded) Secondary Actions: Collapse, 1878 Carolina Oliveira, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									90 button 1878 Carolina Oliveira, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										91 button
+										92 text 1878
+										93 text Carolina Oliveira, "Uruguay, registros parroquiales, 1726-2000"
+										94 text 8 de janeiro de 2023
+										95 button Rogério J Barbosa
+								96 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								97 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								98 button ANEXOS COM INDIVÍDUOS PENDENTES
+								99 button DISPENSAR
+								751 container prvh41d0cw2
+									752 button VISUALIZAR
+									753 button EDITAR
+									754 button ANALISAR ANEXOS
+									755 button DESANEXAR
+									756 heading Marcadores, Value: 3
+										757 text Marcadores
+									758 button Sexo
+									759 button Nome
+									760 button + Acrescentar marcação
+									761 heading Data da fonte 22 de janeiro de 1878, Value: 3
+										762 text Data da fonte
+										763 text 22 de janeiro de 1878
+									764 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZCQ-JQ2L, Value: 3
+										765 text Página do site (link para o registro)
+										766 link Description: https://familysearch.org/ark:/61903/1:1:6ZCQ-JQ2L, Value: familysearch.org/ar…
+									767 heading Onde o registro foi encontrado (referência) , Value: 3
+										768 text Onde o registro foi encontrado (referência)
+									769 container
+										770 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZCQ-JQ2V : Mon Apr 06 03:26:06 UTC 2026), Entry for Bernardina and Gerónimo Garía, 22 January 1878.
+									771 heading Informações indexadas, Value: 3
+										772 text Informações indexadas
+									773 button EXIBIR
+									774 heading Fonte modificada:, Value: 3
+										775 text Fonte modificada:
+									776 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									777 text 8 de janeiro de 2023
+									778 button Rogério J Barbosa
+									779 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										780 text Motivo pela qual esta fonte está anexada:
+									781 button + ACRESCENTAR
+							100 container 7K3C-FVX
+								101 button (expanded) 1879 Carolina Portugal, "Uruguay, registro civil, 1879-2020" 29 de maio de 2025 Mengo, Terrel O'neal, Secondary Actions: Collapse
+									102 button 1879 Carolina Portugal, "Uruguay, registro civil, 1879-2020" 29 de maio de 2025 Mengo, Terrel O'neal
+										103 button
+										104 text 1879
+										105 text Carolina Portugal, "Uruguay, registro civil, 1879-2020"
+										106 text 29 de maio de 2025
+										107 button Mengo, Terrel O'neal
+								782 container Dp3epcji0zb
+									783 button VISUALIZAR
+									784 button EDITAR
+									785 button ANALISAR ANEXOS
+									786 button DESANEXAR
+									787 heading Marcadores, Value: 3
+										788 text Marcadores
+									789 button Nascimento
+									790 button Sexo
+									791 button Nome
+									792 button Profissão
+									793 button + Acrescentar marcação
+									794 heading Data da fonte março de 1879, Value: 3
+										795 text Data da fonte
+										796 text março de 1879
+									797 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSX9-WB9C, Value: 3
+										798 text Página do site (link para o registro)
+										799 link Description: https://familysearch.org/ark:/61903/1:1:XSX9-WB9C, Value: familysearch.org/ar…
+									800 heading Onde o registro foi encontrado (referência) , Value: 3
+										801 text Onde o registro foi encontrado (referência)
+									802 container
+										803 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSX9-WB93 : Sat Dec 20 04:57:22 UTC 2025), Entry for Juan Gallegos and Arturo M. Salgado, marzo de 1879.
+									804 heading Informações indexadas, Value: 3
+										805 text Informações indexadas
+									806 button EXIBIR
+									807 heading Fonte modificada:, Value: 3
+										808 text Fonte modificada:
+									809 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									810 text 29 de maio de 2025
+									811 button Mengo, Terrel O'neal
+									812 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										813 text Motivo pela qual esta fonte está anexada:
+									814 button + ACRESCENTAR
+							108 container 7JP3-YK7
+								109 button (expanded) Secondary Actions: Collapse, 1879 Carolina Isabel Portugal, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+									110 button 1879 Carolina Isabel Portugal, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										111 button
+										112 text 1879
+										113 text Carolina Isabel Portugal, "Uruguay, registro civil, 1879-2020"
+										114 text 4 de maio de 2025
+										115 button FloresSylviaAnabel
+								116 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								117 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								118 button ANEXOS COM INDIVÍDUOS PENDENTES
+								119 button DISPENSAR
+								815 container wtedm9kc8ax
+									816 button VISUALIZAR
+									817 button EDITAR
+									818 button ANALISAR ANEXOS
+									819 button DESANEXAR
+									820 heading Marcadores, Value: 3
+										821 text Marcadores
+									822 button Sexo
+									823 button Nome
+									824 button + Acrescentar marcação
+									825 heading Data da fonte abril de 1879, Value: 3
+										826 text Data da fonte
+										827 text abril de 1879
+									828 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSX7-KC6H, Value: 3
+										829 text Página do site (link para o registro)
+										830 link Description: https://familysearch.org/ark:/61903/1:1:XSX7-KC6H, Value: familysearch.org/ar…
+									831 heading Onde o registro foi encontrado (referência) , Value: 3
+										832 text Onde o registro foi encontrado (referência)
+									833 container
+										834 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSX7-KC6Q : Sat Dec 20 08:36:54 UTC 2025), Entry for Luís Alberto Vidal and Francisco Méndez, abril de 1879.
+									835 heading Informações indexadas, Value: 3
+										836 text Informações indexadas
+									837 button EXIBIR
+									838 heading Fonte modificada:, Value: 3
+										839 text Fonte modificada:
+									840 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									841 text 4 de maio de 2025
+									842 button FloresSylviaAnabel
+									843 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										844 text Motivo pela qual esta fonte está anexada:
+									845 button + ACRESCENTAR
+							120 container 7JPQ-4Q5
+								121 button (expanded) 1879 Carolina Oliveira, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel, Secondary Actions: Collapse
+									122 button 1879 Carolina Oliveira, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										123 button
+										124 text 1879
+										125 text Carolina Oliveira, "Uruguay, registro civil, 1879-2020"
+										126 text 4 de maio de 2025
+										127 button FloresSylviaAnabel
+								128 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								129 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								130 button ANEXOS COM INDIVÍDUOS PENDENTES
+								131 button DISPENSAR
+								846 container gaaoh8v0jt14
+									847 button VISUALIZAR
+									848 button EDITAR
+									849 button ANALISAR ANEXOS
+									850 button DESANEXAR
+									851 heading Marcadores, Value: 3
+										852 text Marcadores
+									853 button Sexo
+									854 button Nome
+									855 button + Acrescentar marcação
+									856 heading Data da fonte 22 de abril de 1879, Value: 3
+										857 text Data da fonte
+										858 text 22 de abril de 1879
+									859 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS6Y-GCV4, Value: 3
+										860 text Página do site (link para o registro)
+										861 link Description: https://familysearch.org/ark:/61903/1:1:XS6Y-GCV4, Value: familysearch.org/ar…
+									862 heading Onde o registro foi encontrado (referência) , Value: 3
+										863 text Onde o registro foi encontrado (referência)
+									864 container
+										865 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS6Y-GCV9 : Sat Dec 20 08:35:44 UTC 2025), Entry for Elsa Catalina Sánchez and Anselmo Lagrilla Yrazu, 22 de abril de 1879.
+									866 heading Informações indexadas, Value: 3
+										867 text Informações indexadas
+									868 button EXIBIR
+									869 heading Fonte modificada:, Value: 3
+										870 text Fonte modificada:
+									871 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									872 text 4 de maio de 2025
+									873 button FloresSylviaAnabel
+									874 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										875 text Motivo pela qual esta fonte está anexada:
+									876 button + ACRESCENTAR
+							132 container 7JPQ-7WB
+								133 button (expanded) 1879 Carolina Portugal, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel, Secondary Actions: Collapse
+									134 button 1879 Carolina Portugal, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										135 button
+										136 text 1879
+										137 text Carolina Portugal, "Uruguay, registro civil, 1879-2020"
+										138 text 4 de maio de 2025
+										139 button FloresSylviaAnabel
+								877 container rzh07c2c631q
+									878 button VISUALIZAR
+									879 button EDITAR
+									880 button ANALISAR ANEXOS
+									881 button DESANEXAR
+									882 heading Marcadores, Value: 3
+										883 text Marcadores
+									884 button Nascimento
+									885 button Sexo
+									886 button Nome
+									887 button + Acrescentar marcação
+									888 heading Data da fonte outubro de 1879, Value: 3
+										889 text Data da fonte
+										890 text outubro de 1879
+									891 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSX9-P3HY, Value: 3
+										892 text Página do site (link para o registro)
+										893 link Description: https://familysearch.org/ark:/61903/1:1:XSX9-P3HY, Value: familysearch.org/ar…
+									894 heading Onde o registro foi encontrado (referência) , Value: 3
+										895 text Onde o registro foi encontrado (referência)
+									896 container
+										897 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSX9-P3HL : Sat Dec 20 09:04:22 UTC 2025), Entry for Luís Alberto Salgado and Artural . Salgado, octubre de 1879.
+									898 heading Informações indexadas, Value: 3
+										899 text Informações indexadas
+									900 button EXIBIR
+									901 heading Fonte modificada:, Value: 3
+										902 text Fonte modificada:
+									903 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									904 text 4 de maio de 2025
+									905 button FloresSylviaAnabel
+									906 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										907 text Motivo pela qual esta fonte está anexada:
+									908 button + ACRESCENTAR
+							140 container 7VY5-ZPM
+								141 button (expanded) Secondary Actions: Collapse, 1879 Carolina Olivera Portugal Sánchez, "Uruguay, registro civil, 1879-2020" 26 de maio de 2025 Abraham Ernest Etukudoh
+									142 button 1879 Carolina Olivera Portugal Sánchez, "Uruguay, registro civil, 1879-2020" 26 de maio de 2025 Abraham Ernest Etukudoh
+										143 button
+										144 text 1879
+										145 text Carolina Olivera Portugal Sánchez, "Uruguay, registro civil, 1879-2020"
+										146 text 26 de maio de 2025
+										147 button Abraham Ernest Etukudoh
+								909 container vxmdjpqcmzi8
+									910 button VISUALIZAR
+									911 button EDITAR
+									912 button ANALISAR ANEXOS
+									913 button DESANEXAR
+									914 heading Marcadores, Value: 3
+										915 text Marcadores
+									916 button Nascimento
+									917 button Sexo
+									918 button Nome
+									919 button + Acrescentar marcação
+									920 heading Data da fonte dezembro de 1879, Value: 3
+										921 text Data da fonte
+										922 text dezembro de 1879
+									923 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSXS-NLPY, Value: 3
+										924 text Página do site (link para o registro)
+										925 link Description: https://familysearch.org/ark:/61903/1:1:XSXS-NLPY, Value: familysearch.org/ar…
+									926 heading Onde o registro foi encontrado (referência) , Value: 3
+										927 text Onde o registro foi encontrado (referência)
+									928 container
+										929 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSXS-NLPL : Sat Dec 20 03:45:40 UTC 2025), Entry for René Salgado Acevedes and Arturo Márquez Salgado, diciembre de 1879.
+									930 heading Informações indexadas, Value: 3
+										931 text Informações indexadas
+									932 button EXIBIR
+									933 heading Fonte modificada:, Value: 3
+										934 text Fonte modificada:
+									935 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									936 text 26 de maio de 2025
+									937 button Abraham Ernest Etukudoh
+									938 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										939 text Motivo pela qual esta fonte está anexada:
+									940 button + ACRESCENTAR
+							148 container 9M9D-NF9
+								149 button (expanded) Secondary Actions: Collapse, 1881 {name} na entrada para Santiago Sanchez, “Casamentos no Uruguai, 1840-1900” 7 de novembro de 2014 FamilySearch
+									150 button 1881 {name} na entrada para Santiago Sanchez, “Casamentos no Uruguai, 1840-1900” 7 de novembro de 2014 FamilySearch
+										151 button
+										152 text 1881
+										153 text {name} na entrada para Santiago Sanchez, “Casamentos no Uruguai, 1840-1900”
+										154 text 7 de novembro de 2014
+										155 button FamilySearch
+								941 container Kwjayetx60yp
+									942 button VISUALIZAR
+									943 button EDITAR
+									944 button ANALISAR ANEXOS
+									945 button DESANEXAR
+									946 heading Marcadores, Value: 3
+										947 text Marcadores
+									948 button + Acrescentar marcação
+									949 heading Data da fonte 29 de abril de 1881, Value: 3
+										950 text Data da fonte
+										951 text 29 de abril de 1881
+									952 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:FLMC-PTR, Value: 3
+										953 text Página do site (link para o registro)
+										954 link Description: https://familysearch.org/ark:/61903/1:1:FLMC-PTR, Value: familysearch.org/ar…
+									955 heading Onde o registro foi encontrado (referência) , Value: 3
+										956 text Onde o registro foi encontrado (referência)
+									957 container
+										958 text "Uruguay, matrimonios, 1840-1900", ,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:FLMC-PTR : 10 February 2020), Carolina Oliveira in entry for Santiago Sanchez, 1881.
+									959 heading Descrever o registro (anotações) , Value: 3
+										960 text Descrever o registro (anotações)
+									961 text This extracted record was used to create this person in Family Tree.
+									962 heading Informações indexadas, Value: 3
+										963 text Informações indexadas
+									964 button EXIBIR
+									965 heading Fonte modificada:, Value: 3
+										966 text Fonte modificada:
+									967 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									968 text 7 de novembro de 2014
+									969 button FamilySearch
+									970 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										971 text Motivo pela qual esta fonte está anexada:
+									972 button + ACRESCENTAR
+							156 container 7JPQ-HW4
+								157 button (expanded) 1881 Carolina Oliveira, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel, Secondary Actions: Collapse
+									158 button 1881 Carolina Oliveira, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										159 button
+										160 text 1881
+										161 text Carolina Oliveira, "Uruguay, registro civil, 1879-2020"
+										162 text 4 de maio de 2025
+										163 button FloresSylviaAnabel
+								973 container kpsom35i3yg
+									974 button VISUALIZAR
+									975 button EDITAR
+									976 button ANALISAR ANEXOS
+									977 button DESANEXAR
+									978 heading Marcadores, Value: 3
+										979 text Marcadores
+									980 button Nome
+									981 button Evento Personalizado
+									982 button + Acrescentar marcação
+									983 heading Data da fonte 4 de maio de 1881, Value: 3
+										984 text Data da fonte
+										985 text 4 de maio de 1881
+									986 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS1S-MPRT, Value: 3
+										987 text Página do site (link para o registro)
+										988 link Description: https://familysearch.org/ark:/61903/1:1:XS1S-MPRT, Value: familysearch.org/ar…
+									989 heading Onde o registro foi encontrado (referência) , Value: 3
+										990 text Onde o registro foi encontrado (referência)
+									991 container
+										992 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS1S-MPRG : Wed Mar 12 04:59:26 UTC 2025), Entry for Santiago Sanchez and Eugenio Sanchez, 4 May 1881.
+									993 heading Informações indexadas, Value: 3
+										994 text Informações indexadas
+									995 button EXIBIR
+									996 heading Fonte modificada:, Value: 3
+										997 text Fonte modificada:
+									998 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									999 text 4 de maio de 2025
+									1000 button FloresSylviaAnabel
+									1001 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1002 text Motivo pela qual esta fonte está anexada:
+									1003 button + ACRESCENTAR
+							164 container SFPH-PM8
+								165 button (expanded) 1881 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR, Secondary Actions: Collapse
+									166 button 1881 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR
+										167 button
+										168 text 1881
+										169 text Carolina Olivera, "Uruguay, registro civil, 1879-2020"
+										170 text 21 de dezembro de 2019
+										171 button Ana Maria AR
+								1004 container X509f6hwexm
+									1005 button VISUALIZAR
+									1006 button EDITAR
+									1007 button ANALISAR ANEXOS
+									1008 button DESANEXAR
+									1009 heading Marcadores, Value: 3
+										1010 text Marcadores
+									1011 button Sexo
+									1012 button Nome
+									1013 button + Acrescentar marcação
+									1014 heading Data da fonte 19 de dezembro de 1881, Value: 3
+										1015 text Data da fonte
+										1016 text 19 de dezembro de 1881
+									1017 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:VR4B-VMH, Value: 3
+										1018 text Página do site (link para o registro)
+										1019 link Description: https://familysearch.org/ark:/61903/1:1:VR4B-VMH, Value: familysearch.org/ar…
+									1020 heading Onde o registro foi encontrado (referência) , Value: 3
+										1021 text Onde o registro foi encontrado (referência)
+									1022 container
+										1023 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:VR4B-VMC : Tue Sep 16 20:06:40 UTC 2025), Entry for Fausta Sanchez and Santiago Sanchez, 19 Dec 1881.
+									1024 heading Informações indexadas, Value: 3
+										1025 text Informações indexadas
+									1026 button EXIBIR
+									1027 heading Fonte modificada:, Value: 3
+										1028 text Fonte modificada:
+									1029 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1030 text 21 de dezembro de 2019
+									1031 button Ana Maria AR
+									1032 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1033 text Motivo pela qual esta fonte está anexada:
+									1034 button + ACRESCENTAR
+							172 container SFPH-RZ7
+								173 button (expanded) 1883 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR, Secondary Actions: Collapse
+									174 button 1883 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR
+										175 button
+										176 text 1883
+										177 text Carolina Olivera, "Uruguay, registro civil, 1879-2020"
+										178 text 21 de dezembro de 2019
+										179 button Ana Maria AR
+								1035 container K4lh8t19vpre
+									1036 button VISUALIZAR
+									1037 button EDITAR
+									1038 button ANALISAR ANEXOS
+									1039 button DESANEXAR
+									1040 heading Marcadores, Value: 3
+										1041 text Marcadores
+									1042 button Sexo
+									1043 button Nome
+									1044 button + Acrescentar marcação
+									1045 heading Data da fonte 4 de agosto de 1883, Value: 3
+										1046 text Data da fonte
+										1047 text 4 de agosto de 1883
+									1048 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:VR4Y-TM8, Value: 3
+										1049 text Página do site (link para o registro)
+										1050 link Description: https://familysearch.org/ark:/61903/1:1:VR4Y-TM8, Value: familysearch.org/ar…
+									1051 heading Onde o registro foi encontrado (referência) , Value: 3
+										1052 text Onde o registro foi encontrado (referência)
+									1053 container
+										1054 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:VR4Y-TMD : Tue Jan 14 21:34:41 UTC 2025), Entry for Dominga Sanchez and Santiago Sanchez, 04 Aug 1883.
+									1055 heading Informações indexadas, Value: 3
+										1056 text Informações indexadas
+									1057 button EXIBIR
+									1058 heading Fonte modificada:, Value: 3
+										1059 text Fonte modificada:
+									1060 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1061 text 21 de dezembro de 2019
+									1062 button Ana Maria AR
+									1063 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1064 text Motivo pela qual esta fonte está anexada:
+									1065 button + ACRESCENTAR
+							180 container SFPH-ZK8
+								181 button (expanded) 1884 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR, Secondary Actions: Collapse
+									182 button 1884 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR
+										183 button
+										184 text 1884
+										185 text Carolina Olivera, "Uruguay, registro civil, 1879-2020"
+										186 text 21 de dezembro de 2019
+										187 button Ana Maria AR
+								1066 container M83hkb5j9w0n
+									1067 button VISUALIZAR
+									1068 button EDITAR
+									1069 button ANALISAR ANEXOS
+									1070 button DESANEXAR
+									1071 heading Marcadores, Value: 3
+										1072 text Marcadores
+									1073 button Sexo
+									1074 button Nome
+									1075 button + Acrescentar marcação
+									1076 heading Data da fonte 30 de agosto de 1884, Value: 3
+										1077 text Data da fonte
+										1078 text 30 de agosto de 1884
+									1079 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:VR4B-TLP, Value: 3
+										1080 text Página do site (link para o registro)
+										1081 link Description: https://familysearch.org/ark:/61903/1:1:VR4B-TLP, Value: familysearch.org/ar…
+									1082 heading Onde o registro foi encontrado (referência) , Value: 3
+										1083 text Onde o registro foi encontrado (referência)
+									1084 container
+										1085 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:VR4B-TL5 : Wed Sep 17 23:43:53 UTC 2025), Entry for Rosa Sanches and Santiago Sanches, 30 Aug 1884.
+									1086 heading Informações indexadas, Value: 3
+										1087 text Informações indexadas
+									1088 button EXIBIR
+									1089 heading Fonte modificada:, Value: 3
+										1090 text Fonte modificada:
+									1091 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1092 text 21 de dezembro de 2019
+									1093 button Ana Maria AR
+									1094 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1095 text Motivo pela qual esta fonte está anexada:
+									1096 button + ACRESCENTAR
+							188 container 3P5T-77T
+								189 button (expanded) Secondary Actions: Collapse, 1884 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 16 de julho de 2022 nataliavillarruel
+									190 button 1884 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 16 de julho de 2022 nataliavillarruel
+										191 button
+										192 text 1884
+										193 text Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000"
+										194 text 16 de julho de 2022
+										195 button nataliavillarruel
+								196 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								197 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								198 button ANEXOS COM INDIVÍDUOS PENDENTES
+								199 button DISPENSAR
+								1097 container sktaukplk1u8
+									1098 button VISUALIZAR
+									1099 button EDITAR
+									1100 button ANALISAR ANEXOS
+									1101 button DESANEXAR
+									1102 heading Marcadores, Value: 3
+										1103 text Marcadores
+									1104 button Sexo
+									1105 button Nome
+									1106 button + Acrescentar marcação
+									1107 heading Data da fonte 6 de outubro de 1884, Value: 3
+										1108 text Data da fonte
+										1109 text 6 de outubro de 1884
+									1110 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3W-FZDD, Value: 3
+										1111 text Página do site (link para o registro)
+										1112 link Description: https://familysearch.org/ark:/61903/1:1:6D3W-FZDD, Value: familysearch.org/ar…
+									1113 heading Onde o registro foi encontrado (referência) , Value: 3
+										1114 text Onde o registro foi encontrado (referência)
+									1115 container
+										1116 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3W-FZDZ : Thu Jan 01 00:32:54 UTC 2026), Entry for Rosa and Francisco Aboitiz, 6 de octubre de 1884.
+									1117 heading Informações indexadas, Value: 3
+										1118 text Informações indexadas
+									1119 button EXIBIR
+									1120 heading Fonte modificada:, Value: 3
+										1121 text Fonte modificada:
+									1122 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1123 text 16 de julho de 2022
+									1124 button nataliavillarruel
+									1125 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1126 text Motivo pela qual esta fonte está anexada:
+									1127 button + ACRESCENTAR
+							200 container SFPH-L25
+								201 button (expanded) 1886 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR, Secondary Actions: Collapse
+									202 button 1886 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR
+										203 button
+										204 text 1886
+										205 text Carolina Olivera, "Uruguay, registro civil, 1879-2020"
+										206 text 21 de dezembro de 2019
+										207 button Ana Maria AR
+								1128 container Vubmrtz7qw5e
+									1129 button VISUALIZAR
+									1130 button EDITAR
+									1131 button ANALISAR ANEXOS
+									1132 button DESANEXAR
+									1133 heading Marcadores, Value: 3
+										1134 text Marcadores
+									1135 button Sexo
+									1136 button Nome
+									1137 button + Acrescentar marcação
+									1138 heading Data da fonte 9 de janeiro de 1886, Value: 3
+										1139 text Data da fonte
+										1140 text 9 de janeiro de 1886
+									1141 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:VR4B-21N, Value: 3
+										1142 text Página do site (link para o registro)
+										1143 link Description: https://familysearch.org/ark:/61903/1:1:VR4B-21N, Value: familysearch.org/ar…
+									1144 heading Onde o registro foi encontrado (referência) , Value: 3
+										1145 text Onde o registro foi encontrado (referência)
+									1146 container
+										1147 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:VR4B-21J : Wed Sep 17 22:23:17 UTC 2025), Entry for Julian Sanchez and Santiago Sanchez, 09 Jan 1886.
+									1148 heading Informações indexadas, Value: 3
+										1149 text Informações indexadas
+									1150 button EXIBIR
+									1151 heading Fonte modificada:, Value: 3
+										1152 text Fonte modificada:
+									1153 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1154 text 21 de dezembro de 2019
+									1155 button Ana Maria AR
+									1156 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1157 text Motivo pela qual esta fonte está anexada:
+									1158 button + ACRESCENTAR
+							208 container 7JPQ-WMR
+								209 button (expanded) 1887 Carolina de Oliveira, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel, Secondary Actions: Collapse
+									210 button 1887 Carolina de Oliveira, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										211 button
+										212 text 1887
+										213 text Carolina de Oliveira, "Uruguay, registro civil, 1879-2020"
+										214 text 4 de maio de 2025
+										215 button FloresSylviaAnabel
+								216 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								217 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								218 button ANEXOS COM INDIVÍDUOS PENDENTES
+								219 button DISPENSAR
+								1159 container Wac0f10yfpn
+									1160 button VISUALIZAR
+									1161 button EDITAR
+									1162 button ANALISAR ANEXOS
+									1163 button DESANEXAR
+									1164 heading Marcadores, Value: 3
+										1165 text Marcadores
+									1166 button Nascimento
+									1167 button Sexo
+									1168 button Nome
+									1169 button + Acrescentar marcação
+									1170 heading Data da fonte 1887, Value: 3
+										1171 text Data da fonte
+										1172 text 1887
+									1173 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSXW-7RMF, Value: 3
+										1174 text Página do site (link para o registro)
+										1175 link Description: https://familysearch.org/ark:/61903/1:1:XSXW-7RMF, Value: familysearch.org/ar…
+									1176 heading Onde o registro foi encontrado (referência) , Value: 3
+										1177 text Onde o registro foi encontrado (referência)
+									1178 container
+										1179 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSXW-7RM6 : Sat Dec 20 08:34:02 UTC 2025), Entry for Juana de Olioliva and Sánchez, 1801.
+									1180 heading Informações indexadas, Value: 3
+										1181 text Informações indexadas
+									1182 button EXIBIR
+									1183 heading Fonte modificada:, Value: 3
+										1184 text Fonte modificada:
+									1185 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1186 text 31 de dezembro de 2025
+									1187 button Nuñez Perez, Mateo Federico
+									1188 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1189 text Motivo pela qual esta fonte está anexada:
+									1190 button + ACRESCENTAR
+							220 container QSZT-3YD
+								221 button (expanded) Secondary Actions: Collapse, 1887 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									222 button 1887 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										223 button
+										224 text 1887
+										225 text Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000"
+										226 text 8 de janeiro de 2023
+										227 button Rogério J Barbosa
+								228 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								229 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								230 button ANEXOS COM INDIVÍDUOS PENDENTES
+								231 button DISPENSAR
+								1191 container I40p6xblvfs
+									1192 button VISUALIZAR
+									1193 button EDITAR
+									1194 button ANALISAR ANEXOS
+									1195 button DESANEXAR
+									1196 heading Marcadores, Value: 3
+										1197 text Marcadores
+									1198 button Sexo
+									1199 button Nome
+									1200 button + Acrescentar marcação
+									1201 heading Data da fonte 26 de maio de 1887, Value: 3
+										1202 text Data da fonte
+										1203 text 26 de maio de 1887
+									1204 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3W-WKZ3, Value: 3
+										1205 text Página do site (link para o registro)
+										1206 link Description: https://familysearch.org/ark:/61903/1:1:6D3W-WKZ3, Value: familysearch.org/ar…
+									1207 heading Onde o registro foi encontrado (referência) , Value: 3
+										1208 text Onde o registro foi encontrado (referência)
+									1209 container
+										1210 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3W-WKZ9 : Thu Jan 01 11:49:19 UTC 2026), Entry for Julián and Francisco Ruggier, 26 de mayo de 1887.
+									1211 heading Informações indexadas, Value: 3
+										1212 text Informações indexadas
+									1213 button EXIBIR
+									1214 heading Fonte modificada:, Value: 3
+										1215 text Fonte modificada:
+									1216 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1217 text 8 de janeiro de 2023
+									1218 button Rogério J Barbosa
+									1219 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1220 text Motivo pela qual esta fonte está anexada:
+									1221 button + ACRESCENTAR
+							232 container 3P5T-WHK
+								233 button (expanded) Secondary Actions: Collapse, 1888 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 16 de julho de 2022 nataliavillarruel
+									234 button 1888 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 16 de julho de 2022 nataliavillarruel
+										235 button
+										236 text 1888
+										237 text Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000"
+										238 text 16 de julho de 2022
+										239 button nataliavillarruel
+								240 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								241 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								242 button ANEXOS COM INDIVÍDUOS PENDENTES
+								243 button DISPENSAR
+								1222 container Cgh2z0g7zfpb
+									1223 button VISUALIZAR
+									1224 button EDITAR
+									1225 button ANALISAR ANEXOS
+									1226 button DESANEXAR
+									1227 heading Marcadores, Value: 3
+										1228 text Marcadores
+									1229 button Sexo
+									1230 button Nome
+									1231 button + Acrescentar marcação
+									1232 heading Data da fonte 18 de agosto de 1888, Value: 3
+										1233 text Data da fonte
+										1234 text 18 de agosto de 1888
+									1235 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3W-DVGJ, Value: 3
+										1236 text Página do site (link para o registro)
+										1237 link Description: https://familysearch.org/ark:/61903/1:1:6D3W-DVGJ, Value: familysearch.org/ar…
+									1238 heading Onde o registro foi encontrado (referência) , Value: 3
+										1239 text Onde o registro foi encontrado (referência)
+									1240 container
+										1241 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3W-DVGF : Wed May 20 21:51:13 UTC 2026), Entry for Juana and Francisco Ruggiero, 18 de agosto de 1888.
+									1242 heading Informações indexadas, Value: 3
+										1243 text Informações indexadas
+									1244 button EXIBIR
+									1245 heading Fonte modificada:, Value: 3
+										1246 text Fonte modificada:
+									1247 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1248 text 16 de julho de 2022
+									1249 button nataliavillarruel
+									1250 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1251 text Motivo pela qual esta fonte está anexada:
+									1252 button + ACRESCENTAR
+							244 container SFP4-R8J
+								245 button (expanded) 1889 Carolina Silveira, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR, Secondary Actions: Collapse
+									246 button 1889 Carolina Silveira, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR
+										247 button
+										248 text 1889
+										249 text Carolina Silveira, "Uruguay, registro civil, 1879-2020"
+										250 text 21 de dezembro de 2019
+										251 button Ana Maria AR
+								1253 container ue3bcgf55mep
+									1254 button VISUALIZAR
+									1255 button EDITAR
+									1256 button ANALISAR ANEXOS
+									1257 button DESANEXAR
+									1258 heading Marcadores, Value: 3
+										1259 text Marcadores
+									1260 button Sexo
+									1261 button Nome
+									1262 button + Acrescentar marcação
+									1263 heading Data da fonte 25 de janeiro de 1889, Value: 3
+										1264 text Data da fonte
+										1265 text 25 de janeiro de 1889
+									1266 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:VR4B-YX4, Value: 3
+										1267 text Página do site (link para o registro)
+										1268 link Description: https://familysearch.org/ark:/61903/1:1:VR4B-YX4, Value: familysearch.org/ar…
+									1269 heading Onde o registro foi encontrado (referência) , Value: 3
+										1270 text Onde o registro foi encontrado (referência)
+									1271 container
+										1272 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:VR4B-YXH : Wed Sep 17 15:15:49 UTC 2025), Entry for Concepcion Sanches and Santiago Sanches, 25 Jan 1889.
+									1273 heading Informações indexadas, Value: 3
+										1274 text Informações indexadas
+									1275 button EXIBIR
+									1276 heading Fonte modificada:, Value: 3
+										1277 text Fonte modificada:
+									1278 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1279 text 21 de dezembro de 2019
+									1280 button Ana Maria AR
+									1281 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1282 text Motivo pela qual esta fonte está anexada:
+									1283 button + ACRESCENTAR
+							252 container 3P5T-SGL
+								253 button (expanded) Secondary Actions: Collapse, 1889 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 16 de julho de 2022 nataliavillarruel
+									254 button 1889 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 16 de julho de 2022 nataliavillarruel
+										255 button
+										256 text 1889
+										257 text Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000"
+										258 text 16 de julho de 2022
+										259 button nataliavillarruel
+								260 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								261 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								262 button ANEXOS COM INDIVÍDUOS PENDENTES
+								263 button DISPENSAR
+								1284 container Do5lbjzx8238
+									1285 button VISUALIZAR
+									1286 button EDITAR
+									1287 button ANALISAR ANEXOS
+									1288 button DESANEXAR
+									1289 heading Marcadores, Value: 3
+										1290 text Marcadores
+									1291 button Sexo
+									1292 button Nome
+									1293 button + Acrescentar marcação
+									1294 heading Data da fonte 11 de maio de 1889, Value: 3
+										1295 text Data da fonte
+										1296 text 11 de maio de 1889
+									1297 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3W-D6HQ, Value: 3
+										1298 text Página do site (link para o registro)
+										1299 link Description: https://familysearch.org/ark:/61903/1:1:6D3W-D6HQ, Value: familysearch.org/ar…
+									1300 heading Onde o registro foi encontrado (referência) , Value: 3
+										1301 text Onde o registro foi encontrado (referência)
+									1302 container
+										1303 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3W-D6H9 : Thu Jan 01 11:46:23 UTC 2026), Entry for Concepción and Francisco Ruggino, 11 de mayo de 1889.
+									1304 heading Informações indexadas, Value: 3
+										1305 text Informações indexadas
+									1306 button EXIBIR
+									1307 heading Fonte modificada:, Value: 3
+										1308 text Fonte modificada:
+									1309 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1310 text 16 de julho de 2022
+									1311 button nataliavillarruel
+									1312 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1313 text Motivo pela qual esta fonte está anexada:
+									1314 button + ACRESCENTAR
+							264 container SFPH-TNY
+								265 button (expanded) 1891 Carolina Oliveira, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR, Secondary Actions: Collapse
+									266 button 1891 Carolina Oliveira, "Uruguay, registro civil, 1879-2020" 21 de dezembro de 2019 Ana Maria AR
+										267 button
+										268 text 1891
+										269 text Carolina Oliveira, "Uruguay, registro civil, 1879-2020"
+										270 text 21 de dezembro de 2019
+										271 button Ana Maria AR
+								1315 container Pd0uwntvpz26
+									1316 button VISUALIZAR
+									1317 button EDITAR
+									1318 button ANALISAR ANEXOS
+									1319 button DESANEXAR
+									1320 heading Marcadores, Value: 3
+										1321 text Marcadores
+									1322 button Sexo
+									1323 button Nome
+									1324 button + Acrescentar marcação
+									1325 heading Data da fonte 15 de março de 1891, Value: 3
+										1326 text Data da fonte
+										1327 text 15 de março de 1891
+									1328 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:VR4B-KYT, Value: 3
+										1329 text Página do site (link para o registro)
+										1330 link Description: https://familysearch.org/ark:/61903/1:1:VR4B-KYT, Value: familysearch.org/ar…
+									1331 heading Onde o registro foi encontrado (referência) , Value: 3
+										1332 text Onde o registro foi encontrado (referência)
+									1333 container
+										1334 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:VR4B-KYY : Wed Sep 17 12:47:59 UTC 2025), Entry for Longino Sánchez and Santiago Sánchez, 15 Mar 1891.
+									1335 heading Informações indexadas, Value: 3
+										1336 text Informações indexadas
+									1337 button EXIBIR
+									1338 heading Fonte modificada:, Value: 3
+										1339 text Fonte modificada:
+									1340 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1341 text 21 de dezembro de 2019
+									1342 button Ana Maria AR
+									1343 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1344 text Motivo pela qual esta fonte está anexada:
+									1345 button + ACRESCENTAR
+							272 container 7712-NM1
+								273 button (expanded) 1892 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 8 de outubro de 2024 treehelper_a377, Secondary Actions: Collapse
+									274 button 1892 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 8 de outubro de 2024 treehelper_a377
+										275 button
+										276 text 1892
+										277 text Carolina Olivera, "Uruguay, registro civil, 1879-2020"
+										278 text 8 de outubro de 2024
+										279 button treehelper_a377
+								1346 container X6rf3zrad3yd
+									1347 button VISUALIZAR
+									1348 button EDITAR
+									1349 button ANALISAR ANEXOS
+									1350 button DESANEXAR
+									1351 heading Marcadores, Value: 3
+										1352 text Marcadores
+									1353 button Sexo
+									1354 button Nome
+									1355 button + Acrescentar marcação
+									1356 heading Data da fonte 12 de agosto de 1892, Value: 3
+										1357 text Data da fonte
+										1358 text 12 de agosto de 1892
+									1359 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:62K9-G6RJ, Value: 3
+										1360 text Página do site (link para o registro)
+										1361 link Description: https://familysearch.org/ark:/61903/1:1:62K9-G6RJ, Value: familysearch.org/ar…
+									1362 heading Onde o registro foi encontrado (referência) , Value: 3
+										1363 text Onde o registro foi encontrado (referência)
+									1364 container
+										1365 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:62K9-G6RF : Sun Mar 10 14:55:04 UTC 2024), Entry for Isabel Sanchez and Santiago Sanchez, 12 Aug 1892.
+									1366 heading Informações indexadas, Value: 3
+										1367 text Informações indexadas
+									1368 button EXIBIR
+									1369 heading Fonte modificada:, Value: 3
+										1370 text Fonte modificada:
+									1371 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1372 text 8 de outubro de 2024
+									1373 button treehelper_a377
+									1374 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1375 text Motivo pela qual esta fonte está anexada:
+									1376 button + ACRESCENTAR
+							280 container 3P5T-QP2
+								281 button (expanded) Secondary Actions: Collapse, 1892 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 16 de julho de 2022 nataliavillarruel
+									282 button 1892 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 16 de julho de 2022 nataliavillarruel
+										283 button
+										284 text 1892
+										285 text Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000"
+										286 text 16 de julho de 2022
+										287 button nataliavillarruel
+								288 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								289 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								290 button ANEXOS COM INDIVÍDUOS PENDENTES
+								291 button DISPENSAR
+								1377 container Ush0nmnvexb
+									1378 button VISUALIZAR
+									1379 button EDITAR
+									1380 button ANALISAR ANEXOS
+									1381 button DESANEXAR
+									1382 heading Marcadores, Value: 3
+										1383 text Marcadores
+									1384 button Sexo
+									1385 button Nome
+									1386 button + Acrescentar marcação
+									1387 heading Data da fonte 29 de outubro de 1892, Value: 3
+										1388 text Data da fonte
+										1389 text 29 de outubro de 1892
+									1390 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D34-B3Z9, Value: 3
+										1391 text Página do site (link para o registro)
+										1392 link Description: https://familysearch.org/ark:/61903/1:1:6D34-B3Z9, Value: familysearch.org/ar…
+									1393 heading Onde o registro foi encontrado (referência) , Value: 3
+										1394 text Onde o registro foi encontrado (referência)
+									1395 container
+										1396 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D34-B3CB : Thu Jan 01 10:18:16 UTC 2026), Entry for Isabel and Joaquín Díaz, 29 de octubre de 1892.
+									1397 heading Informações indexadas, Value: 3
+										1398 text Informações indexadas
+									1399 button EXIBIR
+									1400 heading Fonte modificada:, Value: 3
+										1401 text Fonte modificada:
+									1402 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1403 text 16 de julho de 2022
+									1404 button nataliavillarruel
+									1405 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1406 text Motivo pela qual esta fonte está anexada:
+									1407 button + ACRESCENTAR
+							292 container 7W3G-6KT
+								293 button (expanded) Secondary Actions: Collapse, 1894 Carolina Olivera German, "Uruguay, registro civil, 1879-2020" 10 de outubro de 2024 treehelper_a131
+									294 button 1894 Carolina Olivera German, "Uruguay, registro civil, 1879-2020" 10 de outubro de 2024 treehelper_a131
+										295 button
+										296 text 1894
+										297 text Carolina Olivera German, "Uruguay, registro civil, 1879-2020"
+										298 text 10 de outubro de 2024
+										299 button treehelper_a131
+								1408 container Syrw1teo2h3
+									1409 button VISUALIZAR
+									1410 button EDITAR
+									1411 button ANALISAR ANEXOS
+									1412 button DESANEXAR
+									1413 heading Marcadores, Value: 3
+										1414 text Marcadores
+									1415 button Sexo
+									1416 button Nome
+									1417 button + Acrescentar marcação
+									1418 heading Data da fonte 21 de dezembro de 1894, Value: 3
+										1419 text Data da fonte
+										1420 text 21 de dezembro de 1894
+									1421 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:62KM-9DGF, Value: 3
+										1422 text Página do site (link para o registro)
+										1423 link Description: https://familysearch.org/ark:/61903/1:1:62KM-9DGF, Value: familysearch.org/ar…
+									1424 heading Onde o registro foi encontrado (referência) , Value: 3
+										1425 text Onde o registro foi encontrado (referência)
+									1426 container
+										1427 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:62KM-9DG6 : Sun Mar 10 09:59:38 UTC 2024), Entry for Fausto Sanchez Olivera and Santiago Sanchez Silveira, 21 Dec 1894.
+									1428 heading Informações indexadas, Value: 3
+										1429 text Informações indexadas
+									1430 button EXIBIR
+									1431 heading Fonte modificada:, Value: 3
+										1432 text Fonte modificada:
+									1433 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1434 text 10 de outubro de 2024
+									1435 button treehelper_a131
+									1436 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1437 text Motivo pela qual esta fonte está anexada:
+									1438 button + ACRESCENTAR
+							300 container 7X5Z-VQ4
+								301 button (expanded) Secondary Actions: Collapse, 1895 Carolina López, "Uruguay, registros parroquiales, 1726-2000" 14 de março de 2025 treehelper_a293
+									302 button 1895 Carolina López, "Uruguay, registros parroquiales, 1726-2000" 14 de março de 2025 treehelper_a293
+										303 button
+										304 text 1895
+										305 text Carolina López, "Uruguay, registros parroquiales, 1726-2000"
+										306 text 14 de março de 2025
+										307 button treehelper_a293
+								308 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								309 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								310 button ANEXOS COM INDIVÍDUOS PENDENTES
+								311 button DISPENSAR
+								1439 container cm4dgyc1tsfp
+									1440 button VISUALIZAR
+									1441 button EDITAR
+									1442 button ANALISAR ANEXOS
+									1443 button DESANEXAR
+									1444 heading Marcadores, Value: 3
+										1445 text Marcadores
+									1446 button Sexo
+									1447 button Nome
+									1448 button + Acrescentar marcação
+									1449 heading Data da fonte 28 de janeiro de 1895, Value: 3
+										1450 text Data da fonte
+										1451 text 28 de janeiro de 1895
+									1452 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3C-1X2Z, Value: 3
+										1453 text Página do site (link para o registro)
+										1454 link Description: https://familysearch.org/ark:/61903/1:1:6D3C-1X2Z, Value: familysearch.org/ar…
+									1455 heading Onde o registro foi encontrado (referência) , Value: 3
+										1456 text Onde o registro foi encontrado (referência)
+									1457 container
+										1458 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3C-1X24 : Thu Jan 01 11:48:34 UTC 2026), Entry for Fausto Chez and Gerardo Malpica, 28 de enero de 1895.
+									1459 heading Informações indexadas, Value: 3
+										1460 text Informações indexadas
+									1461 button EXIBIR
+									1462 heading Fonte modificada:, Value: 3
+										1463 text Fonte modificada:
+									1464 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1465 text 14 de março de 2025
+									1466 button treehelper_a293
+									1467 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1468 text Motivo pela qual esta fonte está anexada:
+									1469 button + ACRESCENTAR
+							312 container 7JP3-RH1
+								313 button (expanded) Secondary Actions: Collapse, 1896 Carolina Olivera Portugal de Yandiluz, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+									314 button 1896 Carolina Olivera Portugal de Yandiluz, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										315 button
+										316 text 1896
+										317 text Carolina Olivera Portugal de Yandiluz, "Uruguay, registro civil, 1879-2020"
+										318 text 4 de maio de 2025
+										319 button FloresSylviaAnabel
+								1470 container zhfff6itp1xc
+									1471 button VISUALIZAR
+									1472 button EDITAR
+									1473 button ANALISAR ANEXOS
+									1474 button DESANEXAR
+									1475 heading Marcadores, Value: 3
+										1476 text Marcadores
+									1477 button Sexo
+									1478 button Nome
+									1479 button + Acrescentar marcação
+									1480 heading Data da fonte 25 de abril de 1896, Value: 3
+										1481 text Data da fonte
+										1482 text 25 de abril de 1896
+									1483 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS1H-V71Q, Value: 3
+										1484 text Página do site (link para o registro)
+										1485 link Description: https://familysearch.org/ark:/61903/1:1:XS1H-V71Q, Value: familysearch.org/ar…
+									1486 heading Onde o registro foi encontrado (referência) , Value: 3
+										1487 text Onde o registro foi encontrado (referência)
+									1488 container
+										1489 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS1H-V717 : Wed Mar 12 05:57:22 UTC 2025), Entry for Jeremias Metano and Jeremias Metano, 25 Apr 1896.
+									1490 heading Informações indexadas, Value: 3
+										1491 text Informações indexadas
+									1492 button EXIBIR
+									1493 heading Fonte modificada:, Value: 3
+										1494 text Fonte modificada:
+									1495 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1496 text 4 de maio de 2025
+									1497 button FloresSylviaAnabel
+									1498 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1499 text Motivo pela qual esta fonte está anexada:
+									1500 button + ACRESCENTAR
+							320 container 7JPQ-3L3
+								321 button (expanded) Secondary Actions: Collapse, 1900 Carolina Oliveira Portugal, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+									322 button 1900 Carolina Oliveira Portugal, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										323 button
+										324 text 1900
+										325 text Carolina Oliveira Portugal, "Uruguay, registro civil, 1879-2020"
+										326 text 4 de maio de 2025
+										327 button FloresSylviaAnabel
+								1501 container X7sndbsswo86
+									1502 button VISUALIZAR
+									1503 button EDITAR
+									1504 button ANALISAR ANEXOS
+									1505 button DESANEXAR
+									1506 heading Marcadores, Value: 3
+										1507 text Marcadores
+									1508 button Sexo
+									1509 button Nome
+									1510 button + Acrescentar marcação
+									1511 heading Data da fonte 28 de junho de 1900, Value: 3
+										1512 text Data da fonte
+										1513 text 28 de junho de 1900
+									1514 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS1M-BT1V, Value: 3
+										1515 text Página do site (link para o registro)
+										1516 link Description: https://familysearch.org/ark:/61903/1:1:XS1M-BT1V, Value: familysearch.org/ar…
+									1517 heading Onde o registro foi encontrado (referência) , Value: 3
+										1518 text Onde o registro foi encontrado (referência)
+									1519 container
+										1520 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS1M-BT1K : Wed Mar 12 06:48:39 UTC 2025), Entry for Manuel José Yapeyú and Sabastian Carvallo Yapeyú, 28 Jun 1900.
+									1521 heading Informações indexadas, Value: 3
+										1522 text Informações indexadas
+									1523 button EXIBIR
+									1524 heading Fonte modificada:, Value: 3
+										1525 text Fonte modificada:
+									1526 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1527 text 4 de maio de 2025
+									1528 button FloresSylviaAnabel
+									1529 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1530 text Motivo pela qual esta fonte está anexada:
+									1531 button + ACRESCENTAR
+							328 container 7F1P-YSY
+								329 button (expanded) Secondary Actions: Collapse, 1902 Carolina Portugal, "Uruguay, registros parroquiales, 1726-2000" 3 de abril de 2025 treehelper_a423
+									330 button 1902 Carolina Portugal, "Uruguay, registros parroquiales, 1726-2000" 3 de abril de 2025 treehelper_a423
+										331 button
+										332 text 1902
+										333 text Carolina Portugal, "Uruguay, registros parroquiales, 1726-2000"
+										334 text 3 de abril de 2025
+										335 button treehelper_a423
+								336 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								337 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								338 button ANEXOS COM INDIVÍDUOS PENDENTES
+								339 button DISPENSAR
+								1532 container Dvcz2n9a604
+									1533 button VISUALIZAR
+									1534 button EDITAR
+									1535 button ANALISAR ANEXOS
+									1536 button DESANEXAR
+									1537 heading Marcadores, Value: 3
+										1538 text Marcadores
+									1539 button Sexo
+									1540 button Nome
+									1541 button + Acrescentar marcação
+									1542 heading Data da fonte 15 de dezembro de 1902, Value: 3
+										1543 text Data da fonte
+										1544 text 15 de dezembro de 1902
+									1545 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS6J-6K2Z, Value: 3
+										1546 text Página do site (link para o registro)
+										1547 link Description: https://familysearch.org/ark:/61903/1:1:XS6J-6K2Z, Value: familysearch.org/ar…
+									1548 heading Onde o registro foi encontrado (referência) , Value: 3
+										1549 text Onde o registro foi encontrado (referência)
+									1550 container
+										1551 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS6J-6K27 : Tue Dec 30 08:00:46 UTC 2025), Entry for Arturo Márquez and Manuel Márquez, 15 de diciembre de 1902.
+									1552 heading Informações indexadas, Value: 3
+										1553 text Informações indexadas
+									1554 button EXIBIR
+									1555 heading Fonte modificada:, Value: 3
+										1556 text Fonte modificada:
+									1557 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1558 text 3 de abril de 2025
+									1559 button treehelper_a423
+									1560 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1561 text Motivo pela qual esta fonte está anexada:
+									1562 button + ACRESCENTAR
+							340 container 7JP3-KZX
+								341 button (expanded) 1902 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel, Secondary Actions: Collapse
+									342 button 1902 Carolina Olivera, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										343 button
+										344 text 1902
+										345 text Carolina Olivera, "Uruguay, registro civil, 1879-2020"
+										346 text 4 de maio de 2025
+										347 button FloresSylviaAnabel
+								1563 container Foy381a118lb
+									1564 button VISUALIZAR
+									1565 button EDITAR
+									1566 button ANALISAR ANEXOS
+									1567 button DESANEXAR
+									1568 heading Marcadores, Value: 3
+										1569 text Marcadores
+									1570 button Sexo
+									1571 button Nome
+									1572 button + Acrescentar marcação
+									1573 heading Data da fonte 15 de dezembro de 1902, Value: 3
+										1574 text Data da fonte
+										1575 text 15 de dezembro de 1902
+									1576 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS13-1V7D, Value: 3
+										1577 text Página do site (link para o registro)
+										1578 link Description: https://familysearch.org/ark:/61903/1:1:XS13-1V7D, Value: familysearch.org/ar…
+									1579 heading Onde o registro foi encontrado (referência) , Value: 3
+										1580 text Onde o registro foi encontrado (referência)
+									1581 container
+										1582 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS13-1V76 : Wed Mar 12 04:14:47 UTC 2025), Entry for Arturo Marquez Salgado and Manuel Salgado, 15 Dec 1902.
+									1583 heading Informações indexadas, Value: 3
+										1584 text Informações indexadas
+									1585 button EXIBIR
+									1586 heading Fonte modificada:, Value: 3
+										1587 text Fonte modificada:
+									1588 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1589 text 4 de maio de 2025
+									1590 button FloresSylviaAnabel
+									1591 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1592 text Motivo pela qual esta fonte está anexada:
+									1593 button + ACRESCENTAR
+							348 container QSZY-MXV
+								349 button (expanded) Secondary Actions: Collapse, 1904 Carolina Olivera Portugal, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									350 button 1904 Carolina Olivera Portugal, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										351 button
+										352 text 1904
+										353 text Carolina Olivera Portugal, "Uruguay, registros parroquiales, 1726-2000"
+										354 text 8 de janeiro de 2023
+										355 button Rogério J Barbosa
+								356 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								357 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								358 button ANEXOS COM INDIVÍDUOS PENDENTES
+								359 button DISPENSAR
+								1594 container Qr6o24525u9
+									1595 button VISUALIZAR
+									1596 button EDITAR
+									1597 button ANALISAR ANEXOS
+									1598 button DESANEXAR
+									1599 heading Marcadores, Value: 3
+										1600 text Marcadores
+									1601 button Sexo
+									1602 button Nome
+									1603 button + Acrescentar marcação
+									1604 heading Data da fonte 9 de outubro de 1904, Value: 3
+										1605 text Data da fonte
+										1606 text 9 de outubro de 1904
+									1607 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-V3XN, Value: 3
+										1608 text Página do site (link para o registro)
+										1609 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-V3XN, Value: familysearch.org/ar…
+									1610 heading Onde o registro foi encontrado (referência) , Value: 3
+										1611 text Onde o registro foi encontrado (referência)
+									1612 container
+										1613 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-V3X4 : Thu Jan 01 00:30:33 UTC 2026), Entry for Alcides Jesús and Juan Pérez, 9 de octubre de 1904.
+									1614 heading Informações indexadas, Value: 3
+										1615 text Informações indexadas
+									1616 button EXIBIR
+									1617 heading Fonte modificada:, Value: 3
+										1618 text Fonte modificada:
+									1619 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1620 text 8 de janeiro de 2023
+									1621 button Rogério J Barbosa
+									1622 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1623 text Motivo pela qual esta fonte está anexada:
+									1624 button + ACRESCENTAR
+							360 container QSMD-CMN
+								361 button (expanded) Secondary Actions: Collapse, 1904 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa
+									362 button 1904 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa
+										363 button
+										364 text 1904
+										365 text Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000"
+										366 text 1 de janeiro de 2023
+										367 button Rogério J Barbosa
+								368 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								369 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								370 button ANEXOS COM INDIVÍDUOS PENDENTES
+								371 button DISPENSAR
+								1625 container m5kz7enyjla6
+									1626 button VISUALIZAR
+									1627 button EDITAR
+									1628 button ANALISAR ANEXOS
+									1629 button DESANEXAR
+									1630 heading Marcadores, Value: 3
+										1631 text Marcadores
+									1632 button Sexo
+									1633 button Nome
+									1634 button + Acrescentar marcação
+									1635 heading Data da fonte 30 de dezembro de 1904, Value: 3
+										1636 text Data da fonte
+										1637 text 30 de dezembro de 1904
+									1638 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-KQC8, Value: 3
+										1639 text Página do site (link para o registro)
+										1640 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-KQC8, Value: familysearch.org/ar…
+									1641 heading Onde o registro foi encontrado (referência) , Value: 3
+										1642 text Onde o registro foi encontrado (referência)
+									1643 container
+										1644 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-KQC7 : Sun Oct 19 09:51:36 UTC 2025), Entry for Manuel Joaquín and Juan Pérez, 30 de diciembre de 1904.
+									1645 heading Informações indexadas, Value: 3
+										1646 text Informações indexadas
+									1647 button EXIBIR
+									1648 heading Fonte modificada:, Value: 3
+										1649 text Fonte modificada:
+									1650 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1651 text 1 de janeiro de 2023
+									1652 button Rogério J Barbosa
+									1653 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1654 text Motivo pela qual esta fonte está anexada:
+									1655 button + ACRESCENTAR
+							372 container QZWS-JJM
+								373 button (expanded) Secondary Actions: Collapse, 1904 Carolina Olivera Portugal, "Uruguay, registros parroquiales, 1726-2000" 3 de junho de 2023 Rogério J Barbosa
+									374 button 1904 Carolina Olivera Portugal, "Uruguay, registros parroquiales, 1726-2000" 3 de junho de 2023 Rogério J Barbosa
+										375 button
+										376 text 1904
+										377 text Carolina Olivera Portugal, "Uruguay, registros parroquiales, 1726-2000"
+										378 text 3 de junho de 2023
+										379 button Rogério J Barbosa
+								380 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								381 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								382 button ANEXOS COM INDIVÍDUOS PENDENTES
+								383 button DISPENSAR
+								1656 container y7pf5hpqdshn
+									1657 button VISUALIZAR
+									1658 button EDITAR
+									1659 button ANALISAR ANEXOS
+									1660 button DESANEXAR
+									1661 heading Marcadores, Value: 3
+										1662 text Marcadores
+									1663 button Sexo
+									1664 button Nome
+									1665 button + Acrescentar marcação
+									1666 heading Data da fonte 31 de dezembro de 1904, Value: 3
+										1667 text Data da fonte
+										1668 text 31 de dezembro de 1904
+									1669 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-VQXZ, Value: 3
+										1670 text Página do site (link para o registro)
+										1671 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-VQXZ, Value: familysearch.org/ar…
+									1672 heading Onde o registro foi encontrado (referência) , Value: 3
+										1673 text Onde o registro foi encontrado (referência)
+									1674 container
+										1675 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-VQXQ : Wed Oct 22 00:55:40 UTC 2025), Entry for María Olga and Juan Ilardia, 31 de diciembre de 1904.
+									1676 heading Informações indexadas, Value: 3
+										1677 text Informações indexadas
+									1678 button EXIBIR
+									1679 heading Fonte modificada:, Value: 3
+										1680 text Fonte modificada:
+									1681 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1682 text 3 de junho de 2023
+									1683 button Rogério J Barbosa
+									1684 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1685 text Motivo pela qual esta fonte está anexada:
+									1686 button + ACRESCENTAR
+							384 container Q46B-NDX
+								385 button (expanded) 1906 Carolina Portugal, "Uruguay, registros parroquiales, 1726-2000" 11 de abril de 2023 Pablo7008, Secondary Actions: Collapse
+									386 button 1906 Carolina Portugal, "Uruguay, registros parroquiales, 1726-2000" 11 de abril de 2023 Pablo7008
+										387 button
+										388 text 1906
+										389 text Carolina Portugal, "Uruguay, registros parroquiales, 1726-2000"
+										390 text 11 de abril de 2023
+										391 button Pablo7008
+								392 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								393 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								394 button ANEXOS COM INDIVÍDUOS PENDENTES
+								395 button DISPENSAR
+								1687 container U087qfwiqx9a2
+									1688 button VISUALIZAR
+									1689 button EDITAR
+									1690 button ANALISAR ANEXOS
+									1691 button DESANEXAR
+									1692 heading Marcadores, Value: 3
+										1693 text Marcadores
+									1694 button Sexo
+									1695 button Nome
+									1696 button + Acrescentar marcação
+									1697 heading Data da fonte 30 de janeiro de 1906, Value: 3
+										1698 text Data da fonte
+										1699 text 30 de janeiro de 1906
+									1700 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-N1HB, Value: 3
+										1701 text Página do site (link para o registro)
+										1702 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-N1HB, Value: familysearch.org/ar…
+									1703 heading Onde o registro foi encontrado (referência) , Value: 3
+										1704 text Onde o registro foi encontrado (referência)
+									1705 container
+										1706 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-N1HL : Thu Jan 01 07:58:18 UTC 2026), Entry for Erlinda Ómar and Francisco Deubaldo Tte, 30 de enero de 1906.
+									1707 heading Informações indexadas, Value: 3
+										1708 text Informações indexadas
+									1709 button EXIBIR
+									1710 heading Fonte modificada:, Value: 3
+										1711 text Fonte modificada:
+									1712 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1713 text 11 de abril de 2023
+									1714 button Pablo7008
+									1715 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1716 text Motivo pela qual esta fonte está anexada:
+									1717 button + ACRESCENTAR
+							396 container QSZY-RJL
+								397 button (expanded) Secondary Actions: Collapse, 1906 Carolina Oliveira de Sánchez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									398 button 1906 Carolina Oliveira de Sánchez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										399 button
+										400 text 1906
+										401 text Carolina Oliveira de Sánchez, "Uruguay, registros parroquiales, 1726-2000"
+										402 text 8 de janeiro de 2023
+										403 button Rogério J Barbosa
+								404 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								405 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								406 button ANEXOS COM INDIVÍDUOS PENDENTES
+								407 button DISPENSAR
+								1718 container yf9cvx6iq8k
+									1719 button VISUALIZAR
+									1720 button EDITAR
+									1721 button ANALISAR ANEXOS
+									1722 button DESANEXAR
+									1723 heading Marcadores, Value: 3
+										1724 text Marcadores
+									1725 button Sexo
+									1726 button Nome
+									1727 button + Acrescentar marcação
+									1728 heading Data da fonte 17 de novembro de 1906, Value: 3
+										1729 text Data da fonte
+										1730 text 17 de novembro de 1906
+									1731 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-JWT3, Value: 3
+										1732 text Página do site (link para o registro)
+										1733 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-JWT3, Value: familysearch.org/ar…
+									1734 heading Onde o registro foi encontrado (referência) , Value: 3
+										1735 text Onde o registro foi encontrado (referência)
+									1736 container
+										1737 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-JWRT : Thu Jan 01 11:49:26 UTC 2026), Entry for Rafael Méndez Valentín and Pedro Casebonne Vicente, 17 de noviembre de 1906.
+									1738 heading Informações indexadas, Value: 3
+										1739 text Informações indexadas
+									1740 button EXIBIR
+									1741 heading Fonte modificada:, Value: 3
+										1742 text Fonte modificada:
+									1743 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1744 text 8 de janeiro de 2023
+									1745 button Rogério J Barbosa
+									1746 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1747 text Motivo pela qual esta fonte está anexada:
+									1748 button + ACRESCENTAR
+							408 container 7JP3-RTM
+								409 button (expanded) Secondary Actions: Collapse, 1906 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 4 de maio de 2025 FloresSylviaAnabel
+									410 button 1906 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 4 de maio de 2025 FloresSylviaAnabel
+										411 button
+										412 text 1906
+										413 text Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000"
+										414 text 4 de maio de 2025
+										415 button FloresSylviaAnabel
+								1749 container sh9mkw0pfx5k
+									1750 button VISUALIZAR
+									1751 button EDITAR
+									1752 button ANALISAR ANEXOS
+									1753 button DESANEXAR
+									1754 heading Marcadores, Value: 3
+										1755 text Marcadores
+									1756 button Sexo
+									1757 button Nome
+									1758 button + Acrescentar marcação
+									1759 heading Data da fonte 17 de novembro de 1906, Value: 3
+										1760 text Data da fonte
+										1761 text 17 de novembro de 1906
+									1762 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS6N-RBP2, Value: 3
+										1763 text Página do site (link para o registro)
+										1764 link Description: https://familysearch.org/ark:/61903/1:1:XS6N-RBP2, Value: familysearch.org/ar…
+									1765 heading Onde o registro foi encontrado (referência) , Value: 3
+										1766 text Onde o registro foi encontrado (referência)
+									1767 container
+										1768 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS6N-RBPV : Tue Dec 30 19:32:45 UTC 2025), Entry for Francisco Perpo Méndez Francisco and Joaquín Olivera Portugal, 17 de noviembre de 1906.
+									1769 heading Informações indexadas, Value: 3
+										1770 text Informações indexadas
+									1771 button EXIBIR
+									1772 heading Fonte modificada:, Value: 3
+										1773 text Fonte modificada:
+									1774 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1775 text 4 de maio de 2025
+									1776 button FloresSylviaAnabel
+									1777 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1778 text Motivo pela qual esta fonte está anexada:
+									1779 button + ACRESCENTAR
+							416 container QSMD-PFZ
+								417 button (expanded) Secondary Actions: Collapse, 1906 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa
+									418 button 1906 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa
+										419 button
+										420 text 1906
+										421 text Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000"
+										422 text 1 de janeiro de 2023
+										423 button Rogério J Barbosa
+								424 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								425 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								426 button ANEXOS COM INDIVÍDUOS PENDENTES
+								427 button DISPENSAR
+								1780 container m1zhekqm2oew
+									1781 button VISUALIZAR
+									1782 button EDITAR
+									1783 button ANALISAR ANEXOS
+									1784 button DESANEXAR
+									1785 heading Marcadores, Value: 3
+										1786 text Marcadores
+									1787 button Sexo
+									1788 button Nome
+									1789 button + Acrescentar marcação
+									1790 heading Data da fonte 3 de dezembro de 1906, Value: 3
+										1791 text Data da fonte
+										1792 text 3 de dezembro de 1906
+									1793 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-KYNN, Value: 3
+										1794 text Página do site (link para o registro)
+										1795 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-KYNN, Value: familysearch.org/ar…
+									1796 heading Onde o registro foi encontrado (referência) , Value: 3
+										1797 text Onde o registro foi encontrado (referência)
+									1798 container
+										1799 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-KYNC : Thu Jan 01 00:29:02 UTC 2026), Entry for René Concepción and Eugenio Melía, 3 de diciembre de 1906.
+									1800 heading Informações indexadas, Value: 3
+										1801 text Informações indexadas
+									1802 button EXIBIR
+									1803 heading Fonte modificada:, Value: 3
+										1804 text Fonte modificada:
+									1805 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1806 text 1 de janeiro de 2023
+									1807 button Rogério J Barbosa
+									1808 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1809 text Motivo pela qual esta fonte está anexada:
+									1810 button + ACRESCENTAR
+							428 container QSZT-GMB
+								429 button (expanded) Secondary Actions: Collapse, 1907 Carolina Olivera, "Argentina, Entre Ríos, registros parroquiales, 1764-2011" 8 de janeiro de 2023 Rogério J Barbosa
+									430 button 1907 Carolina Olivera, "Argentina, Entre Ríos, registros parroquiales, 1764-2011" 8 de janeiro de 2023 Rogério J Barbosa
+										431 button
+										432 text 1907
+										433 text Carolina Olivera, "Argentina, Entre Ríos, registros parroquiales, 1764-2011"
+										434 text 8 de janeiro de 2023
+										435 button Rogério J Barbosa
+								1811 container Pstb1jm5zbqi
+									1812 button VISUALIZAR
+									1813 button EDITAR
+									1814 button ANALISAR ANEXOS
+									1815 button DESANEXAR
+									1816 heading Marcadores, Value: 3
+										1817 text Marcadores
+									1818 button Sexo
+									1819 button Nome
+									1820 button + Acrescentar marcação
+									1821 heading Data da fonte 4 de maio de 1907, Value: 3
+										1822 text Data da fonte
+										1823 text 4 de maio de 1907
+									1824 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QLWW-SKGV, Value: 3
+										1825 text Página do site (link para o registro)
+										1826 link Description: https://familysearch.org/ark:/61903/1:1:QLWW-SKGV, Value: familysearch.org/ar…
+									1827 heading Onde o registro foi encontrado (referência) , Value: 3
+										1828 text Onde o registro foi encontrado (referência)
+									1829 container
+										1830 text "Argentina, Entre Ríos, registros parroquiales, 1764-2011",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QLWW-SKG8 : Sat Dec 13 03:48:48 UTC 2025), Entry for Ricardo Lazaro Grossi and Rosa Sanchez, 4 May 1907.
+									1831 heading Informações indexadas, Value: 3
+										1832 text Informações indexadas
+									1833 button EXIBIR
+									1834 heading Fonte modificada:, Value: 3
+										1835 text Fonte modificada:
+									1836 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1837 text 8 de janeiro de 2023
+									1838 button Rogério J Barbosa
+									1839 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1840 text Motivo pela qual esta fonte está anexada:
+									1841 button + ACRESCENTAR
+							436 container 7NZM-Q6D
+								437 button (expanded) Secondary Actions: Collapse, 1907 Carolina Olevera, "Uruguay, registros parroquiales, 1726-2000" 8 de abril de 2025 EstelaHernandez
+									438 button 1907 Carolina Olevera, "Uruguay, registros parroquiales, 1726-2000" 8 de abril de 2025 EstelaHernandez
+										439 button
+										440 text 1907
+										441 text Carolina Olevera, "Uruguay, registros parroquiales, 1726-2000"
+										442 text 8 de abril de 2025
+										443 button EstelaHernandez
+								444 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								445 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								446 button ANEXOS COM INDIVÍDUOS PENDENTES
+								447 button DISPENSAR
+								1842 container o26gxb1632ti
+									1843 button VISUALIZAR
+									1844 button EDITAR
+									1845 button ANALISAR ANEXOS
+									1846 button DESANEXAR
+									1847 heading Marcadores, Value: 3
+										1848 text Marcadores
+									1849 button Sexo
+									1850 button Nome
+									1851 button + Acrescentar marcação
+									1852 heading Data da fonte 5 de dezembro de 1907, Value: 3
+										1853 text Data da fonte
+										1854 text 5 de dezembro de 1907
+									1855 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D34-Q59D, Value: 3
+										1856 text Página do site (link para o registro)
+										1857 link Description: https://familysearch.org/ark:/61903/1:1:6D34-Q59D, Value: familysearch.org/ar…
+									1858 heading Onde o registro foi encontrado (referência) , Value: 3
+										1859 text Onde o registro foi encontrado (referência)
+									1860 container
+										1861 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D34-Q594 : Thu Jan 01 11:16:31 UTC 2026), Entry for Elodia Teodora and Eugenio Melia, 5 de diciembre de 1907.
+									1862 heading Informações indexadas, Value: 3
+										1863 text Informações indexadas
+									1864 button EXIBIR
+									1865 heading Fonte modificada:, Value: 3
+										1866 text Fonte modificada:
+									1867 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1868 text 8 de abril de 2025
+									1869 button EstelaHernandez
+									1870 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1871 text Motivo pela qual esta fonte está anexada:
+									1872 button + ACRESCENTAR
+							448 container QSZT-KSL
+								449 button (expanded) Secondary Actions: Collapse, 1909 Carolina Olivera Portugal, "Argentina, Entre Ríos, registros parroquiales, 1764-2011" 8 de janeiro de 2023 Rogério J Barbosa
+									450 button 1909 Carolina Olivera Portugal, "Argentina, Entre Ríos, registros parroquiales, 1764-2011" 8 de janeiro de 2023 Rogério J Barbosa
+										451 button
+										452 text 1909
+										453 text Carolina Olivera Portugal, "Argentina, Entre Ríos, registros parroquiales, 1764-2011"
+										454 text 8 de janeiro de 2023
+										455 button Rogério J Barbosa
+								1873 container U139i1e8fbfq
+									1874 button VISUALIZAR
+									1875 button EDITAR
+									1876 button ANALISAR ANEXOS
+									1877 button DESANEXAR
+									1878 heading Marcadores, Value: 3
+										1879 text Marcadores
+									1880 button Sexo
+									1881 button Nome
+									1882 button + Acrescentar marcação
+									1883 heading Data da fonte 16 de agosto de 1909, Value: 3
+										1884 text Data da fonte
+										1885 text 16 de agosto de 1909
+									1886 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QLWW-95BT, Value: 3
+										1887 text Página do site (link para o registro)
+										1888 link Description: https://familysearch.org/ark:/61903/1:1:QLWW-95BT, Value: familysearch.org/ar…
+									1889 heading Onde o registro foi encontrado (referência) , Value: 3
+										1890 text Onde o registro foi encontrado (referência)
+									1891 container
+										1892 text "Argentina, Entre Ríos, registros parroquiales, 1764-2011",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QLWW-95BK : Sat Mar 15 00:38:44 UTC 2025), Entry for José Goncalvez and Juana Sanchez, 16 Aug 1909.
+									1893 heading Informações indexadas, Value: 3
+										1894 text Informações indexadas
+									1895 button EXIBIR
+									1896 heading Fonte modificada:, Value: 3
+										1897 text Fonte modificada:
+									1898 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1899 text 8 de janeiro de 2023
+									1900 button Rogério J Barbosa
+									1901 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1902 text Motivo pela qual esta fonte está anexada:
+									1903 button + ACRESCENTAR
+							456 container SFP4-N9B
+								457 button (expanded) Secondary Actions: Collapse, 1910 Carolina Olivera, "Argentina, Entre Ríos, registros parroquiales, 1764-2011" 21 de dezembro de 2019 Ana Maria AR
+									458 button 1910 Carolina Olivera, "Argentina, Entre Ríos, registros parroquiales, 1764-2011" 21 de dezembro de 2019 Ana Maria AR
+										459 button
+										460 text 1910
+										461 text Carolina Olivera, "Argentina, Entre Ríos, registros parroquiales, 1764-2011"
+										462 text 21 de dezembro de 2019
+										463 button Ana Maria AR
+								1904 container skxw5ughglv
+									1905 button VISUALIZAR
+									1906 button EDITAR
+									1907 button ANALISAR ANEXOS
+									1908 button DESANEXAR
+									1909 heading Marcadores, Value: 3
+										1910 text Marcadores
+									1911 button Sexo
+									1912 button Nome
+									1913 button + Acrescentar marcação
+									1914 heading Data da fonte 21 de julho de 1910, Value: 3
+										1915 text Data da fonte
+										1916 text 21 de julho de 1910
+									1917 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QLW7-1KXM, Value: 3
+										1918 text Página do site (link para o registro)
+										1919 link Description: https://familysearch.org/ark:/61903/1:1:QLW7-1KXM, Value: familysearch.org/ar…
+									1920 heading Onde o registro foi encontrado (referência) , Value: 3
+										1921 text Onde o registro foi encontrado (referência)
+									1922 container
+										1923 text "Argentina, Entre Ríos, registros parroquiales, 1764-2011",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QLWW-M2P3 : Sat Mar 15 00:36:54 UTC 2025), Entry for Alvaro Ravagnan and Concepción Sánchez, 21 Jul 1910.
+									1924 heading Informações indexadas, Value: 3
+										1925 text Informações indexadas
+									1926 button EXIBIR
+									1927 heading Fonte modificada:, Value: 3
+										1928 text Fonte modificada:
+									1929 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1930 text 21 de dezembro de 2019
+									1931 button Ana Maria AR
+									1932 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1933 text Motivo pela qual esta fonte está anexada:
+									1934 button + ACRESCENTAR
+							464 container QSZB-5T2
+								465 button (expanded) Secondary Actions: Collapse, 1912 Carolina Portinal, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									466 button 1912 Carolina Portinal, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										467 button
+										468 text 1912
+										469 text Carolina Portinal, "Uruguay, registros parroquiales, 1726-2000"
+										470 text 8 de janeiro de 2023
+										471 button Rogério J Barbosa
+								472 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								473 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								474 button ANEXOS COM INDIVÍDUOS PENDENTES
+								475 button DISPENSAR
+								1935 container tahdaw6mbvv
+									1936 button VISUALIZAR
+									1937 button EDITAR
+									1938 button ANALISAR ANEXOS
+									1939 button DESANEXAR
+									1940 heading Marcadores, Value: 3
+										1941 text Marcadores
+									1942 button Sexo
+									1943 button Nome
+									1944 button + Acrescentar marcação
+									1945 heading Data da fonte 27 de outubro de 1912, Value: 3
+										1946 text Data da fonte
+										1947 text 27 de outubro de 1912
+									1948 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3W-GZ25, Value: 3
+										1949 text Página do site (link para o registro)
+										1950 link Description: https://familysearch.org/ark:/61903/1:1:6D3W-GZ25, Value: familysearch.org/ar…
+									1951 heading Onde o registro foi encontrado (referência) , Value: 3
+										1952 text Onde o registro foi encontrado (referência)
+									1953 container
+										1954 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3W-GZ22 : Thu Jan 01 08:03:15 UTC 2026), Entry for Lidio Ruperto Méndez and Leopoldo Laurecha, 27 de octubre de 1912.
+									1955 heading Informações indexadas, Value: 3
+										1956 text Informações indexadas
+									1957 button EXIBIR
+									1958 heading Fonte modificada:, Value: 3
+										1959 text Fonte modificada:
+									1960 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1961 text 8 de janeiro de 2023
+									1962 button Rogério J Barbosa
+									1963 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1964 text Motivo pela qual esta fonte está anexada:
+									1965 button + ACRESCENTAR
+							476 container WW6C-YNQ
+								477 button (expanded) 1912 Carolina, "Uruguay, registros parroquiales, 1726-2000" 23 de abril de 2026 FloresSylviaAnabel, Secondary Actions: Collapse
+									478 button 1912 Carolina, "Uruguay, registros parroquiales, 1726-2000" 23 de abril de 2026 FloresSylviaAnabel
+										479 button
+										480 text 1912
+										481 text Carolina, "Uruguay, registros parroquiales, 1726-2000"
+										482 text 23 de abril de 2026
+										483 button FloresSylviaAnabel
+								484 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								485 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								486 button ANEXOS COM INDIVÍDUOS PENDENTES
+								487 button DISPENSAR
+								1966 container Yl0wianrhon
+									1967 button VISUALIZAR
+									1968 button EDITAR
+									1969 button ANALISAR ANEXOS
+									1970 button DESANEXAR
+									1971 heading Marcadores, Value: 3
+										1972 text Marcadores
+									1973 button Sexo
+									1974 button Nome
+									1975 button + Acrescentar marcação
+									1976 heading Data da fonte 27 de outubro de 1912, Value: 3
+										1977 text Data da fonte
+										1978 text 27 de outubro de 1912
+									1979 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3W-GZ28, Value: 3
+										1980 text Página do site (link para o registro)
+										1981 link Description: https://familysearch.org/ark:/61903/1:1:6D3W-GZ28, Value: familysearch.org/ar…
+									1982 heading Onde o registro foi encontrado (referência) , Value: 3
+										1983 text Onde o registro foi encontrado (referência)
+									1984 container
+										1985 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3W-GZ24 : Thu Jan 01 08:03:15 UTC 2026), Entry for Hector Luís J Méndez and Leopoldo Zamedia, 27 de octubre de 1912.
+									1986 heading Informações indexadas, Value: 3
+										1987 text Informações indexadas
+									1988 button EXIBIR
+									1989 heading Fonte modificada:, Value: 3
+										1990 text Fonte modificada:
+									1991 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									1992 text 23 de abril de 2026
+									1993 button FloresSylviaAnabel
+									1994 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1995 text Motivo pela qual esta fonte está anexada:
+									1996 button + ACRESCENTAR
+							488 container QSZT-B51
+								489 button (expanded) Secondary Actions: Collapse, 1915 Carolina Olivera Portugal, "Uruguay, registro civil, 1879-2020" 8 de janeiro de 2023 Rogério J Barbosa
+									490 button 1915 Carolina Olivera Portugal, "Uruguay, registro civil, 1879-2020" 8 de janeiro de 2023 Rogério J Barbosa
+										491 button
+										492 text 1915
+										493 text Carolina Olivera Portugal, "Uruguay, registro civil, 1879-2020"
+										494 text 8 de janeiro de 2023
+										495 button Rogério J Barbosa
+								1997 container wfl983cakltu
+									1998 button VISUALIZAR
+									1999 button EDITAR
+									2000 button ANALISAR ANEXOS
+									2001 button DESANEXAR
+									2002 heading Marcadores, Value: 3
+										2003 text Marcadores
+									2004 button Sexo
+									2005 button Nome
+									2006 button + Acrescentar marcação
+									2007 heading Data da fonte 11 de março de 1915, Value: 3
+										2008 text Data da fonte
+										2009 text 11 de março de 1915
+									2010 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6F8K-KGGP, Value: 3
+										2011 text Página do site (link para o registro)
+										2012 link Description: https://familysearch.org/ark:/61903/1:1:6F8K-KGGP, Value: familysearch.org/ar…
+									2013 heading Onde o registro foi encontrado (referência) , Value: 3
+										2014 text Onde o registro foi encontrado (referência)
+									2015 container
+										2016 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6F8K-KGGL : Fri Mar 08 18:13:46 UTC 2024), Entry for Julián Sánchez Olivera and Santiago Sánchez, 11 Mar 1915.
+									2017 heading Informações indexadas, Value: 3
+										2018 text Informações indexadas
+									2019 button EXIBIR
+									2020 heading Fonte modificada:, Value: 3
+										2021 text Fonte modificada:
+									2022 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2023 text 8 de janeiro de 2023
+									2024 button Rogério J Barbosa
+									2025 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2026 text Motivo pela qual esta fonte está anexada:
+									2027 button + ACRESCENTAR
+							496 container Q9BM-1HS
+								497 button (expanded) Secondary Actions: Collapse, 1920 {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+									498 button 1920 {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+										499 button
+										500 text 1920
+										501 text {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930”
+										502 text 30 de dezembro de 2022
+										503 button Rogério J Barbosa
+								2028 container Uy0wzmdqjpq
+									2029 button VISUALIZAR
+									2030 button EDITAR
+									2031 button ANALISAR ANEXOS
+									2032 button DESANEXAR
+									2033 heading Marcadores, Value: 3
+										2034 text Marcadores
+									2035 button Sexo
+									2036 button Nome
+									2037 button + Acrescentar marcação
+									2038 heading Data da fonte 29 de junho de 1920, Value: 3
+										2039 text Data da fonte
+										2040 text 29 de junho de 1920
+									2041 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:HR3C-3M3Z, Value: 3
+										2042 text Página do site (link para o registro)
+										2043 link Description: https://familysearch.org/ark:/61903/1:1:HR3C-3M3Z, Value: familysearch.org/ar…
+									2044 heading Onde o registro foi encontrado (referência) , Value: 3
+										2045 text Onde o registro foi encontrado (referência)
+									2046 container
+										2047 text "Perú, bautismos, 1556-1930", ,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:HR3C-3M3Z : 8 February 2020), Carolina Portugal in entry for Luis Alberto Salgado, 1920.
+									2048 heading Informações indexadas, Value: 3
+										2049 text Informações indexadas
+									2050 button EXIBIR
+									2051 heading Fonte modificada:, Value: 3
+										2052 text Fonte modificada:
+									2053 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2054 text 30 de dezembro de 2022
+									2055 button Rogério J Barbosa
+									2056 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2057 text Motivo pela qual esta fonte está anexada:
+									2058 button + ACRESCENTAR
+							504 container Q9B9-MJJ
+								505 button (expanded) Secondary Actions: Collapse, 1921 {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+									506 button 1921 {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+										507 button
+										508 text 1921
+										509 text {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930”
+										510 text 30 de dezembro de 2022
+										511 button Rogério J Barbosa
+								2059 container Hm3pvtcu63ke
+									2060 button VISUALIZAR
+									2061 button EDITAR
+									2062 button ANALISAR ANEXOS
+									2063 button DESANEXAR
+									2064 heading Marcadores, Value: 3
+										2065 text Marcadores
+									2066 button Sexo
+									2067 button Nome
+									2068 button + Acrescentar marcação
+									2069 heading Data da fonte 23 de abril de 1921, Value: 3
+										2070 text Data da fonte
+										2071 text 23 de abril de 1921
+									2072 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:HR3H-YH6Z, Value: 3
+										2073 text Página do site (link para o registro)
+										2074 link Description: https://familysearch.org/ark:/61903/1:1:HR3H-YH6Z, Value: familysearch.org/ar…
+									2075 heading Onde o registro foi encontrado (referência) , Value: 3
+										2076 text Onde o registro foi encontrado (referência)
+									2077 container
+										2078 text "Perú, bautismos, 1556-1930", ,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:HR3H-YH6Z : 8 February 2020), Carolina Olivera in entry for Ema Alice Marquez Salgado, 1921.
+									2079 heading Informações indexadas, Value: 3
+										2080 text Informações indexadas
+									2081 button EXIBIR
+									2082 heading Fonte modificada:, Value: 3
+										2083 text Fonte modificada:
+									2084 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2085 text 30 de dezembro de 2022
+									2086 button Rogério J Barbosa
+									2087 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2088 text Motivo pela qual esta fonte está anexada:
+									2089 button + ACRESCENTAR
+							512 container QSMD-9FZ
+								513 button (expanded) Secondary Actions: Collapse, 1921 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa
+									514 button 1921 Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa
+										515 button
+										516 text 1921
+										517 text Carolina Olivera, "Uruguay, registros parroquiales, 1726-2000"
+										518 text 1 de janeiro de 2023
+										519 button Rogério J Barbosa
+								520 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								521 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								522 button ANEXOS COM INDIVÍDUOS PENDENTES
+								523 button DISPENSAR
+								2090 container p3voniqdgfl3
+									2091 button VISUALIZAR
+									2092 button EDITAR
+									2093 button ANALISAR ANEXOS
+									2094 button DESANEXAR
+									2095 heading Marcadores, Value: 3
+										2096 text Marcadores
+									2097 button Sexo
+									2098 button Nome
+									2099 button + Acrescentar marcação
+									2100 heading Data da fonte 23 de abril de 1921, Value: 3
+										2101 text Data da fonte
+										2102 text 23 de abril de 1921
+									2103 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:68XR-VMB6, Value: 3
+										2104 text Página do site (link para o registro)
+										2105 link Description: https://familysearch.org/ark:/61903/1:1:68XR-VMB6, Value: familysearch.org/ar…
+									2106 heading Onde o registro foi encontrado (referência) , Value: 3
+										2107 text Onde o registro foi encontrado (referência)
+									2108 container
+										2109 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:68XR-VMB4 : Thu Jan 01 07:57:39 UTC 2026), Entry for Ema Alice and Luís Ferrari, 23 de abril de 1921.
+									2110 heading Informações indexadas, Value: 3
+										2111 text Informações indexadas
+									2112 button EXIBIR
+									2113 heading Fonte modificada:, Value: 3
+										2114 text Fonte modificada:
+									2115 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2116 text 1 de janeiro de 2023
+									2117 button Rogério J Barbosa
+									2118 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2119 text Motivo pela qual esta fonte está anexada:
+									2120 button + ACRESCENTAR
+							524 container Q9B9-VTY
+								525 button (expanded) Secondary Actions: Collapse, 1922 Carolina Olivera Potugal German de Sanchez, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									526 button 1922 Carolina Olivera Potugal German de Sanchez, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										527 button
+										528 text 1922
+										529 text Carolina Olivera Potugal German de Sanchez, "Uruguay, Índice del Registro Civil, 1900-1937"
+										530 text 30 de dezembro de 2022
+										531 button Rogério J Barbosa
+								2121 container ukf4sw2v7oxb
+									2122 button VISUALIZAR
+									2123 button EDITAR
+									2124 button ANALISAR ANEXOS
+									2125 button DESANEXAR
+									2126 heading Marcadores, Value: 3
+										2127 text Marcadores
+									2128 button Nome
+									2129 button + Acrescentar marcação
+									2130 heading Data da fonte 1922, Value: 3
+										2131 text Data da fonte
+										2132 text 1922
+									2133 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3F-4P8P, Value: 3
+										2134 text Página do site (link para o registro)
+										2135 link Description: https://familysearch.org/ark:/61903/1:1:QG3F-4P8P, Value: familysearch.org/ar…
+									2136 heading Onde o registro foi encontrado (referência) , Value: 3
+										2137 text Onde o registro foi encontrado (referência)
+									2138 container
+										2139 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3F-4P8P : Thu Sep 03 20:33:15 UTC 2026), Entry for Carolina Olivera Potugal German de Sanchez and Antonio Joaquin, 1922.
+									2140 heading Informações indexadas, Value: 3
+										2141 text Informações indexadas
+									2142 button EXIBIR
+									2143 heading Fonte modificada:, Value: 3
+										2144 text Fonte modificada:
+									2145 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2146 text 30 de dezembro de 2022
+									2147 button Rogério J Barbosa
+									2148 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2149 text Motivo pela qual esta fonte está anexada:
+									2150 button + ACRESCENTAR
+							532 container 7JP3-JT4
+								533 button (expanded) Secondary Actions: Collapse, 1922 Santiago Olivera, "Uruguay, registros parroquiales, 1726-2000" 4 de maio de 2025 FloresSylviaAnabel
+									534 button 1922 Santiago Olivera, "Uruguay, registros parroquiales, 1726-2000" 4 de maio de 2025 FloresSylviaAnabel
+										535 button
+										536 text 1922
+										537 text Santiago Olivera, "Uruguay, registros parroquiales, 1726-2000"
+										538 text 4 de maio de 2025
+										539 button FloresSylviaAnabel
+								2151 container Sx0f0l0rapu
+									2152 button VISUALIZAR
+									2153 button EDITAR
+									2154 button ANALISAR ANEXOS
+									2155 button DESANEXAR
+									2156 heading Marcadores, Value: 3
+										2157 text Marcadores
+									2158 button Sexo
+									2159 button Nome
+									2160 button + Acrescentar marcação
+									2161 heading Data da fonte 23 de dezembro de 1922, Value: 3
+										2162 text Data da fonte
+										2163 text 23 de dezembro de 1922
+									2164 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS6V-MJNQ, Value: 3
+										2165 text Página do site (link para o registro)
+										2166 link Description: https://familysearch.org/ark:/61903/1:1:XS6V-MJNQ, Value: familysearch.org/ar…
+									2167 heading Onde o registro foi encontrado (referência) , Value: 3
+										2168 text Onde o registro foi encontrado (referência)
+									2169 container
+										2170 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS6V-MJF1 : Tue Dec 30 10:40:19 UTC 2025), Entry for Anselmo Lagrilla Yrazu Oriental and Juan L. Lagrilla, 23 de diciembre de 1922.
+									2171 heading Informações indexadas, Value: 3
+										2172 text Informações indexadas
+									2173 button EXIBIR
+									2174 heading Fonte modificada:, Value: 3
+										2175 text Fonte modificada:
+									2176 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2177 text 4 de maio de 2025
+									2178 button FloresSylviaAnabel
+									2179 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2180 text Motivo pela qual esta fonte está anexada:
+									2181 button + ACRESCENTAR
+							540 container 7JPQ-QZM
+								541 button (expanded) 1922 Carolina Oliveira, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel, Secondary Actions: Collapse
+									542 button 1922 Carolina Oliveira, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										543 button
+										544 text 1922
+										545 text Carolina Oliveira, "Uruguay, registro civil, 1879-2020"
+										546 text 4 de maio de 2025
+										547 button FloresSylviaAnabel
+								2182 container khha52wknnba
+									2183 button VISUALIZAR
+									2184 button EDITAR
+									2185 button ANALISAR ANEXOS
+									2186 button DESANEXAR
+									2187 heading Marcadores, Value: 3
+										2188 text Marcadores
+									2189 button Sexo
+									2190 button Nome
+									2191 button + Acrescentar marcação
+									2192 heading Data da fonte 23 de dezembro de 1922, Value: 3
+										2193 text Data da fonte
+										2194 text 23 de dezembro de 1922
+									2195 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS1C-WD2J, Value: 3
+										2196 text Página do site (link para o registro)
+										2197 link Description: https://familysearch.org/ark:/61903/1:1:XS1C-WD2J, Value: familysearch.org/ar…
+									2198 heading Onde o registro foi encontrado (referência) , Value: 3
+										2199 text Onde o registro foi encontrado (referência)
+									2200 container
+										2201 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS1C-WD2V : Wed Mar 12 04:30:41 UTC 2025), Entry for Anselmo Lagrilla Yrazu and Juan Lorenzo Lagrilla, 23 Dec 1922.
+									2202 heading Informações indexadas, Value: 3
+										2203 text Informações indexadas
+									2204 button EXIBIR
+									2205 heading Fonte modificada:, Value: 3
+										2206 text Fonte modificada:
+									2207 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2208 text 4 de maio de 2025
+									2209 button FloresSylviaAnabel
+									2210 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2211 text Motivo pela qual esta fonte está anexada:
+									2212 button + ACRESCENTAR
+							548 container 7JP3-56P
+								549 button (expanded) Secondary Actions: Collapse, 1924 Carolina Isabel Olivera Portugal, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+									550 button 1924 Carolina Isabel Olivera Portugal, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										551 button
+										552 text 1924
+										553 text Carolina Isabel Olivera Portugal, "Uruguay, registro civil, 1879-2020"
+										554 text 4 de maio de 2025
+										555 button FloresSylviaAnabel
+								2213 container Pl8ht44e0199
+									2214 button VISUALIZAR
+									2215 button EDITAR
+									2216 button ANALISAR ANEXOS
+									2217 button DESANEXAR
+									2218 heading Marcadores, Value: 3
+										2219 text Marcadores
+									2220 button Sexo
+									2221 button Nome
+									2222 button + Acrescentar marcação
+									2223 heading Data da fonte 7 de abril de 1924, Value: 3
+										2224 text Data da fonte
+										2225 text 7 de abril de 1924
+									2226 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS1S-P958, Value: 3
+										2227 text Página do site (link para o registro)
+										2228 link Description: https://familysearch.org/ark:/61903/1:1:XS1S-P958, Value: familysearch.org/ar…
+									2229 heading Onde o registro foi encontrado (referência) , Value: 3
+										2230 text Onde o registro foi encontrado (referência)
+									2231 container
+										2232 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS1S-P95C : Wed Aug 12 04:08:53 UTC 2026), Entry for Juan Pantaleon Mendez Olivera and Joaquin Mendez Arruda, 7 Apr 1924.
+									2233 heading Informações indexadas, Value: 3
+										2234 text Informações indexadas
+									2235 button EXIBIR
+									2236 heading Fonte modificada:, Value: 3
+										2237 text Fonte modificada:
+									2238 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2239 text 4 de maio de 2025
+									2240 button FloresSylviaAnabel
+									2241 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2242 text Motivo pela qual esta fonte está anexada:
+									2243 button + ACRESCENTAR
+							556 container SFPC-4TR
+								557 button (expanded) Secondary Actions: Collapse, 1929 Carolina Olivera Portugal, "Uruguay, Índice del Registro Civil, 1900-1937" 21 de dezembro de 2019 Ana Maria AR
+									558 button 1929 Carolina Olivera Portugal, "Uruguay, Índice del Registro Civil, 1900-1937" 21 de dezembro de 2019 Ana Maria AR
+										559 button
+										560 text 1929
+										561 text Carolina Olivera Portugal, "Uruguay, Índice del Registro Civil, 1900-1937"
+										562 text 21 de dezembro de 2019
+										563 button Ana Maria AR
+								2244 container Xioy2hxxsrga
+									2245 button VISUALIZAR
+									2246 button EDITAR
+									2247 button ANALISAR ANEXOS
+									2248 button DESANEXAR
+									2249 heading Marcadores, Value: 3
+										2250 text Marcadores
+									2251 button Sexo
+									2252 button Nome
+									2253 button + Acrescentar marcação
+									2254 heading Data da fonte 1929, Value: 3
+										2255 text Data da fonte
+										2256 text 1929
+									2257 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3F-TK3G, Value: 3
+										2258 text Página do site (link para o registro)
+										2259 link Description: https://familysearch.org/ark:/61903/1:1:QG3F-TK3G, Value: familysearch.org/ar…
+									2260 heading Onde o registro foi encontrado (referência) , Value: 3
+										2261 text Onde o registro foi encontrado (referência)
+									2262 container
+										2263 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3F-TK3V : Thu Sep 18 18:14:43 UTC 2025), Entry for Fausta Sanchez Olivera Portugal and Santiago Sanchez, 1929.
+									2264 heading Informações indexadas, Value: 3
+										2265 text Informações indexadas
+									2266 button EXIBIR
+									2267 heading Fonte modificada:, Value: 3
+										2268 text Fonte modificada:
+									2269 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2270 text 21 de dezembro de 2019
+									2271 button Ana Maria AR
+									2272 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2273 text Motivo pela qual esta fonte está anexada:
+									2274 button + ACRESCENTAR
+							564 container 7FD1-NZF
+								565 button (expanded) Secondary Actions: Collapse, 1935 Carolina Oliveira Portugal, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 25 de março de 2025 Obeng, Abu Thomas Jnr.
+									566 button 1935 Carolina Oliveira Portugal, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 25 de março de 2025 Obeng, Abu Thomas Jnr.
+										567 button
+										568 text 1935
+										569 text Carolina Oliveira Portugal, "Argentina, Entre Ríos, Civil Registration, 1833-1965"
+										570 text 25 de março de 2025
+										571 button Obeng, Abu Thomas Jnr.
+								572 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								573 link Description: SAIBA MAIS, Value: familysearch.org/pt…
+								574 button ANEXOS COM INDIVÍDUOS PENDENTES
+								575 button DISPENSAR
+								2275 container Voi1et11erco
+									2276 button VISUALIZAR
+									2277 button EDITAR
+									2278 button ANALISAR ANEXOS
+									2279 button DESANEXAR
+									2280 heading Marcadores, Value: 3
+										2281 text Marcadores
+									2282 button Sexo
+									2283 button Nome
+									2284 button + Acrescentar marcação
+									2285 heading Data da fonte 12 de maio de 1935, Value: 3
+										2286 text Data da fonte
+										2287 text 12 de maio de 1935
+									2288 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:65R2-WZXW, Value: 3
+										2289 text Página do site (link para o registro)
+										2290 link Description: https://familysearch.org/ark:/61903/1:1:65R2-WZXW, Value: familysearch.org/ar…
+									2291 heading Onde o registro foi encontrado (referência) , Value: 3
+										2292 text Onde o registro foi encontrado (referência)
+									2293 container
+										2294 text "Argentina, Entre Ríos, Civil Registration, 1833-1965",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:65R2-WZXQ : Thu Feb 19 02:17:58 UTC 2026), Entry for Rosa Sanchez de Volga and Santiago Sanchez, 12 de mayo de 1935.
+									2295 heading Informações indexadas, Value: 3
+										2296 text Informações indexadas
+									2297 button EXIBIR
+									2298 heading Fonte modificada:, Value: 3
+										2299 text Fonte modificada:
+									2300 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2301 text 25 de março de 2025
+									2302 button Obeng, Abu Thomas Jnr.
+									2303 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2304 text Motivo pela qual esta fonte está anexada:
+									2305 button + ACRESCENTAR
+							576 container SFPH-31Q
+								577 button (expanded) Secondary Actions: Collapse, 1936 Carolina Oliveira Portugal, "Uruguay, Índice del Registro Civil, 1900-1937" 21 de dezembro de 2019 Ana Maria AR
+									578 button 1936 Carolina Oliveira Portugal, "Uruguay, Índice del Registro Civil, 1900-1937" 21 de dezembro de 2019 Ana Maria AR
+										579 button
+										580 text 1936
+										581 text Carolina Oliveira Portugal, "Uruguay, Índice del Registro Civil, 1900-1937"
+										582 text 21 de dezembro de 2019
+										583 button Ana Maria AR
+								2306 container Somlln6uva5
+									2307 button VISUALIZAR
+									2308 button EDITAR
+									2309 button ANALISAR ANEXOS
+									2310 button DESANEXAR
+									2311 heading Marcadores, Value: 3
+										2312 text Marcadores
+									2313 button Sexo
+									2314 button Nome
+									2315 button + Acrescentar marcação
+									2316 heading Data da fonte 1936, Value: 3
+										2317 text Data da fonte
+										2318 text 1936
+									2319 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3F-8XSW, Value: 3
+										2320 text Página do site (link para o registro)
+										2321 link Description: https://familysearch.org/ark:/61903/1:1:QG3F-8XSW, Value: familysearch.org/ar…
+									2322 heading Onde o registro foi encontrado (referência) , Value: 3
+										2323 text Onde o registro foi encontrado (referência)
+									2324 container
+										2325 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3F-8X9V : Tue Sep 16 23:57:26 UTC 2025), Entry for Concepción Sánchez Oliveira Portugal de Ravagnan and Santiago Sánchez, 1936.
+									2326 heading Informações indexadas, Value: 3
+										2327 text Informações indexadas
+									2328 button EXIBIR
+									2329 heading Fonte modificada:, Value: 3
+										2330 text Fonte modificada:
+									2331 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2332 text 21 de dezembro de 2019
+									2333 button Ana Maria AR
+									2334 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2335 text Motivo pela qual esta fonte está anexada:
+									2336 button + ACRESCENTAR
+							584 container Q7GK-MP4
+								585 button (expanded) Secondary Actions: Collapse, 1946 Carolina Portugal de Sanchez, “Brasil, Cartões de Imigração, 1900-1980” 16 de março de 2023 Ricardo AnibalVila Horne
+									586 button 1946 Carolina Portugal de Sanchez, “Brasil, Cartões de Imigração, 1900-1980” 16 de março de 2023 Ricardo AnibalVila Horne
+										587 button
+										588 text 1946
+										589 text Carolina Portugal de Sanchez, “Brasil, Cartões de Imigração, 1900-1980”
+										590 text 16 de março de 2023
+										591 button Ricardo AnibalVila Horne
+								2337 container wd2ha6wvdw1b
+									2338 button VISUALIZAR
+									2339 button EDITAR
+									2340 button ANALISAR ANEXOS
+									2341 button DESANEXAR
+									2342 heading Marcadores, Value: 3
+										2343 text Marcadores
+									2344 button Sexo
+									2345 button Nome
+									2346 button + Acrescentar marcação
+									2347 heading Data da fonte 1946, Value: 3
+										2348 text Data da fonte
+										2349 text 1946
+									2350 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:KX2H-LX4, Value: 3
+										2351 text Página do site (link para o registro)
+										2352 link Description: https://familysearch.org/ark:/61903/1:1:KX2H-LX4, Value: familysearch.org/ar…
+									2353 heading Onde o registro foi encontrado (referência) , Value: 3
+										2354 text Onde o registro foi encontrado (referência)
+									2355 container
+										2356 text "Brasil, Cartões de Imigração, 1900-1980",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:KX2H-LX7 : Wed Jul 01 02:42:58 UTC 2026), Entry for Juana Sanchez de Gonçalves and Santiago Sanchez, 1946.
+									2357 heading Informações indexadas, Value: 3
+										2358 text Informações indexadas
+									2359 button EXIBIR
+									2360 heading Fonte modificada:, Value: 3
+										2361 text Fonte modificada:
+									2362 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2363 text 16 de março de 2023
+									2364 button Ricardo AnibalVila Horne
+									2365 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2366 text Motivo pela qual esta fonte está anexada:
+									2367 button + ACRESCENTAR
+							592 container 7DBD-V4H
+								593 button (expanded) 1949 Carolina Oliveira, "Uruguay, registro civil, 1879-2020" 9 de fevereiro de 2025 Martín Giardelli, Secondary Actions: Collapse
+									594 button 1949 Carolina Oliveira, "Uruguay, registro civil, 1879-2020" 9 de fevereiro de 2025 Martín Giardelli
+										595 button
+										596 text 1949
+										597 text Carolina Oliveira, "Uruguay, registro civil, 1879-2020"
+										598 text 9 de fevereiro de 2025
+										599 button Martín Giardelli
+								2368 container Bs6fhy5lilxr
+									2369 button VISUALIZAR
+									2370 button EDITAR
+									2371 button ANALISAR ANEXOS
+									2372 button DESANEXAR
+									2373 heading Marcadores, Value: 3
+										2374 text Marcadores
+									2375 button Sexo
+									2376 button Nome
+									2377 button + Acrescentar marcação
+									2378 heading Data da fonte 21 de dezembro de 1949, Value: 3
+										2379 text Data da fonte
+										2380 text 21 de dezembro de 1949
+									2381 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6RTH-MXRT, Value: 3
+										2382 text Página do site (link para o registro)
+										2383 link Description: https://familysearch.org/ark:/61903/1:1:6RTH-MXRT, Value: familysearch.org/ar…
+									2384 heading Onde o registro foi encontrado (referência) , Value: 3
+										2385 text Onde o registro foi encontrado (referência)
+									2386 container
+										2387 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6RTH-MXR5 : Sun Mar 10 11:02:38 UTC 2024), Entry for Longino Sánchez Oliveira and Santiago Sanchez, 21 Dec 1949.
+									2388 heading Informações indexadas, Value: 3
+										2389 text Informações indexadas
+									2390 button EXIBIR
+									2391 heading Fonte modificada:, Value: 3
+										2392 text Fonte modificada:
+									2393 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2394 text 9 de fevereiro de 2025
+									2395 button Martín Giardelli
+									2396 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2397 text Motivo pela qual esta fonte está anexada:
+									2398 button + ACRESCENTAR
+							600 container 78YM-MGQ
+								601 button (expanded) Secondary Actions: Collapse, + ACRESCENTAR Carolina Olivera, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 22 de janeiro de 2025 treehelper_a12
+									602 button + ACRESCENTAR Carolina Olivera, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 22 de janeiro de 2025 treehelper_a12
+										603 button
+										604 link Description: + ACRESCENTAR, Value: familysearch.org/pt…
+										605 text Carolina Olivera, "Argentina, Entre Ríos, Civil Registration, 1833-1965"
+										606 text 22 de janeiro de 2025
+										607 button treehelper_a12
+								2399 container Zl05ib5b8gad
+									2400 button VISUALIZAR
+									2401 button EDITAR
+									2402 button ANALISAR ANEXOS
+									2403 button DESANEXAR
+									2404 heading Marcadores, Value: 3
+										2405 text Marcadores
+									2406 button Sexo
+									2407 button Nome
+									2408 button + Acrescentar marcação
+									2409 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6CBW-VJ2F, Value: 3
+										2410 text Página do site (link para o registro)
+										2411 link Description: https://familysearch.org/ark:/61903/1:1:6CBW-VJ2F, Value: familysearch.org/ar…
+									2412 heading Onde o registro foi encontrado (referência) , Value: 3
+										2413 text Onde o registro foi encontrado (referência)
+									2414 container
+										2415 text "Argentina, Entre Ríos, Civil Registration, 1833-1965",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6CBW-VJ2N : Fri Jul 26 13:06:54 UTC 2024), Entry for Ricardo Lazaro Grossi and Juan Bautista Grossi.
+									2416 heading Informações indexadas, Value: 3
+										2417 text Informações indexadas
+									2418 button EXIBIR
+									2419 heading Fonte modificada:, Value: 3
+										2420 text Fonte modificada:
+									2421 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2422 text 22 de janeiro de 2025
+									2423 button treehelper_a12
+									2424 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2425 text Motivo pela qual esta fonte está anexada:
+									2426 button + ACRESCENTAR
+							608 container QSZT-FW2
+								609 button (expanded) Secondary Actions: Collapse, + ACRESCENTAR Carolina Olivera, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 8 de janeiro de 2023 Rogério J Barbosa
+									610 button + ACRESCENTAR Carolina Olivera, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 8 de janeiro de 2023 Rogério J Barbosa
+										611 button
+										612 link Description: + ACRESCENTAR, Value: familysearch.org/pt…
+										613 text Carolina Olivera, "Argentina, Entre Ríos, Civil Registration, 1833-1965"
+										614 text 8 de janeiro de 2023
+										615 button Rogério J Barbosa
+								2427 container M2pel4uxfvli
+									2428 button VISUALIZAR
+									2429 button EDITAR
+									2430 button ANALISAR ANEXOS
+									2431 button DESANEXAR
+									2432 heading Marcadores, Value: 3
+										2433 text Marcadores
+									2434 button Sexo
+									2435 button Nome
+									2436 button + Acrescentar marcação
+									2437 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:447K-Z2ZM, Value: 3
+										2438 text Página do site (link para o registro)
+										2439 link Description: https://familysearch.org/ark:/61903/1:1:447K-Z2ZM, Value: familysearch.org/ar…
+									2440 heading Onde o registro foi encontrado (referência) , Value: 3
+										2441 text Onde o registro foi encontrado (referência)
+									2442 container
+										2443 text "Argentina, Entre Ríos, Civil Registration, 1833-1965",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:447K-Z26Z : Fri Jul 26 11:33:07 UTC 2024), Entry for Maria Concepcion Ravagnan and Alvaro Ravagnan.
+									2444 heading Informações indexadas, Value: 3
+										2445 text Informações indexadas
+									2446 button EXIBIR
+									2447 heading Fonte modificada:, Value: 3
+										2448 text Fonte modificada:
+									2449 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2450 text 8 de janeiro de 2023
+									2451 button Rogério J Barbosa
+									2452 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2453 text Motivo pela qual esta fonte está anexada:
+									2454 button + ACRESCENTAR
+							616 container QSZT-HXF
+								617 button (expanded) Secondary Actions: Collapse, + ACRESCENTAR Carolina Olivera Portugal, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 8 de janeiro de 2023 Rogério J Barbosa
+									618 button + ACRESCENTAR Carolina Olivera Portugal, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 8 de janeiro de 2023 Rogério J Barbosa
+										619 button
+										620 link Description: + ACRESCENTAR, Value: familysearch.org/pt…
+										621 text Carolina Olivera Portugal, "Argentina, Entre Ríos, Civil Registration, 1833-1965"
+										622 text 8 de janeiro de 2023
+										623 button Rogério J Barbosa
+								2455 container Ft60mllrvboo
+									2456 button VISUALIZAR
+									2457 button EDITAR
+									2458 button ANALISAR ANEXOS
+									2459 button DESANEXAR
+									2460 heading Marcadores, Value: 3
+										2461 text Marcadores
+									2462 button Sexo
+									2463 button Nome
+									2464 button + Acrescentar marcação
+									2465 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:CBM2-5N6Z, Value: 3
+										2466 text Página do site (link para o registro)
+										2467 link Description: https://familysearch.org/ark:/61903/1:1:CBM2-5N6Z, Value: familysearch.org/ar…
+									2468 heading Onde o registro foi encontrado (referência) , Value: 3
+										2469 text Onde o registro foi encontrado (referência)
+									2470 container
+										2471 text "Argentina, Entre Ríos, Civil Registration, 1833-1965",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:CBM2-5NN2 : Fri Jul 26 07:19:00 UTC 2024), Entry for Aura Rosa Grossi and Ricardo L Grossi.
+									2472 heading Informações indexadas, Value: 3
+										2473 text Informações indexadas
+									2474 button EXIBIR
+									2475 heading Fonte modificada:, Value: 3
+										2476 text Fonte modificada:
+									2477 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2478 text 8 de janeiro de 2023
+									2479 button Rogério J Barbosa
+									2480 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2481 text Motivo pela qual esta fonte está anexada:
+									2482 button + ACRESCENTAR
+							624 container 3ZBM-QGR
+								625 button (expanded) Secondary Actions: Collapse, + ACRESCENTAR Carolina Olivera, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 23 de agosto de 2021 guillermo rosales_
+									626 button + ACRESCENTAR Carolina Olivera, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 23 de agosto de 2021 guillermo rosales_
+										627 button
+										628 link Description: + ACRESCENTAR, Value: familysearch.org/pt…
+										629 text Carolina Olivera, "Argentina, Entre Ríos, Civil Registration, 1833-1965"
+										630 text 23 de agosto de 2021
+										631 button guillermo rosales_
+								2483 container Rt4884lzkuu
+									2484 button VISUALIZAR
+									2485 button EDITAR
+									2486 button ANALISAR ANEXOS
+									2487 button DESANEXAR
+									2488 heading Marcadores, Value: 3
+										2489 text Marcadores
+									2490 button Sexo
+									2491 button Nome
+									2492 button + Acrescentar marcação
+									2493 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:8TRL-TTPZ, Value: 3
+										2494 text Página do site (link para o registro)
+										2495 link Description: https://familysearch.org/ark:/61903/1:1:8TRL-TTPZ, Value: familysearch.org/ar…
+									2496 heading Onde o registro foi encontrado (referência) , Value: 3
+										2497 text Onde o registro foi encontrado (referência)
+									2498 container
+										2499 text "Argentina, Entre Ríos, Civil Registration, 1833-1965",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:8TRL-TTT2 : Fri Jul 26 11:58:16 UTC 2024), Entry for Alvaro Ravagnan and Domingo Ravagnan.
+									2500 heading Informações indexadas, Value: 3
+										2501 text Informações indexadas
+									2502 button EXIBIR
+									2503 heading Fonte modificada:, Value: 3
+										2504 text Fonte modificada:
+									2505 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt…
+									2506 text 23 de agosto de 2021
+									2507 button guillermo rosales_
+									2508 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										2509 text Motivo pela qual esta fonte está anexada:
+									2510 button + ACRESCENTAR
+				632 container
+					633 container Links no rodapé
+						634 link Description: Sobre, Value: familysearch.org/pt…
+						635 link Description: Voluntário, Value: familysearch.org/pt…
+						636 link Description: Blog, Value: familysearch.org/pt…
+						637 link Description: Encontrar antepassados, Value: ancestors.familysea…
+						638 link Description: DNA, Value: familysearch.org/pt…
+						639 link Description: Entre em Contato Conosco, Value: familysearch.org/pt…
+						640 link Description: Mapa do Site, Value: familysearch.org/pt…
+						641 text |
+						642 button mais links
+					643 container Links jurídicos
+						644 link Description: Suporte de acessibilidade, Value: familysearch.org/pt…
+						645 container
+							646 link Description: Termos de uso do FamilySearch, Value: familysearch.org/pt…
+							647 text  | 
+							648 link Description: Notificação de privacidade, Value: familysearch.org/pt…
+							649 text  | 
+							650 link Description: Mapa do Site, Value: familysearch.org/pt…
+							651 text  | 
+							652 link Description: Opções de país e idioma, Value: familysearch.org/pt…
+						653 container
+							654 text © 2026 Intellectual Reserve, Inc. Todos os direitos reservados. Um serviço fornecido por 
+							655 link Description: A Igreja de Jesus Cristo dos Santos dos Últimos Dias, Value: vindeacristo.org/
+							656 text .
+
+The focused UI element is 52 switch Description: Visualização detalhada, Value: 1

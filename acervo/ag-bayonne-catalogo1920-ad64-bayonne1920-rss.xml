@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+   <channel>
+      <title>Résultat(s) pour la recherche: ( Document : FRAD064003_IR0002 ) ET ( Date :  1920 ) ET ( Mots à chercher  : Bayonne )</title>
+      <link>https://earchives.le64.fr/archives-en-ligne/results.html?base=ead&amp;rbase=ead&amp;name=etat-civil&amp;champ1=root-id&amp;query1=FRAD064003_IR0002&amp;cop1=AND&amp;champ3=id_annee&amp;du3=1920&amp;cop3=AND&amp;champ4=fulltext&amp;query4=Bayonne&amp;cop4=AND&amp;locale=fr</link>
+      <description><![CDATA[1 résultat correspond à votre recherche dans l'application Pleade.]]></description>
+      <copyright>Archives dï¿½partementales des Pyrï¿½nï¿½es-Atlantiques</copyright>
+      <managingEditor>info@ajlsm.com (info ajlsm)</managingEditor>
+      <webMaster>info@ajlsm.com (info ajlsm)</webMaster>
+      <pubDate>Mon, 07 Sep 2026 15:08:06 +0100</pubDate>
+      <category>library</category>
+      <generator>Pleade v$</generator>
+      <docs>http://www.rssboard.org/rss-specification</docs>
+      <ttl>1440</ttl>
+      <image>
+         <url>$/theme/images/logo-pleade.png</url>
+         <title>Résultat(s) pour la recherche: ( Document : FRAD064003_IR0002 ) ET ( Date :  1920 ) ET ( Mots à chercher  : Bayonne )</title>
+         <link>https://earchives.le64.fr/archives-en-ligne/results.html?base=ead&amp;rbase=ead&amp;name=etat-civil&amp;champ1=root-id&amp;query1=FRAD064003_IR0002&amp;cop1=AND&amp;champ3=id_annee&amp;du3=1920&amp;cop3=AND&amp;champ4=fulltext&amp;query4=Bayonne&amp;cop4=AND&amp;locale=fr</link>
+      </image>
+      <atom:link href="https://earchives.le64.fr/archives-en-ligne/syndication/rss/published-doc/results/getchannel.xml?base=ead&amp;rbase=ead&amp;name=etat-civil&amp;champ1=root-id&amp;query1=FRAD064003_IR0002&amp;cop1=AND&amp;champ3=id_annee&amp;du3=1920&amp;cop3=AND&amp;champ4=fulltext&amp;query4=Bayonne&amp;cop4=AND&amp;locale=fr"
+                 rel="self"
+                 type="application/rss+xml"/>
+      <item>
+         <title>
+									      1913-1922
+								    </title>
+         <link>https://earchives.le64.fr/archives-en-ligne/ead.html?id=FRAD064003_IR0002&amp;c=FRAD064003_IR0002_e0032955</link>
+         <description/>
+         <author>info@ajlsm.com (info ajlsm)</author>
+         <category>library</category>
+         <enclosure url="https://earchives.le64.fr/archives-en-ligne/https://earchives.le64.fr/archives-en-ligne/ark:/81221/r17831zm80xzzk/f1"
+                    length=""
+                    type="images/jpeg"/>
+         <guid isPermaLink="true">https://earchives.le64.fr/archives-en-ligne/ead.html?id=FRAD064003_IR0002&amp;c=FRAD064003_IR0002_e0032955</guid>
+      </item>
+   </channel>
+</rss>

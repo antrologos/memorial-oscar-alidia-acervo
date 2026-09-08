@@ -1,0 +1,1034 @@
+Browser tab: 80, Title: "Joaquin Mendez De Arruda Freitas (1830–1879) • Pessoa • Árvore familiar", URL: "https://www.familysearch.org/pt/tree/person/sources/K198-GNL".
+1 AXWebArea Joaquin Mendez De Arruda Freitas (1830–1879) • Pessoa • Árvore familiar, URL: familysearch.org/pt/tree/person/sources/K198-GNL
+	2 container
+		3 container root
+			4 container app-content-scroller
+				5 link Description: IR PARA O CONTEÚDO PRINCIPAL, Value: familysearch.org/pt/tree/person/sources/K198-GNL#skipToMainContent
+				6 container
+					7 link Description: FamilySearch — Página Inicial, Value: familysearch.org/pt/home/portal/
+					8 container Principal
+						9 pop up button (collapsed) Árvore Familiar, Secondary Actions: Expand
+						10 pop up button (collapsed) Pesquisa, Secondary Actions: Expand
+						11 pop up button (collapsed) Recordações, Secondary Actions: Expand
+						12 pop up button (collapsed) Participe, Secondary Actions: Expand
+						13 pop up button (collapsed) Atividades, Secondary Actions: Expand
+					14 link Description: Localizações, Value: familysearch.org/pt/locations/about
+					15 button Escolha o idioma
+					16 button Ajuda
+					17 button Chat
+					18 link Description: Novas notificações disponíveis, Value: familysearch.org/pt/notifications/
+					19 pop up button (collapsed) Conta: Rogério J Barbosa, Secondary Actions: Expand
+						20 container Conta: Rogério J Barbosa
+				21 container main
+					22 container Menu secundário da árvore
+						23 content list
+							24 link Description: Árvore, Value: familysearch.org/pt/tree/pedigree
+							25 button Recentes
+							26 link Description: Encontrar, Value: familysearch.org/pt/search/tree?from=tree
+							27 link Description: Seguindo, Value: familysearch.org/pt/tree/following
+							28 link Description: Lista de pessoas, Value: familysearch.org/pt/tree/private-people
+							29 link Description: Minhas colaborações, Value: familysearch.org/pt/tree/contributions
+							30 pop up button (collapsed) Description: O que há de novo, Secondary Actions: Expand
+					31 container skipToMainContent
+						32 button Atualizar o retrato para Joaquin Mendez De Arruda Freitas
+						33 heading Joaquin Mendez De Arruda Freitas 1830–1879 · K198-GNL, Value: 1
+							34 container Joaquin Mendez De Arruda Freitas 1830–1879 · K198-GNL
+								35 text Joaquin Mendez De Arruda Freitas
+								36 text Masculino 1830 – 1879 •
+								37 button K 1 9 8 G N L, Selecione para copiar.
+						38 link Description: VER ÁRVORE, Value: familysearch.org/pt/tree/pedigree/K198-GNL
+						39 button VER PARENTESCO
+						40 button Description: Para receber notificações sobre quaisquer alterações feitas a essa pessoa, clique em “Seguir” , Help: Para receber notificações sobre quaisquer alterações feitas a essa pessoa, clique em “Seguir”
+						41 container
+							42 link Description: Sobre, Value: familysearch.org/pt/tree/person/about/K198-GNL, ID: tabs--2--tab--0
+							43 link Description: Detalhes, Value: familysearch.org/pt/tree/person/details/K198-GNL, ID: tabs--2--tab--1
+							44 link Description: Fontes (23), Value: familysearch.org/pt/tree/person/sources/K198-GNL, ID: tabs--2--tab--2
+							45 link Description: Colaborar (0), Value: familysearch.org/pt/tree/person/collaborate/K198-GNL, ID: tabs--2--tab--3
+							46 link Description: Recordações (0), Value: familysearch.org/pt/tree/person/memories/K198-GNL, ID: tabs--2--tab--4
+							47 link Description: Linha do tempo, Value: familysearch.org/pt/tree/person/timeline/K198-GNL, ID: tabs--2--tab--5
+						48 container Description: Fontes (23), ID: tabs--2--panel--2
+						49 container
+							50 heading Description: Ocultar esta seção: Fontes, Value: 2
+								51 text Fontes  ( 23 )
+							52 switch Description: Visualização detalhada, Value: 1
+							53 pop up button (collapsed) + ACRESCENTAR FONTE, Secondary Actions: Expand
+							54 button OPÇÕES
+							55 text Data Título Criado
+							56 container 9M9D-V6Q
+								57 button (expanded) 1868 Joaquin Mendes, “Casamentos no Uruguai, 1840-1900” 7 de novembro de 2014 FamilySearch, Secondary Actions: Collapse
+									58 button 1868 Joaquin Mendes, “Casamentos no Uruguai, 1840-1900” 7 de novembro de 2014 FamilySearch
+										59 button
+										60 text 1868
+										61 text Joaquin Mendes, “Casamentos no Uruguai, 1840-1900”
+										62 text 7 de novembro de 2014
+										63 button FamilySearch
+								317 container ig5pgu7itn6s
+									318 button VISUALIZAR
+									319 button EDITAR
+									320 button ANALISAR ANEXOS
+									321 button DESANEXAR
+									322 heading Marcadores, Value: 3
+										323 text Marcadores
+									324 button + Acrescentar marcação
+									325 heading Data da fonte 4 de novembro de 1868, Value: 3
+										326 text Data da fonte
+										327 text 4 de novembro de 1868
+									328 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:FLMC-WPV, Value: 3
+										329 text Página do site (link para o registro)
+										330 link Description: https://familysearch.org/ark:/61903/1:1:FLMC-WPV, Value: familysearch.org/ark:/61903/1:1:FLMC-WPV?lang=pt
+									331 heading Onde o registro foi encontrado (referência) , Value: 3
+										332 text Onde o registro foi encontrado (referência)
+									333 container
+										334 text "Uruguay, matrimonios, 1840-1900", ,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:FLMC-WPV : 10 February 2020), Joaquin Mendes, 1868.
+									335 heading Descrever o registro (anotações) , Value: 3
+										336 text Descrever o registro (anotações)
+									337 text This extracted record was used to create this person in Family Tree.
+									338 heading Informações indexadas, Value: 3
+										339 text Informações indexadas
+									340 button EXIBIR
+									341 heading Fonte modificada:, Value: 3
+										342 text Fonte modificada:
+									343 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/9M9D-V6Q?entityId=K198-GNL&entityType=person
+									344 text 7 de novembro de 2014
+									345 button FamilySearch
+									346 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										347 text Motivo pela qual esta fonte está anexada:
+									348 button + ACRESCENTAR
+							64 container QSZY-KVN
+								65 button (expanded) Secondary Actions: Collapse, 1872 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									66 button 1872 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										67 button
+										68 text 1872
+										69 text Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000"
+										70 text 8 de janeiro de 2023
+										71 button Rogério J Barbosa
+								72 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								73 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								74 button ANEXOS COM INDIVÍDUOS PENDENTES
+								75 button DISPENSAR
+								349 container kgbco4tre7xm
+									350 button VISUALIZAR
+									351 button EDITAR
+									352 button ANALISAR ANEXOS
+									353 button DESANEXAR
+									354 heading Marcadores, Value: 3
+										355 text Marcadores
+									356 button Sexo
+									357 button Nome
+									358 button + Acrescentar marcação
+									359 heading Data da fonte 1 de fevereiro de 1872, Value: 3
+										360 text Data da fonte
+										361 text 1 de fevereiro de 1872
+									362 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZCQ-HDHM, Value: 3
+										363 text Página do site (link para o registro)
+										364 link Description: https://familysearch.org/ark:/61903/1:1:6ZCQ-HDHM, Value: familysearch.org/ark:/61903/1:1:6ZCQ-HDHM?lang=pt
+									365 heading Onde o registro foi encontrado (referência) , Value: 3
+										366 text Onde o registro foi encontrado (referência)
+									367 container
+										368 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZCQ-HD41 : Thu Jan 01 00:34:37 UTC 2026), Entry for Sixta Méndez and Joaquín Méndez, 1 de febrero de 1872.
+									369 heading Informações indexadas, Value: 3
+										370 text Informações indexadas
+									371 button EXIBIR
+									372 heading Fonte modificada:, Value: 3
+										373 text Fonte modificada:
+									374 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSZY-KVN?entityId=K198-GNL&entityType=person
+									375 text 8 de janeiro de 2023
+									376 button Rogério J Barbosa
+									377 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										378 text Motivo pela qual esta fonte está anexada:
+									379 button + ACRESCENTAR
+							76 container QSZY-L7W
+								77 button (expanded) Secondary Actions: Collapse, 1872 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									78 button 1872 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										79 button
+										80 text 1872
+										81 text Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000"
+										82 text 8 de janeiro de 2023
+										83 button Rogério J Barbosa
+								84 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								85 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								86 button ANEXOS COM INDIVÍDUOS PENDENTES
+								87 button DISPENSAR
+								380 container s79fq4l0sda5
+									381 button VISUALIZAR
+									382 button EDITAR
+									383 button ANALISAR ANEXOS
+									384 button DESANEXAR
+									385 heading Marcadores, Value: 3
+										386 text Marcadores
+									387 button Sexo
+									388 button Nome
+									389 button + Acrescentar marcação
+									390 heading Data da fonte 1 de fevereiro de 1872, Value: 3
+										391 text Data da fonte
+										392 text 1 de fevereiro de 1872
+									393 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZCQ-HDHM, Value: 3
+										394 text Página do site (link para o registro)
+										395 link Description: https://familysearch.org/ark:/61903/1:1:6ZCQ-HDHM, Value: familysearch.org/ark:/61903/1:1:6ZCQ-HDHM?lang=pt
+									396 heading Onde o registro foi encontrado (referência) , Value: 3
+										397 text Onde o registro foi encontrado (referência)
+									398 container
+										399 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZCQ-HD41 : Thu Jan 01 00:34:37 UTC 2026), Entry for Sixta Méndez and Joaquín Méndez, 1 de febrero de 1872.
+									400 heading Informações indexadas, Value: 3
+										401 text Informações indexadas
+									402 button EXIBIR
+									403 heading Fonte modificada:, Value: 3
+										404 text Fonte modificada:
+									405 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSZY-L7W?entityId=K198-GNL&entityType=person
+									406 text 8 de janeiro de 2023
+									407 button Rogério J Barbosa
+									408 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										409 text Motivo pela qual esta fonte está anexada:
+									410 button + ACRESCENTAR
+							88 container QSXD-CN1
+								89 button (expanded) Secondary Actions: Collapse, 1874 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 11 de janeiro de 2023 Rogério J Barbosa
+									90 button 1874 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 11 de janeiro de 2023 Rogério J Barbosa
+										91 button
+										92 text 1874
+										93 text Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000"
+										94 text 11 de janeiro de 2023
+										95 button Rogério J Barbosa
+								96 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								97 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								98 button ANEXOS COM INDIVÍDUOS PENDENTES
+								99 button DISPENSAR
+								411 container yf0t4x0cxnpm
+									412 button VISUALIZAR
+									413 button EDITAR
+									414 button ANALISAR ANEXOS
+									415 button DESANEXAR
+									416 heading Marcadores, Value: 3
+										417 text Marcadores
+									418 button Sexo
+									419 button Nome
+									420 button + Acrescentar marcação
+									421 heading Data da fonte 6 de janeiro de 1874, Value: 3
+										422 text Data da fonte
+										423 text 6 de janeiro de 1874
+									424 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZCQ-H6B3, Value: 3
+										425 text Página do site (link para o registro)
+										426 link Description: https://familysearch.org/ark:/61903/1:1:6ZCQ-H6B3, Value: familysearch.org/ark:/61903/1:1:6ZCQ-H6B3?lang=pt
+									427 heading Onde o registro foi encontrado (referência) , Value: 3
+										428 text Onde o registro foi encontrado (referência)
+									429 container
+										430 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZCQ-H6BS : Thu Jan 01 11:09:06 UTC 2026), Entry for Belicia and Gerónimo Garia, 6 de enero de 1874.
+									431 heading Informações indexadas, Value: 3
+										432 text Informações indexadas
+									433 button EXIBIR
+									434 heading Fonte modificada:, Value: 3
+										435 text Fonte modificada:
+									436 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSXD-CN1?entityId=K198-GNL&entityType=person
+									437 text 11 de janeiro de 2023
+									438 button Rogério J Barbosa
+									439 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										440 text Motivo pela qual esta fonte está anexada:
+									441 button + ACRESCENTAR
+							100 container QSZB-4N6
+								101 button (expanded) Secondary Actions: Collapse, 1878 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									102 button 1878 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										103 button
+										104 text 1878
+										105 text Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000"
+										106 text 8 de janeiro de 2023
+										107 button Rogério J Barbosa
+								108 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								109 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								110 button ANEXOS COM INDIVÍDUOS PENDENTES
+								111 button DISPENSAR
+								442 container B4upwtulfswu
+									443 button VISUALIZAR
+									444 button EDITAR
+									445 button ANALISAR ANEXOS
+									446 button DESANEXAR
+									447 heading Marcadores, Value: 3
+										448 text Marcadores
+									449 button Sexo
+									450 button Nome
+									451 button + Acrescentar marcação
+									452 heading Data da fonte 22 de janeiro de 1878, Value: 3
+										453 text Data da fonte
+										454 text 22 de janeiro de 1878
+									455 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZCQ-JQ2K, Value: 3
+										456 text Página do site (link para o registro)
+										457 link Description: https://familysearch.org/ark:/61903/1:1:6ZCQ-JQ2K, Value: familysearch.org/ark:/61903/1:1:6ZCQ-JQ2K?lang=pt
+									458 heading Onde o registro foi encontrado (referência) , Value: 3
+										459 text Onde o registro foi encontrado (referência)
+									460 container
+										461 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZCQ-JQ2V : Mon Apr 06 03:26:06 UTC 2026), Entry for Bernardina and Gerónimo Garía, 22 January 1878.
+									462 heading Informações indexadas, Value: 3
+										463 text Informações indexadas
+									464 button EXIBIR
+									465 heading Fonte modificada:, Value: 3
+										466 text Fonte modificada:
+									467 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSZB-4N6?entityId=K198-GNL&entityType=person
+									468 text 8 de janeiro de 2023
+									469 button Rogério J Barbosa
+									470 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										471 text Motivo pela qual esta fonte está anexada:
+									472 button + ACRESCENTAR
+							112 container 7K3C-FXQ
+								113 button (expanded) 1879 Joaquín Méndez, "Uruguay, registro civil, 1879-2020" 29 de maio de 2025 Mengo, Terrel O'neal, Secondary Actions: Collapse
+									114 button 1879 Joaquín Méndez, "Uruguay, registro civil, 1879-2020" 29 de maio de 2025 Mengo, Terrel O'neal
+										115 button
+										116 text 1879
+										117 text Joaquín Méndez, "Uruguay, registro civil, 1879-2020"
+										118 text 29 de maio de 2025
+										119 button Mengo, Terrel O'neal
+								473 container I7l7mtdi5y4p
+									474 button VISUALIZAR
+									475 button EDITAR
+									476 button ANALISAR ANEXOS
+									477 button DESANEXAR
+									478 heading Marcadores, Value: 3
+										479 text Marcadores
+									480 button Sexo
+									481 button Nome
+									482 button + Acrescentar marcação
+									483 heading Data da fonte março de 1879, Value: 3
+										484 text Data da fonte
+										485 text março de 1879
+									486 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSX9-WB9H, Value: 3
+										487 text Página do site (link para o registro)
+										488 link Description: https://familysearch.org/ark:/61903/1:1:XSX9-WB9H, Value: familysearch.org/ark:/61903/1:1:XSX9-WB9H?lang=pt
+									489 heading Onde o registro foi encontrado (referência) , Value: 3
+										490 text Onde o registro foi encontrado (referência)
+									491 container
+										492 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSX9-WB93 : Sat Dec 20 04:57:22 UTC 2025), Entry for Juan Gallegos and Arturo M. Salgado, marzo de 1879.
+									493 heading Informações indexadas, Value: 3
+										494 text Informações indexadas
+									495 button EXIBIR
+									496 heading Fonte modificada:, Value: 3
+										497 text Fonte modificada:
+									498 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7K3C-FXQ?entityId=K198-GNL&entityType=person
+									499 text 29 de maio de 2025
+									500 button Mengo, Terrel O'neal
+									501 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										502 text Motivo pela qual esta fonte está anexada:
+									503 button + ACRESCENTAR
+							120 container 7JP3-YNR
+								121 button (expanded) 1879 Joaquín Méndez, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel, Secondary Actions: Collapse
+									122 button 1879 Joaquín Méndez, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										123 button
+										124 text 1879
+										125 text Joaquín Méndez, "Uruguay, registro civil, 1879-2020"
+										126 text 4 de maio de 2025
+										127 button FloresSylviaAnabel
+								128 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								129 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								130 button ANEXOS COM INDIVÍDUOS PENDENTES
+								131 button DISPENSAR
+								504 container wy6pljy9jj5b
+									505 button VISUALIZAR
+									506 button EDITAR
+									507 button ANALISAR ANEXOS
+									508 button DESANEXAR
+									509 heading Marcadores, Value: 3
+										510 text Marcadores
+									511 button Sexo
+									512 button Nome
+									513 button + Acrescentar marcação
+									514 heading Data da fonte abril de 1879, Value: 3
+										515 text Data da fonte
+										516 text abril de 1879
+									517 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSX7-KC64, Value: 3
+										518 text Página do site (link para o registro)
+										519 link Description: https://familysearch.org/ark:/61903/1:1:XSX7-KC64, Value: familysearch.org/ark:/61903/1:1:XSX7-KC64?lang=pt
+									520 heading Onde o registro foi encontrado (referência) , Value: 3
+										521 text Onde o registro foi encontrado (referência)
+									522 container
+										523 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSX7-KC6Q : Sat Dec 20 08:36:54 UTC 2025), Entry for Luís Alberto Vidal and Francisco Méndez, abril de 1879.
+									524 heading Informações indexadas, Value: 3
+										525 text Informações indexadas
+									526 button EXIBIR
+									527 heading Fonte modificada:, Value: 3
+										528 text Fonte modificada:
+									529 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7JP3-YNR?entityId=K198-GNL&entityType=person
+									530 text 4 de maio de 2025
+									531 button FloresSylviaAnabel
+									532 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										533 text Motivo pela qual esta fonte está anexada:
+									534 button + ACRESCENTAR
+							132 container 7JPQ-78B
+								133 button (expanded) Secondary Actions: Collapse, 1879 Joaquín Méndez Brasilero, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+									134 button 1879 Joaquín Méndez Brasilero, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										135 button
+										136 text 1879
+										137 text Joaquín Méndez Brasilero, "Uruguay, registro civil, 1879-2020"
+										138 text 4 de maio de 2025
+										139 button FloresSylviaAnabel
+								535 container rb66fogw33ss
+									536 button VISUALIZAR
+									537 button EDITAR
+									538 button ANALISAR ANEXOS
+									539 button DESANEXAR
+									540 heading Marcadores, Value: 3
+										541 text Marcadores
+									542 button Sexo
+									543 button Nome
+									544 button + Acrescentar marcação
+									545 heading Data da fonte outubro de 1879, Value: 3
+										546 text Data da fonte
+										547 text outubro de 1879
+									548 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSX9-P3HT, Value: 3
+										549 text Página do site (link para o registro)
+										550 link Description: https://familysearch.org/ark:/61903/1:1:XSX9-P3HT, Value: familysearch.org/ark:/61903/1:1:XSX9-P3HT?lang=pt
+									551 heading Onde o registro foi encontrado (referência) , Value: 3
+										552 text Onde o registro foi encontrado (referência)
+									553 container
+										554 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSX9-P3HL : Sat Dec 20 09:04:22 UTC 2025), Entry for Luís Alberto Salgado and Artural . Salgado, octubre de 1879.
+									555 heading Informações indexadas, Value: 3
+										556 text Informações indexadas
+									557 button EXIBIR
+									558 heading Fonte modificada:, Value: 3
+										559 text Fonte modificada:
+									560 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7JPQ-78B?entityId=K198-GNL&entityType=person
+									561 text 4 de maio de 2025
+									562 button FloresSylviaAnabel
+									563 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										564 text Motivo pela qual esta fonte está anexada:
+									565 button + ACRESCENTAR
+							140 container 7VY5-CBW
+								141 button (expanded) Secondary Actions: Collapse, 1879 Joaquín Mendes de Arreda Gracia, "Uruguay, registro civil, 1879-2020" 26 de maio de 2025 Abraham Ernest Etukudoh
+									142 button 1879 Joaquín Mendes de Arreda Gracia, "Uruguay, registro civil, 1879-2020" 26 de maio de 2025 Abraham Ernest Etukudoh
+										143 button
+										144 text 1879
+										145 text Joaquín Mendes de Arreda Gracia, "Uruguay, registro civil, 1879-2020"
+										146 text 26 de maio de 2025
+										147 button Abraham Ernest Etukudoh
+								566 container iw4msu5o5e0e
+									567 button VISUALIZAR
+									568 button EDITAR
+									569 button ANALISAR ANEXOS
+									570 button DESANEXAR
+									571 heading Marcadores, Value: 3
+										572 text Marcadores
+									573 button Nascimento
+									574 button Sexo
+									575 button Nome
+									576 button + Acrescentar marcação
+									577 heading Data da fonte dezembro de 1879, Value: 3
+										578 text Data da fonte
+										579 text dezembro de 1879
+									580 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XSXS-NLPT, Value: 3
+										581 text Página do site (link para o registro)
+										582 link Description: https://familysearch.org/ark:/61903/1:1:XSXS-NLPT, Value: familysearch.org/ark:/61903/1:1:XSXS-NLPT?lang=pt
+									583 heading Onde o registro foi encontrado (referência) , Value: 3
+										584 text Onde o registro foi encontrado (referência)
+									585 container
+										586 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XSXS-NLPL : Sat Dec 20 03:45:40 UTC 2025), Entry for René Salgado Acevedes and Arturo Márquez Salgado, diciembre de 1879.
+									587 heading Informações indexadas, Value: 3
+										588 text Informações indexadas
+									589 button EXIBIR
+									590 heading Fonte modificada:, Value: 3
+										591 text Fonte modificada:
+									592 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7VY5-CBW?entityId=K198-GNL&entityType=person
+									593 text 26 de maio de 2025
+									594 button Abraham Ernest Etukudoh
+									595 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										596 text Motivo pela qual esta fonte está anexada:
+									597 button + ACRESCENTAR
+							148 container 7JP3-TCQ
+								149 button (expanded) Secondary Actions: Collapse, 1880 Joaquín Méndez de Arruda, "Uruguay, registros parroquiales, 1726-2000" 4 de maio de 2025 FloresSylviaAnabel
+									150 button 1880 Joaquín Méndez de Arruda, "Uruguay, registros parroquiales, 1726-2000" 4 de maio de 2025 FloresSylviaAnabel
+										151 button
+										152 text 1880
+										153 text Joaquín Méndez de Arruda, "Uruguay, registros parroquiales, 1726-2000"
+										154 text 4 de maio de 2025
+										155 button FloresSylviaAnabel
+								156 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								157 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								158 button ANEXOS COM INDIVÍDUOS PENDENTES
+								159 button DISPENSAR
+								598 container K2rytfqn12ul
+									599 button VISUALIZAR
+									600 button EDITAR
+									601 button ANALISAR ANEXOS
+									602 button DESANEXAR
+									603 heading Marcadores, Value: 3
+										604 text Marcadores
+									605 button Sexo
+									606 button Nome
+									607 button + Acrescentar marcação
+									608 heading Data da fonte 13 de março de 1880, Value: 3
+										609 text Data da fonte
+										610 text 13 de março de 1880
+									611 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6ZMQ-CTVD, Value: 3
+										612 text Página do site (link para o registro)
+										613 link Description: https://familysearch.org/ark:/61903/1:1:6ZMQ-CTVD, Value: familysearch.org/ark:/61903/1:1:6ZMQ-CTVD?lang=pt
+									614 heading Onde o registro foi encontrado (referência) , Value: 3
+										615 text Onde o registro foi encontrado (referência)
+									616 container
+										617 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6ZMQ-CTV8 : Thu Jan 01 11:51:42 UTC 2026), Entry for Francisco and Juan Bautista Aguinaga, 13 de marzo de 1880.
+									618 heading Informações indexadas, Value: 3
+										619 text Informações indexadas
+									620 button EXIBIR
+									621 heading Fonte modificada:, Value: 3
+										622 text Fonte modificada:
+									623 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7JP3-TCQ?entityId=K198-GNL&entityType=person
+									624 text 4 de maio de 2025
+									625 button FloresSylviaAnabel
+									626 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										627 text Motivo pela qual esta fonte está anexada:
+									628 button + ACRESCENTAR
+							160 container 7JP3-RW1
+								161 button (expanded) 1896 Joaquin Mendez, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel, Secondary Actions: Collapse
+									162 button 1896 Joaquin Mendez, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										163 button
+										164 text 1896
+										165 text Joaquin Mendez, "Uruguay, registro civil, 1879-2020"
+										166 text 4 de maio de 2025
+										167 button FloresSylviaAnabel
+								629 container Xeyqfdfixis
+									630 button VISUALIZAR
+									631 button EDITAR
+									632 button ANALISAR ANEXOS
+									633 button DESANEXAR
+									634 heading Marcadores, Value: 3
+										635 text Marcadores
+									636 button Sexo
+									637 button Nome
+									638 button + Acrescentar marcação
+									639 heading Data da fonte 25 de abril de 1896, Value: 3
+										640 text Data da fonte
+										641 text 25 de abril de 1896
+									642 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS1H-V71H, Value: 3
+										643 text Página do site (link para o registro)
+										644 link Description: https://familysearch.org/ark:/61903/1:1:XS1H-V71H, Value: familysearch.org/ark:/61903/1:1:XS1H-V71H?lang=pt
+									645 heading Onde o registro foi encontrado (referência) , Value: 3
+										646 text Onde o registro foi encontrado (referência)
+									647 container
+										648 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS1H-V717 : Wed Mar 12 05:57:22 UTC 2025), Entry for Jeremias Metano and Jeremias Metano, 25 Apr 1896.
+									649 heading Informações indexadas, Value: 3
+										650 text Informações indexadas
+									651 button EXIBIR
+									652 heading Fonte modificada:, Value: 3
+										653 text Fonte modificada:
+									654 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7JP3-RW1?entityId=K198-GNL&entityType=person
+									655 text 4 de maio de 2025
+									656 button FloresSylviaAnabel
+									657 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										658 text Motivo pela qual esta fonte está anexada:
+									659 button + ACRESCENTAR
+							168 container 7F1P-TYH
+								169 button (expanded) 1902 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 3 de abril de 2025 treehelper_a423, Secondary Actions: Collapse
+									170 button 1902 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 3 de abril de 2025 treehelper_a423
+										171 button
+										172 text 1902
+										173 text Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000"
+										174 text 3 de abril de 2025
+										175 button treehelper_a423
+								176 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								177 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								178 button ANEXOS COM INDIVÍDUOS PENDENTES
+								179 button DISPENSAR
+								660 container Fpe26uws6gv8
+									661 button VISUALIZAR
+									662 button EDITAR
+									663 button ANALISAR ANEXOS
+									664 button DESANEXAR
+									665 heading Marcadores, Value: 3
+										666 text Marcadores
+									667 button Sexo
+									668 button Nome
+									669 button + Acrescentar marcação
+									670 heading Data da fonte 15 de dezembro de 1902, Value: 3
+										671 text Data da fonte
+										672 text 15 de dezembro de 1902
+									673 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS6J-6K2C, Value: 3
+										674 text Página do site (link para o registro)
+										675 link Description: https://familysearch.org/ark:/61903/1:1:XS6J-6K2C, Value: familysearch.org/ark:/61903/1:1:XS6J-6K2C?lang=pt
+									676 heading Onde o registro foi encontrado (referência) , Value: 3
+										677 text Onde o registro foi encontrado (referência)
+									678 container
+										679 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS6J-6K27 : Tue Dec 30 08:00:46 UTC 2025), Entry for Arturo Márquez and Manuel Márquez, 15 de diciembre de 1902.
+									680 heading Informações indexadas, Value: 3
+										681 text Informações indexadas
+									682 button EXIBIR
+									683 heading Fonte modificada:, Value: 3
+										684 text Fonte modificada:
+									685 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7F1P-TYH?entityId=K198-GNL&entityType=person
+									686 text 3 de abril de 2025
+									687 button treehelper_a423
+									688 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										689 text Motivo pela qual esta fonte está anexada:
+									690 button + ACRESCENTAR
+							180 container 7JP3-KWL
+								181 button (expanded) 1902 Joaquin Mendez, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel, Secondary Actions: Collapse
+									182 button 1902 Joaquin Mendez, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										183 button
+										184 text 1902
+										185 text Joaquin Mendez, "Uruguay, registro civil, 1879-2020"
+										186 text 4 de maio de 2025
+										187 button FloresSylviaAnabel
+								691 container fnnv4o5fila
+									692 button VISUALIZAR
+									693 button EDITAR
+									694 button ANALISAR ANEXOS
+									695 button DESANEXAR
+									696 heading Marcadores, Value: 3
+										697 text Marcadores
+									698 button Sexo
+									699 button Nome
+									700 button + Acrescentar marcação
+									701 heading Data da fonte 15 de dezembro de 1902, Value: 3
+										702 text Data da fonte
+										703 text 15 de dezembro de 1902
+									704 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS13-1V7N, Value: 3
+										705 text Página do site (link para o registro)
+										706 link Description: https://familysearch.org/ark:/61903/1:1:XS13-1V7N, Value: familysearch.org/ark:/61903/1:1:XS13-1V7N?lang=pt
+									707 heading Onde o registro foi encontrado (referência) , Value: 3
+										708 text Onde o registro foi encontrado (referência)
+									709 container
+										710 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS13-1V76 : Wed Mar 12 04:14:47 UTC 2025), Entry for Arturo Marquez Salgado and Manuel Salgado, 15 Dec 1902.
+									711 heading Informações indexadas, Value: 3
+										712 text Informações indexadas
+									713 button EXIBIR
+									714 heading Fonte modificada:, Value: 3
+										715 text Fonte modificada:
+									716 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7JP3-KWL?entityId=K198-GNL&entityType=person
+									717 text 4 de maio de 2025
+									718 button FloresSylviaAnabel
+									719 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										720 text Motivo pela qual esta fonte está anexada:
+									721 button + ACRESCENTAR
+							188 container QSMD-D2R
+								189 button (expanded) 1904 Joaquín, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa, Secondary Actions: Collapse
+									190 button 1904 Joaquín, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa
+										191 button
+										192 text 1904
+										193 text Joaquín, "Uruguay, registros parroquiales, 1726-2000"
+										194 text 1 de janeiro de 2023
+										195 button Rogério J Barbosa
+								196 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								197 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								198 button ANEXOS COM INDIVÍDUOS PENDENTES
+								199 button DISPENSAR
+								722 container Pri47eoyx7m8
+									723 button VISUALIZAR
+									724 button EDITAR
+									725 button ANALISAR ANEXOS
+									726 button DESANEXAR
+									727 heading Marcadores, Value: 3
+										728 text Marcadores
+									729 button Sexo
+									730 button Nome
+									731 button + Acrescentar marcação
+									732 heading Data da fonte 30 de dezembro de 1904, Value: 3
+										733 text Data da fonte
+										734 text 30 de dezembro de 1904
+									735 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-KQCZ, Value: 3
+										736 text Página do site (link para o registro)
+										737 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-KQCZ, Value: familysearch.org/ark:/61903/1:1:6D3H-KQCZ?lang=pt
+									738 heading Onde o registro foi encontrado (referência) , Value: 3
+										739 text Onde o registro foi encontrado (referência)
+									740 container
+										741 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-KQC7 : Sun Oct 19 09:51:36 UTC 2025), Entry for Manuel Joaquín and Juan Pérez, 30 de diciembre de 1904.
+									742 heading Informações indexadas, Value: 3
+										743 text Informações indexadas
+									744 button EXIBIR
+									745 heading Fonte modificada:, Value: 3
+										746 text Fonte modificada:
+									747 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSMD-D2R?entityId=K198-GNL&entityType=person
+									748 text 1 de janeiro de 2023
+									749 button Rogério J Barbosa
+									750 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										751 text Motivo pela qual esta fonte está anexada:
+									752 button + ACRESCENTAR
+							200 container QSZY-RX6
+								201 button (expanded) Secondary Actions: Collapse, 1906 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									202 button 1906 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										203 button
+										204 text 1906
+										205 text Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000"
+										206 text 8 de janeiro de 2023
+										207 button Rogério J Barbosa
+								208 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								209 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								210 button ANEXOS COM INDIVÍDUOS PENDENTES
+								211 button DISPENSAR
+								753 container ow1mztd665j9
+									754 button VISUALIZAR
+									755 button EDITAR
+									756 button ANALISAR ANEXOS
+									757 button DESANEXAR
+									758 heading Marcadores, Value: 3
+										759 text Marcadores
+									760 button Sexo
+									761 button Nome
+									762 button + Acrescentar marcação
+									763 heading Data da fonte 17 de novembro de 1906, Value: 3
+										764 text Data da fonte
+										765 text 17 de novembro de 1906
+									766 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-JWTS, Value: 3
+										767 text Página do site (link para o registro)
+										768 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-JWTS, Value: familysearch.org/ark:/61903/1:1:6D3H-JWTS?lang=pt
+									769 heading Onde o registro foi encontrado (referência) , Value: 3
+										770 text Onde o registro foi encontrado (referência)
+									771 container
+										772 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-JWRT : Thu Jan 01 11:49:26 UTC 2026), Entry for Rafael Méndez Valentín and Pedro Casebonne Vicente, 17 de noviembre de 1906.
+									773 heading Informações indexadas, Value: 3
+										774 text Informações indexadas
+									775 button EXIBIR
+									776 heading Fonte modificada:, Value: 3
+										777 text Fonte modificada:
+									778 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSZY-RX6?entityId=K198-GNL&entityType=person
+									779 text 8 de janeiro de 2023
+									780 button Rogério J Barbosa
+									781 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										782 text Motivo pela qual esta fonte está anexada:
+									783 button + ACRESCENTAR
+							212 container 7JP3-RPH
+								213 button (expanded) Secondary Actions: Collapse, 1906 Joaquín Olivera Portugal, "Uruguay, registros parroquiales, 1726-2000" 4 de maio de 2025 FloresSylviaAnabel
+									214 button 1906 Joaquín Olivera Portugal, "Uruguay, registros parroquiales, 1726-2000" 4 de maio de 2025 FloresSylviaAnabel
+										215 button
+										216 text 1906
+										217 text Joaquín Olivera Portugal, "Uruguay, registros parroquiales, 1726-2000"
+										218 text 4 de maio de 2025
+										219 button FloresSylviaAnabel
+								784 container u1og2qe4yxcq
+									785 button VISUALIZAR
+									786 button EDITAR
+									787 button ANALISAR ANEXOS
+									788 button DESANEXAR
+									789 heading Marcadores, Value: 3
+										790 text Marcadores
+									791 button Sexo
+									792 button Nome
+									793 button + Acrescentar marcação
+									794 heading Data da fonte 17 de novembro de 1906, Value: 3
+										795 text Data da fonte
+										796 text 17 de novembro de 1906
+									797 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS6N-RBPK, Value: 3
+										798 text Página do site (link para o registro)
+										799 link Description: https://familysearch.org/ark:/61903/1:1:XS6N-RBPK, Value: familysearch.org/ark:/61903/1:1:XS6N-RBPK?lang=pt
+									800 heading Onde o registro foi encontrado (referência) , Value: 3
+										801 text Onde o registro foi encontrado (referência)
+									802 container
+										803 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS6N-RBPV : Tue Dec 30 19:32:45 UTC 2025), Entry for Francisco Perpo Méndez Francisco and Joaquín Olivera Portugal, 17 de noviembre de 1906.
+									804 heading Informações indexadas, Value: 3
+										805 text Informações indexadas
+									806 button EXIBIR
+									807 heading Fonte modificada:, Value: 3
+										808 text Fonte modificada:
+									809 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7JP3-RPH?entityId=K198-GNL&entityType=person
+									810 text 4 de maio de 2025
+									811 button FloresSylviaAnabel
+									812 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										813 text Motivo pela qual esta fonte está anexada:
+									814 button + ACRESCENTAR
+							220 container QSMD-GSD
+								221 button (expanded) 1906 Joaquín, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa, Secondary Actions: Collapse
+									222 button 1906 Joaquín, "Uruguay, registros parroquiales, 1726-2000" 1 de janeiro de 2023 Rogério J Barbosa
+										223 button
+										224 text 1906
+										225 text Joaquín, "Uruguay, registros parroquiales, 1726-2000"
+										226 text 1 de janeiro de 2023
+										227 button Rogério J Barbosa
+								228 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								229 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								230 button ANEXOS COM INDIVÍDUOS PENDENTES
+								231 button DISPENSAR
+								815 container Ji87vudl3ccf
+									816 button VISUALIZAR
+									817 button EDITAR
+									818 button ANALISAR ANEXOS
+									819 button DESANEXAR
+									820 heading Marcadores, Value: 3
+										821 text Marcadores
+									822 button Sexo
+									823 button Nome
+									824 button + Acrescentar marcação
+									825 heading Data da fonte 3 de dezembro de 1906, Value: 3
+										826 text Data da fonte
+										827 text 3 de dezembro de 1906
+									828 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-KYNF, Value: 3
+										829 text Página do site (link para o registro)
+										830 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-KYNF, Value: familysearch.org/ark:/61903/1:1:6D3H-KYNF?lang=pt
+									831 heading Onde o registro foi encontrado (referência) , Value: 3
+										832 text Onde o registro foi encontrado (referência)
+									833 container
+										834 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-KYNC : Thu Jan 01 00:29:02 UTC 2026), Entry for René Concepción and Eugenio Melía, 3 de diciembre de 1906.
+									835 heading Informações indexadas, Value: 3
+										836 text Informações indexadas
+									837 button EXIBIR
+									838 heading Fonte modificada:, Value: 3
+										839 text Fonte modificada:
+									840 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSMD-GSD?entityId=K198-GNL&entityType=person
+									841 text 1 de janeiro de 2023
+									842 button Rogério J Barbosa
+									843 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										844 text Motivo pela qual esta fonte está anexada:
+									845 button + ACRESCENTAR
+							232 container 7NZM-QH5
+								233 button (expanded) 1907 Joaquín, "Uruguay, registros parroquiales, 1726-2000" 8 de abril de 2025 EstelaHernandez, Secondary Actions: Collapse
+									234 button 1907 Joaquín, "Uruguay, registros parroquiales, 1726-2000" 8 de abril de 2025 EstelaHernandez
+										235 button
+										236 text 1907
+										237 text Joaquín, "Uruguay, registros parroquiales, 1726-2000"
+										238 text 8 de abril de 2025
+										239 button EstelaHernandez
+								240 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								241 link Description: SAIBA MAIS, Value: …
+								242 button ANEXOS COM INDIVÍDUOS PENDENTES
+								243 button DISPENSAR
+								846 container eqdu44z6c8jr
+									847 button VISUALIZAR
+									848 button EDITAR
+									849 button ANALISAR ANEXOS
+									850 button DESANEXAR
+									851 heading Marcadores, Value: 3
+										852 text Marcadores
+									853 button Sexo
+									854 button Nome
+									855 button + Acrescentar marcação
+									856 heading Data da fonte 5 de dezembro de 1907, Value: 3
+										857 text Data da fonte
+										858 text 5 de dezembro de 1907
+									859 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D34-Q598, Value: 3
+										860 text Página do site (link para o registro)
+										861 link Description: https://familysearch.org/ark:/61903/1:1:6D34-Q598, Value: …
+									862 heading Onde o registro foi encontrado (referência) , Value: 3
+										863 text Onde o registro foi encontrado (referência)
+									864 container
+										865 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D34-Q594 : Thu Jan 01 11:16:31 UTC 2026), Entry for Elodia Teodora and Eugenio Melia, 5 de diciembre de 1907.
+									866 heading Informações indexadas, Value: 3
+										867 text Informações indexadas
+									868 button EXIBIR
+									869 heading Fonte modificada:, Value: 3
+										870 text Fonte modificada:
+									871 link Description: VER ALTERAÇÕES, Value: …
+									872 text 8 de abril de 2025
+									873 button EstelaHernandez
+									874 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										875 text Motivo pela qual esta fonte está anexada:
+									876 button + ACRESCENTAR
+							244 container QSZB-514
+								245 button (expanded) Secondary Actions: Collapse, 1912 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									246 button 1912 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										247 button
+										248 text 1912
+										249 text Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000"
+										250 text 8 de janeiro de 2023
+										251 button Rogério J Barbosa
+								252 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								253 link Description: SAIBA MAIS, Value: …
+								254 button ANEXOS COM INDIVÍDUOS PENDENTES
+								255 button DISPENSAR
+								877 container qa4gj6rjktpk
+									878 button VISUALIZAR
+									879 button EDITAR
+									880 button ANALISAR ANEXOS
+									881 button DESANEXAR
+									882 heading Marcadores, Value: 3
+										883 text Marcadores
+									884 button Sexo
+									885 button Nome
+									886 button + Acrescentar marcação
+									887 heading Data da fonte 27 de outubro de 1912, Value: 3
+										888 text Data da fonte
+										889 text 27 de outubro de 1912
+									890 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3W-GZ2P, Value: 3
+										891 text Página do site (link para o registro)
+										892 link Description: https://familysearch.org/ark:/61903/1:1:6D3W-GZ2P, Value: …
+									893 heading Onde o registro foi encontrado (referência) , Value: 3
+										894 text Onde o registro foi encontrado (referência)
+									895 container
+										896 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3W-GZ22 : Thu Jan 01 08:03:15 UTC 2026), Entry for Lidio Ruperto Méndez and Leopoldo Laurecha, 27 de octubre de 1912.
+									897 heading Informações indexadas, Value: 3
+										898 text Informações indexadas
+									899 button EXIBIR
+									900 heading Fonte modificada:, Value: 3
+										901 text Fonte modificada:
+									902 link Description: VER ALTERAÇÕES, Value: …
+									903 text 8 de janeiro de 2023
+									904 button Rogério J Barbosa
+									905 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										906 text Motivo pela qual esta fonte está anexada:
+									907 button + ACRESCENTAR
+							256 container WW6C-YXV
+								257 button (expanded) Secondary Actions: Collapse, 1912 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 23 de abril de 2026 FloresSylviaAnabel
+									258 button 1912 Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000" 23 de abril de 2026 FloresSylviaAnabel
+										259 button
+										260 text 1912
+										261 text Joaquín Méndez, "Uruguay, registros parroquiales, 1726-2000"
+										262 text 23 de abril de 2026
+										263 button FloresSylviaAnabel
+								264 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								265 link Description: SAIBA MAIS, Value: …
+								266 button ANEXOS COM INDIVÍDUOS PENDENTES
+								267 button DISPENSAR
+								908 container Mqgorayrj8u
+									909 button VISUALIZAR
+									910 button EDITAR
+									911 button ANALISAR ANEXOS
+									912 button DESANEXAR
+									913 heading Marcadores, Value: 3
+										914 text Marcadores
+									915 button Sexo
+									916 button Nome
+									917 button + Acrescentar marcação
+									918 heading Data da fonte 27 de outubro de 1912, Value: 3
+										919 text Data da fonte
+										920 text 27 de outubro de 1912
+									921 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3W-GZ2Z, Value: 3
+										922 text Página do site (link para o registro)
+										923 link Description: https://familysearch.org/ark:/61903/1:1:6D3W-GZ2Z, Value: …
+									924 heading Onde o registro foi encontrado (referência) , Value: 3
+										925 text Onde o registro foi encontrado (referência)
+									926 container
+										927 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3W-GZ24 : Thu Jan 01 08:03:15 UTC 2026), Entry for Hector Luís J Méndez and Leopoldo Zamedia, 27 de octubre de 1912.
+									928 heading Informações indexadas, Value: 3
+										929 text Informações indexadas
+									930 button EXIBIR
+									931 heading Fonte modificada:, Value: 3
+										932 text Fonte modificada:
+									933 link Description: VER ALTERAÇÕES, Value: …
+									934 text 23 de abril de 2026
+									935 button FloresSylviaAnabel
+									936 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										937 text Motivo pela qual esta fonte está anexada:
+									938 button + ACRESCENTAR
+							268 container Q9BM-1Z8
+								269 button (expanded) Secondary Actions: Collapse, 1920 {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+									270 button 1920 {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+										271 button
+										272 text 1920
+										273 text {name} na entrada para Luis Alberto Salgado, “Batismos peruanos, 1556-1930”
+										274 text 30 de dezembro de 2022
+										275 button Rogério J Barbosa
+								939 container Qs64mi4rzphc
+									940 button VISUALIZAR
+									941 button EDITAR
+									942 button ANALISAR ANEXOS
+									943 button DESANEXAR
+									944 heading Marcadores, Value: 3
+										945 text Marcadores
+									946 button Sexo
+									947 button Nome
+									948 button + Acrescentar marcação
+									949 heading Data da fonte 29 de junho de 1920, Value: 3
+										950 text Data da fonte
+										951 text 29 de junho de 1920
+									952 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:HR3C-9T2M, Value: 3
+										953 text Página do site (link para o registro)
+										954 link Description: https://familysearch.org/ark:/61903/1:1:HR3C-9T2M, Value: …
+									955 heading Onde o registro foi encontrado (referência) , Value: 3
+										956 text Onde o registro foi encontrado (referência)
+									957 container
+										958 text "Perú, bautismos, 1556-1930", ,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:HR3C-9T2M : 8 February 2020), Joaquin in entry for Luis Alberto Salgado, 1920.
+									959 heading Informações indexadas, Value: 3
+										960 text Informações indexadas
+									961 button EXIBIR
+									962 heading Fonte modificada:, Value: 3
+										963 text Fonte modificada:
+									964 link Description: VER ALTERAÇÕES, Value: …
+									965 text 30 de dezembro de 2022
+									966 button Rogério J Barbosa
+									967 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										968 text Motivo pela qual esta fonte está anexada:
+									969 button + ACRESCENTAR
+							276 container Q9B9-M2V
+								277 button (expanded) Secondary Actions: Collapse, 1921 {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+									278 button 1921 {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930” 30 de dezembro de 2022 Rogério J Barbosa
+										279 button
+										280 text 1921
+										281 text {name} na entrada para Ema Alice Marquez Salgado, “Batismos peruanos, 1556-1930”
+										282 text 30 de dezembro de 2022
+										283 button Rogério J Barbosa
+								970 container co771tvhfqq
+									971 button VISUALIZAR
+									972 button EDITAR
+									973 button ANALISAR ANEXOS
+									974 button DESANEXAR
+									975 heading Marcadores, Value: 3
+										976 text Marcadores
+									977 button Sexo
+									978 button Nome
+									979 button + Acrescentar marcação
+									980 heading Data da fonte 23 de abril de 1921, Value: 3
+										981 text Data da fonte
+										982 text 23 de abril de 1921
+									983 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:HR3H-YHZM, Value: 3
+										984 text Página do site (link para o registro)
+										985 link Description: https://familysearch.org/ark:/61903/1:1:HR3H-YHZM, Value: …
+									986 heading Onde o registro foi encontrado (referência) , Value: 3
+										987 text Onde o registro foi encontrado (referência)
+									988 container
+										989 text "Perú, bautismos, 1556-1930", ,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:HR3H-YHZM : 8 February 2020), Joaquin in entry for Ema Alice Marquez Salgado, 1921.
+									990 heading Informações indexadas, Value: 3
+										991 text Informações indexadas
+									992 button EXIBIR
+									993 heading Fonte modificada:, Value: 3
+										994 text Fonte modificada:
+									995 link Description: VER ALTERAÇÕES, Value: …
+									996 text 30 de dezembro de 2022
+									997 button Rogério J Barbosa
+									998 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										999 text Motivo pela qual esta fonte está anexada:
+									1000 button + ACRESCENTAR
+							284 container 7JP3-5J4
+								285 button (expanded) Secondary Actions: Collapse, 1924 Joaquin Mendez Arruda, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+									286 button 1924 Joaquin Mendez Arruda, "Uruguay, registro civil, 1879-2020" 4 de maio de 2025 FloresSylviaAnabel
+										287 button
+										288 text 1924
+										289 text Joaquin Mendez Arruda, "Uruguay, registro civil, 1879-2020"
+										290 text 4 de maio de 2025
+										291 button FloresSylviaAnabel
+								1001 container fji1razpnxfq
+									1002 button VISUALIZAR
+									1003 button EDITAR
+									1004 button ANALISAR ANEXOS
+									1005 button DESANEXAR
+									1006 heading Marcadores, Value: 3
+										1007 text Marcadores
+									1008 button Sexo
+									1009 button Nome
+									1010 button + Acrescentar marcação
+									1011 heading Data da fonte 7 de abril de 1924, Value: 3
+										1012 text Data da fonte
+										1013 text 7 de abril de 1924
+									1014 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:XS1S-P95Z, Value: 3
+										1015 text Página do site (link para o registro)
+										1016 link Description: https://familysearch.org/ark:/61903/1:1:XS1S-P95Z, Value: …
+									1017 heading Onde o registro foi encontrado (referência) , Value: 3
+										1018 text Onde o registro foi encontrado (referência)
+									1019 container
+										1020 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:XS1S-P95C : Wed Aug 12 04:08:53 UTC 2026), Entry for Juan Pantaleon Mendez Olivera and Joaquin Mendez Arruda, 7 Apr 1924.
+									1021 heading Informações indexadas, Value: 3
+										1022 text Informações indexadas
+									1023 button EXIBIR
+									1024 heading Fonte modificada:, Value: 3
+										1025 text Fonte modificada:
+									1026 link Description: VER ALTERAÇÕES, Value: …
+									1027 text 4 de maio de 2025
+									1028 button FloresSylviaAnabel
+									1029 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										1030 text Motivo pela qual esta fonte está anexada:
+									1031 button + ACRESCENTAR
+				292 container
+					293 container Links no rodapé
+						294 link Description: Sobre, Value: …
+						295 link Description: Voluntário, Value: …
+						296 link Description: Blog, Value: …
+						297 link Description: Encontrar antepassados, Value: …
+						298 link Description: DNA, Value: …
+						299 link Description: Entre em Contato Conosco, Value: …
+						300 link Description: Mapa do Site, Value: …
+						301 text |
+						302 button mais links
+					303 container Links jurídicos
+						304 link Description: Suporte de acessibilidade, Value: …
+						305 container
+							306 link Description: Termos de uso do FamilySearch, Value: …
+							307 text  | 
+							308 link Description: Notificação de privacidade, Value: …
+							309 text  | 
+							310 link Description: Mapa do Site, Value: …
+							311 text  | 
+							312 link Description: Opções de país e idioma, Value: …
+						313 container
+							314 text © 2026 Intellectual Reserve, Inc. Todos os direitos reservados. Um serviço fornecido por 
+							315 link Description: A Igreja de Jesus Cristo dos Santos dos Últimos Dias, Value: …
+							316 text .
+
+The focused UI element is 52 switch Description: Visualização detalhada, Value: 1

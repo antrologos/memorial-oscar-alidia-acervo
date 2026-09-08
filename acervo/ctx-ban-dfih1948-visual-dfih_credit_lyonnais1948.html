@@ -1,0 +1,393 @@
+<!DOCTYPE html> <html lang=fr> <head> <meta charset=utf-8> <meta content="width=device-width,initial-scale=1,shrink-to-fit=no" name=viewport> <meta content=#aa1e1e name=theme-color> <base href="/"> <link href=global.css rel=stylesheet> <link href=manifest.json rel=manifest> <link href=favicon.png rel=icon type=image/png> <link rel="stylesheet" href="client/main.563897022.css"><link rel="stylesheet" href="client/app.eedea0ef.css"> <noscript id='sapper-head-start'></noscript><title>Crédit Lyonnais | Issuers | DFIH</title><meta name="google-site-verification" content="nRaYMivMQG_t4kcaat2d8ecHdWmTGfh-XdjPnRl7Ytk"><noscript id='sapper-head-end'></noscript> </head> <body> <div id=sapper style=display:flex;flex-direction:column;min-height:100vh>
+
+
+
+
+<nav class="bg-secondary fixed-top navbar navbar-dark navbar-expand-lg">
+  <a class="navbar-brand" href="/" rel="prefetch">
+    <img alt="" height="37" src="/dfih-logo-150x74.png" width="75">
+    <span id="navbar_title" class="svelte-5iudt4">Data for Financial History</span>
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Basculer l'affichage de la navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+          <a class="active nav-link" href="/stock-exchanges" rel="prefetch">
+            Stock Exchanges
+          </a>
+        </li>
+      <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+          <a class="nav-link" href="/issuers" rel="prefetch">
+            Issuers
+            <span class="sr-only">(current)</span>
+          </a>
+        </li>
+      <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+          <a class="active nav-link" href="/persons" rel="prefetch">Persons</a>
+        </li>
+      
+    </ul>
+    <ul class="navbar-nav">
+      <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+          <a class="active nav-link" href="/use" rel="prefetch">
+            Use DFIH Data
+          </a>
+        </li>
+      <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+          <a class="active nav-link" href="/about" rel="prefetch">About</a>
+        </li>
+      <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+          <a class="active nav-link" href="/publications" rel="prefetch">
+            Publications
+          </a>
+        </li>
+      <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+          <a class="active nav-link" href="/team" rel="prefetch">Team</a>
+        </li>
+      <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
+        <a class="active nav-link" href="https://wiki.dfih.fr/" target="_blank">
+          Wiki
+        </a>
+      </li>
+      <li class="nav-item">
+          <a class="active nav-link" href="/authenticate">Sign in</a>
+        </li>
+      
+    </ul>
+  </div>
+</nav>
+<div style="height: 63px;"></div>
+
+<div class="page svelte-14w1bi3">
+  <script>
+    // @ts-ignore
+    var isIE = /*@cc_on!@*/ false || !!document.documentMode // eslint-disable-line no-undef
+    if (isIE) {
+      // eslint-disable-next-line no-undef
+      document.body.innerHTML =
+        "<h1>Your browser is outdated. Please try with another one.</h1>"
+    }
+    
+  /* Matomo */
+  var isClient = typeof window === "undefined" ? false : true
+  if (isClient) {
+    var _paq = window._paq || []
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(["trackPageView"])
+    _paq.push(["enableLinkTracking"])
+    ;(function() {
+      var u = "https://analytics.nomics.world/"
+      _paq.push(["setTrackerUrl", u + "matomo.php"])
+      _paq.push(["setSiteId", "6"])
+      var d = document,
+        g = d.createElement("script"),
+        s = d.getElementsByTagName("script")[0]
+      g.type = "text/javascript"
+      g.async = true
+      g.defer = true
+      g.src = u + "matomo.js"
+      s.parentNode.insertBefore(g, s)
+    })()
+  }
+  /* End Matomo */
+  </script>
+
+  
+	
+
+<main>
+  <h1 class="container h2 mt-3">
+    <span class="text-muted">Issuer</span>
+    <sup>
+      <small class="h6">
+        <a class="badge badge-info badge-pill" data-toggle="modal" href="#help-modal" title="Definition of issuer">
+          ?
+        </a>
+      </small>
+    </sup>
+    Crédit Lyonnais
+  </h1>
+
+  <div class="container-fluid">
+    <ul class="justify-content-center nav nav-tabs">
+      <li class="nav-item">
+        <a class="nav-link" href="/issuers/1245" rel="prefetch">
+            Summary
+          </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/issuers/1245/juridical-status" rel="prefetch">
+            Juridical Status
+          </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/issuers/1245/locations" rel="prefetch">
+            Locations
+          </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/issuers/1245/equity-capital" rel="prefetch">
+            Equity Capital
+          </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/issuers/1245/balance-sheets" rel="prefetch">
+            Balance Sheets
+          </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/issuers/1245/persons" rel="prefetch">
+            Persons
+          </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/issuers/1245/securities" rel="prefetch">
+            Securities
+          </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/issuers/1245/profit-dividends" rel="prefetch">
+            Profits and Dividends
+          </a>
+      </li>
+      <li class="nav-item">
+        <span class="nav-link active">
+            Raw Yearbook OCR
+            <sup>
+              <small class="h7">
+                <a class="badge badge-info badge-pill" data-toggle="modal" href="#help-modal" title="Definition of yearbook">
+                  ?
+                </a>
+              </small>
+            </sup>
+            <span class="sr-only">(current)</span>
+          </span>
+      </li>
+    </ul>
+  </div>
+
+  
+			<div class="container-fluid">
+  <div class="form-group">
+    <label class="h2 mt-3" for="ocr-yearbooks-list">
+      This issuer is found in yearbooks
+      
+    </label>
+    <select class="form-control" id="ocr-yearbooks-list" style="width:auto;">
+      <option  value="annuaire_cac_1880">
+          Annuaire de la Compagnie des Agents de Change 1880 p. 360
+        </option><option  value="annuaire_cac_1883">
+          Annuaire de la Compagnie des Agents de Change 1883 p. 457
+        </option><option  value="annuaire_cac_1888">
+          Annuaire de la Compagnie des Agents de Change 1888 p. 509
+        </option><option  value="annuaire_cac_1893">
+          Annuaire de la Compagnie des Agents de Change 1893 p. 555
+        </option><option  value="annuaire_cac_1898">
+          Annuaire de la Compagnie des Agents de Change 1898 p. 647
+        </option><option  value="annuaire_cac_1903">
+          Annuaire de la Compagnie des Agents de Change 1903 p. 672
+        </option><option  value="annuaire_cac_1908">
+          Annuaire de la Compagnie des Agents de Change 1908 p. 561
+        </option><option  value="annuaire_df_1912">
+          Annuaire Desfossés 1912 p. 255
+        </option><option  value="annuaire_df_1914">
+          Annuaire Desfossés 1914 p. 281
+        </option><option  value="annuaire_df_1917">
+          Annuaire Desfossés 1917 p. 242
+        </option><option  value="annuaire_df_1920">
+          Annuaire Desfossés 1920 p. 247
+        </option><option  value="annuaire_df_1923">
+          Annuaire Desfossés 1923 p. 279
+        </option><option  value="annuaire_df_1925">
+          Annuaire Desfossés 1925 p. 308
+        </option><option  value="annuaire_df_1927">
+          Annuaire Desfossés 1927 p. 242
+        </option><option  value="annuaire_df_1929">
+          Annuaire Desfossés 1929 p. 249
+        </option><option  value="annuaire_df_1931">
+          Annuaire Desfossés 1931 p. 256
+        </option><option  value="annuaire_df_1933">
+          Annuaire Desfossés 1933 p. 258
+        </option><option  value="annuaire_df_1937">
+          Annuaire Desfossés 1937 p. 276
+        </option><option  value="annuaire_df_1940">
+          Annuaire Desfossés 1940 p. 2244
+        </option><option  value="annuaire_df_1940">
+          Annuaire Desfossés 1940 p. 271
+        </option><option  value="annuaire_df_1945">
+          Annuaire Desfossés 1945 p. 291
+        </option><option selected value="annuaire_df_1948">
+          Annuaire Desfossés 1948 p. 317
+        </option><option  value="annuaire_df_1953">
+          Annuaire Desfossés 1953 p. 149
+        </option>
+    </select>
+  </div>
+
+  <div class="row">
+      <div class="col-sm-8">
+        <table class="table">
+          <thead>
+            <tr>
+              <th class="text-center">Item</th>
+              <th class="text-center">Raw OCR</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+                <td>Dénomination</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   CREDIT LYONNAIS
+
+                </td>
+              </tr><tr>
+                <td>Introduction (constitution)</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   Société anonyme française (constituée &#39;le 6 juillet 1863) nationalisée à compter du îer janvier 1946 (Loi du 2 décembre 1945).
+
+                </td>
+              </tr><tr>
+                <td>Objet</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   Objet : Toutes opérations de banque.
+
+                </td>
+              </tr><tr>
+                <td>Siège</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   Siège : à Lyon, 18, rue de ,1a République. Siège central : Paris, boulevard des Italiens, 19. Tél. : OPE. 18-90. RIO. 80-40, 66-50.	.
+ 1400 Agences en France et dans des territoires français d_&#39;Outremer. Agences a l&#39;étranger : Londres, Anvers, Bruxelles, Gand, Alexandrie, Le Oaire, Pord-Saïd, Genève, Madrid, Barcelone, Luxembourg, Monte-Carlo, Crédit Franco-Portugais (Lisbonne, Porto). Banco frances e brasileiro (Sâo-Paulo).
+
+                </td>
+              </tr><tr>
+                <td>Capital</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   Capital social : Un milliard, en 2 millions d&#39;actions de 500 fr. entièr. libérées. A. l&#39;origine, 20 millions, porté en 1872 à 60 millions; en 1875 à 75 millions; en 1879 à 100 millions ; en 1881 à 200 millions ; en 1900 à 250 millions. En novembre 1926, le capital a été porté à 255 millions par émission à 725 francs de 10.000 actions B à vote plural, les actions anciennes &#39;étant dites A. En 1929, il a été porté à 408 millions par l&#39;émission à 2.000 francs de 300.000 actions A et de 6.000 B à 165 francs. Ramené en mai 1935 à 400 millions par d&#39;annulation par rachat à 500 francs des 16.000 actions B à vote plural. Porté en mars 1943 au chiffre actuel &#39;émission à 665 francs).
+
+                </td>
+              </tr><tr>
+                <td>Administrateurs</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   Conseil d&#39;administration : M. Louis Escallier, P. ; M. E. Esearra, Adm.-Dir. gen. ; M. E. Dallé, V.-P. ; M. P. Jonas, V.-P. Administrateurs : MM. R. Larue, J. Bolgert, G. Cotte, Y. Masson, H. Raynaud, L. Tardy, R. Yilleminot, M. de Vogüé.
+ Adm.-Dir. gén. : M. E. Esearra ; Dir. gén. des Affaires financières ; M. O. Moreau-Yéret ; Dir.-gén. adjoint : M. de Margerie. Censeur : M. Alphandéry.
+
+                </td>
+              </tr><tr>
+                <td>Titres</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   Parts : 2.000.000 de titres essentiellement nominatifs remis aux actionnaires à ■raison d&#39;une part pour une action. Ces parts sont rachetables par l&#39;Etat à partir du 1er janvier 1947 par tirages au sort à raison, chaque année, d&#39;un cinquantième au moins des parts créées, au prix de 2.321 fr.
+ En outre il a été créé 105.242 parts en paiement de l&#39;impôt de solidarité qui ont été rémises à l&#39;Etat et aux sociétés participantes.
+
+                </td>
+              </tr><tr>
+                <td>Bénéfices (répartition)</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   Répartition des bénéfices : La répartition minimum garantie aux parts est de 3 % du prix de rachat de celles-ci (2.321 fr.), soit 69,63 brut.
+
+                </td>
+              </tr><tr>
+                <td>Titres (emprunt/coupon)</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   Coupons : Lyon, Paris et toutes agences.
+
+                </td>
+              </tr><tr>
+                <td>Transfert</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   Transferts et oppositions : A Paris, au siégé central.
+
+                </td>
+              </tr><tr>
+                <td>Inscription (cotation)</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   Cotation : Parquet, Parts C.D. 3.
+
+                </td>
+              </tr><tr>
+                <td>Compte Résultats</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   BÉNÉFICE DÉCLARÉ REPORT A NOUVEAU BÉNÉFICE DISTRIBUÉ DIVIDENDE PAR PART ] ACOMPTE PAR ACTION SOLDE TOTAL En 1.000 francs En francs 1938 88.281 32.228 &#39;83.730 » 45 55 » 100 » 1939 87.272 35.956 83.544 » 45 55 » 100 » 1940 - 87.975 40.309 83.622 » 45 55 » 100 » 1941 88.870 &#39; 45.456 83.723 » 45 55 » 100 » 1942 89.139 48.870 83.725 &#39; » 45 55 » 100 » 1943 126.721 50.660 124.931 » 25 34 08 ,59 08 y 1944 127.997 50.857 127.800 » » » 60 » 1945 184.568 50 235.376 » » » 108 10 1946 35.828 50 146.588(1) 69 63 » » » 1947 147.008 3.402 143.656-69 63 » » » (1) Le complément ; du dividem le a été prèle ;vé sur uni 3 réserve : incluse dai îs les cré-diteurs di Lvers.
+
+                </td>
+              </tr><tr>
+                <td>Bilan</td>
+                <td style="white-space:pre-wrap; word-wrap:break-word">
+                   BILANS AU 31 DECEMBRE 1944 1945 1946 1947 PASSIF En 1.000 francs I. — Capital 1.00,0.000 1.000.000 1.000.000 1.000.000 Réserves 1.000.000 1.000.000 1.000.000 1.000.000 Report à nouveau 50.857 50 50 3.402 H. — Acceptations 135.387 976.541 4.972.111 8.245.569 Comptes courants et dépôts.
+ 39.569.040 75.406.397 93.931.581 10S.590.646 Créditeurs divers 8.555.956 9.825.810 16.948.461 24.131.352 II. — Dividende et tantièpies ..
+ 127.800 235.377 146.588 143.656 ACTIF I. — Immeubles 35.000 35.000 35.000 35.000 Portef euill es-titres 3.430 675.336 663.508 768.047 — Comptes courants et débi-teurs divers 8.295.188 15.488.928 28.529.036 43.158.547 Ml. — Portefeuille, effets 36.627.482 62.195.260 77.108.691 85.443.613 Banques et correspondants.
+ 1.484.204 4.234.008 4.169.794 5.387.061 Caisse, trésor, banques d&#39;émission 3.993.736 5.815.643 7.492.762 8.322.357 50.489.040 88.444.175 117.998.791 143.114.625
+
+                </td>
+              </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-sm-4">
+        <div style="overflow:hidden; position: -webkit-sticky; position: sticky;
+          top: 0;">
+          <h1>
+              <i class="material-icons" style="color:blue; cursor:pointer; font-size:48px;
+                position:absolute; top:50%; z-index:2;">
+                navigate_before
+              </i>
+            </h1>
+            <img id="panImg" src="https://images.eurhisfirm.eu/Annuaires/DESFOSSES/1948_T1/1948_T1_T_0317.jpg" alt="" style="cursor:grab; width:100%; z-index:-1;">
+            <h1>
+              <i class="material-icons" style="color:blue; cursor:pointer; font-size:48px;
+                position:absolute; right:0px; top:50%; z-index:2;">
+                navigate_next
+              </i>
+            </h1>
+        </div>
+      </div>
+    </div>
+</div>
+		
+
+</main>
+
+
+  <div class="mt-3 text-center">
+    <button class="btn btn-link btn-sm" data-toggle="modal" type="button">
+      Report an issue on this page
+    </button>
+  </div>
+
+  
+  
+</div>
+
+<footer class="bg-light d-flex justify-content-center pt-3 text-muted">
+  <small>
+    <table class="align-top">
+      <tbody>
+        <tr>
+          <th class="text-right" scope="row">How to:</th>
+          <td>
+            <a href="/cite"><strong>Cite the DFIH project</strong></a>
+            —
+            <a href="/use"><strong>Use the data or the software</strong></a>
+            —
+            <a href="/contribute"><strong>Contribute to project</strong></a>
+          </td>
+        </tr>
+        <tr>
+          <th class="text-right" scope="row">Text &amp; data:</th>
+          <td>
+            Copyright © 2010-2018 École d’économie de Paris (PSE)
+          </td>
+        </tr>
+        <tr>
+          <th class="text-right" scope="row">Software:</th>
+          <td>
+            Copyright © 2018 École d’économie de Paris (PSE) —
+            <a href="https://gitlab.huma-num.fr/eurhisfirm/dfih-ui" target="_blank">Source code</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </small>
+</footer></div> <script>__SAPPER__={baseUrl:"",preloaded:[void 0,null,(function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,_,$,aa,ab,ac,ad,ae,af,ag,ah,ai,aj,ak,al,am,an,ao,ap,aq,ar,as,at,au,av,aw,ax,ay,az,aA,aB,aC,aD,aE,aF,aG,aH,aI,aJ,aK,aL,aM,aN,aO,aP,aQ,aR,aS,aT,aU,aV,aW,aX,aY,aZ,a_,a$,ba,bb,bc,bd,be,bf,bg,bh,bi,bj,bk,bl,bm,bn,bo,bp,bq,br,bs,bt,bu,bv,bw,bx,by,bz,bA,bB,bC,bD,bE,bF,bG,bH,bI,bJ,bK,bL){return {issuer:{id:1245,names:["CREDIT LYONNAIS","CRÉDIT LYONNAIS",N,"Crédit lyonnais"],name:N,balance_sheets:[{start_date:as,source:O,page:P},{start_date:"1906-12-31",source:Q,page:R},{start_date:"1910-12-31",source:S,page:T},{start_date:"1911-12-31",source:"Annuaire de la Compagnie des Agents de Change 1913",page:a},{start_date:"1912-12-31",source:at,page:au},{start_date:"1916-12-31",source:U,page:s},{start_date:"1919-12-31",source:av,page:aw},{start_date:"1921-12-31",source:"Annuaire de la Compagnie des Agents de Change 1922",page:a},{start_date:"1922-12-31",source:V,page:W},{start_date:"1923-12-31",source:ax,page:ay},{start_date:"1925-12-31",source:X,page:s},{start_date:"1927-12-31",source:az,page:aA},{start_date:"1929-12-31",source:aB,page:aC},{start_date:"1930-12-31",source:"Annuaire Desfossés 1932",page:a},{start_date:"1931-12-31",source:Y,page:Z},{start_date:"1932-12-31",source:"Annuaire Desfossés 1936",page:a},{start_date:"1933-12-31",source:_,page:$},{start_date:"1934-12-31",source:_,page:$},{start_date:"1935-12-31",source:v,page:a},{start_date:"1936-12-31",source:v,page:a},{start_date:aa,source:v,page:a},{start_date:"1938-12-31",source:w,page:x},{start_date:"1942-12-31",source:w,page:x},{start_date:"1943-12-31",source:w,page:x},{start_date:"1944-12-31",source:y,page:z},{start_date:"1945-12-31",source:y,page:z},{start_date:"1946-12-31",source:y,page:z},{start_date:"1947-12-31",source:q,page:r},{start_date:"1948-12-31",source:q,page:r},{start_date:"1949-12-31",source:q,page:r},{start_date:"1950-12-31",source:q,page:r},{start_date:ab,source:q,page:r}],balance_sheets_stats:{start_date:as,end_date:ab},locations_stats:{start_date:aD,end_date:aE},locations:{"Siège social":[{location_types_id:g,location_type:aF,address:"Palais du commerce",city:aG,district:aH,country:l,in_yearbook_from:h,in_yearbook_to:1933},{location_types_id:g,location_type:aF,address:"Rue de la république, 18",city:aG,district:aH,country:l,in_yearbook_from:1937,in_yearbook_to:n}],"Agences / Succursales":[{location_types_id:b,location_type:c,address:"Boulevard des italiens, 19 et 20",city:i,district:i,country:l,in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:a,city:"Alexandrie",district:a,country:E,in_yearbook_from:h,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Genève",district:a,country:"Suisse",in_yearbook_from:h,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Istanbul",district:a,country:"Turquie",in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:a,city:"Londres",district:"Angleterre",country:"Grande Bretagne et Irlande du Nord",in_yearbook_from:h,in_yearbook_to:ac},{location_types_id:b,location_type:c,address:a,city:aI,district:a,country:F,in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:a,city:aJ,district:aJ,country:"Etats-Unis d'Amérique",in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:a,city:"Petrograd",district:a,country:"Union des républiques socialistes soviétiques",in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:a,city:a,district:a,country:l,in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:"Boulevard des italiens, 19 et 21",city:i,district:i,country:l,in_yearbook_from:ad,in_yearbook_to:1908},{location_types_id:b,location_type:c,address:a,city:i,district:i,country:l,in_yearbook_from:ad,in_yearbook_to:ad},{location_types_id:b,location_type:c,address:a,city:"Bruxelles",district:a,country:ae,in_yearbook_from:af,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Lisbonne",district:a,country:ag,in_yearbook_from:af,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:aI,district:a,country:F,in_yearbook_from:af,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Anvers",district:a,country:ae,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Barcelone",district:a,country:F,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Gand",district:a,country:ae,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Ismaïlia",district:a,country:E,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Le Caire",district:aK,country:E,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:aL,district:a,country:aL,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Monte-Carlo",district:a,country:"Monaco",in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:i,district:i,country:l,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Port-Said",district:a,country:E,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Porto",district:a,country:ag,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Séville",district:a,country:F,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:a,district:a,country:ag,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Sâo-Paulo",district:a,country:"Brésil",in_yearbook_from:ac,in_yearbook_to:ac},{location_types_id:b,location_type:c,address:a,city:"Alep",district:aK,country:aM,in_yearbook_from:n,in_yearbook_to:n},{location_types_id:b,location_type:c,address:a,city:"Damas",district:"Yonne",country:aM,in_yearbook_from:n,in_yearbook_to:n},{location_types_id:b,location_type:c,address:a,city:"Sarrebruck",district:a,country:"République fédérale d'Allemagne",in_yearbook_from:n,in_yearbook_to:n}],"Siège Commercial":[{location_types_id:G,location_type:aN,address:aO,city:i,district:i,country:l,in_yearbook_from:1912,in_yearbook_to:n},{location_types_id:G,location_type:aN,address:aO,city:i,district:i,country:l,in_yearbook_from:aP,in_yearbook_to:aP}]},persons:[{persons_count:m,yearbook:aQ,source:aR,page:aS},{persons_count:H,yearbook:aT,source:A,page:aU},{persons_count:H,yearbook:aV,source:aW,page:aX},{persons_count:ah,yearbook:aY,source:aZ,page:a_},{persons_count:9,yearbook:O,source:ai,page:P},{persons_count:19,yearbook:Q,source:a$,page:R},{persons_count:b,yearbook:S,source:ba,page:T},{persons_count:ah,yearbook:U,source:bb,page:s},{persons_count:I,yearbook:V,source:bc,page:W},{persons_count:7,yearbook:X,source:bd,page:s},{persons_count:13,yearbook:Y,source:J,page:Z},{persons_count:10,yearbook:v,source:aj,page:a},{persons_count:14,yearbook:w,source:ak,page:x},{persons_count:H,yearbook:y,source:K,page:z},{persons_count:al,yearbook:q,source:be,page:r}],persons_stats:{persons_count:bf,start_date:aD,end_date:aE},yearbooks_ocrs:[{source:aR,yearbook:aQ,page:aS},{source:A,yearbook:aT,page:aU},{source:aW,yearbook:aV,page:aX},{source:L,yearbook:"Annuaire de la Compagnie des Agents de Change 1893",page:"552"},{source:aZ,yearbook:aY,page:a_},{source:ai,yearbook:O,page:P},{source:a$,yearbook:Q,page:R},{source:ba,yearbook:S,page:T},{source:"annuaire_df_1914",yearbook:at,page:au},{source:bb,yearbook:U,page:s},{source:"annuaire_df_1920",yearbook:av,page:aw},{source:bc,yearbook:V,page:W},{source:"annuaire_df_1925",yearbook:ax,page:ay},{source:bd,yearbook:X,page:s},{source:"annuaire_df_1929",yearbook:az,page:aA},{source:"annuaire_df_1931",yearbook:aB,page:aC},{source:J,yearbook:Y,page:Z},{source:"annuaire_df_1937",yearbook:_,page:$},{source:aj,yearbook:v,page:a},{source:ak,yearbook:w,page:x},{source:K,yearbook:y,page:z},{source:be,yearbook:q,page:r}],juridical_status:[{juridical_status:"Société à Responsabilité Limitée",start_date:bg,end_date:"1872-04-24",comments:"Transformation de la Société à responsabilité limitée qui avait été constituée au capital de 20 millions, suivant acte reçu par Me Thomasset, notaire à Lyon, le 6 juillet 1863.",source:A},{juridical_status:"Société Anonyme (Libre)",start_date:bh,end_date:"1945-12-30",comments:"Société anonyme formée par le statuts dressés par M° Messimy, notaire à Lyon le 06 avril 1872, constituée définitivement le 25 avril 1872.",source:K},{juridical_status:"Etablissement public",start_date:"1946-01-01",end_date:e,comments:"Société anonyme française (constituée le 6 juillet 1863) nationalisée à compter du 1er janvier 1946 (Loi du 2 décembre 1945).",source:K}],equity_capital:[{amount:"20.000.000",currency:a,infodate:bg,source:A,comments:bi},{amount:"50.000.000",currency:a,infodate:bh,source:A,comments:bi},{amount:"75.000.000",currency:o,infodate:"1875-04-16",source:L,comments:" Par décision de l’Assemblée générale du 16 avril 1875, ce capital a été porté à 75 millions, par la création de 50,000 actions nouvelles de 500 fr., qui ont été émises par la Société en mai 1875 et réservées aux anciens actionnaires, à raison de 1 action nouvelle pour 2 anciennes."},{amount:"100.000.000",currency:o,infodate:"1879-04-05",source:L,comments:" Par décision de l’Assemblée générale du 5 avril 1879, le capital a été élevé à 100 millions par la création de 50,000 actions nouvelles de 500 fr. qui ont été émises par la Société, en avril 1879, au prix de 625 fr. (dont 125 fr. ont été portés à la réserve), par souscription réservée aux anciens actionnaires à raison de 1 action nouvelle pour 3 anciennes."},{amount:"200.000.000",currency:o,infodate:"1881-04-26",source:L,comments:" Enfin, par décisions des Assemblées générales des 12 mars et 26 avril 1881, le capital social a été porté à 200 millions par la création de 200,000 actions nouvelles de 500 fr., qui ont été émises par la Société, en mars 1881, au prix de 750 fr. (dont 500 fr. applicables au capital et 250 fr. aux réserves), par souscription réservée aux anciens actionnaires à raison de 1 action nouvelle pour 1 ancienne."},{amount:"250.000.000",currency:o,infodate:"1900-07-02",source:ai,comments:"Par délibération dudit jour 10 avril, le Conseil d’administration a décidé la libération desdites actions en cinq versements échelonnés du 25 septembre 1894 au 25 septembre 1896, avec faculté accordée auxactiou-naires de libérer entièrement leurs titres dès le 10 avril 1894 et à toute époque, sous bonification d’un escompte de 3 % l’an. 4» Et à 250 millions de francs par décision des assemblés générales des 12 mai et 2 juillet 1900, au moyen de la création de 100,000 actions nouvelles de 500 francs, émises à 925 francs (500 francs affectés au capital, 400 francs aux réserves et 25 francs au compte d’intérêt de 1900), dont la souscription, ouverte du'15 au 31 mai, a été réservée aux actionnaires à raison de une action nouvelle pour quatre anciennes."},{amount:"255.000.000",currency:o,infodate:"1926-11-01",source:J,comments:bj},{amount:"408.000.000",currency:o,infodate:"1929-01-01",source:J,comments:bj},{amount:"400.000.000",currency:o,infodate:"1935-05-01",source:aj,comments:"400 millions, divisé en 800.000 actions de 500 francs ent. libérées. 4 l’origine, 20 millions, porté en 1872 à 50 millions; en 1875 à 75 millions; en 1879 à°100 millions; en 1881 à 200 millions; en 1900 à 250 millions. En novembre 192$, le capital a été porté à 255 millions par émission à 725 francs de 10.000 actions B*V vote plural, les actions anciennes étant dites A. En 1929, il a été porté à 408 millions par l’émission à 2.000 francs de 300.000 actions A et de 6.000 B à 565 francs. Ramené en mai 1935 à 400 millions par l’annulation par rachat à 500 francs des 16.000 actions B à vote plural."},{amount:"1.000.000.000",currency:o,infodate:"1943-03-01",source:ak,comments:"Un milliard, en 2 millions d’actions de .500: fr. entier. _ libérées. A l’origine, 20 millions, porté en 1872 à 50 . millions ; en 1875 à 75 millions ; en 187:9 à 100 millions ; en 1881 à 200 millions ; en 190.0 à 250 millions. En novembre 1926, le capital a été porté à 255 millions par émission à 725 francs de 10.000 actions B à vote plural, les actions anciennes étant dites A. En 1929, il a été porté à 408 millions par l’émission à 2.000 francs de 300.000 actions A et de 6.000 B à 665 francs. Ramené en mai 1935 à 400 millions par d’annulation par rachat à 500 francs des 16.000 actions : B à vote plural. Porté en mars 1943 au chiffre actuel (émission à 665 francs)."}],profit_dividends:[{first_date:"1863-12-31",last_date:ab,obs_count:637}],public_status:false,stock_exchanges:{"1":{id:g,name:"Paris (Official List)",listings_stats:{start_date:B},spot_prices_stats:{start_date:B,end_date:am},forward_prices_stats:{start_date:"1872-05-06",end_date:aa},options_prices_stats:{start_date:"1875-03-15",end_date:aa}}},securities:{"1654":{id:1654,name:"Crédit lyonnais, act. 500f, 250f payés Grosses coupures",share_type:{id:g,name:j},types:[{start_date:M,end_date:e,id:m,name:p,stock_group:k}],start_date:M,end_date:e,prices_from:M,prices_to:M,is_mainstock:f,prices_count:g},"1677":{id:1677,name:"Crédit Lyonnais, act. 500f., 250f. Payés, act. Anciennes non estampillées",share_type:{id:g,name:j},types:[{start_date:an,end_date:e,id:m,name:p,stock_group:k}],start_date:an,end_date:e,prices_from:an,prices_to:"1875-11-30",is_mainstock:f,prices_count:30},"1678":{id:1678,name:"Crédit Lyonnais, act. 500f, t. p.",share_type:{id:g,name:j},types:[{start_date:B,end_date:e,id:m,name:p,stock_group:k}],start_date:B,end_date:e,prices_from:B,prices_to:"1945-12-17",is_mainstock:g,prices_count:13395},"1680":{id:1680,name:"Crédit Lyonnais, act. 500f., 250f. Payés, act. Anciennes non estampillées Grosses coupures",share_type:{id:g,name:j},types:[{start_date:bk,end_date:e,id:m,name:p,stock_group:k}],start_date:bk,end_date:e,prices_from:a,prices_to:a,is_mainstock:f,prices_count:f},"1682":{id:1682,name:"Crédit Lyonnais, act. 500f., 250f. Payés, Grosses coupures",share_type:{id:g,name:j},types:[{start_date:bl,end_date:e,id:m,name:p,stock_group:k}],start_date:bl,end_date:e,prices_from:a,prices_to:a,is_mainstock:f,prices_count:f},"3819":{id:3819,name:"Crédit Lyonnais, actions 500 fr., actions libérées",share_type:{id:g,name:j},types:[{start_date:bm,end_date:e,id:m,name:p,stock_group:k}],start_date:bm,end_date:e,prices_from:"1894-05-15",prices_to:"1896-09-15",is_mainstock:f,prices_count:bf},"12379":{id:12379,name:"Crédit Lyonnais, parts bénéf. (nom.)",share_type:{id:g,name:j},types:[{start_date:bn,end_date:e,id:G,name:bo,stock_group:k}],start_date:bn,end_date:e,prices_from:"1946-10-28",prices_to:bp,is_mainstock:f,prices_count:663},"21049":{id:21049,name:"Crédit Lyonnais 8,80% 1973 de 1000 F (sér. A à H) (c. 6\u002F6\u002F74 att.) (Avis 73-515) 1981-88",share_type:{id:bq,name:br},types:[{start_date:ao,end_date:e,id:bs,name:bt,stock_group:bu}],start_date:ao,end_date:e,prices_from:ao,prices_to:bp,is_mainstock:f,prices_count:bv},"25144":{id:25144,name:"Crédit Lyonnais, act.nouv, lib. (nom) au comptant seulement)",share_type:{id:g,name:j},types:[{start_date:bw,end_date:e,id:m,name:p,stock_group:k}],start_date:bx,end_date:e,prices_from:by,prices_to:"1900-08-16",is_mainstock:f,prices_count:I},"25145":{id:25145,name:"Crédit Lyonnais, act.nouv, 375fr. restant à payer seulement",share_type:{id:g,name:j},types:[{start_date:bw,end_date:e,id:m,name:p,stock_group:k}],start_date:bx,end_date:e,prices_from:by,prices_to:"1900-09-15",is_mainstock:f,prices_count:6},"35150":{id:35150,name:"Crédit Lyonnais, parts bénéf., de F 23,21 (nom.) (Tir. 15\u002F11\u002F73)",share_type:{id:g,name:j},types:[{start_date:t,end_date:e,id:G,name:bo,stock_group:k}],start_date:t,end_date:e,prices_from:t,prices_to:am,is_mainstock:f,prices_count:bz},"35154":{id:35154,name:"Crédit Lyonnais 8,80% 1973 de 1000 F (sér. A à H) (c. 6\u002F6\u002F74 att.) (Avis 73-515). 1981-88 (Livraison en crédit SICOVAM sous les codes : 1061 série A, 1062 série B, 1063 série C, 1064 série D, 1065 série E, 1066 série F, 1067 série G, 1068 série H)",share_type:{id:bq,name:br},types:[{start_date:t,end_date:e,id:bs,name:bt,stock_group:bu}],start_date:t,end_date:e,prices_from:t,prices_to:am,is_mainstock:f,prices_count:bz},"101597":{id:101597,name:"Act. Crédit Lyonnais (coupon 95 ou bon)",share_type:{id:b,name:ap},types:[{start_date:aq,end_date:bA,id:C,name:D,stock_group:u}],start_date:aq,end_date:bA,prices_from:aq,prices_to:"1944-03-15",is_mainstock:f,prices_count:al},"101832":{id:101832,name:"Act. A. Crédit Lyonnais (dr. Et coup. 66). Pour 5 act. A anc., 3 act. A nouvelles émises à 2000 francs.",share_type:{id:b,name:ap},types:[{start_date:ar,end_date:bB,id:C,name:D,stock_group:u}],start_date:ar,end_date:bB,prices_from:ar,prices_to:"1929-03-15",is_mainstock:f,prices_count:al},"102226":{id:102226,name:"Act. Crédit Lyonnais. 3 act. nouv. mars 1943 émises à 665 fr. pour 2 bons",share_type:{id:b,name:ap},types:[{start_date:bC,end_date:e,id:C,name:D,stock_group:u}],start_date:bC,end_date:e,prices_from:a,prices_to:a,is_mainstock:f,prices_count:f},"104541":{id:104541,name:"Act. Credit Lyonnais",share_type:{id:I,name:bD},types:[{start_date:bE,end_date:bF,id:C,name:D,stock_group:u}],start_date:bE,end_date:bF,prices_from:"1944-03-31",prices_to:"1945-07-16",is_mainstock:f,prices_count:bv},"104542":{id:104542,name:"A. Crédit Lyonnais",share_type:{id:I,name:bD},types:[{start_date:bG,end_date:bH,id:C,name:D,stock_group:u}],start_date:bG,end_date:bH,prices_from:"1945-08-16",prices_to:"1945-11-15",is_mainstock:f,prices_count:ah},"104543":{id:104543,name:N,share_type:{id:H,name:bI},types:[{start_date:bJ,end_date:bK,id:502,name:bI,stock_group:u}],start_date:bJ,end_date:bK,prices_from:bL,prices_to:bL,is_mainstock:f,prices_count:g}}}}}(null,4,"Agences \u002F Succursales",1940,"3999-12-31",0,1,1880,"Paris","Stock (Action)","S","France",18,1953,"Franc","Action","Annuaire Desfossés 1953","149","242","1973-11-30","R","Annuaire Desfossés 1940","Annuaire Desfossés 1945","291","Annuaire Desfossés 1948","317","annuaire_cac_1883","1864-12-17",501,"Droit de souscription","Egypte","Espagne",20,8,5,"annuaire_df_1933","annuaire_df_1948","annuaire_cac_1893","1872-05-17","Crédit Lyonnais","Annuaire de la Compagnie des Agents de Change 1903","672","Annuaire de la Compagnie des Agents de Change 1908","561","Annuaire Desfossés 1912","255","Annuaire Desfossés 1917","Annuaire Desfossés 1923","279","Annuaire Desfossés 1927","Annuaire Desfossés 1933","258","Annuaire Desfossés 1937","276","1937-12-31","1951-12-31",1948,1884,"Belgique",1898,"Portugal",3,"annuaire_cac_1903","annuaire_df_1940","annuaire_df_1945",17,"1976-12-31","1875-05-04","1973-06-25","Rights (Droits)","1943-02-22","1929-03-07","1901-12-31","Annuaire Desfossés 1914","281","Annuaire Desfossés 1920","247","Annuaire Desfossés 1925","308","Annuaire Desfossés 1929","249","Annuaire Desfossés 1931","256","1880-01-01","1953-12-31","Siège social","Lyon","Rhône","Madrid","New York","District fictif","Luxembourg","Syrie","Siège Commercial","Boulevard des italiens, 19",1930,"Annuaire de la Compagnie des Agents de Change 1880","annuaire_cac_1880","360","Annuaire de la Compagnie des Agents de Change 1883","458","Annuaire de la Compagnie des Agents de Change 1888","annuaire_cac_1888","510","Annuaire de la Compagnie des Agents de Change 1898","annuaire_cac_1898","648","annuaire_cac_1908","annuaire_df_1912","annuaire_df_1917","annuaire_df_1923","annuaire_df_1927","annuaire_df_1953",84,"1863-07-06","1872-04-25","Le capital social de la Société à responsabilité limitée, constituée en 1863, avait été fixé à 20 millions ; celui de la Société anonyme, constituée en 1872, a été fixé à 50 millions, représenté par 100,000 actions de 500 fr., libérées de 250 fr., sur lesquelles 80,000 ont été attribuées à la liquidation de la Société à responsabilité limitée, en représentation de l’apport de son actif, et 20, 00 ont été souscrites au pair et libérées de 250 fr.","408 millions de francs, divisé en 816.000 actions de 500 francs, dont 800.000 A et 16.000 B. A l'origine 20 millions, porté en 1872 à 50 millions, en 1875 à 75 millions, en 1879 à 100 millions, en 1881 a 200 millions, en 1900 à 250 millions. En novembre 1926, le capital a été augmenté de 5 millions par émission de 10.000 actions B ayant droit à un vote plural dans toutes les assemblées. En 1929, il a été porté à 408 millions par l'émission de 300.000 actions A et de 6.000 B.","1875-11-25","1875-12-04","1894-04-26","1946-10-22","Part de bénéfice (part bénéficiaire)","1973-11-15",2,"Bond (Obligation)",1001,"Obligation ordinaire ou classique","B",11,"1000-01-01","1900-07-15","1900-07-16",75,"1944-03-25","1929-03-23","1947-03-17","Droits de souscription","1944-03-21","1945-07-26","1945-08-06","1945-11-25","Droit d'attribution","1946-11-05","1946-11-25","1946-11-15")),(function(a,b,c,d){return {ocrTab:[{info_category:"Dénomination",comments:" CREDIT LYONNAIS\n",sort_order:763259},{info_category:"Introduction (constitution)",comments:" Société anonyme française (constituée 'le 6 juillet 1863) nationalisée à compter du îer janvier 1946 (Loi du 2 décembre 1945).\n",sort_order:763260},{info_category:"Objet",comments:" Objet : Toutes opérations de banque.\n",sort_order:763261},{info_category:"Siège",comments:" Siège : à Lyon, 18, rue de ,1a République. Siège central : Paris, boulevard des Italiens, 19. Tél. : OPE. 18-90. RIO. 80-40, 66-50.\t.\n 1400 Agences en France et dans des territoires français d_'Outremer. Agences a l'étranger : Londres, Anvers, Bruxelles, Gand, Alexandrie, Le Oaire, Pord-Saïd, Genève, Madrid, Barcelone, Luxembourg, Monte-Carlo, Crédit Franco-Portugais (Lisbonne, Porto). Banco frances e brasileiro (Sâo-Paulo).\n",sort_order:763262},{info_category:"Capital",comments:" Capital social : Un milliard, en 2 millions d'actions de 500 fr. entièr. libérées. A. l'origine, 20 millions, porté en 1872 à 60 millions; en 1875 à 75 millions; en 1879 à 100 millions ; en 1881 à 200 millions ; en 1900 à 250 millions. En novembre 1926, le capital a été porté à 255 millions par émission à 725 francs de 10.000 actions B à vote plural, les actions anciennes 'étant dites A. En 1929, il a été porté à 408 millions par l'émission à 2.000 francs de 300.000 actions A et de 6.000 B à 165 francs. Ramené en mai 1935 à 400 millions par d'annulation par rachat à 500 francs des 16.000 actions B à vote plural. Porté en mars 1943 au chiffre actuel 'émission à 665 francs).\n",sort_order:763264},{info_category:"Administrateurs",comments:" Conseil d'administration : M. Louis Escallier, P. ; M. E. Esearra, Adm.-Dir. gen. ; M. E. Dallé, V.-P. ; M. P. Jonas, V.-P. Administrateurs : MM. R. Larue, J. Bolgert, G. Cotte, Y. Masson, H. Raynaud, L. Tardy, R. Yilleminot, M. de Vogüé.\n Adm.-Dir. gén. : M. E. Esearra ; Dir. gén. des Affaires financières ; M. O. Moreau-Yéret ; Dir.-gén. adjoint : M. de Margerie. Censeur : M. Alphandéry.\n",sort_order:763265},{info_category:"Titres",comments:" Parts : 2.000.000 de titres essentiellement nominatifs remis aux actionnaires à ■raison d'une part pour une action. Ces parts sont rachetables par l'Etat à partir du 1er janvier 1947 par tirages au sort à raison, chaque année, d'un cinquantième au moins des parts créées, au prix de 2.321 fr.\n En outre il a été créé 105.242 parts en paiement de l'impôt de solidarité qui ont été rémises à l'Etat et aux sociétés participantes.\n",sort_order:763267},{info_category:"Bénéfices (répartition)",comments:" Répartition des bénéfices : La répartition minimum garantie aux parts est de 3 % du prix de rachat de celles-ci (2.321 fr.), soit 69,63 brut.\n",sort_order:763269},{info_category:"Titres (emprunt\u002Fcoupon)",comments:" Coupons : Lyon, Paris et toutes agences.\n",sort_order:763270},{info_category:"Transfert",comments:" Transferts et oppositions : A Paris, au siégé central.\n",sort_order:763271},{info_category:"Inscription (cotation)",comments:" Cotation : Parquet, Parts C.D. 3.\n",sort_order:763272},{info_category:"Compte Résultats",comments:" BÉNÉFICE DÉCLARÉ REPORT A NOUVEAU BÉNÉFICE DISTRIBUÉ DIVIDENDE PAR PART ] ACOMPTE PAR ACTION SOLDE TOTAL En 1.000 francs En francs 1938 88.281 32.228 '83.730 » 45 55 » 100 » 1939 87.272 35.956 83.544 » 45 55 » 100 » 1940 - 87.975 40.309 83.622 » 45 55 » 100 » 1941 88.870 ' 45.456 83.723 » 45 55 » 100 » 1942 89.139 48.870 83.725 ' » 45 55 » 100 » 1943 126.721 50.660 124.931 » 25 34 08 ,59 08 y 1944 127.997 50.857 127.800 » » » 60 » 1945 184.568 50 235.376 » » » 108 10 1946 35.828 50 146.588(1) 69 63 » » » 1947 147.008 3.402 143.656-69 63 » » » (1) Le complément ; du dividem le a été prèle ;vé sur uni 3 réserve : incluse dai îs les cré-diteurs di Lvers.\n",sort_order:763274},{info_category:"Bilan",comments:" BILANS AU 31 DECEMBRE 1944 1945 1946 1947 PASSIF En 1.000 francs I. — Capital 1.00,0.000 1.000.000 1.000.000 1.000.000 Réserves 1.000.000 1.000.000 1.000.000 1.000.000 Report à nouveau 50.857 50 50 3.402 H. — Acceptations 135.387 976.541 4.972.111 8.245.569 Comptes courants et dépôts.\n 39.569.040 75.406.397 93.931.581 10S.590.646 Créditeurs divers 8.555.956 9.825.810 16.948.461 24.131.352 II. — Dividende et tantièpies ..\n 127.800 235.377 146.588 143.656 ACTIF I. — Immeubles 35.000 35.000 35.000 35.000 Portef euill es-titres 3.430 675.336 663.508 768.047 — Comptes courants et débi-teurs divers 8.295.188 15.488.928 28.529.036 43.158.547 Ml. — Portefeuille, effets 36.627.482 62.195.260 77.108.691 85.443.613 Banques et correspondants.\n 1.484.204 4.234.008 4.169.794 5.387.061 Caisse, trésor, banques d'émission 3.993.736 5.815.643 7.492.762 8.322.357 50.489.040 88.444.175 117.998.791 143.114.625\n",sort_order:763275}],pageUrl:"Annuaires\u002FDESFOSSES\u002F1948_T1\u002F1948_T1_T_0317.jpg",rows:[["annuaire_cac_1880","Annuaire de la Compagnie des Agents de Change 1880","360"],["annuaire_cac_1883","Annuaire de la Compagnie des Agents de Change 1883","457"],["annuaire_cac_1888","Annuaire de la Compagnie des Agents de Change 1888","509"],["annuaire_cac_1893","Annuaire de la Compagnie des Agents de Change 1893","555"],["annuaire_cac_1898","Annuaire de la Compagnie des Agents de Change 1898","647"],["annuaire_cac_1903","Annuaire de la Compagnie des Agents de Change 1903","672"],["annuaire_cac_1908","Annuaire de la Compagnie des Agents de Change 1908","561"],["annuaire_df_1912","Annuaire Desfossés 1912","255"],["annuaire_df_1914","Annuaire Desfossés 1914","281"],["annuaire_df_1917","Annuaire Desfossés 1917",a],["annuaire_df_1920","Annuaire Desfossés 1920","247"],["annuaire_df_1923","Annuaire Desfossés 1923","279"],["annuaire_df_1925","Annuaire Desfossés 1925","308"],["annuaire_df_1927","Annuaire Desfossés 1927",a],["annuaire_df_1929","Annuaire Desfossés 1929","249"],["annuaire_df_1931","Annuaire Desfossés 1931","256"],["annuaire_df_1933","Annuaire Desfossés 1933","258"],["annuaire_df_1937","Annuaire Desfossés 1937","276"],[b,c,"2244"],[b,c,"271"],["annuaire_df_1945","Annuaire Desfossés 1945","291"],[d,"Annuaire Desfossés 1948","317"],["annuaire_df_1953","Annuaire Desfossés 1953","149"]],source:d}}("242","annuaire_df_1940","Annuaire Desfossés 1940","annuaire_df_1948"))],session:(function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,_,$,aa,ab,ac,ad,ae,af,ag,ah,ai,aj,ak,al,am,an,ao,ap,aq,ar,as,at,au,av,aw,ax,ay,az,aA,aB,aC,aD,aE,aF,aG,aH,aI,aJ,aK,aL,aM,aN,aO,aP,aQ,aR,aS,aT,aU,aV,aW,aX,aY,aZ,a_,a$,ba,bb,bc,bd,be,bf,bg,bh,bi,bj,bk,bl,bm,bn,bo,bp,bq,br,bs,bt,bu,bv,bw,bx,by,bz,bA,bB,bC,bD,bE,bF,bG,bH,bI,bJ,bK,bL){return {issuer:{id:1245,names:["CREDIT LYONNAIS","CRÉDIT LYONNAIS",N,"Crédit lyonnais"],name:N,balance_sheets:[{start_date:as,source:O,page:P},{start_date:"1906-12-31",source:Q,page:R},{start_date:"1910-12-31",source:S,page:T},{start_date:"1911-12-31",source:"Annuaire de la Compagnie des Agents de Change 1913",page:a},{start_date:"1912-12-31",source:at,page:au},{start_date:"1916-12-31",source:U,page:s},{start_date:"1919-12-31",source:av,page:aw},{start_date:"1921-12-31",source:"Annuaire de la Compagnie des Agents de Change 1922",page:a},{start_date:"1922-12-31",source:V,page:W},{start_date:"1923-12-31",source:ax,page:ay},{start_date:"1925-12-31",source:X,page:s},{start_date:"1927-12-31",source:az,page:aA},{start_date:"1929-12-31",source:aB,page:aC},{start_date:"1930-12-31",source:"Annuaire Desfossés 1932",page:a},{start_date:"1931-12-31",source:Y,page:Z},{start_date:"1932-12-31",source:"Annuaire Desfossés 1936",page:a},{start_date:"1933-12-31",source:_,page:$},{start_date:"1934-12-31",source:_,page:$},{start_date:"1935-12-31",source:v,page:a},{start_date:"1936-12-31",source:v,page:a},{start_date:aa,source:v,page:a},{start_date:"1938-12-31",source:w,page:x},{start_date:"1942-12-31",source:w,page:x},{start_date:"1943-12-31",source:w,page:x},{start_date:"1944-12-31",source:y,page:z},{start_date:"1945-12-31",source:y,page:z},{start_date:"1946-12-31",source:y,page:z},{start_date:"1947-12-31",source:q,page:r},{start_date:"1948-12-31",source:q,page:r},{start_date:"1949-12-31",source:q,page:r},{start_date:"1950-12-31",source:q,page:r},{start_date:ab,source:q,page:r}],balance_sheets_stats:{start_date:as,end_date:ab},locations_stats:{start_date:aD,end_date:aE},locations:{"Siège social":[{location_types_id:g,location_type:aF,address:"Palais du commerce",city:aG,district:aH,country:l,in_yearbook_from:h,in_yearbook_to:1933},{location_types_id:g,location_type:aF,address:"Rue de la république, 18",city:aG,district:aH,country:l,in_yearbook_from:1937,in_yearbook_to:n}],"Agences / Succursales":[{location_types_id:b,location_type:c,address:"Boulevard des italiens, 19 et 20",city:i,district:i,country:l,in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:a,city:"Alexandrie",district:a,country:E,in_yearbook_from:h,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Genève",district:a,country:"Suisse",in_yearbook_from:h,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Istanbul",district:a,country:"Turquie",in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:a,city:"Londres",district:"Angleterre",country:"Grande Bretagne et Irlande du Nord",in_yearbook_from:h,in_yearbook_to:ac},{location_types_id:b,location_type:c,address:a,city:aI,district:a,country:F,in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:a,city:aJ,district:aJ,country:"Etats-Unis d'Amérique",in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:a,city:"Petrograd",district:a,country:"Union des républiques socialistes soviétiques",in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:a,city:a,district:a,country:l,in_yearbook_from:h,in_yearbook_to:h},{location_types_id:b,location_type:c,address:"Boulevard des italiens, 19 et 21",city:i,district:i,country:l,in_yearbook_from:ad,in_yearbook_to:1908},{location_types_id:b,location_type:c,address:a,city:i,district:i,country:l,in_yearbook_from:ad,in_yearbook_to:ad},{location_types_id:b,location_type:c,address:a,city:"Bruxelles",district:a,country:ae,in_yearbook_from:af,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Lisbonne",district:a,country:ag,in_yearbook_from:af,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:aI,district:a,country:F,in_yearbook_from:af,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Anvers",district:a,country:ae,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Barcelone",district:a,country:F,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Gand",district:a,country:ae,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Ismaïlia",district:a,country:E,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Le Caire",district:aK,country:E,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:aL,district:a,country:aL,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Monte-Carlo",district:a,country:"Monaco",in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:i,district:i,country:l,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Port-Said",district:a,country:E,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Porto",district:a,country:ag,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Séville",district:a,country:F,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:a,district:a,country:ag,in_yearbook_from:d,in_yearbook_to:d},{location_types_id:b,location_type:c,address:a,city:"Sâo-Paulo",district:a,country:"Brésil",in_yearbook_from:ac,in_yearbook_to:ac},{location_types_id:b,location_type:c,address:a,city:"Alep",district:aK,country:aM,in_yearbook_from:n,in_yearbook_to:n},{location_types_id:b,location_type:c,address:a,city:"Damas",district:"Yonne",country:aM,in_yearbook_from:n,in_yearbook_to:n},{location_types_id:b,location_type:c,address:a,city:"Sarrebruck",district:a,country:"République fédérale d'Allemagne",in_yearbook_from:n,in_yearbook_to:n}],"Siège Commercial":[{location_types_id:G,location_type:aN,address:aO,city:i,district:i,country:l,in_yearbook_from:1912,in_yearbook_to:n},{location_types_id:G,location_type:aN,address:aO,city:i,district:i,country:l,in_yearbook_from:aP,in_yearbook_to:aP}]},persons:[{persons_count:m,yearbook:aQ,source:aR,page:aS},{persons_count:H,yearbook:aT,source:A,page:aU},{persons_count:H,yearbook:aV,source:aW,page:aX},{persons_count:ah,yearbook:aY,source:aZ,page:a_},{persons_count:9,yearbook:O,source:ai,page:P},{persons_count:19,yearbook:Q,source:a$,page:R},{persons_count:b,yearbook:S,source:ba,page:T},{persons_count:ah,yearbook:U,source:bb,page:s},{persons_count:I,yearbook:V,source:bc,page:W},{persons_count:7,yearbook:X,source:bd,page:s},{persons_count:13,yearbook:Y,source:J,page:Z},{persons_count:10,yearbook:v,source:aj,page:a},{persons_count:14,yearbook:w,source:ak,page:x},{persons_count:H,yearbook:y,source:K,page:z},{persons_count:al,yearbook:q,source:be,page:r}],persons_stats:{persons_count:bf,start_date:aD,end_date:aE},yearbooks_ocrs:[{source:aR,yearbook:aQ,page:aS},{source:A,yearbook:aT,page:aU},{source:aW,yearbook:aV,page:aX},{source:L,yearbook:"Annuaire de la Compagnie des Agents de Change 1893",page:"552"},{source:aZ,yearbook:aY,page:a_},{source:ai,yearbook:O,page:P},{source:a$,yearbook:Q,page:R},{source:ba,yearbook:S,page:T},{source:"annuaire_df_1914",yearbook:at,page:au},{source:bb,yearbook:U,page:s},{source:"annuaire_df_1920",yearbook:av,page:aw},{source:bc,yearbook:V,page:W},{source:"annuaire_df_1925",yearbook:ax,page:ay},{source:bd,yearbook:X,page:s},{source:"annuaire_df_1929",yearbook:az,page:aA},{source:"annuaire_df_1931",yearbook:aB,page:aC},{source:J,yearbook:Y,page:Z},{source:"annuaire_df_1937",yearbook:_,page:$},{source:aj,yearbook:v,page:a},{source:ak,yearbook:w,page:x},{source:K,yearbook:y,page:z},{source:be,yearbook:q,page:r}],juridical_status:[{juridical_status:"Société à Responsabilité Limitée",start_date:bg,end_date:"1872-04-24",comments:"Transformation de la Société à responsabilité limitée qui avait été constituée au capital de 20 millions, suivant acte reçu par Me Thomasset, notaire à Lyon, le 6 juillet 1863.",source:A},{juridical_status:"Société Anonyme (Libre)",start_date:bh,end_date:"1945-12-30",comments:"Société anonyme formée par le statuts dressés par M° Messimy, notaire à Lyon le 06 avril 1872, constituée définitivement le 25 avril 1872.",source:K},{juridical_status:"Etablissement public",start_date:"1946-01-01",end_date:e,comments:"Société anonyme française (constituée le 6 juillet 1863) nationalisée à compter du 1er janvier 1946 (Loi du 2 décembre 1945).",source:K}],equity_capital:[{amount:"20.000.000",currency:a,infodate:bg,source:A,comments:bi},{amount:"50.000.000",currency:a,infodate:bh,source:A,comments:bi},{amount:"75.000.000",currency:o,infodate:"1875-04-16",source:L,comments:" Par décision de l’Assemblée générale du 16 avril 1875, ce capital a été porté à 75 millions, par la création de 50,000 actions nouvelles de 500 fr., qui ont été émises par la Société en mai 1875 et réservées aux anciens actionnaires, à raison de 1 action nouvelle pour 2 anciennes."},{amount:"100.000.000",currency:o,infodate:"1879-04-05",source:L,comments:" Par décision de l’Assemblée générale du 5 avril 1879, le capital a été élevé à 100 millions par la création de 50,000 actions nouvelles de 500 fr. qui ont été émises par la Société, en avril 1879, au prix de 625 fr. (dont 125 fr. ont été portés à la réserve), par souscription réservée aux anciens actionnaires à raison de 1 action nouvelle pour 3 anciennes."},{amount:"200.000.000",currency:o,infodate:"1881-04-26",source:L,comments:" Enfin, par décisions des Assemblées générales des 12 mars et 26 avril 1881, le capital social a été porté à 200 millions par la création de 200,000 actions nouvelles de 500 fr., qui ont été émises par la Société, en mars 1881, au prix de 750 fr. (dont 500 fr. applicables au capital et 250 fr. aux réserves), par souscription réservée aux anciens actionnaires à raison de 1 action nouvelle pour 1 ancienne."},{amount:"250.000.000",currency:o,infodate:"1900-07-02",source:ai,comments:"Par délibération dudit jour 10 avril, le Conseil d’administration a décidé la libération desdites actions en cinq versements échelonnés du 25 septembre 1894 au 25 septembre 1896, avec faculté accordée auxactiou-naires de libérer entièrement leurs titres dès le 10 avril 1894 et à toute époque, sous bonification d’un escompte de 3 % l’an. 4» Et à 250 millions de francs par décision des assemblés générales des 12 mai et 2 juillet 1900, au moyen de la création de 100,000 actions nouvelles de 500 francs, émises à 925 francs (500 francs affectés au capital, 400 francs aux réserves et 25 francs au compte d’intérêt de 1900), dont la souscription, ouverte du'15 au 31 mai, a été réservée aux actionnaires à raison de une action nouvelle pour quatre anciennes."},{amount:"255.000.000",currency:o,infodate:"1926-11-01",source:J,comments:bj},{amount:"408.000.000",currency:o,infodate:"1929-01-01",source:J,comments:bj},{amount:"400.000.000",currency:o,infodate:"1935-05-01",source:aj,comments:"400 millions, divisé en 800.000 actions de 500 francs ent. libérées. 4 l’origine, 20 millions, porté en 1872 à 50 millions; en 1875 à 75 millions; en 1879 à°100 millions; en 1881 à 200 millions; en 1900 à 250 millions. En novembre 192$, le capital a été porté à 255 millions par émission à 725 francs de 10.000 actions B*V vote plural, les actions anciennes étant dites A. En 1929, il a été porté à 408 millions par l’émission à 2.000 francs de 300.000 actions A et de 6.000 B à 565 francs. Ramené en mai 1935 à 400 millions par l’annulation par rachat à 500 francs des 16.000 actions B à vote plural."},{amount:"1.000.000.000",currency:o,infodate:"1943-03-01",source:ak,comments:"Un milliard, en 2 millions d’actions de .500: fr. entier. _ libérées. A l’origine, 20 millions, porté en 1872 à 50 . millions ; en 1875 à 75 millions ; en 187:9 à 100 millions ; en 1881 à 200 millions ; en 190.0 à 250 millions. En novembre 1926, le capital a été porté à 255 millions par émission à 725 francs de 10.000 actions B à vote plural, les actions anciennes étant dites A. En 1929, il a été porté à 408 millions par l’émission à 2.000 francs de 300.000 actions A et de 6.000 B à 665 francs. Ramené en mai 1935 à 400 millions par d’annulation par rachat à 500 francs des 16.000 actions : B à vote plural. Porté en mars 1943 au chiffre actuel (émission à 665 francs)."}],profit_dividends:[{first_date:"1863-12-31",last_date:ab,obs_count:637}],public_status:false,stock_exchanges:{"1":{id:g,name:"Paris (Official List)",listings_stats:{start_date:B},spot_prices_stats:{start_date:B,end_date:am},forward_prices_stats:{start_date:"1872-05-06",end_date:aa},options_prices_stats:{start_date:"1875-03-15",end_date:aa}}},securities:{"1654":{id:1654,name:"Crédit lyonnais, act. 500f, 250f payés Grosses coupures",share_type:{id:g,name:j},types:[{start_date:M,end_date:e,id:m,name:p,stock_group:k}],start_date:M,end_date:e,prices_from:M,prices_to:M,is_mainstock:f,prices_count:g},"1677":{id:1677,name:"Crédit Lyonnais, act. 500f., 250f. Payés, act. Anciennes non estampillées",share_type:{id:g,name:j},types:[{start_date:an,end_date:e,id:m,name:p,stock_group:k}],start_date:an,end_date:e,prices_from:an,prices_to:"1875-11-30",is_mainstock:f,prices_count:30},"1678":{id:1678,name:"Crédit Lyonnais, act. 500f, t. p.",share_type:{id:g,name:j},types:[{start_date:B,end_date:e,id:m,name:p,stock_group:k}],start_date:B,end_date:e,prices_from:B,prices_to:"1945-12-17",is_mainstock:g,prices_count:13395},"1680":{id:1680,name:"Crédit Lyonnais, act. 500f., 250f. Payés, act. Anciennes non estampillées Grosses coupures",share_type:{id:g,name:j},types:[{start_date:bk,end_date:e,id:m,name:p,stock_group:k}],start_date:bk,end_date:e,prices_from:a,prices_to:a,is_mainstock:f,prices_count:f},"1682":{id:1682,name:"Crédit Lyonnais, act. 500f., 250f. Payés, Grosses coupures",share_type:{id:g,name:j},types:[{start_date:bl,end_date:e,id:m,name:p,stock_group:k}],start_date:bl,end_date:e,prices_from:a,prices_to:a,is_mainstock:f,prices_count:f},"3819":{id:3819,name:"Crédit Lyonnais, actions 500 fr., actions libérées",share_type:{id:g,name:j},types:[{start_date:bm,end_date:e,id:m,name:p,stock_group:k}],start_date:bm,end_date:e,prices_from:"1894-05-15",prices_to:"1896-09-15",is_mainstock:f,prices_count:bf},"12379":{id:12379,name:"Crédit Lyonnais, parts bénéf. (nom.)",share_type:{id:g,name:j},types:[{start_date:bn,end_date:e,id:G,name:bo,stock_group:k}],start_date:bn,end_date:e,prices_from:"1946-10-28",prices_to:bp,is_mainstock:f,prices_count:663},"21049":{id:21049,name:"Crédit Lyonnais 8,80% 1973 de 1000 F (sér. A à H) (c. 6\u002F6\u002F74 att.) (Avis 73-515) 1981-88",share_type:{id:bq,name:br},types:[{start_date:ao,end_date:e,id:bs,name:bt,stock_group:bu}],start_date:ao,end_date:e,prices_from:ao,prices_to:bp,is_mainstock:f,prices_count:bv},"25144":{id:25144,name:"Crédit Lyonnais, act.nouv, lib. (nom) au comptant seulement)",share_type:{id:g,name:j},types:[{start_date:bw,end_date:e,id:m,name:p,stock_group:k}],start_date:bx,end_date:e,prices_from:by,prices_to:"1900-08-16",is_mainstock:f,prices_count:I},"25145":{id:25145,name:"Crédit Lyonnais, act.nouv, 375fr. restant à payer seulement",share_type:{id:g,name:j},types:[{start_date:bw,end_date:e,id:m,name:p,stock_group:k}],start_date:bx,end_date:e,prices_from:by,prices_to:"1900-09-15",is_mainstock:f,prices_count:6},"35150":{id:35150,name:"Crédit Lyonnais, parts bénéf., de F 23,21 (nom.) (Tir. 15\u002F11\u002F73)",share_type:{id:g,name:j},types:[{start_date:t,end_date:e,id:G,name:bo,stock_group:k}],start_date:t,end_date:e,prices_from:t,prices_to:am,is_mainstock:f,prices_count:bz},"35154":{id:35154,name:"Crédit Lyonnais 8,80% 1973 de 1000 F (sér. A à H) (c. 6\u002F6\u002F74 att.) (Avis 73-515). 1981-88 (Livraison en crédit SICOVAM sous les codes : 1061 série A, 1062 série B, 1063 série C, 1064 série D, 1065 série E, 1066 série F, 1067 série G, 1068 série H)",share_type:{id:bq,name:br},types:[{start_date:t,end_date:e,id:bs,name:bt,stock_group:bu}],start_date:t,end_date:e,prices_from:t,prices_to:am,is_mainstock:f,prices_count:bz},"101597":{id:101597,name:"Act. Crédit Lyonnais (coupon 95 ou bon)",share_type:{id:b,name:ap},types:[{start_date:aq,end_date:bA,id:C,name:D,stock_group:u}],start_date:aq,end_date:bA,prices_from:aq,prices_to:"1944-03-15",is_mainstock:f,prices_count:al},"101832":{id:101832,name:"Act. A. Crédit Lyonnais (dr. Et coup. 66). Pour 5 act. A anc., 3 act. A nouvelles émises à 2000 francs.",share_type:{id:b,name:ap},types:[{start_date:ar,end_date:bB,id:C,name:D,stock_group:u}],start_date:ar,end_date:bB,prices_from:ar,prices_to:"1929-03-15",is_mainstock:f,prices_count:al},"102226":{id:102226,name:"Act. Crédit Lyonnais. 3 act. nouv. mars 1943 émises à 665 fr. pour 2 bons",share_type:{id:b,name:ap},types:[{start_date:bC,end_date:e,id:C,name:D,stock_group:u}],start_date:bC,end_date:e,prices_from:a,prices_to:a,is_mainstock:f,prices_count:f},"104541":{id:104541,name:"Act. Credit Lyonnais",share_type:{id:I,name:bD},types:[{start_date:bE,end_date:bF,id:C,name:D,stock_group:u}],start_date:bE,end_date:bF,prices_from:"1944-03-31",prices_to:"1945-07-16",is_mainstock:f,prices_count:bv},"104542":{id:104542,name:"A. Crédit Lyonnais",share_type:{id:I,name:bD},types:[{start_date:bG,end_date:bH,id:C,name:D,stock_group:u}],start_date:bG,end_date:bH,prices_from:"1945-08-16",prices_to:"1945-11-15",is_mainstock:f,prices_count:ah},"104543":{id:104543,name:N,share_type:{id:H,name:bI},types:[{start_date:bJ,end_date:bK,id:502,name:bI,stock_group:u}],start_date:bJ,end_date:bK,prices_from:bL,prices_to:bL,is_mainstock:f,prices_count:g}}},person:a,security:a,stockExchange:a,user:void 0}}(null,4,"Agences \u002F Succursales",1940,"3999-12-31",0,1,1880,"Paris","Stock (Action)","S","France",18,1953,"Franc","Action","Annuaire Desfossés 1953","149","242","1973-11-30","R","Annuaire Desfossés 1940","Annuaire Desfossés 1945","291","Annuaire Desfossés 1948","317","annuaire_cac_1883","1864-12-17",501,"Droit de souscription","Egypte","Espagne",20,8,5,"annuaire_df_1933","annuaire_df_1948","annuaire_cac_1893","1872-05-17","Crédit Lyonnais","Annuaire de la Compagnie des Agents de Change 1903","672","Annuaire de la Compagnie des Agents de Change 1908","561","Annuaire Desfossés 1912","255","Annuaire Desfossés 1917","Annuaire Desfossés 1923","279","Annuaire Desfossés 1927","Annuaire Desfossés 1933","258","Annuaire Desfossés 1937","276","1937-12-31","1951-12-31",1948,1884,"Belgique",1898,"Portugal",3,"annuaire_cac_1903","annuaire_df_1940","annuaire_df_1945",17,"1976-12-31","1875-05-04","1973-06-25","Rights (Droits)","1943-02-22","1929-03-07","1901-12-31","Annuaire Desfossés 1914","281","Annuaire Desfossés 1920","247","Annuaire Desfossés 1925","308","Annuaire Desfossés 1929","249","Annuaire Desfossés 1931","256","1880-01-01","1953-12-31","Siège social","Lyon","Rhône","Madrid","New York","District fictif","Luxembourg","Syrie","Siège Commercial","Boulevard des italiens, 19",1930,"Annuaire de la Compagnie des Agents de Change 1880","annuaire_cac_1880","360","Annuaire de la Compagnie des Agents de Change 1883","458","Annuaire de la Compagnie des Agents de Change 1888","annuaire_cac_1888","510","Annuaire de la Compagnie des Agents de Change 1898","annuaire_cac_1898","648","annuaire_cac_1908","annuaire_df_1912","annuaire_df_1917","annuaire_df_1923","annuaire_df_1927","annuaire_df_1953",84,"1863-07-06","1872-04-25","Le capital social de la Société à responsabilité limitée, constituée en 1863, avait été fixé à 20 millions ; celui de la Société anonyme, constituée en 1872, a été fixé à 50 millions, représenté par 100,000 actions de 500 fr., libérées de 250 fr., sur lesquelles 80,000 ont été attribuées à la liquidation de la Société à responsabilité limitée, en représentation de l’apport de son actif, et 20, 00 ont été souscrites au pair et libérées de 250 fr.","408 millions de francs, divisé en 816.000 actions de 500 francs, dont 800.000 A et 16.000 B. A l'origine 20 millions, porté en 1872 à 50 millions, en 1875 à 75 millions, en 1879 à 100 millions, en 1881 a 200 millions, en 1900 à 250 millions. En novembre 1926, le capital a été augmenté de 5 millions par émission de 10.000 actions B ayant droit à un vote plural dans toutes les assemblées. En 1929, il a été porté à 408 millions par l'émission de 300.000 actions A et de 6.000 B.","1875-11-25","1875-12-04","1894-04-26","1946-10-22","Part de bénéfice (part bénéficiaire)","1973-11-15",2,"Bond (Obligation)",1001,"Obligation ordinaire ou classique","B",11,"1000-01-01","1900-07-15","1900-07-16",75,"1944-03-25","1929-03-23","1947-03-17","Droits de souscription","1944-03-21","1945-07-26","1945-08-06","1945-11-25","Droit d'attribution","1946-11-05","1946-11-25","1946-11-15"))};if('serviceWorker' in navigator)navigator.serviceWorker.register('/service-worker.js');(function(){try{eval("async function x(){}");var main="/client/client.ed608af3.js"}catch(e){main="/client/legacy/client.d5ba8ae9.js"};var s=document.createElement("script");try{new Function("if(0)import('')")();s.src=main;s.type="module";s.crossOrigin="use-credentials";}catch(e){s.src="/client/shimport@1.0.1.js";s.setAttribute("data-main",main);}document.head.appendChild(s);}());</script> 

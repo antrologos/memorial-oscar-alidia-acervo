@@ -1,0 +1,125 @@
+Browser tab: 81, Title: "Antonia Muñoa", URL: "https://www.ancestry.com/family-tree/person/tree/187028886/person/302536204009/facts".
+1 AXWebArea Antonia Muñoa, URL: ancestry.com/family-tree/person/tree/187028886/person/302536204009/facts
+	2 container HeaderRegion
+		3 container Description: Main Menu, ID: nav
+			4 link Description: SKIP ANCESTRY MAIN MENU, Value: ancestry.com/family-tree/person/tree/187028886/person/302536204009/facts#skipped-nav, ID: navSkip
+			5 link Description: Ancestry, Value: ancestry.com/
+			6 container
+				7 link Description: TREES, Value: ancestry.com/family-tree/
+				8 link Description: SEARCH, Value: search.ancestry.com/
+				9 link Description: DNA, Value: ancestry.com/dna/
+				10 link Description: HELP, Value: support.ancestry.com/s/
+				11 link Description: EXTRAS, Value: ancestry.com/cs/apps/allproducts
+			12 link Description: SIGN IN, Value: ancestry.com/secure/login, ID: navAccount
+	13 container root
+		14 container
+			15 toolbar Ações da página
+				16 container
+					17 link Description: Visualizar na árvore, Value: ancestry.com/family-tree/tree/187028886/family?fpid=302536204009
+					18 button (collapsed) Description: Jerônimo Barbosa Family Tree, ID: treePagesButton, Secondary Actions: Expand
+					19 button Description: Encontrar na árvore, ID: treeSearchButton
+				20 button Description: Ideias, ID: ideasPageAction
+				21 button (collapsed) Description: Ferramentas, ID: treeToolsButton, Secondary Actions: Expand
+				22 button (collapsed) Description: Editar, ID: treeEditButton, Secondary Actions: Expand
+			23 container
+				24 button Description: Selecione uma imagem para adicionar ao Antonia Muñoa, ID: profileImageButton
+				25 heading Antonia Muñoa Priorizar esta pessoa, Value: 1
+					26 text Antonia Muñoa
+					27 button Description: Priorizar esta pessoa, ID: starPrioritizeBtn
+				28 container
+					29 text NASCIMENTO: Desconhecido
+				30 container
+					31 text ÓBITO: Vivo
+				32 container
+					33 button Description: bisavó da esposa: Mostrar nosso parentesco, ID: rel_label
+					34 button Description: Adicionar marcadores, ID: addtag
+				35 container
+					36 link Description: Sugestões 1, Value: ancestry.com/family-trees/187028886/people/302536204009/hints
+					37 link Description: Busca, Value: ancestry.com/search?userId=09033119-0006-0000-0000-000000000000&tid=187028886&pid=302536204009&ssrc=pt&usePUBJs=true
+			38 tab group
+				39 tab (selected, settable, boolean) Fatos, Value: 1, ID: tabFacts
+				40 tab (selectable, settable, boolean) Galeria, Value: 0, ID: tabGallery
+				41 tab (selectable, settable, boolean) História de vida, Value: 0, ID: tabStory
+				42 tab (selectable, settable, boolean) Explorar, Value: 0, ID: tabExplore
+		43 container Description: Fatos, ID: ≈tFacts
+			44 container personPageFacts
+				45 container factsSection
+					46 button Pular para fontes, ID: skipToSourcesBtn
+					47 container
+						48 button (collapsed) Description: Filtro, ID: filterFactsBtn, Secondary Actions: Expand
+						49 button Description: Adicionar, ID: addFactBtn
+					50 heading Linha do tempo, Value: 2
+						51 text Linha do tempo
+					52 container
+						53 content list Description: Linha do tempo, ID: researchListFacts
+							54 container
+								55 heading Possíveis nascimento registros, Value: 3
+									56 text Possíveis nascimento registros
+								57 link Description: Pesquisar, Value: ancestry.com/search/?treePerson=187028886_302536204009&q=eyJRdWVyeVRlcm1zIjpbeyJ0eXBlIjoiR2l2ZW5OYW1lUXVlcnlUZXJtIiwiR2l2ZW5OYW1lIjoiQW50b25pYSJ9LHsidHlwZSI6IlN1cm5hbWVRdWVyeVRlcm0iLCJSZXF1aXJlZCI6dHJ1ZSwiU3VybmFtZSI6Ik11w7FvYSBHdWljaGVuZXkifSx7InR5cGUiOiJHZW5kZXJRdWVyeVRlcm0iLCJHZW5kZXIiOiJmZW1hbGUifV0sIkZpbHRlckNyaXRlcmlhIjpbIjF8Q2F0ZWdvcnl8Q0FUPWJtZF9iaXJ0aCJdfQ==
+								58 button Description: Fechar, ID: bbogCloseBtn
+						59 button Adicionar fato
+							60 text Adicionar fato
+				61 container sourcesSection
+					62 button Pular para família, ID: skipToFamilyBtn
+					63 button (collapsed) Description: Adicionar, ID: addSourceDesktop, Secondary Actions: Expand
+					64 heading Fontes, Value: 2
+						65 text Fontes
+					66 container
+						67 heading Fontes da Ancestry, Value: 3
+							68 text Fontes da Ancestry
+						69 content list
+							70 container si902733620463
+								71 checkbox Selecionar fonte, Value: 0, ID: cardBtn902733620463
+								72 container
+									73 link Description: Visitar fonte, Value: ancestry.com/search/collections/9800/records/5000973?tid=187028886&pid=302536204009&ssrc=pt
+									74 text Rio de Janeiro, Brazil, Immigration Cards, 1900-1965
+						75 link Description: Pesquisar na Ancestry, ID: searchOnAncestryBtn, Value: ancestry.com/search?userId=09033119-0006-0000-0000-000000000000&tid=187028886&pid=302536204009&ssrc=pt&usePUBJs=true
+						76 button Adicionar fonte, ID: addSourceBtn
+							77 text Adicionar fonte
+						78 button Adicionar link da Web, ID: addWebLinkBtn
+							79 text Adicionar link da Web
+				80 container familySection
+					81 button Pular para fatos, ID: skipToFactsBtn
+					82 button (collapsed) Description: Adicionar, ID: addFamilyBtn, Secondary Actions: Expand
+					83 heading Parentescos, Value: 2
+						84 text Parentescos
+					85 container
+						86 heading Pais, Value: 3, ID: conTitleFamily
+							87 text Pais
+						88 content list researchListParents
+							89 button Adicionar pai, ID: addFatherCardBtn
+								90 text Adicionar pai
+							91 button Adicionar mãe, ID: addMotherCardBtn
+								92 text Adicionar mãe
+						93 heading Cônjuge e filhos, Value: 3
+							94 text Cônjuge e filhos
+						95 content list
+							96 link Description: Victor Juan Guicheney, Value: ancestry.com/family-tree/person/tree/187028886/person/302536203848/facts, ID: family302536203848
+							97 link Description: Alidia Eugenia Guicheney Muñoa da Salgado 1915–, Value: ancestry.com/family-tree/person/tree/187028886/person/302536201968/facts, ID: family302536201968
+						98 button (collapsed) Description: Adicionar família, ID: addFamilyBottom, Secondary Actions: Expand
+						99 container Redes PRO
+							100 heading Redes PRO, Value: 3, ID: networksHeading
+								101 text Redes  PRO
+							102 container
+								103 text Crie uma imagem mais completa da vida dessa pessoa usando as redes.
+								104 link Description: Criar rede, Value: ancestry.com/onboarding/networks/create/type?treeId=187028886&personIds=302536204009, ID: networksCTA
+								105 button Description: Fechar, ID: closeBtnNetworks
+	106 container footerContainer
+		107 content list
+			108 link Description: Central de suporte, Value: ancestry.com/support/s/, ID: footer-link-supportcenter
+			109 link Description: Sobre nós, Value: ancestry.com/corporate, ID: footer-link-about
+		110 content list footerLegal
+			111 text © 1997-2026 Ancestry
+			112 container
+				113 text ·
+				114 link Description: Privacidade, Value: ancestry.com/cs/privacyphilosophy, ID: footer-link-privacy
+			115 container
+				116 text ·
+				117 link Description: Termos e condições, Value: ancestry.com/cs/legal/termsandconditions, ID: footer-link-termsandconditions
+			118 container
+				119 text ·
+				120 link Description: Cookies, Value: ancestry.com/cs/legal/aboutcookies, ID: footer-link-cookies
+			121 container
+				122 text · Operado pela Ancestry Information Operations Unlimited Company
+
+The focused UI element is 1 AXWebArea Antonia Muñoa, URL: ancestry.com/family-tree/person/tree/187028886/person/302536204009/facts

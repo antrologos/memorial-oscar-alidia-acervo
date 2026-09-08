@@ -1,0 +1,121 @@
+Browser tab: 83, Title: "Rio de Janeiro, Brazil, Immigration Cards, 1900-1965 - Ancestry.com", URL: "https://www.ancestry.com/search/collections/9800/records/5000973?tid=187028886&pid=302536204009&ssrc=pt".
+0 AXWebArea Rio de Janeiro, Brazil, Immigration Cards, 1900-1965 - Ancestry.com, URL: ancestry.com/search/collections/9800/records/5000973?tid=187028886&pid=302536204009&ssrc=pt
+	1 container
+		2 container HeaderRegion
+			3 container Description: Menu principal, ID: nav
+				4 link Description: Pular menu principal da Ancestry, ID: navSkip, Value: ancestry.com/search/collections/9800/records/5000973?tid=187028886&pid=302536204009&ssrc=pt#skipped-nav
+				5 link Description: Página inicial da Ancestry, Value: ancestry.com/
+				6 content list
+					7 button (collapsed) Árvores, ID: navTrees, Secondary Actions: Expand
+						8 text Árvores
+					9 button (collapsed) Pesquisar, ID: navSearch, Secondary Actions: Expand
+						10 text Pesquisar
+					11 button (collapsed) Memórias, ID: navMemories, Secondary Actions: Expand
+						12 text Memórias
+					13 button (collapsed) DNA, ID: navDna, Secondary Actions: Expand
+						14 text DNA
+				15 content list
+					16 link Description: Carrinho, Value: ancestry.com/checkout/MLI, ID: navCart
+					17 link (collapsed) Description: Dicas. Não lido, Value: ancestry.com/hints/tree/187028886/hints?src=hn, ID: navHints, Secondary Actions: Expand
+					18 button (collapsed) Notificações. 1, ID: navNotifications, Secondary Actions: Expand
+						19 text Notificações.
+						20 text 1
+					21 link (collapsed) Description: Mensagens., Value: ancestry.com/connect/messagecenter/folder/inbox/, ID: navMessages, Secondary Actions: Expand
+					22 link (collapsed) Description: Ajuda, Value: ancestry.com/support/s/, ID: navHelp, Secondary Actions: Expand
+					23 button (collapsed) Description: Conta, ID: navAccount, Secondary Actions: Expand
+		24 container mainContent
+			25 container recordNavBadgeArea
+				26 heading Antonia Muñoa, Value: 1
+					27 text Antonia Muñoa
+				28 container
+					29 link Description: Rio de Janeiro, Brazil, Immigration Cards, 1900-1965, Help: Saiba mais sobre Rio de Janeiro, Brazil, Immigration Cards, 1900-1965, Value: ancestry.com/search/collections/9800
+					30 button Compartilhar, ID: shareWidgetTrigger
+					31 button (collapsed) Mostrar mais, ID: more-callout-menu, Secondary Actions: Expand
+			32 container
+				33 text Salvar este registro?
+				34 button (collapsed) Salvar, ID: saveCalloutTrigger1, Secondary Actions: Expand
+			35 container
+				36 heading Detalhe Como avaliar detalhes, Value: 4
+					37 text Detalhe 
+					38 button (collapsed) Description: Como avaliar detalhes, ID: detailsHelp, Secondary Actions: Expand
+				39 container
+					40 text Este registro está salvo para 
+					41 button 1 pessoa em 1 árvore
+					42 text .
+				43 container recordData
+					44 definition list
+						45 container Nome
+							46 text Nome
+						47 text Antonia Muñoa
+						48 container Gênero
+							49 text Gênero
+						50 container
+							51 text Female (Feminino)
+							52 text [Female (Feminino)]
+						53 container Cônjuge
+							54 text Cônjuge
+						55 link Description: Victor Guicheney, Help: Visualizar registro, Value: ancestry.com/search/collections/9800/records/5000942
+						56 container Filho/filha
+							57 text Filho/filha
+						58 link Description: Alidia Eugenia Guicheney Muñoa Da Salgado, Help: Visualizar registro, Value: ancestry.com/search/collections/9800/records/5001001
+						59 container Número de filme FHL
+							60 text Número de filme FHL
+						61 text 004921080
+					62 container
+						63 text Salvar este registro?
+						64 button (collapsed) Salvar, ID: saveCalloutTrigger2, Secondary Actions: Expand
+				65 heading Fonte, Value: 4
+					66 text Fonte
+				67 container sourceCitation
+					68 container
+						69 heading Informações, Value: 4
+							70 text Informações
+						71 container
+							72 text Ancestry.com.  Rio de Janeiro, Brazil, Immigration Cards, 1900-1965  [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2016.
+						73 text Dados originais:
+						74 text "Rio de Janeiro Brazil, Immigration Cards, 1900-1965". FamilySearch, Salt Lake City, Utah, 2013. Index entries derived from digital copies of original and compiled records.
+					75 container
+						76 heading Descrição da coleção, Value: 4
+							77 text Descrição da coleção
+						78 container
+							79 text This collection of records includes immigration cards from Rio de Janeiro, Brazil for the years 1900 to 1965. 
+							80 link Description: Saiba mais…, Value: ancestry.com/search/collections/9800
+				81 heading Em sua árvore, Value: 4
+					82 text Em sua árvore
+				83 container
+					84 heading Antonia Muñoa, Value: 2
+						85 link Description: Antonia Muñoa, Value: ancestry.com/family-tree/person/tree/187028886/person/302536204009
+					86 text bisavó da esposa
+					87 heading Família, Value: 3
+						88 text Família
+					89 button (collapsed) Família, Secondary Actions: Expand
+				90 container suggested-records
+					91 heading Registros sugeridos Ajuda, Value: 4
+						92 text Registros sugeridos 
+						93 button (collapsed) Description: Ajuda, Secondary Actions: Expand
+					94 content list
+						95 link Description: Uruguay, Civil Registry 1900-1937 Antonia Ignacia Visto ontem, Value: ancestry.com/search/collections/62867/records/121958804
+				96 heading Pesquisar membros, Value: 4
+					97 text Pesquisar membros
+				98 container
+					99 link Description: Outros membros da Ancestry, Value: ancestry.com/search/collections/1030?name=Antonia_Mu%C3%B1oa
+					100 text  também estão pesquisando Antonia Muñoa. Veja o que eles salvaram em suas árvores genealógicas.
+		101 container footerContainer
+			102 content list
+				103 link Description: Central de suporte, Value: ancestry.com/support/s/, ID: footer-link-supportcenter
+				104 link Description: Sobre nós, Value: ancestry.com/corporate, ID: footer-link-about
+			105 content list footerLegal
+				106 text © 1997-2026 Ancestry
+				107 container
+					108 text ·
+					109 link Description: Privacidade, Value: ancestry.com/cs/privacyphilosophy, ID: footer-link-privacy
+				110 container
+					111 text ·
+					112 link Description: Termos e condições, Value: ancestry.com/cs/legal/termsandconditions, ID: footer-link-termsandconditions
+				113 container
+					114 text ·
+					115 link Description: Cookies, Value: ancestry.com/cs/legal/aboutcookies, ID: footer-link-cookies
+				116 container
+					117 text · Operado pela Ancestry Information Operations Unlimited Company
+
+The focused UI element is 0 AXWebArea Rio de Janeiro, Brazil, Immigration Cards, 1900-1965 - Ancestry.com, URL: ancestry.com/search/collections/9800/records/5000973?tid=187028886&pid=302536204009&ssrc=pt

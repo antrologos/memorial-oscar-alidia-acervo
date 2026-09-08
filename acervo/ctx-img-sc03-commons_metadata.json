@@ -1,0 +1,300 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "148212681": {
+        "pageid": 148212681,
+        "ns": 6,
+        "title": "File:AR-MRPA-AF-LC-FFCC-021.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1577602,
+            "width": 1597,
+            "height": 1024,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/AR-MRPA-AF-LC-FFCC-021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 3000,
+            "thumbheight": 1924,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/AR-MRPA-AF-LC-FFCC-021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 3000,
+              "height": 1924
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/AR-MRPA-AF-LC-FFCC-021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:AR-MRPA-AF-LC-FFCC-021.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=148212681",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2024-05-09 21:34:44",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "AR-MRPA-AF-LC-FFCC-021",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-AR-Photo|Uploaded with OpenRefine|AR-MRPA-AF-LC-FFCC|Historical images of Concordia Central train station",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "<br><b>Pertenencia: </b> Museo Regional Municipal «Palacio Arruabarrena» – Colección Archivo Fotográfico<br><b>Núm. Asignado: </b>AR-MRPA-AF-LC-FFCC-021<br><b>Descripción: </b>Concordia, Estación del Ferrocarril Entre Ríos. Año: 1921<br><b>Tipo: </b>Tarjeta Postal<br><b>Categoría: </b> Archivo Fotográfico",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1921",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q84523334\" class=\"extiw\" title=\"d:Q84523334\"><span title=\"museum in Concordia, Entre Rios, Argentina\">Arruabarrena Palace Municipal Regional Museum</span></a>\n</bdi>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "63399890": {
+        "pageid": 63399890,
+        "ns": 6,
+        "title": "File:Puerto - Salto.tif",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 107393444,
+            "width": 7019,
+            "height": 5100,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Puerto_-_Salto.tif/lossy-page1-3840px-Puerto_-_Salto.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 3000,
+            "thumbheight": 2180,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Puerto_-_Salto.tif/lossy-page1-3840px-Puerto_-_Salto.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 3000,
+              "height": 2180
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Puerto_-_Salto.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Puerto_-_Salto.tif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63399890",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-10-16 02:12:05",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Puerto - Salto",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-70-expired|CC-PD-Mark|Salto in the 20th century|History of Salto|PD-old missing SDC copyright status|Historical images of the Uruguay River|Panorama Nacional Vistas del Uruguay",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Puerto de Salto",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1907",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Panorama Nacional. Año 1907.",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Dornaleche y Reyes Impresores.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "63375414": {
+        "pageid": 63375414,
+        "ns": 6,
+        "title": "File:Salto Grande - Parte central - Salto.tif",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 107393444,
+            "width": 7019,
+            "height": 5100,
+            "pagecount": 1,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Salto_Grande_-_Parte_central_-_Salto.tif/lossy-page1-3840px-Salto_Grande_-_Parte_central_-_Salto.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 3000,
+            "thumbheight": 2180,
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Salto_Grande_-_Parte_central_-_Salto.tif/lossy-page1-3840px-Salto_Grande_-_Parte_central_-_Salto.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 3000,
+              "height": 2180
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Salto_Grande_-_Parte_central_-_Salto.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Salto_Grande_-_Parte_central_-_Salto.tif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63375414",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2017-10-14 19:49:49",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Salto Grande - Parte central - Salto",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Salto Grande Dam|PD-old-70-expired|CC-PD-Mark|1907 in Salto Department|PD-old missing SDC copyright status|Historical images of the Uruguay River|Panorama Nacional Vistas del Uruguay|Historical images of Salto Department",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Salto Grande - Parte central - Salto",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1907",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Panorama Nacional. Año 1907.",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Dornaleche y Reyes Impresores.",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title>
+    Nómada - Puerto de Salto  </title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="content-language" content="es">
+<meta name="title" content="Nómada" />
+<meta name="description" content="Guía de viajes con foco en la arquitectura." />
+<meta name="keywords" content="Nomada, FADU, guia de viaje, viaje, mundo, arquitectura"/>
+<meta name="robots" content='index,follow'/>
+<meta name="author" content="Nómada" />
+<meta property="og:title" content="Nómada"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="https://dzpqda01g2dxp.cloudfront.net/ambos_cel.png"/>
+<meta property="og:description" content="Guía de viajes con foco en la arquitectura." />
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ==" crossorigin="" />
+	<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
+	<!-- 
+	<link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+	<script src="https://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+        -->
+	<link rel="stylesheet" href="https://nomada.uy/assets/leaflet/Plugins/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://nomada.uy/assets/leaflet/Plugins/MarkerCluster.Default.css" />
+   <script src="https://nomada.uy/assets/leaflet/Plugins/leaflet.markercluster.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://nomada.uy/js/controllers/guide.js" type="text/javascript"></script>
+
+	<!-- <script src="https://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script> -->
+    <script src="https://nomada.uy/assets/leaflet/Plugins/leaflet.markercluster.js" type="text/javascript" charset="utf-8"></script>
+<!-- <script src="assets/leaflet/Plugins/leaflet.markercluster.js" type="text/javascript" charset="utf-8"></script> -->
+	<!-- <script src="../../assets/leaflet/Plugins/leaflet.markercluster.js" type="text/javascript" charset="utf-8"></script> -->
+
+	
+  
+    <!-- <script src="https://nomada.uy/js/angular/controllers/guide.js" type="text/javascript"></script> -->
+    <style>
+        #mapa {
+            height: 100%;
+            width: 100%;
+      }
+    </style>
+	
+   
+ <style>
+.marker-cluster-small {
+	background-color: rgba(0, 176, 166);
+	}
+.marker-cluster-small div {
+	background-color: rgba(0, 176, 166);
+	}
+
+.marker-cluster-medium {
+	background-color: rgba(0, 176, 166);
+	}
+.marker-cluster-medium div {
+	background-color: rgba(0, 176, 166);
+	}
+
+.marker-cluster-large {
+	background-color: rgba(0, 176, 166);
+	}
+.marker-cluster-large div {
+	background-color: rgba(0, 176, 166);
+	}
+
+	/* IE 6-8 fallback colors */
+.leaflet-oldie .marker-cluster-small {
+	background-color: rgb(0, 176, 166);
+	}
+.leaflet-oldie .marker-cluster-small div {
+	background-color: rgb(0, 176, 166);
+	}
+
+.leaflet-oldie .marker-cluster-medium {
+	background-color: rgb(0, 176, 166);
+	}
+.leaflet-oldie .marker-cluster-medium div {
+	background-color: rgb(0, 176, 166);
+	}
+
+.leaflet-oldie .marker-cluster-large {
+	background-color: rgb(0, 176, 166);
+	}
+.leaflet-oldie .marker-cluster-large div {
+	background-color: rgb(0, 176, 166);
+}
+
+.marker-cluster {
+	background-clip: padding-box;
+	border-radius: 20px;
+	}
+.marker-cluster div {
+	width: 30px;
+	height: 30px;
+	margin-left: 5px;
+	margin-top: 5px;
+
+	text-align: center;
+	border-radius: 15px;
+	font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-weight: bold;
+	}
+.marker-cluster span {
+	line-height: 30px;
+	}
+	</style>
+
+<link rel="icon" href="https://nomada.uy/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://nomada.uy/images/favicon.ico" type="image/x-icon">
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://nomada.uy/css/loading-bar.css" rel="stylesheet" type="text/css">
+<link href="https://nomada.uy/js/angular/directives/growl/angular-growl.min.css" rel="stylesheet" type="text/css">
+<link href="https://nomada.uy/js/angular/directives/slick/slick-theme.css" rel="stylesheet" type="text/css">
+<link href="https://nomada.uy/js/angular/directives/slick/slick.css" rel="stylesheet" type="text/css">
+<link src="https://nomada.uy/js/angular/directives/lazy-image/lazy-image-style.css" rel="stylesheet" type="text/css">
+<link href="https://nomada.uy/css/estilos.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+  var SITE_URL = "https://nomada.uy/";
+  var BASE_URL = "https://nomada.uy/";
+</script>
+</head>
+<body data-ng-app="arqui-app">
+    <div growl></div>
+    <div class="wrapper">
+      <!--Carga del cabezal-->
+      <header class="cabezalAdmin">
+  <nav class="navbar navbar-default navbar_expanded navbar-fixed-top" data-scroll data-ng-class="{navbar_expanded:boolChangeClass}">
+    <div class="row stateBar">
+      <div class="container text-right">
+        <!--  -->
+
+                        <a href="https://nomada.uy/login">
+                <i class="fa fa-sign-in"></i> Ingresar
+              </a>
+                          </div>
+          </div>
+
+          <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="menu">
+                <ul class="nav navbar-nav nav-justified">
+                  <li>
+                    <a class="navbar-brand p-t-10" href="https://nomada.uy/">
+                      <img src="https://dzpqda01g2dxp.cloudfront.net/images/logo.png" alt="NOMADA" height="30"/>
+                      <!-- <span>NOMADA</span> -->
+                    </a>
+                  </li>
+                  <li><a href="https://nomada.uy/nomada">¿Qu&eacute; es N&oacute;mada?</a></li>
+                  <li><a href="https://nomada.uy/credits">Cr&eacute;ditos</a></li>
+                  <li><a href="https://nomada.uy/legal">T&eacute;rminos y condiciones</a></li>
+
+                  <!--  -->
+                    <li><a href="https://nomada.uy/contacto">Contacto</a></li>
+                </ul>
+              </div>
+            </div>
+          </div><!-- /.container-fluid -->
+        </nav>
+      </header>
+      <!--Fin del cabezal-->
+      <div class="container-fluid">
+        <!--Carga del body-->
+        <div class="ng-cloak" data-ng-controller="guideController as guide" data-ng-init="guide.init('attractions','4069')">
+  <div class="btn-add-guide">
+    <a href='#' class='' data-ng-click='guide.agregarAGuia("attractions","4069")'>
+      <img data-ng-src="https://dzpqda01g2dxp.cloudfront.net//images/resources/guide-icon.png" width="40"/>
+    </a>
+  </div>
+            <div class="row">
+            <div class="col-xs-12 col-md-5">
+              <div class="row p-t-15">
+                <div class="col-xs-12">
+                  <a href='#' class='hidden pull-right m-l-20' data-ng-click='guide.agregarAGuia("attractions","4069")'>
+                    <img class="m-r-10" data-ng-src="https://dzpqda01g2dxp.cloudfront.net//images/resources/guide-icon.png" width="20"/>
+                    Agregar a mi Gu&iacute;a</a>
+                    <a href="javascript:history.back()" class="pull-right">Volver</a>
+
+                    <a href="https://nomada.uy/guide">Guía</a>
+                                          <span> / </span>
+                      <a href="https://nomada.uy/guide/attractions/UY" class="">
+                        Uruguay                      </a>
+                                                                    <span> / </span>
+                        <a href="https://nomada.uy/guide/attractions/UY/618" class="">
+                          Salto                        </a>
+                                              </div>
+                    </div>
+                    <div class="guide-view">
+                      
+                                                      <h3>Puerto de Salto</h3>
+                            <small>
+                              <span> S/D</span>                            </small>
+                            <div class="p-t-15 visible-xs visible-sm">
+                              <a class="mouse-zoom" data-ng-click="guide.openLightboxModal(0,'img')">
+                                <!--
+                                <img data-piio="{{guide.images[0].url}}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8+f9vPQAJZAN2rlRQVAAAAABJRU5ErkJggg==" alt="" /> 
+                                -->
+
+                                <img src="{{guide.images[0].url}}" alt="" />
+                              </a>
+
+                              <h4 data-ng-click="guide.openLightboxModal(0,'img')" data-ng-if="guide.images.length > 1">
+                                <a><i class="fa fa-plus"></i>  Fotos (<span data-ng-bind="guide.images.length"></span>)</a>
+                              </h4>
+                              <h4 data-ng-click="guide.openLightboxModal(0,'graphics')" data-ng-if="guide.graphics.length > 0">
+                                <a><i class="fa fa-plus"></i>  Gráficos (<span data-ng-bind="guide.graphics.length"></span>)</a>
+                              </h4>
+                            </div>
+                            <ul class="attributes-list m-t-20">
+                                                              <li>Direcci&oacute;n: NORTE: 19 DE ABRIL ,OESTE: RÍO URUGUAY, SUR: DÁRSENA SUR Y MUELLE DE CRECIENTES, ESTE: CHIAZZARO desde 19 DE ABRIL hasta MUELLE DE CRECIENTES.</li>
+                                                                                                  <li>Fechas inicio-fin: 1830-</li>
+                                                                                                        <li>Programas: PUERTO</li>
+                                                                                                                                                      <li>Informaci&oacute;n &uacute;til: http://saltopatrimonio.com/home/patrimonio-material/zona-portuaria/</li>
+                                                                              </ul>
+                                                                            
+                                            <p>
+                                              <p><b>Tomado de: Machado da Silva, A., Rodriguez Prati, E. Vlaeminck, L. <i>Guía de Salto,</i><span> Farq- UdelaR, Salto: Enero 2010.</span></b></p><p><b><span> </span></b></p><p>Delimitación: al Norte: calle 19 de Abril y su prolongación hasta el muelle del Ferrocarril, al Oeste: Río Uruguay; al Sur: dársena Sur, con muelle de crecientes; al Este: calle Chiazzaro desde calle 19 de Abril hasta muelle de crecientes.</p><p>La actividad portuaria en la ciudad de Salto comienza en la década de 1830, con la creación de una receptoría y posteriormente una Aduana, alcanzando a partir de la década de 1850 un auge inigualado en el litoral uruguayo.Los primeros muelles y embarcaderos, fueron construidos en madera y sustituidos paulatinamente a partir de las primeras décadas del siglo XX por las construcciones de hormigón aún existentes. La actividad comercial del puerto era complementada por compañías fluviales de navegación que desde mediados del siglo XIX<span>  </span>se crearon para conectar con otros puertos del bajo Uruguay e incluso con Montevideo y Buenos Aires.</p><p><b> </b></p><p><b>Tomado de: Comisión honoraria del patrimonio histórico de Salto. Disponible en:<a href="http:// http://saltopatrimonio.com/home/patrimonio-material/zona-portuaria/ " target=""> http://saltopatrimonio.com/home/patrimonio-material/zona-portuaria/</a></b> </p><p> </p><p> <!--StartFragment--><strong>INCLUYE:</strong>  Dentro de la superficie delimitada quedan incluidos los siguientes elementos:  </p><p>a)MUELLES PRINCIPALES DE HORMIGÓN  </p><p> b)GRUAS UBICADAS EN DICHOS MUELLES  </p><p>c)MUELLE DE ALTA CRECIENTE  </p><p> d)MUELLE METALICO DEL FERROCARRIL  </p><p>e)EDIFICIO DEL RESGUARDO  </p><p>f)EDIFICIO DE LA ADUANA.</p><p> </p><p> <span id="more-1301"></span>  <strong>También están dentro del área delimitada:</strong>  </p><p> a)La plazoleta Roosevelt  </p><p>b)La Plaza Italia y su Mástil Antena  </p><p>c)Las Plazoletas de los Recuerdos, del Líbano, del Leonismo y 1º. de mayo.</p><p> d)Explanadas portuarias de maniobras.</p><p> </p><p> </p><p> </p><p> <!--EndFragment-->   </p><p> </p><p><b> </b> </p><p> </p><p> <!--StartFragment--><strong>FUNDAMENTACION</strong>  </p><p>(Basado principalmente en la Exposición de Motivos realizada por la Arq  Rosario Rodríguez Prati en el año 2001, actualizada con inclusión de  nuevos datos por el Esc. Enrique A. Cesio)  I) Antecedentes Históricos.  </p><p> <strong>EL RIO.</strong>  El río Uruguay fue descubierto en 1520 por Juan Rodríguez Serrano,  capitán de la “nao” Santiago, parte de la flota de Magallanes. En su  recorrido no llegó más allá del Río Negro del Paraná.</p><p> En 1607 canoas de Hernandarias surcaron el río desde los rápidos hasta  el Plata informando” este Río nombrado Uruguay trajo esta gente río  abajo, fue ser río apacible de buena navegación y muy agradable, y de  buenas tierras y partes para su población”.</p><p> Los misioneros de la Compañía de Jesús procedentes del norte fundan el 8  de diciembre de 1619 la primera reducción en el Uruguay, paralelo 28,  seguida de otras. Dependen de Buenos Aires, pero comunican la zona.</p><p> En ese proceso la navegación es interrumpida por los arrecifes (itú) y  por su propia existencia determinan un quiebre en el proceso de  navegación y de poblamiento de las márgenes del río.</p><p> <strong>LA CIUDAD Y EL PUERTO</strong>  La ciudad de Salto se implanta en una privilegiada situación geográfica.</p><p> “Dominando horizontes, asentada en suaves colinas, ríos y bosques, con  su cielo azul y su clemente sol subtropical, polícroma como la luz que  desintegra un prisma, con su caserío compacto y su aureola de jardines,  sencilla en su atavío de infancia, surge la ciudad como la lámina  azogada del Río ante los ojos del viajero que remonta el Uruguay en su  curso medio…”  Esta descripción vale por si misma para relacionar la importancia entre  el río y la ciudad. Así como el carácter de último puerto utilizable río  arriba.</p><p> La fundación de la ciudad es un proceso que se inicia el 8 de noviembre  de 1756, cuando el Gobernador José Joaquín de Viana se estaciona con un  contingente de 400 hombres y permanece un tiempo en el sitio. Retirada  la fuerza militar hay constancias de un lugar poblado que continúa en  forma precaria hasta tomar mas impulso cuando las invasiones portuguesas  en 1817. La ciudad tendrá su desarrollo fundamental a partir de la  Independencia Nacional y luego, cuando el 16 de junio de 1837 se crea el  Departamento y se convierte en su capital.</p><p> La ciudad de Salto nació entonces en vista de una imperiosa necesidad  geográfica. Puente de unión entre el bajo y el alto Uruguay, y en ello  estriba su razón de ser, el secreto de su engrandecimiento paulatino.  “Ciudad del futuro nada le falta para asumir el rango que le corresponde  en la historia de nuestros progresos: riqueza terrestre y riqueza  fluvial, (….) carbón blanco inexhausto manantial a flor de roca, mina  hoy inexplotada. Alma de usina, que acuñará oro a millones cuando la  hidráulica enfrente su torrente” Destino hecho realidad.</p><p> </p><p> <!--StartFragment--><strong>REACION DE LA ADUANA</strong>  </p><p>Cuando Bella Unión formaba parte del departamento de Paysandú, en la  triple frontera con Argentina y Brasil, fue el primer punto indicado  para crear una aduana. No ocurrió eso, pero en 1829 se crea una en  Salto, trasladada al año siguiente a Paysandú.</p><p> Por decreto de 1 de diciembre de 1832, se creó una Receptoría en el puerto de Salto.</p><p> En 1833 el gobierno central sacó a remate las receptorías, arrendándolas  al mejor postor. Pasadas a manos privadas con la intención de que celo  avivara el control y evitara el contrabando.</p><p> Años después se regresó al dominio público, ocupando la jefatura varias personas hasta el fin de la Guerra Grande.</p><p> En 1853 el Gobierno aprobó un reglamento sobre depósitos que beneficiaba a las aduanas de Montevideo y Salto.</p><p> La ley de 13 de julio de 1856 dio mas fuerza al privilegio señalado y la  receptoría salteña fue el núcleo mercantil de mayor importancia del  litoral, alcanzado sus rentas grandes cifras.</p><p> Por esos tiempos Salto se había convertido en la Gran Ciudad Comercial del Litoral.</p><p> Las oficinas de la ADUANA se ubicaron en la esquina de las calles Daymán  y Juan Carlos Gómez, pero un gran incendio en 1852, en un sitio  cercano, hizo pensar en dar asiento a la oficina en un lugar sólido y  propio.</p><p> Mariano cabal, rico hombre de negocios, fue el concesionario de la obra, realizada por el español Roses, durante varios años.</p><p> Ese edificio de dos plantas se habilitó antes de estar terminada. En  1874 durante el gobierno de Ellauri se destinaron fondos para adquirir  terrenos colindantes y construir depósitos, pero ello se retrasó por  diversas circunstancias, de modo que recién en 1904 se pudieron  terminar.</p><p> </p><p> <strong>LAS COMPAÑIAS FLUVIALES DE NAVEGACION</strong>  </p><p>Es obvio que con las condiciones naturales de navegación del río Uruguay  y el crecimiento de la actividad comercial y productiva de Salto, dada  la ubicación previa a los arrecifes de Salto Chico y Salto Grande,  creciera al mismo tiempo la necesidad de contar con el transporte  adecuado.</p><p> Coinciden en esa segunda parte del Siglo XIX como habitantes de la  ciudad personalidades de fuerte carácter emprendedor. Por citar  solamente a algunos de ellos, se menciona a Ricardo Williams, Mariano  Cabal, Pascual Harriague, Dionisio Trillo, Saturnino Ribes, Manuel  Ferrando, José G. Amorim, Diego lamas, Teófilo Córdoba, quienes con sus  condiciones naturales y sus relaciones incluso en la Argentina,  emprenderán la creación de un banco, de una compañía naviera, de los  edificios de la Iglesia del Carmen, la Aduana, el Resguardo, la Jefatura  de Policía, los saladeros, los astilleros, el Instituto Politécnico,  los grandes hoteles y el Hospital , el Hipódromo y otras instituciones  de gran trascendencia.</p><p> En 1857 se funda en esta ciudad la primera compañía del Río de la Plata  con el nombre de “Compañía Salteña de Navegación a Vapor”, siendo sus  accionistas Trillo, Texo, Cabal, Sañudo , Claverie y otros. Sus primeras  naves fueron el “Salto” y el “Montevideo”. El primero fue construido  por “T.y G. Thomson” de Glascow, bajo la supervisión de Apolinario de  los Santos, gerente de la compañía salteña. El “Salto” tenía capacidad  para 80 pasajeros de cámara y 40 de segunda, 191 toneladas, 47 metros de  largo y 6 de ancho y 1,5 de calado.</p><p> La prosperidad de la Compañía se interrumpió en 1859 por problemas  políticos argentinos. El General Urquiza, accionista mayor de la  Compañía adquirió el total de las partes y puso los elementos  disponibles al servicio de su enfrentamiento militar interno.</p><p> “No obstante, dicen Fernández Saldaña y Miranda, a principios de 1860  pudo ofrecer cuatro viajes mensuales entre Montevideo y Salto, con  escala en Fray Bentos, Nueva Palmira, Paysandú y Concepción del Uruguay y  otra línea hasta Rosario de Santa Fé, con escala en San Nicolás.”.  Entre febrero del 60 y enero del 61 la empresa transportó 12.794  pasajeros en la línea del Uruguay y 15.072 en la del Paraná.</p><p> En 1862 surge la “Nueva Compañía Salteña de Navegación a Vapor”, que  desarrolla un éxito creciente hasta que le sucede por 1865 lo mismo que  la anterior cuando sus buques se utilizan en las guerras civiles.</p><p> En 1866, Saturnino Ribes, francés de habilidad y gran emprendedor,  antiguo empleado de la primer Compañía mencionada se hace armador y crea  las “Mensajerías Fluviales a Vapor”. La competencia entablada se  soluciona cuando ante problemas de dirección de sus competidores, Ribes  compra esa empresa y queda dueño del río.</p><p> Según Barrios Pintos, nunca nadie había logrado mayor flota, mayor  tránsito, más barcazas, mas transporte. Ribes genera una actividad  inusual en la zona norte de Salto al instalar sus astilleros que se  mantendrán en actividad hasta cerca de 1945 (Aun hay en Salto  sobrevivientes de sus empleados).</p><p> En 1888 Ribes vende sus propiedades a la inglesa “Platense Flotilla  Company Limited y aunque se dice se había comprometido a no reiniciar  esa misma actividad, formó la “Mensajerías Fluviales del Plata”,  haciendo quebrar a la anterior al poco tiempo.</p><p> Al fallecimiento de Ribes, sus herederos la vendieron a Nicolás Mihanovich, quien las explotó hasta mediados del siglo XX.</p><p> Se han escrito numerosos trabajos sobre la importancia del río, su  puerto y la navegación, que justifican la afirmación de que esa fue una  causa no única, pero sí decisiva del crecimiento y auge de la ciudad de  Salto.</p><p> II) Los Elementos incluidos en la Declaratoria solicitada.</p><p>  <strong> </strong></p><p><strong>EL EDIFICIO DE LA ADUANA</strong>  </p><p>Aunque no hubo un proyecto global del AREA PORTUARIA, las realizaciones coexisten en forma armónica.</p><p> “Mirando el puerto hacia el centro se advierte el edificio de la Aduana,  de sólida construcción y de buen gusto arquitectónico. Es el mejor de  los edificios públicos de la ciudad” C.A.Lecueder. 1910 en el Uruguay a  través de un siglo.</p><p> El edificio se inició en 1860 con terminación en 1904 (¿?). Es obra  probable de un constructor italiano y manifiesta un talento creativo,  libre en sus concepciones.</p><p> Se inserta dentro de la tardía influencia de la vertiente neoclásica  italiana, que integraba el historicismo ecléctico europeo, cuya vigencia  en el Uruguay se corresponde con la segunda mitad del siglo XIX.</p><p> Tanto en el desarrollo de sus plantas como de sus elevaciones se  distinguen claramente los elementos y reglas que rigen los aspectos  formales de esa arquitectura.</p><p> El acceso principal es fácilmente identificable ya que se ubica en el  eje de simetría de la fachada, destacándose el sitio con un volumen  elevado que contiene un reloj y un escudo nacional en bajorrelieve. Los  ornamentos de este volumen se identifican con elementos del barroco.</p><p> La fachada principal de divide en siete paños, cada uno de ellos  contiene dos vanos, uno sobre el otro. Estos paños no son idénticos  entre sí. Tres de ellos, los centrales contienen balcones que se apoyan  sobre originales ménsulas de geometría pura que anticipan un gusto mas  austero. Las fajas a ambos lados se diferencian para jerarquizarlos.</p><p> Los vanos inferiores destacan su arco de medio punto, con bellas rejas  de forjado, salvo el del acceso, cuya puerta lo ocupa todo.</p><p> La fachada lateral, más simple, mantiene las mismas diferencias entre paños.</p><p> Al centro el conjunto es de dos vanos arriba y dos abajo. El eje se  destaca con un remate mas sencillo q. La originalidad radica en que la  simetría se completa con la esquina en ochava, vale decir que termina  por no ser tal. Sin embargo se ve compensada.</p><p> Los vanos de toda la planta baja se manifiestan como puertas,  probablemente por las funciones para las cuales fue concebido.. Los de  la planta alta ubicados en perfecta concordancia con los de la planta  baja, son también de medio punto, pero se diferencian en su  ornamentación.</p><p> La ornamentación general que se aplica cuidando el estudiado ritmo,  consiste en columnatas chatas que luego se dividen de a dos pares,  destacando a modo de pórticos el acceso y los paños principales, a su  vez, éstas contienen un despiezo horizontal. Los llenos semejan  despiezos de ladrillo visto, siendo en algunos dispuestos en fajas,  detalle que se repite en la mayoría de los dinteles de medio punto de la  planta superior. Las dovelas de estas plantas se continúan como  columnas llegando hasta el arquitrabe.</p><p> La cornisa continua en todo el edificio, se altera en las esquinas de la  fachada principal, transformándose en un tímpano, que corresponde a las  cubiertas a dos aguas de los grandes salones. Estos salones se techan  con cubiertas a la porteña a dos aguas, con una estructura sustentante  que consiste en dos cerchas de madera, a la vista. En los restos de las  salas aparecen los cielorrasos. En el interior los salones se abren  hacia un patio circunvalado por una gran galería, abierta en dos  niveles, cuyo entrepiso es enteramente de madera.</p><p> Las esquinas y algunos detalles se resuelven con el clásico  almohadillado de sillería (imitación) .Es un conjunto realmente  magnífico y singular.</p><p> Cabe señalar que a principios del siglo XX, intervino en la ampliación y  terminación del edificio el reconocido arquitecto italiano Domingo  Francisco Rocco, autor de notables edificios y viviendas de la ciudad de  Salto.</p><p> </p><p> <strong>  EL RESGUARDO</strong>  </p><p>Este edificio es el primero que acoge al viajero al descender en los  muelles de Salto. Se trata de una construcción muy sencilla compuesta de  una planta de tres rectángulos que se componen en forma casi simétrica,  mostrando esa simetría hacia los cuatro costados. Una cubierta liviana  de chapa sobre cerchas de madera a cuatro aguas cubre la misma. Ha  tenido funciones de resguardo y a veces de aduana, pasando mucho tiempo  de su vida bajo agua, pues las crecidas del río apenas superan los 10  metros, la invaden.</p><p> La planta alta presenta en todo su perímetro un balcón con barandas de  hierro forjado, así como la original escalera de acceso a la misma.</p><p> Debajo del ese balcón y continuando le perímetro existía una galería de  cubierta liviana, para protección de lluvias y soles. Es una típica  construcción de la zona.</p><p> Las fachadas simétricas todas, manifiestan sus diferencias acordes a la  orientación y funciones. Los vanos, con dinteles escárzanos se ubican en  un adecuado ritmo, de llenos y vacíos. La simetría se jerarquiza con un  pórtico de falsas columnas que rematan en la cornisa perimetral,  destacándose con molduras a modo de simples capiteles.</p><p> En la fachada principal (la que da acceso al público) un bajorrelieve gravado en el revestimiento manifiesta su función.</p><p> La ornamentación casi imperceptible, da digna terminación a las  fachadas, con una pequeña moldura que da forma a las mochetas y  guardapolvos. Los llenos se dividen en tímidas buñas horizontales que  rematan conformando las dovelas y sus pares en los grandes arcos de  acceso a la planta baja.</p><p> Su máximo valor consiste en la pertenencia a ese especial conjunto del área portuaria.</p><p> Debe señalarse que en la actualidad en la planta superior funciona el  Museo del Río”, manejado por una Comisión de amigos de la navegación y  el curso fluvial.</p><p> </p><p> <strong>LOS MUELLES PRINCIPALES</strong> </p><p>  Esta estructura sustituyó a los antiguos muelles de madera y son las mas actuales. Son obras de ingeniería de hormigón, adecuadas  perfectamente a las funciones para las cuales se construyeron.</p><p> Forman una especie de quiebre de su iniciación desde el Resguardo hacia  el río, doblando hacia el sur en forma casi paralela al curso fluvial..</p><p> Se componen de dos niveles, uno a la altura de la amplísima explanada  inferior y la otra al del tramo de acceso.. A la estructura de losas y  pilares se agregan cruces de San Andrés del mismo material.</p><p> Sobre el tramo paralelo al río, se movilizan las dos grúas metálicas.</p><p> Estas instalaciones han soportado innumerables inundaciones, resistiendo  de manera formidable, adquiriendo un Pátina característica del hormigón  que permanece mucho bajo el agua. Su estado actual es bueno.</p><p> Por su parte el perímetro de explanadas está cercado con muros y rejas.</p><p> </p><p> <strong>LAS GRUAS</strong>  </p><p>Las grandes grúas de fabricación metálica constituyen un referente  visual ineludible de Salto. Los salteños no conciben la perspectiva  hacia su “río” si la presencia de esas dos grúas a quien un poeta local  denominó” las jirafas grises”.</p><p> Son de esas estructuras que sin ser bellas aportan al paisaje esa  identidad que terminan por transformarlas de tan queridas, en hermosas.</p><p> </p><p> <strong>EL MUELLE METALICO</strong></p><p><strong>  </strong>  Este muelle, es el ubicado mas al norte del área y fue construido para  las operaciones del Ferro Carril Noroeste, cuya estación se encuentra  unos 500 metros hacia el este. Las vías lo transitan en su parte  superior. Concebido para determinada función es una hermosa estructura  metálica, pura tecnología y por lo tanto, atemporal. Estructura que aun  asombra por su geometría, armonía, como desafiante e indestructible.</p><p> Su emplazamiento nace en un amplio paredón de piedra, trabajo de  sillería que en aquellas épocas, resultaban de una tradición del sitio,  ya que Salto era conocida como la ciudad de la piedra.</p><p> Se extiende hacia el río entre árboles y arbustos y es conocido  popularmente como “ el muelle negro”. En el atardecer y cuando hay calma  su reflejo traduce la serena lectura del río, que acrecienta su belleza  cuando las bandadas de garzas blancas se aposentan en él, aumentando su  indudable carácter testimonial.</p><p> </p><p> <strong>EL MUELLE DE CRECIENTES</strong>  </p><p> Esta construcción de hormigón está instalada al final de la dársena sur y  se construyó pensando en las crecientes habituales, para permitir la  continuidad de los servicios. Dada la casi desaparición de la navegación  de pasajeros y carga, se limita a servir en ocasiones de grandes  crecientes para las lanchas del servicio diario a Concordia.</p><p> Tiene un pasaje vehicular en su nivel inferior que permite unir la parte  sur y norte del área. Por su ubicación es el remate perfecto para el  límite sur de la zona a declarar.</p><p> </p><!--StartFragment--><p><b> </b></p><p><b>  <!--StartFragment--><b><span>Monumento Histórico Nacional. Resolución </span></b><!--EndFragment--></b><b>Nº476/00.</b></p><p> <!--StartFragment--></p><p><b>VISTO: </b> </p><p>La gestión de la Comisión Honoraria del Patrimonio Histórico de Salto ante la Comisión del Patrimonio Cultural de la Nación, para que sea declarada Monumento Histórico Nacional el Area Portuaria de la ciudad de Salto delimitada al Norte por la calle 19 de Abril, y su prolongación hasta el muelle metálico incluido; al Oeste por el Río Uruguay incluyendo la Dársena Norte; al Sur por la Dársena Sur incluida con Muelle de Crecientes; al Este desde Muelle de Crecientes hacia el Norte, calles Solís y Dr. Chiazzaro hasta calle 19 de Abril, padrones números 1, 2, 3 y 523 respectivamente, de la Primera Sección Catastral de Salto.</p><p><b> </b></p><p><b> RESULTANDO:</b></p><p>I) Desde sus orígenes, Salto mantiene una estrecha relación con el Río Uruguay y su área portuaria, generándose, a partir del desarrollo de dicha actividad, una singular &#34;continuidad espacial&#34; que se ha ido conformando en el tiempo.</p><p> II) La actividad portuaria ha significado un elemento decisivo en relación a la economía y a la forma de vida, favoreciendo el &#34;sentido de pertenencia&#34; e &#34;identidad&#34; de la comunidad.</p><p> III) El área portuaria, comprendida en esta declaratoria, es el resultado de varias intervenciones que coexisten en forma armónica y comprende: los edificios de la Aduana y del Resguardo; elementos de equipamiento propios de la operativa portuaria como los muelles principales de hormigón y las grúas ubicadas en las mismas, muelle metálico para el ferrocarril, muelle de alta creciente y explanada portuaria de maniobras; y los espacios verdes públicos que comprenden la Plaza Italia y su Mástil Antena y las Plazoletas: de los Recuerdos, Roosevelt, del Líbano, del Leonismo y 1º de Mayo.</p><p> IV) El área portuaria identificada en la presente resolución y relacionada en el numeral anterior, es un &#34;paisaje activo&#34; manteniendo en la actualidad un papel social para la comunidad salteña.</p><p></p><!--EndFragment--><p> </p><p> </p><p></p><p> </p><p> </p><!--StartFragment--><p> EL AREA portuaria referida en el numeral anterior, involucra los siguientes bienes: Edificios correspondientes a la Aduana y al Resguardo; elementos de equipamiento de la operativa como los muelles principales de hormigón y las grúas ubicadas en las mismas, muelle metálico para el ferrocarril, muelle de alta creciente y explanada portuaria de maniobras; espacios verdes públicos formados por la Plaza Italia y su Mástil Antena y las Plazoletas: de los Recuerdos, Roosevelt, del Líbano, del Leonismo y 1º de Mayo.</p><p> </p><p></p><p> LOS BIENES inmuebles, el equipamiento de la operativa, y los espacios verdes públicos quedan afectados por las servidumbres previstas en el artículo 8 de la Ley 14.040 del 20 de setiembre de 1971, debiendo cualquier intervención en cualquier punto del área afectada, contar con la aprobación previa de la Comisión del Patrimonio Cultural de la Nación.</p><p></p><p></p><!--EndFragment--><p> </p><p> </p><p> </p><!--EndFragment--><p> </p><p> </p>   <p><b>Extracto de la exposición de motivos para la declaración de MHN</b></p><p></p><p> <!--EndFragment-->   </p>                                            </p>
+                                          </div>
+
+                                        </div>
+                                        <div class="col-xs-12 col-md-7">
+                                          <div class="p-t-15 hidden-xs hidden-sm">
+                                            <a class="mouse-zoom" data-ng-click="guide.openLightboxModal(0,'img')">
+                                              <!-- <img data-piio="{{guide.images[0].url}}" alt="" /> -->
+                                              <img src="{{guide.images[0].url}}" alt="" />
+                                            </a>
+                                            <!-- <img data-ng-click="guide.openLightboxModal(0,'img')" data-ng-src="{{guide.images[0].url}}" alt="" /> -->
+
+                                            <h4 data-ng-click="guide.openLightboxModal(0,'img')" data-ng-if="guide.images.length > 1">
+                                              <a><i class="fa fa-plus"></i>  Fotos (<span data-ng-bind="guide.images.length"></span>)</a>
+                                            </h4>
+                                            <h4 data-ng-click="guide.openLightboxModal(0,'graphics')" data-ng-if="guide.graphics.length > 0">
+                                              <a><i class="fa fa-plus"></i>  Gráficos (<span data-ng-bind="guide.graphics.length"></span>)</a>
+                                            </h4>
+                                          </div>
+                                                                                    <div class="row m-t-20 m-b-20">
+                                            <div class="col-xs-12">
+                                              <!-- MAPA -->
+                                              <!--
+                                              <map center="-31.385091, -57.974454" zoom="15" scrollwheel="false">
+
+                                                <custom-marker id="foo" position="-31.385091, -57.974454">
+                                                  <img src="https://dzpqda01g2dxp.cloudfront.net/images/resources/marker.png" alt="Puerto de Salto" />
+                                                </custom-marker>
+                                              </map>
+                                              -->
+                                              <body onload="mapa();"> 
+		                                          <div id="map" style="height: 320px; width: 100% "></div>
+	                                            </body>
+                                            </div>
+                                          </div>
+                                                                                </div>
+                                      </div>
+                                    </div>
+
+<script>
+			function mapa() {
+
+        var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+      osmAttrib = '&copy; <a href="https://nomada.uy">NOMADA</a> Fadu Udelar',
+      osm = L.tileLayer(osmUrl, {maxZoom: 18, attribution: osmAttrib});
+      var map = L.map('map').setView([-31.385091, -57.974454], 16).addLayer(osm);
+      map._layersMinZoom=5;
+  
+  
+      var customIcon = new L.Icon({
+        iconUrl: 'https://dzpqda01g2dxp.cloudfront.net/images/resources/marker.png',
+        iconSize: [50, 50],
+        iconAnchor: [25, 50]
+      });
+      var puntos = [
+          ["Puerto de Salto",-31.385091, -57.974454]
+        
+          ];
+      for (var i = 0; i < puntos.length; i++) {
+              marker = new L.marker([puntos[i][1],puntos[i][2]], {icon: customIcon})
+                  .bindPopup(puntos[i][0])
+                  .addTo(map);
+          }
+			}
+  </script>
+        <!--Fin del Body-->
+      </div>
+        <!-- <div class="push"></div> -->
+    </div><!--Fin wrapper-->
+
+    <!--Carga del pie de pagina-->
+    <footer>
+	<div class="footer-stores">
+		<div class="container-fluid">
+			<div class="row text-right">
+				<div class="col-xs-12 redes-sociales">
+					<a href='https://play.google.com/store/apps/details?id=com.nomada.fadu&hl=es&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank">
+						<img width="100%" alt='Disponible en Google Play' src="https://dzpqda01g2dxp.cloudfront.net/badges/google-play.png"/>
+					</a>
+					<a href='https://itunes.apple.com/uy/app/nomada-guia-viaje-con-foco/id1090119799?mt=8'target="_blank">
+						<img width="100%" alt='Disponible en iOS' src="https://dzpqda01g2dxp.cloudfront.net/badges/ios.png"/>
+					</a>
+					<a href="https://www.facebook.com/nomadauy" target="_blank">
+						<i class="fa fa-facebook"></i>
+					</a>
+					<a href="https://www.twitter.com/nomadauy" target="_blank">
+						<i class="fa fa-twitter"></i>
+					</a>
+					<a href="https://www.instagram.com/nomadauy" target="_blank">
+						<i class="fa fa-instagram"></i>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+    <!--Fin del pie de pagina-->
+    <script type="application/javascript"> var piioData = { appKey: '710cef6fde0ccbde8b4b4e32ee286622', encodeSrc: false, domain: 'https://www.nomada.uy' } </script>
+<script src="//js.piio.co/demo/piio.min.js"></script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.5/angular.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.5/angular-animate.min.js"></script>
+<script src='//cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.5/angular-sanitize.min.js'></script>
+<script src='//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.3.3/ui-bootstrap.min.js'></script>
+<script src='//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.3.3/ui-bootstrap-tpls.min.js'></script>
+<script src="//mgcrea.github.io/angular-strap/dist/angular-strap.js" data-semver="v2.3.1"></script>
+<script src="//mgcrea.github.io/angular-strap/dist/angular-strap.tpl.js" data-semver="v2.3.1"></script>
+<script src="//mgcrea.github.io/angular-strap/docs/angular-strap.docs.tpl.js" data-semver="v2.3.1"></script>
+
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyAzMrIgZUBRuGP8bbUx-3wwmGhzVZWBN-s&libraries=places"></script>
+<script src="https://nomada.uy/js/angular/directives/google-maps/ng-map.min.js"></script>
+<script src="https://nomada.uy/js/angular/directives/google-maps/markerclusterer.js"></script>
+
+<script>
+  MarkerClusterer.prototype.MARKER_CLUSTER_IMAGE_PATH_ = 'https://dzpqda01g2dxp.cloudfront.net/images/resources/cluster/m';
+</script>
+
+<script src="https://nomada.uy/js/angular/directives/loadingBar/loading-bar.js"></script>
+<script src="https://nomada.uy/js/angular/directives/growl/angular-growl.min.js"></script>
+<script src="https://nomada.uy/js/angular/directives/angular-md5/angular-md5.min.js"></script>
+<script src="https://nomada.uy/js/angular/directives/slick/slick.js"></script>
+<script src="https://nomada.uy/js/angular/directives/slick/angular-slick.min.js"></script>
+<script src="https://nomada.uy/js/angular/directives/lightbox/angular-bootstrap-lightbox.js"></script>
+<script src="https://cdn.jsdelivr.net/ngstorage/0.3.10/ngStorage.min.js"></script>
+<script src="https://nomada.uy/js/angular/directives/lazy-image/lazy-image.min.js"></script>
+<script src="https://nomada.uy/js/angular/directives/recaptcha/angular-recaptcha.min.js"></script>
+
+<script src="https://nomada.uy/js/angular/app.js"></script>
+<script src="https://nomada.uy/js/angular/services/services.js"></script>
+<script src="https://nomada.uy/js/angular/controllers/landing.js"></script>
+<script src="https://nomada.uy/js/angular/controllers/guide.js"></script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124786061-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124786061-1');
+</script>
+
+
+<!-- Hotjar Tracking Code for www.nomada.uy -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:994811,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+    <script src="https://nomada.uy/js/angular/controllers/guide.js"></script></body>
+</html>

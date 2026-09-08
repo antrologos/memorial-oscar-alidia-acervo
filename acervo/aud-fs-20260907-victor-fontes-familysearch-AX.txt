@@ -1,0 +1,856 @@
+Browser tab: 81, Title: "Victor Juan Guicheney Lopes (1867–1943) • Pessoa • Árvore familiar", URL: "https://www.familysearch.org/pt/tree/person/sources/ML7Z-8WQ".
+1 AXWebArea Victor Juan Guicheney Lopes (1867–1943) • Pessoa • Árvore familiar, URL: familysearch.org/pt/tree/person/sources/ML7Z-8WQ
+	2 container
+		3 container root
+			4 container app-content-scroller
+				5 link Description: IR PARA O CONTEÚDO PRINCIPAL, Value: familysearch.org/pt/tree/person/sources/ML7Z-8WQ#skipToMainContent
+				6 container
+					7 link Description: FamilySearch — Página Inicial, Value: familysearch.org/pt/home/portal/
+					8 container Principal
+						9 pop up button (collapsed) Árvore Familiar, Secondary Actions: Expand
+						10 pop up button (collapsed) Pesquisa, Secondary Actions: Expand
+						11 pop up button (collapsed) Recordações, Secondary Actions: Expand
+						12 pop up button (collapsed) Participe, Secondary Actions: Expand
+						13 pop up button (collapsed) Atividades, Secondary Actions: Expand
+					14 link Description: Localizações, Value: familysearch.org/pt/locations/about
+					15 button Escolha o idioma
+					16 button Ajuda
+					17 button Chat
+					18 link Description: Novas notificações disponíveis, Value: familysearch.org/pt/notifications/
+					19 pop up button (collapsed) Conta: Rogério J Barbosa, Secondary Actions: Expand
+						20 container Conta: Rogério J Barbosa
+				21 container main
+					22 container Menu secundário da árvore
+						23 content list
+							24 link Description: Árvore, Value: familysearch.org/pt/tree/pedigree
+							25 button Recentes
+							26 link Description: Encontrar, Value: familysearch.org/pt/search/tree?from=tree
+							27 link Description: Seguindo, Value: familysearch.org/pt/tree/following
+							28 link Description: Lista de pessoas, Value: familysearch.org/pt/tree/private-people
+							29 link Description: Minhas colaborações, Value: familysearch.org/pt/tree/contributions
+							30 pop up button (collapsed) Description: O que há de novo, Secondary Actions: Expand
+					31 container skipToMainContent
+						32 button Atualizar o retrato para Victor Juan Guicheney Lopes
+						33 heading Victor Juan Guicheney Lopes 1867–1943 · ML7Z-8WQ, Value: 1
+							34 container Victor Juan Guicheney Lopes 1867–1943 · ML7Z-8WQ
+								35 text Victor Juan Guicheney Lopes
+								36 text Masculino aproximadamente 1867 – 9 de fevereiro de 1943 •
+								37 button M L 7 Z 8 W Q, Selecione para copiar.
+						38 link Description: VER ÁRVORE, Value: familysearch.org/pt/tree/pedigree/ML7Z-8WQ
+						39 button VER PARENTESCO
+						40 button Description: Para receber notificações sobre quaisquer alterações feitas a essa pessoa, clique em “Seguir” , Help: Para receber notificações sobre quaisquer alterações feitas a essa pessoa, clique em “Seguir”
+						41 container
+							42 link Description: Sobre, Value: familysearch.org/pt/tree/person/about/ML7Z-8WQ, ID: tabs--2--tab--0
+							43 link Description: Detalhes, Value: familysearch.org/pt/tree/person/details/ML7Z-8WQ, ID: tabs--2--tab--1
+							44 link Description: Fontes (19), Value: familysearch.org/pt/tree/person/sources/ML7Z-8WQ, ID: tabs--2--tab--2
+							45 link Description: Colaborar (0), Value: familysearch.org/pt/tree/person/collaborate/ML7Z-8WQ, ID: tabs--2--tab--3
+							46 link Description: Recordações (0), Value: familysearch.org/pt/tree/person/memories/ML7Z-8WQ, ID: tabs--2--tab--4
+							47 link Description: Linha do tempo, Value: familysearch.org/pt/tree/person/timeline/ML7Z-8WQ, ID: tabs--2--tab--5
+						48 container Description: Fontes (19), ID: tabs--2--panel--2
+						49 container
+							50 heading Description: Ocultar esta seção: Fontes, Value: 2
+								51 text Fontes  ( 19 )
+							52 switch Description: Visualização detalhada, Value: 1
+							53 pop up button (collapsed) + ACRESCENTAR FONTE, Secondary Actions: Expand
+							54 button OPÇÕES
+							55 text Data Título Criado
+							56 container QSQW-HBW
+								57 button (expanded) Secondary Actions: Collapse, 1912 Victor Juan Guichenez, "Argentina, Entre Ríos, registros parroquiales, 1764-2011" 3 de janeiro de 2023 Rogério J Barbosa
+									58 button 1912 Victor Juan Guichenez, "Argentina, Entre Ríos, registros parroquiales, 1764-2011" 3 de janeiro de 2023 Rogério J Barbosa
+										59 button
+										60 text 1912
+										61 text Victor Juan Guichenez, "Argentina, Entre Ríos, registros parroquiales, 1764-2011"
+										62 text 3 de janeiro de 2023
+										63 button Rogério J Barbosa
+								265 container j6bjntjz15y5
+									266 button VISUALIZAR
+									267 button EDITAR
+									268 button ANALISAR ANEXOS
+									269 button DESANEXAR
+									270 heading Marcadores, Value: 3
+										271 text Marcadores
+									272 button Nascimento
+									273 button Nome
+									274 button + Acrescentar marcação
+									275 heading Data da fonte junho de 1912, Value: 3
+										276 text Data da fonte
+										277 text junho de 1912
+									278 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QLWW-3NMG, Value: 3
+										279 text Página do site (link para o registro)
+										280 link Description: https://familysearch.org/ark:/61903/1:1:QLWW-3NMG, Value: familysearch.org/ark:/61903/1:1:QLWW-3NMG?lang=pt
+									281 heading Onde o registro foi encontrado (referência) , Value: 3
+										282 text Onde o registro foi encontrado (referência)
+									283 container
+										284 text "Argentina, Entre Ríos, registros parroquiales, 1764-2011",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QLWW-3NMG : Sat Mar 15 00:37:24 UTC 2025), Entry for Victor Juan Guichenez and Antonia Muñoa, Jun 1912.
+									285 heading Informações indexadas, Value: 3
+										286 text Informações indexadas
+									287 button EXIBIR
+									288 heading Fonte modificada:, Value: 3
+										289 text Fonte modificada:
+									290 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSQW-HBW?entityId=ML7Z-8WQ&entityType=person
+									291 text 3 de janeiro de 2023
+									292 button Rogério J Barbosa
+									293 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										294 text Motivo pela qual esta fonte está anexada:
+									295 button + ACRESCENTAR
+							64 container Q9YK-41R
+								65 button (expanded) Secondary Actions: Collapse, 1914 Victor Juan, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+									66 button 1914 Victor Juan, "Uruguay, Índice del Registro Civil, 1900-1937" 30 de dezembro de 2022 Rogério J Barbosa
+										67 button
+										68 text 1914
+										69 text Victor Juan, "Uruguay, Índice del Registro Civil, 1900-1937"
+										70 text 30 de dezembro de 2022
+										71 button Rogério J Barbosa
+								72 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								73 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								74 button ANEXOS COM INDIVÍDUOS PENDENTES
+								75 button DISPENSAR
+								296 container p6jkpni4g9np
+									297 button VISUALIZAR
+									298 button EDITAR
+									299 button ANALISAR ANEXOS
+									300 button DESANEXAR
+									301 heading Marcadores, Value: 3
+										302 text Marcadores
+									303 button Sexo
+									304 button Nome
+									305 button + Acrescentar marcação
+									306 heading Data da fonte 1914, Value: 3
+										307 text Data da fonte
+										308 text 1914
+									309 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3J-SBP5, Value: 3
+										310 text Página do site (link para o registro)
+										311 link Description: https://familysearch.org/ark:/61903/1:1:QG3J-SBP5, Value: familysearch.org/ark:/61903/1:1:QG3J-SBP5?lang=pt
+									312 heading Onde o registro foi encontrado (referência) , Value: 3
+										313 text Onde o registro foi encontrado (referência)
+									314 container
+										315 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3V-NDCP : Fri Aug 28 10:33:12 UTC 2026), Entry for Laura Josefa Guicheney Muñoz and Victor Juan, 1914.
+									316 heading Informações indexadas, Value: 3
+										317 text Informações indexadas
+									318 button EXIBIR
+									319 heading Fonte modificada:, Value: 3
+										320 text Fonte modificada:
+									321 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/Q9YK-41R?entityId=ML7Z-8WQ&entityType=person
+									322 text 30 de dezembro de 2022
+									323 button Rogério J Barbosa
+									324 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										325 text Motivo pela qual esta fonte está anexada:
+									326 button + ACRESCENTAR
+							76 container QGVZ-D24
+								77 button (expanded) Secondary Actions: Collapse, 1914 Victor Juan Guicheney, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+									78 button 1914 Victor Juan Guicheney, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+										79 button
+										80 text 1914
+										81 text Victor Juan Guicheney, "Uruguay, registro civil, 1879-2020"
+										82 text 21 de fevereiro de 2024
+										83 button Sandramacedo3
+								327 container yt615ymee71
+									328 button VISUALIZAR
+									329 button EDITAR
+									330 button ANALISAR ANEXOS
+									331 button DESANEXAR
+									332 heading Marcadores, Value: 3
+										333 text Marcadores
+									334 button Sexo
+									335 button Nome
+									336 button + Acrescentar marcação
+									337 heading Data da fonte 25 de julho de 1914, Value: 3
+										338 text Data da fonte
+										339 text 25 de julho de 1914
+									340 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:623W-ZTVP, Value: 3
+										341 text Página do site (link para o registro)
+										342 link Description: https://familysearch.org/ark:/61903/1:1:623W-ZTVP, Value: familysearch.org/ark:/61903/1:1:623W-ZTVP?lang=pt
+									343 heading Onde o registro foi encontrado (referência) , Value: 3
+										344 text Onde o registro foi encontrado (referência)
+									345 container
+										346 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:623W-ZTVG : Wed Mar 20 02:54:19 UTC 2024), Entry for Laura Josefa Guicheney and Victor Juan Guicheney, 25 Jul 1914.
+									347 heading Informações indexadas, Value: 3
+										348 text Informações indexadas
+									349 button EXIBIR
+									350 heading Fonte modificada:, Value: 3
+										351 text Fonte modificada:
+									352 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QGVZ-D24?entityId=ML7Z-8WQ&entityType=person
+									353 text 21 de fevereiro de 2024
+									354 button Sandramacedo3
+									355 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										356 text Motivo pela qual esta fonte está anexada:
+									357 button + ACRESCENTAR
+							84 container Q9YK-C53
+								85 button (expanded) Secondary Actions: Collapse, 1914 Victor Guicheney, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+									86 button 1914 Victor Guicheney, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+										87 button
+										88 text 1914
+										89 text Victor Guicheney, "Uruguay, registros parroquiales, 1726-2000"
+										90 text 30 de dezembro de 2022
+										91 button Rogério J Barbosa
+								92 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								93 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								94 button ANEXOS COM INDIVÍDUOS PENDENTES
+								95 button DISPENSAR
+								358 container Oh2n27xcxkiu
+									359 button VISUALIZAR
+									360 button EDITAR
+									361 button ANALISAR ANEXOS
+									362 button DESANEXAR
+									363 heading Marcadores, Value: 3
+										364 text Marcadores
+									365 button Sexo
+									366 button Nome
+									367 button + Acrescentar marcação
+									368 heading Data da fonte 17 de agosto de 1914, Value: 3
+										369 text Data da fonte
+										370 text 17 de agosto de 1914
+									371 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-2ZSX, Value: 3
+										372 text Página do site (link para o registro)
+										373 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-2ZSX, Value: familysearch.org/ark:/61903/1:1:6D3H-2ZSX?lang=pt
+									374 heading Onde o registro foi encontrado (referência) , Value: 3
+										375 text Onde o registro foi encontrado (referência)
+									376 container
+										377 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-2ZS6 : Mon Jun 02 16:14:47 UTC 2025), Entry for Laura Josefa and Juan Sintes, 17 de agosto de 1914.
+									378 heading Informações indexadas, Value: 3
+										379 text Informações indexadas
+									380 button EXIBIR
+									381 heading Fonte modificada:, Value: 3
+										382 text Fonte modificada:
+									383 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/Q9YK-C53?entityId=ML7Z-8WQ&entityType=person
+									384 text 30 de dezembro de 2022
+									385 button Rogério J Barbosa
+									386 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										387 text Motivo pela qual esta fonte está anexada:
+									388 button + ACRESCENTAR
+							96 container QSQW-MMS
+								97 button (expanded) Secondary Actions: Collapse, 1915 Victor Juan, "Uruguay, Índice del Registro Civil, 1900-1937" 3 de janeiro de 2023 Rogério J Barbosa
+									98 button 1915 Victor Juan, "Uruguay, Índice del Registro Civil, 1900-1937" 3 de janeiro de 2023 Rogério J Barbosa
+										99 button
+										100 text 1915
+										101 text Victor Juan, "Uruguay, Índice del Registro Civil, 1900-1937"
+										102 text 3 de janeiro de 2023
+										103 button Rogério J Barbosa
+								104 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								105 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								106 button ANEXOS COM INDIVÍDUOS PENDENTES
+								107 button DISPENSAR
+								389 container Iuhsm04x4dm
+									390 button VISUALIZAR
+									391 button EDITAR
+									392 button ANALISAR ANEXOS
+									393 button DESANEXAR
+									394 heading Marcadores, Value: 3
+										395 text Marcadores
+									396 button Sexo
+									397 button Nome
+									398 button + Acrescentar marcação
+									399 heading Data da fonte 1915, Value: 3
+										400 text Data da fonte
+										401 text 1915
+									402 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3V-P6SX, Value: 3
+										403 text Página do site (link para o registro)
+										404 link Description: https://familysearch.org/ark:/61903/1:1:QG3V-P6SX, Value: familysearch.org/ark:/61903/1:1:QG3V-P6SX?lang=pt
+									405 heading Onde o registro foi encontrado (referência) , Value: 3
+										406 text Onde o registro foi encontrado (referência)
+									407 container
+										408 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3V-P6SD : Fri Aug 28 10:33:12 UTC 2026), Entry for Aledia Eugenia Guicheney Muñoz and Victor Juan, 1915.
+									409 heading Informações indexadas, Value: 3
+										410 text Informações indexadas
+									411 button EXIBIR
+									412 heading Fonte modificada:, Value: 3
+										413 text Fonte modificada:
+									414 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSQW-MMS?entityId=ML7Z-8WQ&entityType=person
+									415 text 3 de janeiro de 2023
+									416 button Rogério J Barbosa
+									417 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										418 text Motivo pela qual esta fonte está anexada:
+									419 button + ACRESCENTAR
+							108 container QGVZ-8L2
+								109 button (expanded) 1915 Juan Guicheney, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3, Secondary Actions: Collapse
+									110 button 1915 Juan Guicheney, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+										111 button
+										112 text 1915
+										113 text Juan Guicheney, "Uruguay, registro civil, 1879-2020"
+										114 text 21 de fevereiro de 2024
+										115 button Sandramacedo3
+								420 container D3gwalfbzojs
+									421 button VISUALIZAR
+									422 button EDITAR
+									423 button ANALISAR ANEXOS
+									424 button DESANEXAR
+									425 heading Marcadores, Value: 3
+										426 text Marcadores
+									427 button Sexo
+									428 button Nome
+									429 button + Acrescentar marcação
+									430 heading Data da fonte 8 de outubro de 1915, Value: 3
+										431 text Data da fonte
+										432 text 8 de outubro de 1915
+									433 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6238-GH84, Value: 3
+										434 text Página do site (link para o registro)
+										435 link Description: https://familysearch.org/ark:/61903/1:1:6238-GH84, Value: familysearch.org/ark:/61903/1:1:6238-GH84?lang=pt
+									436 heading Onde o registro foi encontrado (referência) , Value: 3
+										437 text Onde o registro foi encontrado (referência)
+									438 container
+										439 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6238-GH8W : Wed Mar 06 03:24:29 UTC 2024), Entry for Alidia Eugenia Guicheney and Juan Guicheney, 8 Oct 1915.
+									440 heading Informações indexadas, Value: 3
+										441 text Informações indexadas
+									442 button EXIBIR
+									443 heading Fonte modificada:, Value: 3
+										444 text Fonte modificada:
+									445 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QGVZ-8L2?entityId=ML7Z-8WQ&entityType=person
+									446 text 21 de fevereiro de 2024
+									447 button Sandramacedo3
+									448 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										449 text Motivo pela qual esta fonte está anexada:
+									450 button + ACRESCENTAR
+							116 container Q9YK-13G
+								117 button (expanded) Secondary Actions: Collapse, 1915 Víctor Juan Guicheney, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+									118 button 1915 Víctor Juan Guicheney, "Uruguay, registros parroquiales, 1726-2000" 30 de dezembro de 2022 Rogério J Barbosa
+										119 button
+										120 text 1915
+										121 text Víctor Juan Guicheney, "Uruguay, registros parroquiales, 1726-2000"
+										122 text 30 de dezembro de 2022
+										123 button Rogério J Barbosa
+								124 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								125 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								126 button ANEXOS COM INDIVÍDUOS PENDENTES
+								127 button DISPENSAR
+								451 container P38lx0cx7lwh
+									452 button VISUALIZAR
+									453 button EDITAR
+									454 button ANALISAR ANEXOS
+									455 button DESANEXAR
+									456 heading Marcadores, Value: 3
+										457 text Marcadores
+									458 button Sexo
+									459 button Nome
+									460 button + Acrescentar marcação
+									461 heading Data da fonte 4 de novembro de 1915, Value: 3
+										462 text Data da fonte
+										463 text 4 de novembro de 1915
+									464 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-TQQK, Value: 3
+										465 text Página do site (link para o registro)
+										466 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-TQQK, Value: familysearch.org/ark:/61903/1:1:6D3H-TQQK?lang=pt
+									467 heading Onde o registro foi encontrado (referência) , Value: 3
+										468 text Onde o registro foi encontrado (referência)
+									469 container
+										470 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-TQQV : Mon Oct 20 19:33:50 UTC 2025), Entry for Alidia Eugenia and Eduardo Ocho Elinsky, 4 de noviembre de 1915.
+									471 heading Informações indexadas, Value: 3
+										472 text Informações indexadas
+									473 button EXIBIR
+									474 heading Fonte modificada:, Value: 3
+										475 text Fonte modificada:
+									476 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/Q9YK-13G?entityId=ML7Z-8WQ&entityType=person
+									477 text 30 de dezembro de 2022
+									478 button Rogério J Barbosa
+									479 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										480 text Motivo pela qual esta fonte está anexada:
+									481 button + ACRESCENTAR
+							128 container Q9Y7-ZNN
+								129 button (expanded) Secondary Actions: Collapse, 1918 Víctor Juan, "Uruguay, Índice del Registro Civil, 1900-1937" 29 de dezembro de 2022 Rogério J Barbosa
+									130 button 1918 Víctor Juan, "Uruguay, Índice del Registro Civil, 1900-1937" 29 de dezembro de 2022 Rogério J Barbosa
+										131 button
+										132 text 1918
+										133 text Víctor Juan, "Uruguay, Índice del Registro Civil, 1900-1937"
+										134 text 29 de dezembro de 2022
+										135 button Rogério J Barbosa
+								136 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								137 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								138 button ANEXOS COM INDIVÍDUOS PENDENTES
+								139 button DISPENSAR
+								482 container Alvox4j7bblb
+									483 button VISUALIZAR
+									484 button EDITAR
+									485 button ANALISAR ANEXOS
+									486 button DESANEXAR
+									487 heading Marcadores, Value: 3
+										488 text Marcadores
+									489 button Sexo
+									490 button Nome
+									491 button + Acrescentar marcação
+									492 heading Data da fonte 1918, Value: 3
+										493 text Data da fonte
+										494 text 1918
+									495 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3V-79V9, Value: 3
+										496 text Página do site (link para o registro)
+										497 link Description: https://familysearch.org/ark:/61903/1:1:QG3V-79V9, Value: familysearch.org/ark:/61903/1:1:QG3V-79V9?lang=pt
+									498 heading Onde o registro foi encontrado (referência) , Value: 3
+										499 text Onde o registro foi encontrado (referência)
+									500 container
+										501 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3V-79NG : Wed Sep 17 11:18:57 UTC 2025), Entry for Juana Ignacia Guicheney Muñoa and Víctor Juan, 1918.
+									502 heading Informações indexadas, Value: 3
+										503 text Informações indexadas
+									504 button EXIBIR
+									505 heading Fonte modificada:, Value: 3
+										506 text Fonte modificada:
+									507 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/Q9Y7-ZNN?entityId=ML7Z-8WQ&entityType=person
+									508 text 29 de dezembro de 2022
+									509 button Rogério J Barbosa
+									510 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										511 text Motivo pela qual esta fonte está anexada:
+									512 button + ACRESCENTAR
+							140 container QGVZ-D7X
+								141 button (expanded) Secondary Actions: Collapse, 1918 Victor Juan Guicheney Lopez, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+									142 button 1918 Victor Juan Guicheney Lopez, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+										143 button
+										144 text 1918
+										145 text Victor Juan Guicheney Lopez, "Uruguay, registro civil, 1879-2020"
+										146 text 21 de fevereiro de 2024
+										147 button Sandramacedo3
+								513 container Qnjt0u3tehv8
+									514 button VISUALIZAR
+									515 button EDITAR
+									516 button ANALISAR ANEXOS
+									517 button DESANEXAR
+									518 heading Marcadores, Value: 3
+										519 text Marcadores
+									520 button Sexo
+									521 button Nome
+									522 button + Acrescentar marcação
+									523 heading Data da fonte 25 de fevereiro de 1918, Value: 3
+										524 text Data da fonte
+										525 text 25 de fevereiro de 1918
+									526 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6235-7XTT, Value: 3
+										527 text Página do site (link para o registro)
+										528 link Description: https://familysearch.org/ark:/61903/1:1:6235-7XTT, Value: familysearch.org/ark:/61903/1:1:6235-7XTT?lang=pt
+									529 heading Onde o registro foi encontrado (referência) , Value: 3
+										530 text Onde o registro foi encontrado (referência)
+									531 container
+										532 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6235-7XTR : Tue Mar 19 09:03:40 UTC 2024), Entry for Juana Ignacia Guicheney Muñoa and Victor Juan Guicheney Lopez, 25 Feb 1918.
+									533 heading Informações indexadas, Value: 3
+										534 text Informações indexadas
+									535 button EXIBIR
+									536 heading Fonte modificada:, Value: 3
+										537 text Fonte modificada:
+									538 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QGVZ-D7X?entityId=ML7Z-8WQ&entityType=person
+									539 text 21 de fevereiro de 2024
+									540 button Sandramacedo3
+									541 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										542 text Motivo pela qual esta fonte está anexada:
+									543 button + ACRESCENTAR
+							148 container QSQ4-J5G
+								149 button (expanded) Secondary Actions: Collapse, 1918 Víctor Juan Guicheney Brasilero, "Uruguay, registros parroquiales, 1726-2000" 3 de janeiro de 2023 Rogério J Barbosa
+									150 button 1918 Víctor Juan Guicheney Brasilero, "Uruguay, registros parroquiales, 1726-2000" 3 de janeiro de 2023 Rogério J Barbosa
+										151 button
+										152 text 1918
+										153 text Víctor Juan Guicheney Brasilero, "Uruguay, registros parroquiales, 1726-2000"
+										154 text 3 de janeiro de 2023
+										155 button Rogério J Barbosa
+								156 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								157 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								158 button ANEXOS COM INDIVÍDUOS PENDENTES
+								159 button DISPENSAR
+								544 container Kn08rzix00p8
+									545 button VISUALIZAR
+									546 button EDITAR
+									547 button ANALISAR ANEXOS
+									548 button DESANEXAR
+									549 heading Marcadores, Value: 3
+										550 text Marcadores
+									551 button Sexo
+									552 button Nome
+									553 button + Acrescentar marcação
+									554 heading Data da fonte 17 de março de 1918, Value: 3
+										555 text Data da fonte
+										556 text 17 de março de 1918
+									557 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6D3H-K8Y5, Value: 3
+										558 text Página do site (link para o registro)
+										559 link Description: https://familysearch.org/ark:/61903/1:1:6D3H-K8Y5, Value: familysearch.org/ark:/61903/1:1:6D3H-K8Y5?lang=pt
+									560 heading Onde o registro foi encontrado (referência) , Value: 3
+										561 text Onde o registro foi encontrado (referência)
+									562 container
+										563 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6D3H-K8YP : Fri Oct 10 03:06:09 UTC 2025), Entry for Juana Ignacia Guicheney Nia and Justo. J. Curti, 17 de marzo de 1918.
+									564 heading Informações indexadas, Value: 3
+										565 text Informações indexadas
+									566 button EXIBIR
+									567 heading Fonte modificada:, Value: 3
+										568 text Fonte modificada:
+									569 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSQ4-J5G?entityId=ML7Z-8WQ&entityType=person
+									570 text 3 de janeiro de 2023
+									571 button Rogério J Barbosa
+									572 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										573 text Motivo pela qual esta fonte está anexada:
+									574 button + ACRESCENTAR
+							160 container QSQ7-YQ1
+								161 button (expanded) Secondary Actions: Collapse, 1920 Victor Juan, "Uruguay, Índice del Registro Civil, 1900-1937" 3 de janeiro de 2023 Rogério J Barbosa
+									162 button 1920 Victor Juan, "Uruguay, Índice del Registro Civil, 1900-1937" 3 de janeiro de 2023 Rogério J Barbosa
+										163 button
+										164 text 1920
+										165 text Victor Juan, "Uruguay, Índice del Registro Civil, 1900-1937"
+										166 text 3 de janeiro de 2023
+										167 button Rogério J Barbosa
+								168 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								169 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								170 button ANEXOS COM INDIVÍDUOS PENDENTES
+								171 button DISPENSAR
+								575 container lfhpmajegbxi
+									576 button VISUALIZAR
+									577 button EDITAR
+									578 button ANALISAR ANEXOS
+									579 button DESANEXAR
+									580 heading Marcadores, Value: 3
+										581 text Marcadores
+									582 button Sexo
+									583 button Nome
+									584 button + Acrescentar marcação
+									585 heading Data da fonte 1920, Value: 3
+										586 text Data da fonte
+										587 text 1920
+									588 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:QG3V-GLGK, Value: 3
+										589 text Página do site (link para o registro)
+										590 link Description: https://familysearch.org/ark:/61903/1:1:QG3V-GLGK, Value: familysearch.org/ark:/61903/1:1:QG3V-GLGK?lang=pt
+									591 heading Onde o registro foi encontrado (referência) , Value: 3
+										592 text Onde o registro foi encontrado (referência)
+									593 container
+										594 text "Uruguay, Índice del Registro Civil, 1900-1937",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:QG3V-GLGX : Wed Sep 17 09:49:45 UTC 2025), Entry for Petra Magdalena Guicheney Muñoa and Victor Juan, 1920.
+									595 heading Informações indexadas, Value: 3
+										596 text Informações indexadas
+									597 button EXIBIR
+									598 heading Fonte modificada:, Value: 3
+										599 text Fonte modificada:
+									600 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSQ7-YQ1?entityId=ML7Z-8WQ&entityType=person
+									601 text 3 de janeiro de 2023
+									602 button Rogério J Barbosa
+									603 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										604 text Motivo pela qual esta fonte está anexada:
+									605 button + ACRESCENTAR
+							172 container QGVZ-HWN
+								173 button (expanded) Secondary Actions: Collapse, 1920 Victor Juan Guicheney Lopez, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+									174 button 1920 Victor Juan Guicheney Lopez, "Uruguay, registro civil, 1879-2020" 21 de fevereiro de 2024 Sandramacedo3
+										175 button
+										176 text 1920
+										177 text Victor Juan Guicheney Lopez, "Uruguay, registro civil, 1879-2020"
+										178 text 21 de fevereiro de 2024
+										179 button Sandramacedo3
+								606 container tckglk0zy24
+									607 button VISUALIZAR
+									608 button EDITAR
+									609 button ANALISAR ANEXOS
+									610 button DESANEXAR
+									611 heading Marcadores, Value: 3
+										612 text Marcadores
+									613 button Sexo
+									614 button Nome
+									615 button + Acrescentar marcação
+									616 heading Data da fonte 10 de fevereiro de 1920, Value: 3
+										617 text Data da fonte
+										618 text 10 de fevereiro de 1920
+									619 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:62ST-BCW6, Value: 3
+										620 text Página do site (link para o registro)
+										621 link Description: https://familysearch.org/ark:/61903/1:1:62ST-BCW6, Value: familysearch.org/ark:/61903/1:1:62ST-BCW6?lang=pt
+									622 heading Onde o registro foi encontrado (referência) , Value: 3
+										623 text Onde o registro foi encontrado (referência)
+									624 container
+										625 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:62ST-BCWD : Sat Mar 09 07:58:58 UTC 2024), Entry for Petra Magdalena Guicheney Muñoa and Victor Juan Guicheney Lopez, 10 Feb 1920.
+									626 heading Informações indexadas, Value: 3
+										627 text Informações indexadas
+									628 button EXIBIR
+									629 heading Fonte modificada:, Value: 3
+										630 text Fonte modificada:
+									631 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QGVZ-HWN?entityId=ML7Z-8WQ&entityType=person
+									632 text 21 de fevereiro de 2024
+									633 button Sandramacedo3
+									634 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										635 text Motivo pela qual esta fonte está anexada:
+									636 button + ACRESCENTAR
+							180 container QSQ7-BYF
+								181 button (expanded) Secondary Actions: Collapse, 1920 {name} na entrada para Petra Magdalena Guicheney, “Batismos peruanos, 1556-1930” 3 de janeiro de 2023 Rogério J Barbosa
+									182 button 1920 {name} na entrada para Petra Magdalena Guicheney, “Batismos peruanos, 1556-1930” 3 de janeiro de 2023 Rogério J Barbosa
+										183 button
+										184 text 1920
+										185 text {name} na entrada para Petra Magdalena Guicheney, “Batismos peruanos, 1556-1930”
+										186 text 3 de janeiro de 2023
+										187 button Rogério J Barbosa
+								637 container Xr19tr86izp
+									638 button VISUALIZAR
+									639 button EDITAR
+									640 button ANALISAR ANEXOS
+									641 button DESANEXAR
+									642 heading Marcadores, Value: 3
+										643 text Marcadores
+									644 button Sexo
+									645 button Nome
+									646 button + Acrescentar marcação
+									647 heading Data da fonte 29 de fevereiro de 1920, Value: 3
+										648 text Data da fonte
+										649 text 29 de fevereiro de 1920
+									650 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:HR3G-BNZM, Value: 3
+										651 text Página do site (link para o registro)
+										652 link Description: https://familysearch.org/ark:/61903/1:1:HR3G-BNZM, Value: familysearch.org/ark:/61903/1:1:HR3G-BNZM?lang=pt
+									653 heading Onde o registro foi encontrado (referência) , Value: 3
+										654 text Onde o registro foi encontrado (referência)
+									655 container
+										656 text "Perú, bautismos, 1556-1930", ,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:HR3G-BNZM : 8 February 2020), Victor Juan Guicheney in entry for Petra Magdalena Guicheney, 1920.
+									657 heading Informações indexadas, Value: 3
+										658 text Informações indexadas
+									659 button EXIBIR
+									660 heading Fonte modificada:, Value: 3
+										661 text Fonte modificada:
+									662 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSQ7-BYF?entityId=ML7Z-8WQ&entityType=person
+									663 text 3 de janeiro de 2023
+									664 button Rogério J Barbosa
+									665 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										666 text Motivo pela qual esta fonte está anexada:
+									667 button + ACRESCENTAR
+							188 container QSCK-BZY
+								189 button (expanded) Secondary Actions: Collapse, 1920 Víctor Juan Guichenez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+									190 button 1920 Víctor Juan Guichenez, "Uruguay, registros parroquiales, 1726-2000" 8 de janeiro de 2023 Rogério J Barbosa
+										191 button
+										192 text 1920
+										193 text Víctor Juan Guichenez, "Uruguay, registros parroquiales, 1726-2000"
+										194 text 8 de janeiro de 2023
+										195 button Rogério J Barbosa
+								196 text Esta fonte não está anexada a todas as pessoas encontradas no registro.
+								197 link Description: SAIBA MAIS, Value: familysearch.org/pt/help/helpcenter/article/how-do-i-handle-unfinished-attachments-in-family-tree
+								198 button ANEXOS COM INDIVÍDUOS PENDENTES
+								199 button DISPENSAR
+								668 container G5aua4olovy2
+									669 button VISUALIZAR
+									670 button EDITAR
+									671 button ANALISAR ANEXOS
+									672 button DESANEXAR
+									673 heading Marcadores, Value: 3
+										674 text Marcadores
+									675 button Sexo
+									676 button Nome
+									677 button + Acrescentar marcação
+									678 heading Data da fonte 29 de fevereiro de 1920, Value: 3
+										679 text Data da fonte
+										680 text 29 de fevereiro de 1920
+									681 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:68XP-3WXW, Value: 3
+										682 text Página do site (link para o registro)
+										683 link Description: https://familysearch.org/ark:/61903/1:1:68XP-3WXW, Value: familysearch.org/ark:/61903/1:1:68XP-3WXW?lang=pt
+									684 heading Onde o registro foi encontrado (referência) , Value: 3
+										685 text Onde o registro foi encontrado (referência)
+									686 container
+										687 text "Uruguay, registros parroquiales, 1726-2000",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:68XP-3WX7 : Thu Jan 01 00:29:41 UTC 2026), Entry for Petra Magdalena and Justo F. Curti, 29 de febrero de 1920.
+									688 heading Informações indexadas, Value: 3
+										689 text Informações indexadas
+									690 button EXIBIR
+									691 heading Fonte modificada:, Value: 3
+										692 text Fonte modificada:
+									693 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/QSCK-BZY?entityId=ML7Z-8WQ&entityType=person
+									694 text 8 de janeiro de 2023
+									695 button Rogério J Barbosa
+									696 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										697 text Motivo pela qual esta fonte está anexada:
+									698 button + ACRESCENTAR
+							200 container 7H2N-1YM
+								201 button (expanded) Secondary Actions: Collapse, 1943 Victor Juan Guicheney Lopez, "Uruguay, registro civil, 1879-2020" 25 de novembro de 2024 Hilly32
+									202 button 1943 Victor Juan Guicheney Lopez, "Uruguay, registro civil, 1879-2020" 25 de novembro de 2024 Hilly32
+										203 button
+										204 text 1943
+										205 text Victor Juan Guicheney Lopez, "Uruguay, registro civil, 1879-2020"
+										206 text 25 de novembro de 2024
+										207 button Hilly32
+								699 container Oyghz28mj1v
+									700 button VISUALIZAR
+									701 button EDITAR
+									702 button ANALISAR ANEXOS
+									703 button DESANEXAR
+									704 heading Marcadores, Value: 3
+										705 text Marcadores
+									706 button Nascimento
+									707 button Falecimento
+									708 button Sexo
+									709 button Nome
+									710 button + Acrescentar marcação
+									711 heading Data da fonte 10 de fevereiro de 1943, Value: 3
+										712 text Data da fonte
+										713 text 10 de fevereiro de 1943
+									714 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6RTS-19QS, Value: 3
+										715 text Página do site (link para o registro)
+										716 link Description: https://familysearch.org/ark:/61903/1:1:6RTS-19QS, Value: familysearch.org/ark:/61903/1:1:6RTS-19QS?lang=pt
+									717 heading Onde o registro foi encontrado (referência) , Value: 3
+										718 text Onde o registro foi encontrado (referência)
+									719 container
+										720 text "Uruguay, registro civil, 1879-2020",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6RTS-19QS : Fri Mar 08 11:57:11 UTC 2024), Entry for Victor Juan Guicheney Lopez and Pedro Guicheney, 10 Feb 1943.
+									721 heading Informações indexadas, Value: 3
+										722 text Informações indexadas
+									723 button EXIBIR
+									724 heading Fonte modificada:, Value: 3
+										725 text Fonte modificada:
+									726 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/7H2N-1YM?entityId=ML7Z-8WQ&entityType=person
+									727 text 25 de novembro de 2024
+									728 button Hilly32
+									729 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										730 text Motivo pela qual esta fonte está anexada:
+									731 button + ACRESCENTAR
+							208 container 9J1X-NTK
+								209 button (expanded) Secondary Actions: Collapse, 1963 Victor Guicheney, “Brasil, Cartões de Imigração, 1900-1980” 13 de fevereiro de 2017 Rogério J Barbosa
+									210 button 1963 Victor Guicheney, “Brasil, Cartões de Imigração, 1900-1980” 13 de fevereiro de 2017 Rogério J Barbosa
+										211 button
+										212 text 1963
+										213 text Victor Guicheney, “Brasil, Cartões de Imigração, 1900-1980”
+										214 text 13 de fevereiro de 2017
+										215 button Rogério J Barbosa
+								732 container Upxluharr8l
+									733 button VISUALIZAR
+									734 button EDITAR
+									735 button ANALISAR ANEXOS
+									736 button DESANEXAR
+									737 heading Marcadores, Value: 3
+										738 text Marcadores
+									739 button Sexo
+									740 button Nome
+									741 button + Acrescentar marcação
+									742 heading Data da fonte 1963, Value: 3
+										743 text Data da fonte
+										744 text 1963
+									745 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:KX23-2QN, Value: 3
+										746 text Página do site (link para o registro)
+										747 link Description: https://familysearch.org/ark:/61903/1:1:KX23-2QN, Value: familysearch.org/ark:/61903/1:1:KX23-2QN?lang=pt
+									748 heading Onde o registro foi encontrado (referência) , Value: 3
+										749 text Onde o registro foi encontrado (referência)
+									750 container
+										751 text "Brasil, Cartões de Imigração, 1900-1980",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:KX23-2QF : Mon Jun 29 21:09:00 UTC 2026), Entry for Laura Josefa Guicheney Munoa and Victor Guicheney, 1963.
+									752 heading Informações indexadas, Value: 3
+										753 text Informações indexadas
+									754 button EXIBIR
+									755 heading Fonte modificada:, Value: 3
+										756 text Fonte modificada:
+									757 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/9J1X-NTK?entityId=ML7Z-8WQ&entityType=person
+									758 text 13 de fevereiro de 2017
+									759 button Rogério J Barbosa
+									760 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										761 text Motivo pela qual esta fonte está anexada:
+									762 button + ACRESCENTAR
+							216 container 9J1X-FKT
+								217 button (expanded) Secondary Actions: Collapse, 1963 Victor Guicheney, “Brasil, Cartões de Imigração, 1900-1980” 13 de fevereiro de 2017 Rogério J Barbosa
+									218 button 1963 Victor Guicheney, “Brasil, Cartões de Imigração, 1900-1980” 13 de fevereiro de 2017 Rogério J Barbosa
+										219 button
+										220 text 1963
+										221 text Victor Guicheney, “Brasil, Cartões de Imigração, 1900-1980”
+										222 text 13 de fevereiro de 2017
+										223 button Rogério J Barbosa
+								763 container Bvc5u9gdu4k
+									764 button VISUALIZAR
+									765 button EDITAR
+									766 button ANALISAR ANEXOS
+									767 button DESANEXAR
+									768 heading Marcadores, Value: 3
+										769 text Marcadores
+									770 button Sexo
+									771 button Nome
+									772 button + Acrescentar marcação
+									773 heading Data da fonte 1963, Value: 3
+										774 text Data da fonte
+										775 text 1963
+									776 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:KXQ6-BNG, Value: 3
+										777 text Página do site (link para o registro)
+										778 link Description: https://familysearch.org/ark:/61903/1:1:KXQ6-BNG, Value: familysearch.org/ark:/61903/1:1:KXQ6-BNG?lang=pt
+									779 heading Onde o registro foi encontrado (referência) , Value: 3
+										780 text Onde o registro foi encontrado (referência)
+									781 container
+										782 text "Brasil, Cartões de Imigração, 1900-1980",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:KXQ6-BNL : Mon Jun 22 18:22:58 UTC 2026), Entry for Alidia Eugenia Guicheney de Salgado and Victor Guicheney, 1963.
+									783 heading Informações indexadas, Value: 3
+										784 text Informações indexadas
+									785 button EXIBIR
+									786 heading Fonte modificada:, Value: 3
+										787 text Fonte modificada:
+									788 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/9J1X-FKT?entityId=ML7Z-8WQ&entityType=person
+									789 text 13 de fevereiro de 2017
+									790 button Rogério J Barbosa
+									791 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										792 text Motivo pela qual esta fonte está anexada:
+									793 button + ACRESCENTAR
+							224 container 9J1X-F7X
+								225 button (expanded) Secondary Actions: Collapse, 1963 Victor Guicheney, “Brasil, Cartões de Imigração, 1900-1980” 13 de fevereiro de 2017 Rogério J Barbosa
+									226 button 1963 Victor Guicheney, “Brasil, Cartões de Imigração, 1900-1980” 13 de fevereiro de 2017 Rogério J Barbosa
+										227 button
+										228 text 1963
+										229 text Victor Guicheney, “Brasil, Cartões de Imigração, 1900-1980”
+										230 text 13 de fevereiro de 2017
+										231 button Rogério J Barbosa
+								794 container oftt1fs14gdq
+									795 button VISUALIZAR
+									796 button EDITAR
+									797 button ANALISAR ANEXOS
+									798 button DESANEXAR
+									799 heading Marcadores, Value: 3
+										800 text Marcadores
+									801 button Sexo
+									802 button Nome
+									803 button + Acrescentar marcação
+									804 heading Data da fonte 1963, Value: 3
+										805 text Data da fonte
+										806 text 1963
+									807 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:FFTC-ZBD, Value: 3
+										808 text Página do site (link para o registro)
+										809 link Description: https://familysearch.org/ark:/61903/1:1:FFTC-ZBD, Value: familysearch.org/ark:/61903/1:1:FFTC-ZBD?lang=pt
+									810 heading Onde o registro foi encontrado (referência) , Value: 3
+										811 text Onde o registro foi encontrado (referência)
+									812 container
+										813 text "Brasil, Cartões de Imigração, 1900-1980",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:FFTC-ZB8 : Tue Jun 30 12:21:15 UTC 2026), Entry for Alidia Eugenia Guicheney Muñoa Da Salgado and Victor Guicheney, 1963.
+									814 heading Informações indexadas, Value: 3
+										815 text Informações indexadas
+									816 button EXIBIR
+									817 heading Fonte modificada:, Value: 3
+										818 text Fonte modificada:
+									819 link Description: VER ALTERAÇÕES, Value: familysearch.org/pt/tree/sources/changelog/9J1X-F7X?entityId=ML7Z-8WQ&entityType=person
+									820 text 13 de fevereiro de 2017
+									821 button Rogério J Barbosa
+									822 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										823 text Motivo pela qual esta fonte está anexada:
+									824 button + ACRESCENTAR
+							232 container Q9TB-SVX
+								233 button (expanded) Secondary Actions: Collapse, + ACRESCENTAR Victor Juan Guicheney, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 29 de dezembro de 2022 Rogério J Barbosa
+									234 button + ACRESCENTAR Victor Juan Guicheney, "Argentina, Entre Ríos, Civil Registration, 1833-1965" 29 de dezembro de 2022 Rogério J Barbosa
+										235 button
+										236 link Description: + ACRESCENTAR, Value: familysearch.org/pt/tree/person/sources/ML7Z-8WQ
+										237 text Victor Juan Guicheney, "Argentina, Entre Ríos, Civil Registration, 1833-1965"
+										238 text 29 de dezembro de 2022
+										239 button Rogério J Barbosa
+								825 container Pjm3d8ox0lz
+									826 button VISUALIZAR
+									827 button EDITAR
+									828 button ANALISAR ANEXOS
+									829 button DESANEXAR
+									830 heading Marcadores, Value: 3
+										831 text Marcadores
+									832 button Sexo
+									833 button Nome
+									834 button Nascimento
+									835 button + Acrescentar marcação
+									836 heading Página do site (link para o registro) https://familysearch.org/ark:/61903/1:1:6CB9-LL8D, Value: 3
+										837 text Página do site (link para o registro)
+										838 link Description: https://familysearch.org/ark:/61903/1:1:6CB9-LL8D, Value: …
+									839 heading Onde o registro foi encontrado (referência) , Value: 3
+										840 text Onde o registro foi encontrado (referência)
+									841 container
+										842 text "Argentina, Entre Ríos, Civil Registration, 1833-1965",  FamilySearch  (https://www.familysearch.org/ark:/61903/1:1:6CB9-LL8D : Fri Jul 26 12:56:09 UTC 2024), Entry for Victor Juan Guicheney and Pedro Guicheney.
+									843 heading Informações indexadas, Value: 3
+										844 text Informações indexadas
+									845 button EXIBIR
+									846 heading Fonte modificada:, Value: 3
+										847 text Fonte modificada:
+									848 link Description: VER ALTERAÇÕES, Value: …
+									849 text 29 de dezembro de 2022
+									850 button Rogério J Barbosa
+									851 heading Motivo pela qual esta fonte está anexada:, Value: 3
+										852 text Motivo pela qual esta fonte está anexada:
+									853 button + ACRESCENTAR
+				240 container
+					241 container Links no rodapé
+						242 link Description: Sobre, Value: familysearch.org/pt/about/
+						243 link Description: Voluntário, Value: …
+						244 link Description: Blog, Value: …
+						245 link Description: Encontrar antepassados, Value: …
+						246 link Description: DNA, Value: …
+						247 link Description: Entre em Contato Conosco, Value: …
+						248 link Description: Mapa do Site, Value: …
+						249 text |
+						250 button mais links
+					251 container Links jurídicos
+						252 link Description: Suporte de acessibilidade, Value: …
+						253 container
+							254 link Description: Termos de uso do FamilySearch, Value: …
+							255 text  | 
+							256 link Description: Notificação de privacidade, Value: …
+							257 text  | 
+							258 link Description: Mapa do Site, Value: …
+							259 text  | 
+							260 link Description: Opções de país e idioma, Value: …
+						261 container
+							262 text © 2026 Intellectual Reserve, Inc. Todos os direitos reservados. Um serviço fornecido por 
+							263 link Description: A Igreja de Jesus Cristo dos Santos dos Últimos Dias, Value: …
+							264 text .
+
+The focused UI element is 52 switch Description: Visualização detalhada, Value: 1

@@ -1,0 +1,2775 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta name="description" content="Salto Grande | Historia" />
+        <meta name="keywords" content="Salto, represa, rio, uruguay, argentina" />
+        <meta name="author" content="Pleka" />
+       
+       <title>Salto Grande | Historia</title>
+            
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<link rel="shortcut icon" type="image/png" href="favicon.png">
+        <link rel="stylesheet" href="css/historia.css" />
+		<link rel="stylesheet" href="css/fonts.css">
+		<link rel="stylesheet" href="css/style.css">   
+	    <link rel="stylesheet" href="css/cabezal.css">
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/galeria.css"> <!-- estilos necesarios para Basic jQuery Slider -->
+        <!--[if lt IE 9]>
+				<link rel="stylesheet" type="text/css" href="css/styleIE.css" />
+		<![endif]-->
+        <!--[if IE 9]>
+		<link rel="stylesheet" type="text/css" href="css/style_ie9.css">
+        <link rel="stylesheet" type="text/css" href="css/cabezal_ie9.css">
+	<![endif]-->
+        
+        <script src="js/jquery-1.8.3.min.js" type="423067336b9e8ca08d7721db-text/javascript"></script>
+		<script src="js/jquery.easing.1.3.js" type="423067336b9e8ca08d7721db-text/javascript"></script>
+        <script src="js/modernizr.custom.11333.js" type="423067336b9e8ca08d7721db-text/javascript"></script>
+        
+        <!-- Basic jQuery Slider -->
+		<script type="423067336b9e8ca08d7721db-text/javascript" src="js/bjqs-1.3.min.js"></script>
+        
+        <script type="423067336b9e8ca08d7721db-text/javascript">
+			jQuery(document).ready(function($)
+			{	
+				// Función para abrir la galería
+				$('div[name="foto_historia"]').click(function()
+				{
+				
+					//busco el lenguaje
+					$lang = $(this).closest('.lang');
+					
+					//cierro todas las otras ventanas que esten abiertas
+					//
+					$('.galeria_historia', $lang).css('display', 'none');
+					
+					var nro = $(this).attr('id').substring(13);
+					//pongo visible la galeria
+					$('#galeria'+nro, $lang).css('display', '');
+					//inicializo galeria
+					$('#banner-fade'+nro, $lang).bjqs({
+						height      : 320,
+						width       : 640,
+						backgroundColor : '#FFFFFF',
+						responsive  : true						
+					});
+					//arreglo la ubicación de la galeria
+					$('#galeria'+nro, $lang).css('position', 'fixed');
+					$('#galeria'+nro, $lang).css('margin', '15%');
+					$('#galeria'+nro, $lang).css('z-index', '99999');
+					$('.bjqs-slide').css('position', '');
+					
+				});
+				
+				// Función para cerrar la galería
+				$('span[name="x_galeria"]').click(function()
+				{
+					var nro = $(this).attr('id').substring(9);
+					//oculto la galeria
+					$('#galeria'+nro, $lang).css('display', 'none');
+				});				
+			});
+			
+		</script>
+		
+		<style type="text/css">
+        body {
+			background-image: url(images/cabezales/cab_inst.jpg);
+        }
+		a { color: #ffffff; font-weight: normal;
+	cursor: pointer;  text-decoration: none;
+	transition:color 0.2s ease; -moz-transition:color 0.2s ease; -webkit-transition:color 0.2s ease; -o-transition:color 0.2s ease;}
+	a:hover { color: #f1f1f1; text-decoration: none;}
+        </style>
+    </head>
+    <body>
+    
+    <div class="container">
+    
+        <!-- CABEZAL -->
+  		<div id="menu" class="menu">
+    <div class="logo"><a href="index.php"><img src="images/cabezal/logo.png" alt="Inicio"></a></div>
+	
+    <div class="botones">
+      <ul id="nav">
+                        <li><a href="#">Institucional</a>
+                 <div class="subs">
+                      <div class="wrp2" >
+                          <ul >
+                              <li>
+                                  <ul>
+                                                                            <li ><a href="perfil.php"><img src="images/cabezal/flecha.png">Perfil</a></li>
+                                                                                    <li class="ocultar_bt"><a href="historia.php"><img src="images/cabezal/flecha.png">Historia</a></li>
+                                                                                    <li class="ocultar_bt"><a href="organizacion.php"><img src="images/cabezal/flecha.png">Organización</a></li>
+                                                                                    <li ><a href="delegacion_uruguay.php"><img src="images/cabezal/flecha.png">Delegación<br> &emsp;del Uruguay</a></li>
+                                                                                    <li ><a href="delegacion_argentina.php"><img src="images/cabezal/flecha.png">Delegación<br> &emsp;Argentina</a></li>
+                                                                                    <li ><a href="memoria_anual.php"><img src="images/cabezal/flecha.png">Memoria Anual</a></li>
+                                                                                    <li class="ocultar_bt"><a href="centrodocumentacion.php"><img src="images/cabezal/flecha.png">Centro de<br>&emsp; Documentación</a></li>
+                                                                                    <li ><a href="tribunal_arbitral.php"><img src="images/cabezal/flecha.png">Tribunal Arbitral<br>&emsp; Internacional</a></li>
+                                                                            </ul>
+                              </li>
+                          </ul>
+                          <p class="sep" ></p>
+                          <ul>
+                              <li>
+                                  <ul>
+                                      <li style="padding-left:25px; padding-top:8px; width:172px"><img src="imgs/estructura/27.jpg"></li>
+                                      
+                                      <li style="font-size:0.85em; padding-left:25px; padding-top:11px; color:#cae3ff;">Institucional</li>
+                                      <li style="font-size:0.8em; color:#69adf8; line-height:16px; padding-left:25px; padding-top:5px; width:170px">La Comisión Técnica Mixta de Salto Grande es un organismo binacional creado por la República Argentina y la República Oriental del Uruguay para aprovechar los rápidos del río Uruguay en la zona de Salto Grande.</li>
+                                  </ul>
+                              </li>
+                          </ul>
+                      </div>
+                  </div>
+               </li>
+                        <li><a href="#">Complejo<br />Hidroeléctrico</a>
+                 <div class="subs">
+                      <div class="wrp2" >
+                          <ul >
+                              <li>
+                                  <ul>
+                                                                            <li ><a href="caracteristicas.php"><img src="images/cabezal/flecha.png">Características</a></li>
+                                                                                    <li ><a href="ficha_tecnica.php"><img src="images/cabezal/flecha.png">Ficha Técnica</a></li>
+                                                                                    <li ><a href="instalaciones.php"><img src="images/cabezal/flecha.png">Instalaciones</a></li>
+                                                                                    <li ><a href="funcionamiento.php"><img src="images/cabezal/flecha.png">Funcionamiento</a></li>
+                                                                                    <li ><a href="rio_uruguay.php"><img src="images/cabezal/flecha.png">Río Uruguay</a></li>
+                                                                            </ul>
+                              </li>
+                          </ul>
+                          <p class="sep" ></p>
+                          <ul>
+                              <li>
+                                  <ul>
+                                      <li style="padding-left:25px; padding-top:8px; width:172px"><img src="imgs/estructura/28.jpg"></li>
+                                      
+                                      <li style="font-size:0.85em; padding-left:25px; padding-top:11px; color:#cae3ff;">Complejo<br />Hidroeléctrico</li>
+                                      <li style="font-size:0.8em; color:#69adf8; line-height:16px; padding-left:25px; padding-top:5px; width:170px">Se encuentra ubicado en el curso medio del río Uruguay, aprovechando para la generación hidroeléctrica un desnivel natural llamado Salto Grande, aguas arriba de las ciudades de Concordia (Argentina) y Salto (Uruguay).</li>
+                                  </ul>
+                              </li>
+                          </ul>
+                      </div>
+                  </div>
+               </li>
+                        <li><a href="#">Energía</a>
+                 <div class="subs">
+                      <div class="wrp2" >
+                          <ul >
+                              <li>
+                                  <ul>
+                                                                            <li ><a href="generacion.php"><img src="images/cabezal/flecha.png">Generación</a></li>
+                                                                                    <li ><a href="transmision.php"><img src="images/cabezal/flecha.png">Transmisión</a></li>
+                                                                                    <li ><a href="mercado.php"><img src="images/cabezal/flecha.png">Mercado</a></li>
+                                                                            </ul>
+                              </li>
+                          </ul>
+                          <p class="sep" ></p>
+                          <ul>
+                              <li>
+                                  <ul>
+                                      <li style="padding-left:25px; padding-top:8px; width:172px"><img src="imgs/estructura/41.jpg"></li>
+                                      
+                                      <li style="font-size:0.85em; padding-left:25px; padding-top:11px; color:#cae3ff;">Energía</li>
+                                      <li style="font-size:0.8em; color:#69adf8; line-height:16px; padding-left:25px; padding-top:5px; width:170px">La energía eléctrica generada por la Central tiene por destino los sistemas interconectados de ambos países, abasteciendo, en valores aproximados, el 50% de la energía del sistema uruguayo y el 7% del sistema argentino, ofreciendo una de las tarifas más bajas de ambos mercados eléctricos.</li>
+                                  </ul>
+                              </li>
+                          </ul>
+                      </div>
+                  </div>
+               </li>
+                        <li><a href="#">Propósitos</a>
+                 <div class="subs">
+                      <div class="wrp2" style="margin-left:-267px;">
+                          <ul style="float:right; padding-right:0px; padding-left:10px;">
+                              <li>
+                                  <ul>
+                                                                            <li ><a href="gestion_calidad.php"><img src="images/cabezal/flecha.png">Gestión de Calidad</a></li>
+                                                                                    <li ><a href="gestion_ambiental.php"><img src="images/cabezal/flecha.png">Gestión Ambiental</a></li>
+                                                                                    <li ><a href="responsabilidad_social.php"><img src="images/cabezal/flecha.png">Responsabilidad<br>&emsp; Social</a></li>
+                                                                                    <li ><a href="region.php"><img src="images/cabezal/flecha.png">La Región</a></li>
+                                                                                    <li ><a href="actividades.php"><img src="images/cabezal/flecha.png">Otras Actividades</a></li>
+                                                                            </ul>
+                              </li>
+                          </ul>
+                          <p class="sep" style="left:220px"></p>
+                          <ul>
+                              <li>
+                                  <ul>
+                                      <li style="padding-left:25px; padding-top:8px; width:172px"><img src="imgs/estructura/45.jpg"></li>
+                                      
+                                      <li style="font-size:0.85em; padding-left:25px; padding-top:11px; color:#cae3ff;">Propósitos</li>
+                                      <li style="font-size:0.8em; color:#69adf8; line-height:16px; padding-left:25px; padding-top:5px; width:170px">Como lo define el Convenio de 1946 por el cual se crea la Comisión Técnica Mixta de Salto Grande, trabajamos con el propósito de obtener el mayor beneficio de las disposiciones naturales que ofrece el río Uruguay, realizándolo con recursos técnicos actualizados, recursos humanos calificados y en un marco de calidad, cuidando el ambiente y con responsabilidad social.</li>
+                                  </ul>
+                              </li>
+                          </ul>
+                      </div>
+                  </div>
+               </li>
+                        <li><a href="#">Relaciones <br> Públicas</a>
+                 <div class="subs">
+                      <div class="wrp2" style="margin-left:-267px;">
+                          <ul style="float:right; padding-right:0px; padding-left:10px;">
+                              <li>
+                                  <ul>
+                                                                            <li ><a href="visitas.php"><img src="images/cabezal/flecha.png">Visitas</a></li>
+                                                                                    <li ><a href="museo.php"><img src="images/cabezal/flecha.png">Museo</a></li>
+                                                                                    <li ><a href="videos_educativos.php"><img src="images/cabezal/flecha.png">Videos Educativos</a></li>
+                                                                                    <li ><a target="_blank" href="https://infantil.saltogrande.org"><img src="images/cabezal/flecha.png">Portal Infantil</a></li>
+                                                                            </ul>
+                              </li>
+                          </ul>
+                          <p class="sep" style="left:220px"></p>
+                          <ul>
+                              <li>
+                                  <ul>
+                                      <li style="padding-left:25px; padding-top:8px; width:172px"><img src="imgs/estructura/50.jpg"></li>
+                                      
+                                      <li style="font-size:0.85em; padding-left:25px; padding-top:11px; color:#cae3ff;">Relaciones <br> Públicas</li>
+                                      <li style="font-size:0.8em; color:#69adf8; line-height:16px; padding-left:25px; padding-top:5px; width:170px">Relaciones Públicas es el Área que se encarga de gestionar los vínculos con los públicos estratégicos. Su objetivo principal es mantener informados tanto a los organismos gubernamentales y empresariales como así también a los diversos sectores de la sociedad civil.<li style="font-size:0.85em; padding-left:10px; padding-top:11px; color:#cae3ff;"><a href="relaciones_publicas.php">leer más</a></li></li>
+                                  </ul>
+                              </li>
+                          </ul>
+                      </div>
+                  </div>
+               </li>
+                  <li id="contactobt"><a href="contacto.php"><img src="images/cabezal/contacto_65.png" alt="Contacto"></a></li>
+    </ul><!-- ul nav-->
+   </div><!-- div botones-->
+      
+          
+  <div class="frase">
+  </div>      
+  <div class="audio" align="left"><a href="index.php"><img id="ico_home" src="images/cabezal/ico_home.png" align="absmiddle" /></a></div>
+      
+</div>
+
+
+
+<script type="423067336b9e8ca08d7721db-text/javascript">
+
+$(window).load(function()
+{
+	//-------------------------------------------------------IDIOMAS
+	//muestro/oculto div idioma actual
+	var idioma = "es";
+	var idiomas = ["es","pt","en"];
+	$.each(idiomas, function(clave, valor)
+	{
+		if (valor==idioma)
+		{
+			$("#div_"+valor).show();
+		}
+		else
+		{
+			$("#div_"+valor).hide();
+		}
+	});
+	
+	//-------------------------------------------------------MENU
+	//manejo el click en el menu
+	$("#nav > li > a").click(function ()
+	{ 
+    	if ($(this).parent().hasClass('selected'))
+		{
+            $("#nav .selected div div").slideUp(100); 
+            $("#nav .selected").removeClass("selected");
+        }
+		else
+		{
+            $("#nav .selected div div").slideUp(100); 
+            $("#nav .selected").removeClass("selected");
+
+            if ($(this).next(".subs").length)
+			{
+                $(this).parent().addClass("selected"); 
+                $(this).next(".subs").children().slideDown(200);
+            }
+        }
+    });
+	
+	//manejo el click en cualquier parte de la ventana
+	$(document).click(function(event)
+	{
+		var elemento = $("#nav > li > a");
+		//si el click es en el menu no hago nada
+		if (elemento.is(event.target))
+		{
+      		return false;
+		}
+		//si es en otra parte
+  		else
+		{
+			//y el menu esta deplegado
+			if ($("#nav > li > a").parent().hasClass('selected'))
+			{
+				//lo cierro
+				$("#nav .selected div div").slideUp(100); 
+				$("#nav .selected").removeClass("selected");
+			}
+		}
+	});
+	
+	//-------------------------------------------------------OCULTACION
+	//inicialmente, si el ancho es menor o igual a 320
+	if (window.outerWidth<=320)
+	{
+		//oculto elementos con clase "ocultar_bt"
+		$(".ocultar_bt").hide();
+    }
+	//si el ancho es mayor a 320
+    else
+    {
+		//hago visibles los elemento con clase "ocultar_bt"
+	    $(".ocultar_bt").show();
+	}
+	var previousOrientation = window.orientation;
+	//si hay un cambio de orientacion, nuevamente controlo el ancho
+	var checkOrientation = function(){
+		if(window.orientation !== previousOrientation){
+			previousOrientation = window.orientation;
+			if (window.outerWidth<=320)
+			{
+				$(".ocultar_bt").hide();
+            }
+		    else
+		    {
+			   $(".ocultar_bt").show();
+			}
+		}
+	};
+	window.addEventListener("resize", checkOrientation, false);
+	window.addEventListener("orientationchange", checkOrientation, false);
+	setInterval(checkOrientation, 2000);
+	//-------------------------------------------------------
+});
+</script>        
+		<div id="div_es" class="lang" style="display:none"><!-- esp -->
+		
+        	<!-- GALERÍA 1 -->
+        	<!---------------  Slider -------------->          
+            <div id="galeria1" class="galeria_historia" style="display:none;">
+            	<!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1890</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria1" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade1">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/1.jpg" title="" width="auto"></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            <!--------------- FIN Slider ------------>
+            
+            <!-- GALERÍA 2 -->
+            <div id="galeria2" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1894</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria2" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade2">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/2.jpg" title="" width="auto"></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 3 -->
+            <div id="galeria3" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1898</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria3" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade3">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/3.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 4 -->
+            <div id="galeria4" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1907</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria4" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade4">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/4.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 5 -->
+            <div id="galeria5" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1912</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria5" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade5">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/5.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 6 -->
+            <div id="galeria6" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1919</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria6" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade6">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/6.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 7 -->
+            <div id="galeria7" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1928</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria7" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade7">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/7.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 8 -->
+            <div id="galeria8" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1936</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria8" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade8">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/8.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 9 -->
+            <div id="galeria9" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>13 de enero de 1938</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria9" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade9">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/9.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 10 -->
+            <div id="galeria10" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>30 de diciembre de 1946</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria10" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade10">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/10.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 11 -->
+            <div id="galeria11" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1956</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria11" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade11">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/11.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 12 -->
+            <div id="galeria12" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>13 de agosto de 1958</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria12" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade12">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/12.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 13 -->
+            <div id="galeria13" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>7 de abril de 1961</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria13" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade13">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/13.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 14 -->
+            <div id="galeria14" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>23 de diciembre de 1965</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria14" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade14">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/14.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 15 -->
+            <div id="galeria15" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1973</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria15" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade15">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/15.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 16 -->
+            <div id="galeria16" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1° de abril de 1974</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria16" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade16">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/16.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 17 -->
+            <div id="galeria17" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1979</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria17" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade17">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/17.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 18 -->
+            <div id="galeria18" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>25 de agosto de 1982</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria18" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade18">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/18.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 19 -->
+            <div id="galeria19" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>27 de mayo de 1983</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria19" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade19">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/19.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 20 -->
+            <div id="galeria20" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1994</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria20" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade20">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/20.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 21 -->
+            <div id="galeria21" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>2002</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria21" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade21">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/21.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 22 -->
+            <div id="galeria22" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>2003</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria22" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade22">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/22.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- MENÚ LATERAL CON LOS AÑOS -->
+			<div id="ss-links" class="ss-links">
+				<a href="#1890_es">1890</a>
+				<a href="#1946_es">1946</a>
+				<a href="#1958_es">1958</a>
+				<a href="#1974_es">1974</a>
+				<a href="#1979_es">1979</a>
+                <a href="#1983_es">1983</a>
+                <a href="#1994_es">1994</a>
+                <!--<a href="#2013">2013</a>-->
+			</div>
+            <br>
+			
+		
+			
+            <h2 class="titulohistoria" style="margin-top: 100px;">Salto Grande: un símbolo de unión entre dos países<br><br></h2>
+            <p class="textohistoria">Han transcurrido más de 120 años desde que don Gregorio Soler presentó el primer pedido de otorgamiento de una concesión para explotar energía eléctrica en la zona del Salto Grande.<br><br>
+            
+                Luego se sucedieron distintas iniciativas individuales a lo largo de la primera mitad del siglo XX, como las de los Ingenieros Juan Smith, Maurice Mollard, Humberto Gamberale y Francisco Mermoz, hasta llegar a la firma del Convenio de 1946 para el aprovechamiento de los rápidos del río Uruguay en la zona de Salto Grande.<br><br>
+                Para llevar a cabo las obras fue necesario el esfuerzo y empeño por parte de los gobiernos en las decisiones políticas claves, de los técnicos en lo que refiere a los estudios y el proyecto, y también del pueblo que, sin distinción de banderas, se manifestó a través de los Comités Populares logrando que los propósitos del Convenio de 1946 se cumplieran y la obra de Salto Grande fuera una realidad.<br><br>
+                El Complejo Hidroeléctrico Salto Grande es un generador de recursos indispensables para la vida de la Argentina y del Uruguay. Implica la posibilidad de seguir trabajando y creciendo desde la región por el bien común de los países creadores, de sus habitantes, de su industria, su comercio y su desarrollo.<br><br>
+                Es una obra multipropósito que, de manera dinámica, trabaja diariamente para el cumplimiento de sus objetivos, haciendo de cada uno de ellos uno nuevo para continuar el desafío original de cara al futuro.<br><br>
+                Es, por sobre todas las cosas, un ejemplo de integración y unión entre dos pueblos que, cumplidos treinta años desde la finalización de las obras del Complejo Hidroeléctrico, continúa generando y transmitiendo energía eléctrica, estudiando y trabajando sobre todo aquello que alguna vez, hace muchos años, los pueblos y los gobiernos quisieron.<br><br>
+			</p>
+                        
+            <div id="ss-container" class="ss-container">
+            	<!-- TÍTULO DE AÑO 1890 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1890_es">Año</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1890</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 1 -->
+                <div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-1" name="foto_historia" id="foto_historia1" style="background-image: url(images/historia/historia_1.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1890</span>
+                            <a>Gregorio T. Soler fue el primero en auspiciar la obra binacional.</a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 2 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1894</span>
+                            <a>Cupertino Otaño presentó un proyecto de ley a la Cámara de Diputados argentina con el objetivo de mandar a realizar los estudios necesarios para remover los obstáculos que dificultaran la navegación en el río Uruguay, desde Salto a Concordia.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                         <div class="ss-circle ss-circle-2" name="foto_historia" id="foto_historia2" style="background-image: url(images/historia/historia_2.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 3 -->
+                <div class="ss-row ss-small">
+                    <div class="ss-left">
+						<div class="ss-circle ss-circle-3"  name="foto_historia" id="foto_historia3" style="background-image: url(images/historia/historia_3.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1898</span>
+                            <a>Pablo Fábrega presentó una serie de propuestas para dotar a Concordia de agua corriente y alumbrado eléctrico.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 4 -->
+			  	<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1907</span>
+                            <a>Juan T. Smith planteó la idea de aprovechamiento hidroeléctrico del Salto Grande, con el consecuente mejoramiento de la navegabilidad del río aguas arriba del accidente.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                        <div class="ss-circle ss-circle-4"  name="foto_historia" id="foto_historia4" style="background-image: url(images/historia/historia_4.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 5 -->
+			  	<div class="ss-row ss-small">
+                  	<div class="ss-left">
+                        <div class="ss-circle ss-circle-5" name="foto_historia" id="foto_historia5" style="background-image: url(images/historia/historia_5.jpg);"></div>
+                	</div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1912</span>
+                            <a>Mauricio Mollard presentó una solicitud de concesión al Senado argentino con el objeto de utilizar y explotar el caudal del río Uruguay, previendo la construcción de Salto Grande.</a>
+                        </h3>
+                    </div>
+              	</div>
+              	
+                <!-- ITEM 6 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1919</span>
+                            <a>El Gobierno Argentino encomendó a la Dirección General de Navegación y Puertos el estudio del aprovechamiento hidroeléctrico de las caídas del Salto Grande.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                        <div class="ss-circle ss-circle-6" name="foto_historia" id="foto_historia6" style="background-image: url(images/historia/historia_6.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 7 -->
+                <div class="ss-row ss-small">
+                  	<div class="ss-left">
+                        <div class="ss-circle ss-circle-7" name="foto_historia" id="foto_historia7" style="background-image: url(images/historia/historia_7.jpg);"></div>
+                	</div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1928</span>
+                            <a>Los Ingenieros Humberto Gamberale y Francisco Mermoz publicaron un informe fundado en el Proyecto Mollard, incluyendo estudios técnicos sobre las variables del caudal hídrico y presupuestos para la transmisión de energía, entre otras cuestiones.<br>
+                            </a>
+                        </h3>
+                    </div>
+              	</div>
+                
+                <!-- ITEM 8 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1936</span>
+                            <a> Bernardino Horne presentó un proyecto de Ley ante la Cámara de Diputados argentina cuyos cuatro objetivos fundamentales eran la navegación, el aprovechamiento de energía eléctrica, la irrigación y el control de los efectos de las crecientes.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                        <div class="ss-circle ss-circle-8" name="foto_historia" id="foto_historia8" style="background-image: url(images/historia/historia_8.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 9 -->
+              	<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-9" name="foto_historia" id="foto_historia9" style="background-image: url(images/historia/historia_9.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3><span>13 de enero de 1938</span>
+                            <a>Se firmó un Acta entre ambos Gobiernos, cuyo Artículo 5º reza: “Conceptuando de interés común el aprovechamiento de la fuerza hidráulica del río Uruguay para ambos países, acuerdan promover la designación de una Comisión Técnica Mixta Argentino-Uruguaya que informará a la brevedad posible a ambos gobiernos para los efectos de su realización.”<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                                
+                <!-- TÍTULO DE AÑO 1946 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1946_es">Año</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1946</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 10 -->
+                <div class="ss-row ss-large">
+                    <div class="ss-left">                    	
+                        <h3>
+                            <span>30 de diciembre de 1946</span>
+                            <a>Se firmó el Convenio entre ambos países. Su Artículo 2º  expresa: “Las Altas Partes Contratantes acuerdan designar y mantener una Comisión Técnica Mixta compuesta de igual número de delegados por cada país, la que tendrá a su cargo todos los asuntos referentes a la utilización, represamiento y derivación de las aguas del río Uruguay." La finalidad de ese Convenio era la obtención del mayor beneficio de las disposiciones naturales que ofrecen los rápidos del río Uruguay, en la zona de Salto Grande, para el desarrollo económico, industrial y social de ambos países y, con el fin de mejorar la navegabilidad, aprovechar sus aguas para la producción de energía y facilitar la vinculación de sus comunicaciones terrestres, así como cualquier otro objeto que, sin menoscabo de los anteriores propósitos, concurra al enunciado beneficio común.<br>
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-10" name="foto_historia" id="foto_historia10" style="background-image: url(images/historia/historia_10.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 11 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-11" name="foto_historia" id="foto_historia11" style="background-image: url(images/historia/historia_11.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3><span>1956</span>
+                            <a>Nació el espíritu emprendedor y visionario de los hombres de las ciudades ribereñas del río Uruguay, con el deseo de rescatar el Convenio y luchar por su cumplimiento, surgiendo en forma casi simultánea en localidades uruguayas y argentinas movimientos populares que se unificaron en el Comité Central Pro Aprovechamiento Hidráulico del río Uruguay, el cual cambió de nombre hasta finalmente llamarse “Comité Popular Pro Represa de Salto Grande”.<br>
+                            <br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1958 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1958_es">Año</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1958</h2>
+                    </div>
+                </div>                
+                
+                <!-- ITEM 12 -->
+                <div class="ss-row ss-small">
+                    <div class="ss-left">
+                        <h3>
+                            <span>13 de agosto de 1958</span>
+                            <a>El Parlamento uruguayo ratificó el Tratado de 1946.<br>
+                            <br>
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-12" name="foto_historia" id="foto_historia12" style="background-image: url(images/historia/historia_12.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 13 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-13" name="foto_historia" id="foto_historia13" style="background-image: url(images/historia/historia_13.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>7 de abril de 1961</span>
+                            <a> Se firmó el Tratado de Límites en el río Uruguay, entre la República Oriental del Uruguay y la República Argentina.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 14 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <h3>
+                            <span>23 de diciembre de 1965</span>
+                            <a>La Cámara de Senadores del Uruguay convirtió en ley de ambas naciones el Tratado y abrió las puertas para las obras magnas que se levantaron en los años venideros.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-14" name="foto_historia" id="foto_historia14" style="background-image: url(images/historia/historia_14.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 15 -->
+				<div class="ss-row ss-small">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-15" name="foto_historia" id="foto_historia15" style="background-image: url(images/historia/historia_15.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1973</span>
+                            <a> El Presidente argentino Juan Domingo Perón anunció en Montevideo, al firmar el Tratado de Límites del río de la Plata, que se construiría la represa a partir del año siguiente.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1974 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1974_es">Año</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1974</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 16 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1° de abril de 1974</span>
+                            <a>Comenzó la construcción del Complejo Hidroeléctrico Salto Grande.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-16"  name="foto_historia" id="foto_historia16" style="background-image: url(images/historia/historia_16.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1979 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1979_es">Año</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1979</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 17 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-17" name="foto_historia" id="foto_historia17" style="background-image: url(images/historia/historia_17.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>21 de junio de 1979</span>
+                            <a>Se conformó el lago-embalse y la primera de las catorce turbinas comenzó a generar energía eléctrica.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 18 -->
+                <div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>25 de agosto de 1982</span>
+                            <a>Se inauguró el Puente Internacional que conecta a la República Argentina con la República Oriental del Uruguay.<br>
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-18" name="foto_historia" id="foto_historia18" style="background-image: url(images/historia/historia_18.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1983 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1983_es">Año</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1983</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 19 -->
+              	<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-19" name="foto_historia" id="foto_historia19" style="background-image: url(images/historia/historia_19.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>27 de mayo de 1983</span>
+                            <a>Se puso en funcionamiento el último hidrogenerador y, de esta manera, quedó oficialmente inaugurada la obra de Salto Grande.</a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1994 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1994_es">Año</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1994</h2>
+                    </div>
+                </div>
+                                
+                <!-- ITEM 20 -->
+                <div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1994</span>
+                            <a>Se completó el pago de las obras para la construcción del Complejo.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-20" name="foto_historia" id="foto_historia20" style="background-image: url(images/historia/historia_20.jpg);"></div>
+                    </div>
+                </div>                                
+           		
+                <!-- ITEM 21 -->
+                <div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-21" name="foto_historia" id="foto_historia21" style="background-image: url(images/historia/historia_21.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>2002</span>
+                            <a>Se inauguró el Museo y Centro Cultural de Salto Grande, en el que se exponen todas las piezas y objetos relativos a la construcción del Complejo Hidroeléctrico.</a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 22 -->
+                <div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <h3>
+                            <span>2003</span>
+                            <a>Se integraron los Sistemas de Gestión de Calidad y Ambiental.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+                    	<div class="ss-circle ss-circle-22" name="foto_historia" id="foto_historia22" style="background-image: url(images/historia/historia_22.jpg);"></div>
+                    </div>
+                </div>
+                                
+            </div>
+		</div> <!-- esp -->
+		
+		
+		
+		
+		<div id="div_en" class="lang" style="display:none"><!-- eng -->
+		
+        	<!-- GALERÍA 1 -->
+        	<!---------------  Slider -------------->          
+            <div id="galeria1" class="galeria_historia" style="display:none;">
+            	<!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1890</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria1" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade1">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/1.jpg" title="" width="auto"></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            <!--------------- FIN Slider ------------>
+            
+            <!-- GALERÍA 2 -->
+            <div id="galeria2" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1894</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria2" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade2">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/2.jpg" title="" width="auto"></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 3 -->
+            <div id="galeria3" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1898</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria3" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade3">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/3.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 4 -->
+            <div id="galeria4" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1907</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria4" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade4">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/4.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 5 -->
+            <div id="galeria5" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1912</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria5" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade5">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/5.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 6 -->
+            <div id="galeria6" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1919</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria6" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade6">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/6.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 7 -->
+            <div id="galeria7" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1928</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria7" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade7">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/7.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 8 -->
+            <div id="galeria8" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1936</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria8" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade8">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/8.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 9 -->
+            <div id="galeria9" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>January 13th, 1938</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria9" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade9">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/9.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 10 -->
+            <div id="galeria10" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>December 30th, 1946</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria10" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade10">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/10.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 11 -->
+            <div id="galeria11" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1956</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria11" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade11">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/11.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 12 -->
+            <div id="galeria12" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>August 13th, 1958</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria12" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade12">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/12.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 13 -->
+            <div id="galeria13" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>April 7th, 1961</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria13" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade13">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/13.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 14 -->
+            <div id="galeria14" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>December 23rd, 1965</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria14" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade14">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/14.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 15 -->
+            <div id="galeria15" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1973</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria15" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade15">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/15.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 16 -->
+            <div id="galeria16" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>April 1st, 1974</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria16" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade16">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/16.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 17 -->
+            <div id="galeria17" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1979</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria17" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade17">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/17.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 18 -->
+            <div id="galeria18" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>August 25th, 1982</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria18" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade18">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/18.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 19 -->
+            <div id="galeria19" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>May 27th, 1983</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria19" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade19">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/19.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 20 -->
+            <div id="galeria20" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1994</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria20" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade20">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/20.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 21 -->
+            <div id="galeria21" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>2002</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria21" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade21">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/21.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 22 -->
+            <div id="galeria22" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>2003</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria22" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade22">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/22.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- MENÚ LATERAL CON LOS AÑOS -->
+			<div id="ss-links" class="ss-links">
+				<a href="#1890_en">1890</a>
+				<a href="#1946_en">1946</a>
+				<a href="#1958_en">1958</a>
+				<a href="#1974_en">1974</a>
+				<a href="#1979_en">1979</a>
+                <a href="#1983_en">1983</a>
+                <a href="#1994_en">1994</a>
+                <!--<a href="#2013">2013</a>-->
+			</div>
+            <br>
+			
+		
+			
+            <h2 class="titulohistoria" style="margin-top: 100px;">Salto Grande: a symbol of unity between two countries<br><br></h2>
+            <p class="textohistoria">More than 120 years have passed since Mr. Gregorio Soler filed the first motion for a concession to exploit electric energy in Salto Grande.<br><br>
+            
+                Later on there were a number of individual initiatives over the first half of the 20th  century, such as those led by Engineers Juan Smith, Maurice Mollard, Humberto Gamberale and Francisco Mermoz, until the signature of the 1946 Agreement for the use of the rapids of the Uruguay River in Salto Grande.<br><br>
+                In order to complete the works, the governments had to work hard to make key political decisions, and so did technicians in the performance of studies and the project itself, and the people who, regardless which country they were from, gave their opinion through People's Committees, all of whom contributed to the achievement of the purposes of the 1946 Agreement and the completion of the Salto Grande works.<br><br>
+                The Salto Grande Hydroelectric Complex generates resources which are essential for everyday life in Argentina and Uruguay. Thanks to this, it is possible to continue working and growing from the region for the common good of the founding countries, their inhabitants, industry, commerce and development.<br><br>
+                It is a multipurpose facility which works dynamically on a daily basis for the achievement of its goals, by continuously setting new goals in order to continue with the original challenge facing to the future.<br><br>
+                It is, above all, an example of integration and unity between two countries which, thirty years after the completion of the Hydroelectric Complex works, continue to generate and carry electric energy, as well as studying and working on the goals that many years ago both the people and government wanted to accomplish.<br><br>
+			</p>
+                        
+            <div id="ss-container" class="ss-container">
+            	<!-- TÍTULO DE AÑO 1890 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1890_en">Year</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1890</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 1 -->
+                <div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-1" name="foto_historia" id="foto_historia1" style="background-image: url(images/historia/historia_1.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1890</span>
+                            <a>Gregorio T. Soler is the first to sponsor the binational project.</a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 2 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1894</span>
+                            <a>Cupertino Otaño introduces a bill to the Chamber of Representatives in Argentina for the purpose of commissioning the relevant studies to remove the obstacles that hinder navigation along the Uruguay River from Salto to Concordia.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                         <div class="ss-circle ss-circle-2" name="foto_historia" id="foto_historia2" style="background-image: url(images/historia/historia_2.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 3 -->
+                <div class="ss-row ss-small">
+                    <div class="ss-left">
+						<div class="ss-circle ss-circle-3"  name="foto_historia" id="foto_historia3" style="background-image: url(images/historia/historia_3.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1898</span>
+                            <a>Pablo Fabrega submits a number of proposals to provide Concordia with running water and electric lighting.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 4 -->
+			  	<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1907</span>
+                            <a>Juan T. Smith raises the idea to use Salto Grande as a source of hydropower with the corresponding improvements on navigability upriver from the geographical feature.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                        <div class="ss-circle ss-circle-4"  name="foto_historia" id="foto_historia4" style="background-image: url(images/historia/historia_4.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 5 -->
+			  	<div class="ss-row ss-small">
+                  	<div class="ss-left">
+                        <div class="ss-circle ss-circle-5" name="foto_historia" id="foto_historia5" style="background-image: url(images/historia/historia_5.jpg);"></div>
+                	</div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1912</span>
+                            <a>Mauricio Mollard submits a motion to the Argentinean Senate aimed at using and exploiting the Uruguay River’s waters with a view to build Salto Grande.</a>
+                        </h3>
+                    </div>
+              	</div>
+              	
+                <!-- ITEM 6 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1919</span>
+                            <a>The Argentinean government commissions the General Office of Navigation and Ports to conduct a study about the hydropower use in the Salto Grande water fall.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                        <div class="ss-circle ss-circle-6" name="foto_historia" id="foto_historia6" style="background-image: url(images/historia/historia_6.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 7 -->
+                <div class="ss-row ss-small">
+                  	<div class="ss-left">
+                        <div class="ss-circle ss-circle-7" name="foto_historia" id="foto_historia7" style="background-image: url(images/historia/historia_7.jpg);"></div>
+                	</div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1928</span>
+                            <a>Engineers Humberto Gamberale and Francisco Mermoz publish a report based on the Mollard Project including technical aspects about the variations of water volume and budgets for energy transmission, among other topics.<br>
+                            </a>
+                        </h3>
+                    </div>
+              	</div>
+                
+                <!-- ITEM 8 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1936</span>
+                            <a>Bernardino Horne introduces a bill to the Chamber of Representatives in Argentina addressing four main goals: navigation, electrical power use, irrigation and control over the effects of floods.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                        <div class="ss-circle ss-circle-8" name="foto_historia" id="foto_historia8" style="background-image: url(images/historia/historia_8.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 9 -->
+              	<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-9" name="foto_historia" id="foto_historia9" style="background-image: url(images/historia/historia_9.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3><span>January 13th, 1938</span>
+                            <a>A document is signed by both governments stating in its section 5 the following: “Considering the mutual interest of both countries in the use of the Uruguay River’s hydraulic power, they agree to promote the appointment of an Argentinean-Uruguayan Joint Technical Committee, which will inform both governments as soon as possible about the effects of its construction.”<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                                
+                <!-- TÍTULO DE AÑO 1946 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1946_en">Year</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1946</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 10 -->
+                <div class="ss-row ss-large">
+                    <div class="ss-left">                    	
+                        <h3>
+                            <span>December 30th, 1946</span>
+                            <a>Both countries subscribe the Agreement. In section 2 it is stated: "The Contracting Parties hereto agree to appoint and maintain a Joint Technical Committee comprised of the same number of delegates for each country that shall be responsible for all matters regarding use, damming and diversion of the Uruguay River." The goal of this Agreement is to make the most out of the natural layout of the rapids in the Uruguay River around the Salto Grande area for the economic, industrial and social development of both countries and with the purposes of improving navigability, use its water to generate power and improve its ground-based communications, as well as any other purpose, which may not be to the detriment of the aforementioned mutual benefit.<br>
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-10" name="foto_historia" id="foto_historia10" style="background-image: url(images/historia/historia_10.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 11 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-11" name="foto_historia" id="foto_historia11" style="background-image: url(images/historia/historia_11.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3><span>1956</span>
+                            <a>The entrepreneurial and visionary spirit of the people living in towns on the margins of the Uruguay River was born out of the desire to rescue the Agreement and fight for its application. Almost at the same time Uruguay and Argentina saw the uprising of people’s movements, which later on became unified under the Main Committee for the Hydraulic Use of the Uruguay River, which afterwards changed its name to People’s Committee for the Salto Grande Dam.<br>
+                            <br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1958 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1958_en">Year</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1958</h2>
+                    </div>
+                </div>                
+                
+                <!-- ITEM 12 -->
+                <div class="ss-row ss-small">
+                    <div class="ss-left">
+                        <h3>
+                            <span>August 13th, 1958</span>
+                            <a>Ratification of the 1946 Treaty by the Uruguayan Parliament.<br>
+                            <br>
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-12" name="foto_historia" id="foto_historia12" style="background-image: url(images/historia/historia_12.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 13 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-13" name="foto_historia" id="foto_historia13" style="background-image: url(images/historia/historia_13.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>April 7th, 1961</span>
+                            <a>Signature of the Boundary Treaty of the Uruguay River between the Republic of Uruguay and the Republic of Argentina.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 14 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <h3>
+                            <span>December 23rd, 1965</span>
+                            <a>Uruguay’s Senate gives the Treaty the force of law for both nations and welcomes the upcoming construction works that are to the take place in the following years.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-14" name="foto_historia" id="foto_historia14" style="background-image: url(images/historia/historia_14.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 15 -->
+				<div class="ss-row ss-small">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-15" name="foto_historia" id="foto_historia15" style="background-image: url(images/historia/historia_15.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1973</span>
+                            <a>Argentinean President Juan Domingo Peron announces during the signature of the Boundary Treaty of the River Plate River in Montevideo that the dam is going to be built the following year.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1974 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1974_en">Year</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1974</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 16 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>April 1st, 1974</span>
+                            <a>Beginning of the construction of the Salto Grande Hydroelectric Complex.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-16"  name="foto_historia" id="foto_historia16" style="background-image: url(images/historia/historia_16.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1979 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1979_en">Year</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1979</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 17 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-17" name="foto_historia" id="foto_historia17" style="background-image: url(images/historia/historia_17.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>June 21, 1979</span>
+                            <a>Completion of the reservoir-lake construction and start up of the first of 14 power-generating turbines.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 18 -->
+                <div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>August 25th, 1982</span>
+                            <a>Inauguration of the International Bridge connecting the Republic of Argentina and the Republic of Uruguay.<br>
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-18" name="foto_historia" id="foto_historia18" style="background-image: url(images/historia/historia_18.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1983 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1983_en">Year</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1983</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 19 -->
+              	<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-19" name="foto_historia" id="foto_historia19" style="background-image: url(images/historia/historia_19.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>May 27th, 1983</span>
+                            <a>Start up of the last hydrogenerator, and subsequent official inauguration of Salto Grande.</a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1994 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1994_en">Year</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1994</h2>
+                    </div>
+                </div>
+                                
+                <!-- ITEM 20 -->
+                <div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1994</span>
+                            <a>Settlement of payment for the construction works of the Complex.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-20" name="foto_historia" id="foto_historia20" style="background-image: url(images/historia/historia_20.jpg);"></div>
+                    </div>
+                </div>                                
+           		
+                <!-- ITEM 21 -->
+                <div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-21" name="foto_historia" id="foto_historia21" style="background-image: url(images/historia/historia_21.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>2002</span>
+                            <a>Inauguration of the Salto Grande Museum and Cultural Center exhibiting pieces and objects related to the construction of the Hydroelectric Complex.</a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 22 -->
+                <div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <h3>
+                            <span>2003</span>
+                            <a>Integration of the Quality and Environment Management Systems.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+                    	<div class="ss-circle ss-circle-22" name="foto_historia" id="foto_historia22" style="background-image: url(images/historia/historia_22.jpg);"></div>
+                    </div>
+                </div>
+                                
+            </div>
+		</div> <!-- eng -->
+		
+		
+		
+		
+		
+		<div id="div_pt" class="lang" style="display:none"><!-- pt -->
+	
+			<!-- GALERÍA 1 -->
+        	<!---------------  Slider -------------->          
+            <div id="galeria1" class="galeria_historia" style="display:none;">
+            	<!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1890</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria1" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade1">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/1.jpg" title="" width="auto"></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            <!--------------- FIN Slider ------------>
+            
+            <!-- GALERÍA 2 -->
+            <div id="galeria2" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1894</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria2" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade2">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/2.jpg" title="" width="auto"></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 3 -->
+            <div id="galeria3" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1898</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria3" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade3">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/3.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 4 -->
+            <div id="galeria4" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1907</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria4" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade4">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/4.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 5 -->
+            <div id="galeria5" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1912</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria5" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade5">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/5.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 6 -->
+            <div id="galeria6" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1919</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria6" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade6">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/6.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 7 -->
+            <div id="galeria7" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1928</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria7" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade7">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/7.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 8 -->
+            <div id="galeria8" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1936</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria8" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade8">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/8.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 9 -->
+            <div id="galeria9" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>13 de enero de 1938</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria9" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade9">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/9.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 10 -->
+            <div id="galeria10" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>30 de diciembre de 1946</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria10" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade10">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/10.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 11 -->
+            <div id="galeria11" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1956</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria11" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade11">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/11.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 12 -->
+            <div id="galeria12" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>13 de agosto de 1958</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria12" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade12">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/12.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 13 -->
+            <div id="galeria13" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>7 de abril de 1961</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria13" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade13">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/13.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 14 -->
+            <div id="galeria14" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>23 de diciembre de 1965</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria14" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade14">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/14.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 15 -->
+            <div id="galeria15" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1973</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria15" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade15">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/15.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 16 -->
+            <div id="galeria16" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1° de abril de 1974</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria16" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade16">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/16.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 17 -->
+            <div id="galeria17" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1979</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria17" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade17">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/17.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 18 -->
+            <div id="galeria18" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>25 de agosto de 1982</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria18" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade18">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/18.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 19 -->
+            <div id="galeria19" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>27 de mayo de 1983</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria19" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade19">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/19.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 20 -->
+            <div id="galeria20" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>1994</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria20" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade20">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/20.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 21 -->
+            <div id="galeria21" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>2002</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria21" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade21">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/21.jpg" title=""></li>
+                        <!--<li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- GALERÍA 22 -->
+            <div id="galeria22" class="galeria_historia" style="display:none;">
+                <!-- AÑO EN LA GALERÍA -->
+                <span style="position:absolute; margin-top:-24px; color:#FFFFFF;"><b>2003</b></span>
+                <!-- BOTÓN DE CIERRE DE LA GALERÍA -->
+                <span name="x_galeria" id="x_galeria22" style="position:absolute; margin-left:631px; margin-top:-24px; color:#FFFFFF; cursor:pointer;"><b>x</b></span>
+                <div id="banner-fade22">
+                    <ul class="bjqs">
+                        <li><img src="images/historia/22.jpg" title=""></li>
+                       <!-- <li><img src="images/saltogrande.jpg" title=""></li>-->
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- MENÚ LATERAL CON LOS AÑOS -->
+			<div id="ss-links" class="ss-links">
+				<a href="#1890_pt">1890</a>
+				<a href="#1946_pt">1946</a>
+				<a href="#1958_pt">1958</a>
+				<a href="#1974_pt">1974</a>
+				<a href="#1979_pt">1979</a>
+                <a href="#1983_pt">1983</a>
+                <a href="#1994_pt">1994</a>
+                <!--<a href="#2013">2013</a>-->
+			</div>
+            <br>
+			
+			
+            <h2 class="titulohistoria" style="margin-top: 100px;">A Salto Grande: um símbolo de união entre dois países<br><br></h2>
+            <p class="textohistoria">Mais de 120 anos tem passado desde que o Sr. Gregorio Soler apresentou o primeiro pedido de concessão para a exploração de energia elétrica na área de Salto Grande.<br><br>
+            
+                Após essa ação precursora, no decorrer da primeira metade do século XX, manifestaram-se algumas iniciativas individuais, como as empreendidas pelos engenheiros Juan Smith, Maurice Mollard, Humberto Gamberale e Francisco Mermoz, até que por fim foi assinado o Convênio de 1946 para o aproveitamento das corredeiras do rio Uruguai na área de Salto Grande.<br><br>
+                Para pôr as obras em andamento, foram necessários o esforço e a tenacidade dos governos nas decisões políticas chave, bem como dos técnicos, no que concerniu aos estudos e ao projeto; e ainda foi precisa a participação do povo, que sem distinção de bandeiras manifestou-se através dos Comitês Populares e conseguiu que os propósitos do Convênio de 1946 fossem cumpridos e a obra de Salto Grande se tornasse realidade.<br><br>
+                A Usina Hidrelétrica de Salto Grande é um gerador de recursos indispensáveis para a vida da Argentina e o Uruguai, que possibilita continuar trabalhando e crescendo na região, pelo bem comum dos países criadores, de seus habitantes, sua indústria, comércio e desenvolvimento.<br><br>
+                Trata-se de uma obra de múltiplos propósitos que, com grande dinamismo, trabalha dia a dia para conquistar seus objetivos, originando de cada um deles uma nova meta para continuar o desafio original face ao futuro.<br><br>
+                A Salto Grande é, antes de tudo, um exemplo de integração e união entre dois povos que, trinta anos após finalizarem as obras da Usina Hidrelétrica, continua gerando e transmitindo energia elétrica, estudando e trabalhando com tudo aquilo que um dia, há muito tempo, foi almejado por povos e governos.<br><br>
+			</p>
+                        
+            <div id="ss-container" class="ss-container">
+            	<!-- TÍTULO DE AÑO 1890 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1890_pt">Ano</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1890</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 1 -->
+                <div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-1" name="foto_historia" id="foto_historia1" style="background-image: url(images/historia/historia_1.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1890</span>
+                            <a>Gregorio T. Soler foi o primeiro a auspiciar a obra binacional.</a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 2 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1894</span>
+                            <a>Cupertino Otaño apresentou um projeto de lei perante a Câmara dos Deputados da Argentina, a fim de que fossem realizados os estudos necessários para retirar os obstáculos que dificultassem a navegação no rio Uruguai, de Salto até Concordia.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                         <div class="ss-circle ss-circle-2" name="foto_historia" id="foto_historia2" style="background-image: url(images/historia/historia_2.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 3 -->
+                <div class="ss-row ss-small">
+                    <div class="ss-left">
+						<div class="ss-circle ss-circle-3"  name="foto_historia" id="foto_historia3" style="background-image: url(images/historia/historia_3.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1898</span>
+                            <a>Pablo Fábrega apresentou uma bateria de propostas para providenciar água corrente e iluminação pública à cidade de Concordia.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 4 -->
+			  	<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1907</span>
+                            <a>Juan T. Smith expôs sua idéia do aproveitamento hidrelétrico do Salto Grande, com a decorrente melhoria na navegabilidade do rio águas acima do acidente geográfico.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                        <div class="ss-circle ss-circle-4"  name="foto_historia" id="foto_historia4" style="background-image: url(images/historia/historia_4.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 5 -->
+			  	<div class="ss-row ss-small">
+                  	<div class="ss-left">
+                        <div class="ss-circle ss-circle-5" name="foto_historia" id="foto_historia5" style="background-image: url(images/historia/historia_5.jpg);"></div>
+                	</div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1912</span>
+                            <a>Mauricio Mollard apresentou, perante o Senado, uma petição de concessão de uso e exploração do caudal do rio Uruguai, prevendo a construção da Salto Grande.</a>
+                        </h3>
+                    </div>
+              	</div>
+              	
+                <!-- ITEM 6 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1919</span>
+                            <a>O Governo da Argentina encomendou à Direção Geral de Navegação e Portos o estudo do aproveitamento hidrelétrico das quedas d'água do Salto Grande.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                        <div class="ss-circle ss-circle-6" name="foto_historia" id="foto_historia6" style="background-image: url(images/historia/historia_6.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 7 -->
+                <div class="ss-row ss-small">
+                  	<div class="ss-left">
+                        <div class="ss-circle ss-circle-7" name="foto_historia" id="foto_historia7" style="background-image: url(images/historia/historia_7.jpg);"></div>
+                	</div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1928</span>
+                            <a>Os engenheiros Humberto Gamberale e Francisco Mermoz publicaram um relatório baseado no Projeto Mollard, incluindo estudos técnicos sobre as variáveis do caudal hídrico, e orçamentos para a transmissão de energia, dentre outras matérias.<br>
+                            </a>
+                        </h3>
+                    </div>
+              	</div>
+                
+                <!-- ITEM 8 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1936</span>
+                            <a>Bernardino Horne encaminhou à Câmara dos Deputados da Argentina um projeto de lei que salientava quatro objetivos fundamentais: a navegação, o aproveitamento da energia elétrica, a irrigação e o controle dos efeitos das subidas d'água.<br>
+                            </a>
+                        </h3>
+                    </div>
+					<div class="ss-right">
+                        <div class="ss-circle ss-circle-8" name="foto_historia" id="foto_historia8" style="background-image: url(images/historia/historia_8.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 9 -->
+              	<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-9" name="foto_historia" id="foto_historia9" style="background-image: url(images/historia/historia_9.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3><span>13 de janeiro de 1938</span>
+                            <a>Ambos os governos assinaram uma ata, a qual exprimia, no seu artigo 5°: “Julgando o aproveitamento da força hidráulica do rio Uruguai de interesse comum para ambos os países, eles concordam promover a designação de uma Comissão Técnica Mista Argentino-Uruguaia que informará ambos os governos, com a maior brevidade possível, para os fins de sua realização.”<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                                
+                <!-- TÍTULO DE AÑO 1946 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1946_pt">Ano</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1946</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 10 -->
+                <div class="ss-row ss-large">
+                    <div class="ss-left">                    	
+                        <h3>
+                            <span>30 de dezembro de 1946</span>
+                            <a>Ambos os países assinaram o Convênio, que expressa em seu artigo 2º: “As Altas Partes Contratantes concordam designar e gestionar uma Comissão Técnica Mista, conformada por igual número de delegados por cada país, à qual caberão todos os assuntos referidos à utilização, represamento e derivação das águas do rio Uruguai." O propósito desse Convênio era obter o máximo benefício possível dos recursos naturais oferecidos pelas corredeiras do rio Uruguai na área de Salto Grande, visando o desenvolvimento econômico, industrial e social de ambos os países e, no intuito de melhorar a navegabilidade, aproveitar as águas para a geração de energia e facilitar a ligação das comunicações terrestres, bem como qualquer outro objeto que, além dos mencionados propósitos, conduza ao referido benefício comum.<br>
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-10" name="foto_historia" id="foto_historia10" style="background-image: url(images/historia/historia_10.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 11 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-11" name="foto_historia" id="foto_historia11" style="background-image: url(images/historia/historia_11.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3><span>1956</span>
+                            <a>Nasceu o espírito empreendedor e visionário de homens das cidades ribeirinhas do rio Uruguai, que aspiravam a recuperar o Convênio e lutar por seu cumprimento. Diferentes movimentos populares surgiram quase em simultâneo, tanto em localidades da Argentina quanto do Uruguai, e acabaram unindo-se no Comitê Central Pró-Aproveitamento Hidráulico do rio Uruguai, o qual passou por mudanças de nome, até chamar-se finalmente “Comitê Popular Pró-Barragem de Salto Grande”.<br>
+                            <br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1958 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1958_pt">Ano</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1958</h2>
+                    </div>
+                </div>                
+                
+                <!-- ITEM 12 -->
+                <div class="ss-row ss-small">
+                    <div class="ss-left">
+                        <h3>
+                            <span>13 de agosto de 1958</span>
+                            <a>O Parlamento uruguaio ratificou o Tratado de 1946.<br>
+                            <br>
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-12" name="foto_historia" id="foto_historia12" style="background-image: url(images/historia/historia_12.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 13 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-13" name="foto_historia" id="foto_historia13" style="background-image: url(images/historia/historia_13.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>7 de abril de 1961</span>
+                            <a>O Tratado de Limites no rio Uruguai foi assinado pela República Oriental do Uruguai e a República Argentina.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 14 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <h3>
+                            <span>23 de dezembro de 1965</span>
+                            <a>O Senado uruguaio transformou o Tratado em lei de ambas as nações e abriu as portas para as grandes obras serem erguidas nos anos seguintes.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-14" name="foto_historia" id="foto_historia14" style="background-image: url(images/historia/historia_14.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- ITEM 15 -->
+				<div class="ss-row ss-small">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-15" name="foto_historia" id="foto_historia15" style="background-image: url(images/historia/historia_15.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>1973</span>
+                            <a>O Presidente argentino Juan Domingo Perón, quando assinou o Tratado de Limites do Rio da Prata, anunciou em Montevidéu que a construção da barragem começaria no ano seguinte.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1974 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1974_pt">Ano</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1974</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 16 -->
+				<div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1° de abril de 1974</span>
+                            <a>Começou a construção da Usina Hidrelétrica de Salto Grande.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-16"  name="foto_historia" id="foto_historia16" style="background-image: url(images/historia/historia_16.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1979 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1979_pt">Ano</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1979</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 17 -->
+				<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-17" name="foto_historia" id="foto_historia17" style="background-image: url(images/historia/historia_17.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>21 de junho de 1979</span>
+                            <a>O lago-reservatório foi concluído e a primeira das catorze turbinas começou a gerar energia elétrica.<br>
+                            </a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 18 -->
+                <div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>25 de agosto de 1982</span>
+                            <a>Foi inaugurada a Ponte Internacional que liga a República Argentina e a República Oriental do Uruguai.<br>
+                            </a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-18" name="foto_historia" id="foto_historia18" style="background-image: url(images/historia/historia_18.jpg);"></div>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1983 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1983_pt">Ano</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1983</h2>
+                    </div>
+                </div>
+                
+                <!-- ITEM 19 -->
+              	<div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-19" name="foto_historia" id="foto_historia19" style="background-image: url(images/historia/historia_19.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>27 de maio de 1983</span>
+                            <a>O último hidrogerador foi posto em andamento e, assim, a obra de Salto Grande foi inaugurada oficialmente.</a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- TÍTULO DE AÑO 1994 -->
+                <div class="ss-row">
+                    <div class="ss-left">
+                        <h2 id="1994_pt">Ano</h2>
+                    </div>
+                    <div class="ss-right">
+                        <h2>1994</h2>
+                    </div>
+                </div>
+                                
+                <!-- ITEM 20 -->
+                <div class="ss-row ss-medium">
+                    <div class="ss-left">
+                        <h3>
+                            <span>1994</span>
+                            <a>O pagamento das obras para a construção da Usina foi concluído.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+						<div class="ss-circle ss-circle-20" name="foto_historia" id="foto_historia20" style="background-image: url(images/historia/historia_20.jpg);"></div>
+                    </div>
+                </div>                                
+           		
+                <!-- ITEM 21 -->
+                <div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <div class="ss-circle ss-circle-21" name="foto_historia" id="foto_historia21" style="background-image: url(images/historia/historia_21.jpg);"></div>
+                    </div>
+                    <div class="ss-right">
+                        <h3>
+                            <span>2002</span>
+                            <a>Foi inaugurado o Museu e Centro Cultural de Salto Grande, no qual são exibidas todas as peças e objetos relacionados com a construção da Usina Hidrelétrica.</a>
+                        </h3>
+                    </div>
+                </div>
+                
+                <!-- ITEM 22 -->
+                <div class="ss-row ss-large">
+                    <div class="ss-left">
+                        <h3>
+                            <span>2003</span>
+                            <a>Foram incorporados os sistemas de Gestão da Qualidade e do Meio Ambiente.</a>
+                        </h3>
+                    </div>
+                    <div class="ss-right">
+                    	<div class="ss-circle ss-circle-22" name="foto_historia" id="foto_historia22" style="background-image: url(images/historia/historia_22.jpg);"></div>
+                    </div>
+                </div>
+                                
+            </div>
+		</div> <!-- pt -->
+		
+		
+		
+		
+    </div>
+        
+		<script type="423067336b9e8ca08d7721db-text/javascript">
+		$(function() {
+
+			var $sidescroll	= (function() {
+					
+					
+					// the row elements
+				var $rows			= $('#div_es .ss-container > div.ss-row'),
+					// we will cache the inviewport rows and the outside viewport rows
+					$rowsViewport, $rowsOutViewport,
+					// navigation menu links
+					$links			= $('#div_es .ss-links > a'),
+					// the window element
+					$win			= $(window),
+					// we will store the window sizes here
+					winSize			= {},
+					// used in the scroll setTimeout function
+					anim			= false,
+					// page scroll speed
+					scollPageSpeed	= 2000 ,
+					// page scroll easing
+					scollPageEasing = 'easeInOutExpo',
+					// perspective?
+					hasPerspective	= false,
+					
+					perspective		= hasPerspective && Modernizr.csstransforms3d,
+					// initialize function
+					init			= function() {
+						
+						// get window sizes
+						getWinSize();
+						// initialize events
+						initEvents();
+						// define the inviewport selector
+						defineViewport();
+						// gets the elements that match the previous selector
+						setViewportRows();
+						// if perspective add css
+						if( perspective ) {
+							$rows.css({
+								'-webkit-perspective'			: 600,
+								'-webkit-perspective-origin'	: '50% 0%'
+							});
+						}
+						// show the pointers for the inviewport rows
+						$rowsViewport.find('a.ss-circle').addClass('ss-circle-deco');
+						// set positions for each row
+						placeRows();
+						
+					},
+					// defines a selector that gathers the row elems that are initially visible.
+					// the element is visible if its top is less than the window's height.
+					// these elements will not be affected when scrolling the page.
+					defineViewport	= function() {
+					
+						$.extend( $.expr[':'], {
+						
+							inviewport	: function ( el ) {
+								if ( $(el).offset().top < winSize.height ) {
+									return true;
+								}
+								return false;
+							}
+						
+						});
+					
+					},
+					// checks which rows are initially visible 
+					setViewportRows	= function() {
+						
+						$rowsViewport 		= $rows.filter(':inviewport');
+						$rowsOutViewport	= $rows.not( $rowsViewport )
+						
+					},
+					// get window sizes
+					getWinSize		= function() {
+					
+						winSize.width	= $win.width();
+						winSize.height	= $win.height();
+					
+					},
+					// initialize some events
+					initEvents		= function() {
+						
+						// navigation menu links.
+						// scroll to the respective section.
+						$links.on( 'click.Scrolling', function( event ) {
+							
+							// scroll to the element that has id = menu's href
+							$('html, body').stop().animate({
+								scrollTop: $( $(this).attr('href') ).offset().top
+							}, scollPageSpeed, scollPageEasing );
+							
+							return false;
+						
+						});
+						
+						$(window).on({
+							// on window resize we need to redefine which rows are initially visible (this ones we will not animate).
+							'resize.Scrolling' : function( event ) {
+								
+								// get the window sizes again
+								getWinSize();
+								// redefine which rows are initially visible (:inviewport)
+								setViewportRows();
+								// remove pointers for every row
+								$rows.find('a.ss-circle').removeClass('ss-circle-deco');
+								// show inviewport rows and respective pointers
+								$rowsViewport.each( function() {
+								
+									$(this).find('div.ss-left')
+										   .css({ left   : '0%' })
+										   .end()
+										   .find('div.ss-right')
+										   .css({ right  : '0%' })
+										   .end()
+										   .find('a.ss-circle')
+										   .addClass('ss-circle-deco');
+								
+								});
+							
+							},
+							// when scrolling the page change the position of each row	
+							'scroll.Scrolling' : function( event ) {
+								
+								// set a timeout to avoid that the 
+								// placeRows function gets called on every scroll trigger
+								if( anim ) return false;
+								anim = true;
+								setTimeout( function() {
+									
+									placeRows();
+									anim = false;
+									
+								}, 10 );
+							
+							}
+						});
+					
+					},
+					// sets the position of the rows (left and right row elements).
+					// Both of these elements will start with -50% for the left/right (not visible)
+					// and this value should be 0% (final position) when the element is on the
+					// center of the window.
+					placeRows		= function() {
+						
+							// how much we scrolled so far
+						var winscroll	= $win.scrollTop(),
+							// the y value for the center of the screen
+							winCenter	= winSize.height / 2 + winscroll;
+						
+						// for every row that is not inviewport
+						$rowsOutViewport.each( function(i) {
+							
+							var $row	= $(this),
+								// the left side element
+								$rowL	= $row.find('div.ss-left'),
+								// the right side element
+								$rowR	= $row.find('div.ss-right'),
+								// top value
+								rowT	= $row.offset().top;
+							
+							// hide the row if it is under the viewport
+							if( rowT > winSize.height + winscroll ) {
+								
+								if( perspective ) {
+								
+									$rowL.css({
+										'-webkit-transform'	: 'translate3d(-75%, 0, 0) rotateY(-90deg) translate3d(-75%, 0, 0)',
+										'opacity'			: 0
+									});
+									$rowR.css({
+										'-webkit-transform'	: 'translate3d(75%, 0, 0) rotateY(90deg) translate3d(75%, 0, 0)',
+										'opacity'			: 0
+									});
+								
+								}
+								else {
+								
+									$rowL.css({ left 		: '-50%' });
+									$rowR.css({ right 		: '-50%' });
+								
+								}
+								
+							}
+							// if not, the row should become visible (0% of left/right) as it gets closer to the center of the screen.
+							else {
+									
+									// row's height
+								var rowH	= $row.height(),
+									// the value on each scrolling step will be proporcional to the distance from the center of the screen to its height
+									factor 	= ( ( ( rowT + rowH / 2 ) - winCenter ) / ( winSize.height / 2 + rowH / 2 ) ),
+									// value for the left / right of each side of the row.
+									// 0% is the limit
+									val		= Math.max( factor * 50, 0 );
+									
+								if( val <= 0 ) {
+								
+									// when 0% is reached show the pointer for that row
+									if( !$row.data('pointer') ) {
+									
+										$row.data( 'pointer', true );
+										$row.find('.ss-circle').addClass('ss-circle-deco');
+									
+									}
+								
+								}
+								else {
+									
+									// the pointer should not be shown
+									if( $row.data('pointer') ) {
+										
+										$row.data( 'pointer', false );
+										$row.find('.ss-circle').removeClass('ss-circle-deco');
+									
+									}
+									
+								}
+								
+								// set calculated values
+								if( perspective ) {
+									
+									var	t		= Math.max( factor * 75, 0 ),
+										r		= Math.max( factor * 90, 0 ),
+										o		= Math.min( Math.abs( factor - 1 ), 1 );
+									
+									$rowL.css({
+										'-webkit-transform'	: 'translate3d(-' + t + '%, 0, 0) rotateY(-' + r + 'deg) translate3d(-' + t + '%, 0, 0)',
+										'opacity'			: o
+									});
+									$rowR.css({
+										'-webkit-transform'	: 'translate3d(' + t + '%, 0, 0) rotateY(' + r + 'deg) translate3d(' + t + '%, 0, 0)',
+										'opacity'			: o
+									});
+								
+								}
+								else {
+									
+									$rowL.css({ left 	: - val + '%' });
+									$rowR.css({ right 	: - val + '%' });
+									
+								}
+								
+							}	
+						
+						});
+					
+					};
+				
+				return { init : init };
+			
+			})();
+			
+			$sidescroll.init();
+			setTimeout(function(){$(window).resize()}, 2000);
+			
+		});
+		</script>
+        
+    <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="423067336b9e8ca08d7721db-|49" defer></script></body>
+    <br />
+<div class="pie" align="center">
+    <table width="1035px" border="0" cellspacing="0" cellpadding="0" align="center" height="40" style="margin: 0px 3em auto;">
+          <tr>
+            <td width="33%" align="left"><a href="index.php" style="color:#333333; font-size:10px">© 2013 Comisión Técnica Mixta de Salto Grande</a></td>
+            <td width="33%" align="center" style="font-size:10px"></td>
+            <td width="34%" align="right"><a href="http://www.pleka.com" target="_blank"><img src="images/pleka.png" title="Pleka"></a></td>
+        </tr>
+    </table>
+</div>
+
+<script type="423067336b9e8ca08d7721db-text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55468310-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</html>

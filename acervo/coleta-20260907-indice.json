@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-07",
+  "scope": "Perfis vinculados ao arquivo RootsMagic fornecido, acrescidos dos perfis já consultados pelo memorial. Não equivale a toda a árvore colaborativa do FamilySearch.",
+  "scopeProfiles": 145,
+  "inventoriedProfiles": 145,
+  "occurrences": 1038,
+  "uniqueRecords": 1013,
+  "matchedArchive": 15,
+  "missingArchive": 998,
+  "profiles": [
+    {
+      "id": "KCW6-NJD",
+      "name": "Oscar Salgado Mendez",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/KCW6-NJD",
+      "count": 11
+    },
+    {
+      "id": "2Z3L-TH5",
+      "name": "Alidia Eugenia Guicheney Munoa",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/2Z3L-TH5",
+      "count": 11
+    },
+    {
+      "id": "L4MM-63J",
+      "name": "Arturo Salgado Marquez",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/L4MM-63J",
+      "count": 54
+    },
+    {
+      "id": "L4MN-22P",
+      "name": "Bernardina Acevedes Mendez De Arruda Oliveira",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/L4MN-22P",
+      "count": 54
+    },
+    {
+      "id": "K198-GXK",
+      "name": "Carolina Bernardina Oliveira  Porbigas",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/K198-GXK",
+      "count": 60
+    },
+    {
+      "id": "LZ6B-NSS",
+      "name": "Antonio Joaquìn De Olivera Portugal",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/LZ6B-NSS",
+      "count": 24
+    },
+    {
+      "id": "LZ6B-NSJ",
+      "name": "Bernardina Leonarda Germán",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/LZ6B-NSJ",
+      "count": 24
+    },
+    {
+      "id": "ML7Z-8WQ",
+      "name": "Victor Juan Guicheney Lopes",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/ML7Z-8WQ",
+      "count": 19
+    },
+    {
+      "id": "ML7Z-8WR",
+      "name": "Antonia Ignacia Munoa",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/ML7Z-8WR",
+      "count": 19
+    }
+  ],
+  "note": "Coleta de 7 de setembro de 2026: as citações e seus vínculos foram preservados. A obtenção e a conferência das imagens continuam pendentes. Uma referência ainda não comparada ao acervo não significa que o documento esteja ausente. Há cópias locais sem URL de origem, que exigem identificação manual.",
+  "file": "/acervo/coleta-20260907-indice.json",
+  "ancestry": {
+    "treeId": "187028886",
+    "profiles": 19,
+    "linkedRecordUrls": [
+      "https://www.ancestry.com/search/collections/9800/records/5000942",
+      "https://www.ancestry.com/search/collections/9800/records/5000973",
+      "https://www.ancestry.com/search/collections/9800/records/5001001"
+    ],
+    "scope": "Componente de parentescos percorrido a partir de Antonia na árvore Jerônimo Barbosa Family Tree. A lista geral não carregou; não permite excluir pessoas isoladas."
+  }
+}

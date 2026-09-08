@@ -1,0 +1,277 @@
+{
+  "version": "1.0",
+  "date": "2026-09-07",
+  "scope": "Contexto coletivo de migração; sem atribuição de motivos individuais aos Guicheney.",
+  "sources": [
+    {
+      "id": "CTX-MIG-V13",
+      "author": "Márcia Solange Volkmer",
+      "year": 2013,
+      "title": "Compatriotas franceses ocupam a fronteira: imigração e comércio na Fronteira Oeste do Rio Grande do Sul (segunda metade do século XIX)",
+      "publication": "Tese de doutorado em História, Universidade Federal do Rio Grande do Sul",
+      "pages": 282,
+      "url": "https://hdl.handle.net/10183/81373",
+      "fileUrl": "https://lume.ufrgs.br/bitstream/10183/81373/1/000903317.pdf",
+      "localFile": "volkmer_2013.pdf",
+      "readPages": [
+        "10–17",
+        "39–56",
+        "60–61",
+        "95–98",
+        "100",
+        "102–105",
+        "115",
+        "117",
+        "119–127",
+        "129",
+        "162",
+        "171–179",
+        "181"
+      ],
+      "nature": "Pesquisa histórica acadêmica com documentação paroquial, civil, judicial, administrativa e consular; algumas explicações gerais são apoiadas em outros autores.",
+      "limits": [
+        "Corpus local selecionado, não censo dos franceses ou europeus do Rio Grande do Sul.",
+        "Conhecimento da origem francesa só para 36 de 264 franceses; não generalizar a distribuição a todos.",
+        "Gráficos de nacionalidade têm totais diferentes dos totais narrados; não produzir percentuais de composição sem conciliação.",
+        "Primeiro registro encontrado não equivale à data da chegada.",
+        "A enumeração citada na p. 124 parece incluir Salto em Entre Ríos; a p. 120 distingue corretamente Salto (Banda Oriental) e Concordia (Entre Ríos)."
+      ]
+    },
+    {
+      "id": "CTX-MIG-O06",
+      "author": "Hernán Otero",
+      "year": 2006,
+      "title": "Las políticas de emigración en Francia, 1850–1950",
+      "publication": "Estudios Migratorios Latinoamericanos, ano 20, n. 61, pp. 489–516",
+      "url": "https://www.revistaemla.com/index.php/eml/article/view/156",
+      "fileUrl": "https://www.revistaemla.com/index.php/eml/article/download/156/156/306",
+      "repositoryUrl": "https://hdl.handle.net/11336/130015",
+      "localFile": "otero_2006_politicas_francia.pdf",
+      "readPages": [
+        "489–503",
+        "512–516"
+      ],
+      "nature": "Artigo acadêmico: legislação, práticas administrativas, estatística e rede consular.",
+      "limits": [
+        "O artigo analisa1850–1950; recorte narrativo usado aqui é o século XIX.",
+        "Distinguir franceses de outros europeus embarcados em portos franceses.",
+        "Norma, prática local e efeito efetivo não são a mesma coisa.",
+        "Proibição de emigrar para Brasil/Venezuela em 1875 é referida pelo autor(p. 502); não atribuir impacto numa viagem anterior nem supor fiscalização total."
+      ],
+      "access": "PDF aberto baixado da revista. Repositório CONICET não respondeu ao download nesta rodada."
+    },
+    {
+      "id": "CTX-MIG-G17",
+      "author": "Manuela Garau",
+      "year": 2017,
+      "title": "Emigranti francesi in Uruguay negli anni1835 e 1837–1838 attraverso le fonti del Consolato di Francia a Montevideo custodite all’Archivo General de la Nación",
+      "publication": "Ammentu, n. 10, pp. 23–40",
+      "url": "https://www.centrostudisea.it/index.php/ammentu/article/view/253",
+      "fileUrl": "https://www.centrostudisea.it/index.php/ammentu/article/download/253/259",
+      "localFile": "garau_2017_franceses_uruguay.pdf",
+      "readPages": [
+        "23–28"
+      ],
+      "nature": "Artigo acadêmico com análise e transcrição de dois registros consulares do AGN uruguaio.",
+      "archiveLocators": [
+        "AGNU/MRE, Listados de pasajeros provenientes de Italia y Francia, MFN 339: matrícula francesa de 4 mai. 1835.",
+        "AGNU/MRE, mesma série, MFN 328: matrículas de 10 mai. 1837 a 29 jan. 1838."
+      ],
+      "limits": [
+        "Matrícula consular não é lista completa de chegadas nem censo da população francesa.",
+        "N=161 no primeiro registro e N=237 no segundo, quase exclusivamente homens.",
+        "A tabela combinada 5 informa208 artesãos; tabelas1 e 3 informam86+123=209. Não usar a agregação combinada sem revisão.",
+        "O parágrafo abaixo da tabela 1 traz percentuais incompatíveis com a tabela 2 para algumas profissões. Dataset usa contagens das tabelas1 e 3.",
+        "A nota 14 apresenta erro de palavra(cognomi repetido); a nota 12 é inequívoca ao descrever prenomes castelhanizados."
+      ]
+    },
+    {
+      "id": "CTX-MIG-M07",
+      "author": "Claude Mehats",
+      "year": 2007,
+      "title": "L’émigration des Basques de France en Argentine et en Uruguay au XIXe siècle",
+      "publication": "Actes des congrès nationaux des sociétés historiques et scientifiques,126-12, CTHS, pp. 74–85",
+      "url": "https://www.persee.fr/doc/acths_1764-7355_2007_act_126_4_1132",
+      "localFiles": [
+        "mehats_2007_persee.html",
+        "mehats_p75.html",
+        "mehats_p76.html",
+        "mehats_p77.html",
+        "mehats_p78.html",
+        "mehats_p79.html",
+        "mehats_p80.html"
+      ],
+      "readPages": [
+        "74–80"
+      ],
+      "nature": "Comunicação acadêmica publicada pelo CTHS, apoiada em bibliografia e exemplos documentais.",
+      "limits": [
+        "PDF direto recusou acesso 403; foram lidas e preservadas páginas HTML74–80. Não afirmar leitura integral74–85.",
+        "Usar para diversidade das explicações, portos e redes; não generalizar valores e destinos.",
+        "Há erros materiais em passagens históricas: p. 77 chama Oribe de presidente argentino; a duração de 36anos indicada para1829–1872 é incongruente. Não reproduzir.",
+        "Narrativas antigas de espírito aventureiro, atavismo ou características de sangue são objetos de crítica, não explicações adotadas.",
+        "Bascos e bearneses são populações distintas; ambos podem aparecer no mesmo departamento histórico."
+      ]
+    },
+    {
+      "id": "CTX-MIG-S22",
+      "author": "Blanca Sánchez-Alonso",
+      "year": 2022,
+      "title": "La política de inmigración argentina en la era de las migraciones masivas (1876–1932)",
+      "publication": "Historia y Política,47, pp. 195–224",
+      "doi": "10.18042/hp. 47.07",
+      "url": "https://doi.org/10.18042/hp.47.07",
+      "fileUrl": "https://recyt.fecyt.es/index.php/Hyp/article/download/77078/68878/336581",
+      "htmlUrl": "https://revistas.ucm.es/index.php/HPOL/es/article/download/84163/4564456561517",
+      "localFile": "sanchez_alonso_2022.pdf",
+      "localHtml": "sanchez_alonso_politica_argentina.html",
+      "readPages": [
+        "195–203"
+      ],
+      "nature": "Artigo acadêmico sobre política migratória argentina, seus interesses e contradições.",
+      "limits": [
+        "Não aplicar subsídio nacional de 1887–1891 a chegadas da década de 1860.",
+        "Projetos de colonização provinciais anteriores são diferentes do programa nacional tardio.",
+        "O texto tem aparente lapso ao atribuir o encerramento de maio1891 à administração Juárez Celman(p. 201); aqui usa-se o período do programa sem repetir a atribuição presidencial."
+      ]
+    },
+    {
+      "id": "CTX-MIG-V11",
+      "author": "Márcia Solange Volkmer",
+      "year": 2011,
+      "title": "“Pela fronteira é incalculável o movimento”: Imigrantes Europeus nas Vilas do Oeste do Rio Grande do Sul na segunda metade do século XIX",
+      "publication": "Anais do XXVI Simpósio Nacional de História, ANPUH, São Paulo, julho 2011",
+      "url": "https://www.snh2011.anpuh.org/resources/anais/14/1300796425_ARQUIVO_MarciaVolkmerANPUH2011.pdf",
+      "localFile": "volkmer_2011_circulacao.pdf",
+      "readPages": [
+        "1–8"
+      ],
+      "nature": "Comunicação acadêmica preliminar da pesquisa que resultou na tese 2013.",
+      "limits": [
+        "Não é confirmação independente da tese, e suas contagens preliminares variam em relação a 2013.",
+        "Recorte no primeiro distrito das três vilas e arredores; não todos os habitantes dos municípios.",
+        "A frase de 1860 sobre movimento incalculável indica ausência de contagem, não fornece um número.",
+        "Casos de circulação não provam que cada Guicheney tenha viajado nem quantas vezes."
+      ]
+    },
+    {
+      "id": "CTX-MIG-M09",
+      "author": "Claude Mehats",
+      "year": 2009,
+      "title": "Samuel Lafone détonateur britannique de l’émigration basque en Amérique à l’époque contemporaine",
+      "publication": "Euskonews, n. 504,16–23 out. 2009, Eusko Ikaskuntza",
+      "url": "https://www.euskonews.eus/zbk/504/samuel-lafone-detonateur-britannique-de-l-8217emigration-basque-en-amerique-a-l-8217epoque-contemporaine/ar-0504001004F/",
+      "localFile": "mehats_2009_lafone.html",
+      "readSections": [
+        "Texto inteiro; foco em Migration, politique gouvernementale et administration e notas 7–12."
+      ],
+      "nature": "Divulgação histórica assinada por pesquisador; cita expedientes e jornais. Complementar, não classificada como artigo arbitrado.",
+      "archiveLocators": [
+        "AGN Montevideo, Escribanía de Gobierno y Hacienda, Caja 170(1834), expediente239: Don Samuel Lafone por introducción de colonos.",
+        "AGN Montevideo, mesma série, Caja 183(1837), expediente67; também referido67/837."
+      ],
+      "license": "CC BY-NC-SA 3.0 Espanha, conforme rodapé",
+      "limits": [
+        "Os contratos originais não foram vistos nesta rodada; datas/condições são informadas pelo estudo.",
+        "Texto apresenta lapsos de nomes/datas políticos e valores divergentes entre modalidades; usar só estrutura dos contratos e cláusula de reembolso, sem totalizar pagamentos.",
+        "Não associar Guicheney a esses contratos."
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "CTX-C01",
+      "paragraph": 1,
+      "claim": "Rede fluvial platina, duas margens e necessidade de transbordos.",
+      "refs": [
+        "CTX-MIG-V13"
+      ],
+      "locator": "pp. 115,120–125,129",
+      "limit": "Conexão regional, não trajeto individual ou navegação contínua."
+    },
+    {
+      "id": "CTX-C02",
+      "paragraph": 2,
+      "claim": "Portos do sudoeste francês e pluralidade de origens e causas.",
+      "refs": [
+        "CTX-MIG-M07",
+        "CTX-MIG-O06"
+      ],
+      "locator": "Mehats, pp. 75–77; Otero, pp. 490,499–501",
+      "limit": "Não equiparar todos os franceses a bascos; não inferir causas do nome ou lugar."
+    },
+    {
+      "id": "CTX-C03",
+      "paragraph": 3,
+      "claim": "Legislação francesa1855–60: proteção/controle e interesses portuários; atitudes ambivalentes.",
+      "refs": [
+        "CTX-MIG-O06"
+      ],
+      "locator": "pp. 491–503,514–515",
+      "limit": "Regulação não é patrocínio geral de emigração; distinguir viajantes franceses e europeus em trânsito."
+    },
+    {
+      "id": "CTX-C04",
+      "paragraph": 4,
+      "claim": "Contratos uruguaios de recrutamento em 1834/1837 e reembolso previsto em uma modalidade.",
+      "refs": [
+        "CTX-MIG-M09"
+      ],
+      "locator": "Seção governo/administração, notas 7–12",
+      "limit": "Fonte secundária com localizadores; não demonstrado para a família."
+    },
+    {
+      "id": "CTX-C05",
+      "paragraph": 5,
+      "claim": "Argentina: Constituição1853, lei1876 e subsídios1887–1891.",
+      "refs": [
+        "CTX-MIG-S22"
+      ],
+      "locator": "pp. 199–202",
+      "limit": "Programa tardio não pode causar chegada anterior; não confundir com contratos provinciais."
+    },
+    {
+      "id": "CTX-C06",
+      "paragraph": 6,
+      "claim": "Alcance limitado da colonização agrícola na fronteira e diversidade entre vilas/nacionalidades.",
+      "refs": [
+        "CTX-MIG-V13",
+        "CTX-MIG-V11"
+      ],
+      "locator": "V13, pp. 46–54,104–105; V11, pp. 2–5,7–8",
+      "limit": "Recorte local e temporal; sem estereótipos ocupacionais nacionais."
+    },
+    {
+      "id": "CTX-C07",
+      "paragraph": 7,
+      "claim": "Matrícula francesa de 1835 em Montevidéu: diversidade de ofícios e prenomes castelhanizados.",
+      "refs": [
+        "CTX-MIG-G17"
+      ],
+      "locator": "pp. 25–26,nota 12",
+      "limit": "161 matriculados homens; população consular selecionada, não censo nem prova de identidade Pierre/Pedro."
+    },
+    {
+      "id": "CTX-C08",
+      "paragraph": 8,
+      "claim": "Registros de eventos e negócios mostram circulação entre vilas e formação de redes.",
+      "refs": [
+        "CTX-MIG-V11",
+        "CTX-MIG-V13"
+      ],
+      "locator": "V11, pp. 1,5–8; V13, pp. 178–181",
+      "limit": "Não medir frequência individual nem atribuir motivos/rotas aos Guicheney."
+    },
+    {
+      "id": "CTX-C09",
+      "claim": "Concessão gratuita de terras mediante cultivo e permanência por três anos em Ijuí-Grande, sem auxílio público de transporte, proposta em 1861; lotes ainda desocupados em 1862. Objetivos de agricultura e consolidação territorial não explicam individualmente a vinda dos Guicheney.",
+      "refs": [
+        "CTX-MIG-V13"
+      ],
+      "locator": "pp. 46–54, especialmente p. 52, notas 99–100, e p. 53; interpretação regional pp. 104–105.",
+      "editorialFile": "complemento_incentivos_brasileiros.md",
+      "limit": "Condições específicas da Colônia de Ijuí-Grande, então município de São Borja; não aplicar a Uruguaiana nem a todos os imigrantes. Fontes administrativas lidas pela transcrição/citação da tese, não no original.",
+      "paragraph": 6
+    }
+  ]
+}

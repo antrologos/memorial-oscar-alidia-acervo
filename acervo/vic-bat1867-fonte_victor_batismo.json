@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "researched_at": "2026-09-07",
+  "source_id": "VICTOR-BAT-1867-348",
+  "title": "Batismo de Victor João, fortemente compatível com Víctor Juan Guicheney",
+  "source_class": "original_manuscrito_reproduzido",
+  "archive": "Arquivo Diocesano de Uruguaiana",
+  "creator": "Igreja Católica. Senhora Santana (Uruguaiana, Rio Grande do Sul)",
+  "book": "Livro 6",
+  "book_identification_evidence": "Cabeçalho Livro 6º na folha de abertura, termo de 13 de março de 1867",
+  "book_opening_ark": "https://www.familysearch.org/ark:/61903/3:1:939N-YQ9W-TG",
+  "catalog_url": "https://www.familysearch.org/pt/search/catalog/koha:365688",
+  "catalog_title": "Registros paroquiais, 1833-1928",
+  "catalog_film_note": "Batismos 1864-1877, 1883",
+  "film": "1284869",
+  "catalog_film_items": "1-2",
+  "dgs": "004005637",
+  "item": 2,
+  "act": "348",
+  "page_folio": null,
+  "page_folio_note": "Ato à esquerda sem numeração segura; no alto da página direita parece haver 34. Não atribuir esse número ao ato.",
+  "image": {
+    "ark": "https://www.familysearch.org/ark:/61903/3:1:939N-Y7PG",
+    "viewer_url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y7PG?view=explore&lang=pt&groupId=M9SM-YGT",
+    "number": 41,
+    "number_scope": "item_2",
+    "viewer_total": 352,
+    "automatic_citation_total": 351,
+    "number_discrepancy_note": "Contador confirmado em modo Ver somente o item 2. Citação automática diverge no total; ARK identifica a imagem.",
+    "old_navigation_title": "Batismos 1866, Nov-1877, Fev",
+    "new_viewer_title": "Uruguaiana. Batismos novembro de 1866–janeiro de 1867",
+    "title_discrepancy_note": "Novo intervalo não comporta o ato de outubro de 1867, visualmente legível. Não é usado para datar o manuscrito. Extremos do livro não auditados integralmente.",
+    "local_file": "victor_batismo_1867_dgs4005637_item2_img41.jpg",
+    "download_file": "C:/Users/antro/Downloads/image (16).jpg",
+    "width": 5548,
+    "height": 4128,
+    "bytes": 704506,
+    "sha256": "aa5e60fc8a32790f9be2f7bbaf5aa41e6b61d4650ac6bd7e200f9b7fb9237650",
+    "preservation": "JPG baixado no botão oficial do FamilySearch, cópia integral sem edição; inclui margem e página oposta"
+  },
+  "transcription_pdf": {
+    "local_file": "victor_batismo_1867_imagem_ocr_citacao_familysearch.pdf",
+    "contents": ["imagem sem destaques", "transcrição automática", "menção bibliográfica"],
+    "validated_transcription": false
+  },
+  "body": {
+    "baptism_date": "1867-10-05",
+    "baptism_place": "Matriz de Santa Anna de Uruguaiana, Rio Grande do Sul, Brasil",
+    "child_literal": "Victor João",
+    "birth_date_stated": "1866-04-11",
+    "birth_place_explicit": null,
+    "mother_readings": ["Deonicia López", "Dionicia López"],
+    "mother_name_reading_status": "prenome_com_variante_paleografica_incerta",
+    "mother_residence_literal": "moradora d’esta Parochia",
+    "filiation_status_literal": "filho natural",
+    "father_named_in_body": false,
+    "godparents_provisional_readings": ["André [Souzano?]", "Jacoba [Benites?]"],
+    "godparents_ready_for_genealogy": false,
+    "signature_reading": "Vigário Antonio Tavares Dornellas"
+  },
+  "marginal_note": {
+    "safe_content": "Victor João; filho natural de Pedro [sobrenome incerto], com Dionisia Lopes",
+    "father_surname_candidates": ["Bichenê?", "Guichenê?"],
+    "father_surname_exact_reading": null,
+    "author": null,
+    "date": null,
+    "last_lines": "Não transcritas: leitura insegura",
+    "formal_paternity_recognition_proven": false,
+    "note": "Anotação distinta do corpo, acrescentando filiação paterna; não se leu fórmula explícita de reconhecimento nem data segura. Não atribuir data de 1867 à anotação."
+  },
+  "identification": {
+    "candidate_person": "Víctor Juan Guicheney",
+    "judgment": "fortemente_compativel",
+    "supports": [
+      "Victor João corresponde aos prenomes Victor Juan",
+      "nome de Dionísia López concordante com os documentos posteriores",
+      "Pedro aparece na anotação marginal",
+      "paróquia de Uruguaiana concorda com a cidade de nascimento declarada em 1888",
+      "11 de abril concorda com o dia e mês declarados em 1888"
+    ],
+    "conflicts": [
+      "Batismo declara nascimento em 1866; casamento de 1888 declara 1865",
+      "Sobrenome paterno marginal não está inteiramente legível"
+    ],
+    "corroboration": "Idade de 46 anos em 3 de junho de 1912 é compatível com nascimento em 11 de abril de 1866; não elimina divergência de 1888",
+    "independent_visual_review": "Dois agentes conferiram o ato, as datas, o nome da criança e a maternidade; ambos mantiveram a margem sem data/autoria seguras"
+  },
+  "prior_comparison_sources": [
+    {
+      "id": "SALTO1888",
+      "url": "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2W-G9ZX-C",
+      "date": "1888-12-15",
+      "act": "86",
+      "birth_stated": "1865-04-11",
+      "basis_this_round": "Auditoria anterior do projeto, não releitura integral"
+    },
+    {
+      "id": "D08",
+      "url": "https://www.familysearch.org/ark:/61903/3:1:3QHV-V38K-MS3G-T",
+      "date": "1912-06-03",
+      "act": "88",
+      "age_stated": 46,
+      "basis_this_round": "Auditoria anterior do projeto, não releitura integral"
+    }
+  ],
+  "not_established": [
+    "Pais, idade ou local de nascimento de Pedro",
+    "Pais, idade ou local de nascimento de Dionísia",
+    "Nacionalidades dos pais neste assento",
+    "Casamento entre Pedro e Dionísia",
+    "Reconhecimento formal de paternidade, autor ou data da anotação",
+    "Identidade com Pedro viúvo de Amélia do óbito candidato de 1897",
+    "Parentesco com Agostinha ou com o ramo dos banqueiros"
+  ],
+  "search_coverage": [
+    {
+      "dgs": "004005637",
+      "item": 1,
+      "image_numbers": "48-113, inclusive, mais controles anteriores pontuais",
+      "method": "Triagem por transcrição automática; leitura visual apenas de controles",
+      "result": "Nenhum assento suficientemente compatível encontrado nessa triagem",
+      "limitation": "Não equivale a leitura paleográfica exaustiva; OCR falho, intercalações e ordem cronológica irregular"
+    },
+    {
+      "dgs": "004005637",
+      "item": 2,
+      "image_numbers": "3-47, inclusive",
+      "method": "Triagem por transcrição automática seguida de leitura visual da imagem 41 e da abertura",
+      "result": "Ato 348 encontrado na imagem 41; pesquisa interrompida para consolidá-lo"
+    }
+  ],
+  "access_limits": [
+    {
+      "target": "Matrimônios 1860, Set-1874, Maio",
+      "ark": "https://www.familysearch.org/ark:/61903/3:1:939N-Y7CC-Z",
+      "message": "Imagem com restrição. Esta imagem não está disponível para visualização on-line neste momento.",
+      "content_examined": false
+    },
+    {
+      "target": "Batismos 1864, Abr-1891, Fev",
+      "ark": "https://www.familysearch.org/ark:/61903/3:1:939N-YQ9S-X3",
+      "message": "Imagem com restrição. Esta imagem não está disponível para visualização on-line neste momento.",
+      "content_examined": false
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+Browser tab: 80, Title: "Joaquin Mendes, “Casamentos no Uruguai, 1840-1900”", URL: "https://www.familysearch.org/ark:/61903/1:1:FLMC-WPV?lang=pt".
+1 AXWebArea Joaquin Mendes, “Casamentos no Uruguai, 1840-1900”, URL: familysearch.org/ark:/61903/1:1:FLMC-WPV?lang=pt
+	2 container
+		3 container root
+			4 container app-content-scroller
+				5 link Description: IR PARA O CONTEÚDO PRINCIPAL, Value: familysearch.org/ark:/61903/1:1:FLMC-WPV?lang=pt#main
+				6 container
+					7 link Description: FamilySearch — Página Inicial, Value: familysearch.org/pt/home/portal/
+					8 container Principal
+						9 pop up button (collapsed) Árvore Familiar, Secondary Actions: Expand
+						10 pop up button (collapsed) Pesquisa, Secondary Actions: Expand
+						11 pop up button (collapsed) Recordações, Secondary Actions: Expand
+						12 pop up button (collapsed) Participe, Secondary Actions: Expand
+						13 pop up button (collapsed) Atividades, Secondary Actions: Expand
+					14 link Description: Localizações, Value: familysearch.org/pt/locations/about
+					15 button Escolha o idioma
+					16 button Ajuda
+					17 button Chat
+					18 link Description: Novas notificações disponíveis, Value: familysearch.org/pt/notifications/
+					19 pop up button (collapsed) Conta: Rogério J Barbosa, Secondary Actions: Expand
+						20 container Conta: Rogério J Barbosa
+				21 container Description: Conteúdo principal, ID: main
+					22 heading Joaquin Mendes, Value: 1
+						23 text Joaquin Mendes
+					24 heading Vital • Casamentos no Uruguai, 1840-1900, Value: 2
+						25 text Vital • Casamentos no Uruguai, 1840-1900
+					26 pop up button (collapsed) SALVAR, Secondary Actions: Expand
+					27 button (disabled) ALTERAR
+					28 pop up button (collapsed) COMPARTILHAR, Secondary Actions: Expand
+					29 container
+						30 table Detalhes da pessoa Joaquin Mendes
+							31 text Detalhes da pessoa Joaquin Mendes
+							32 row
+								33 cell
+									34 text Nome
+								35 cell
+									36 text Joaquin Mendes
+							37 row
+								38 cell
+									39 text Sexo
+								40 cell
+									41 text Male
+							42 row
+								43 cell
+									44 text Nome do cônjuge
+								45 cell
+									46 link Description: Carolina Ysabel Olivera, Value: familysearch.org/ark:/61903/1:1:FLMC-WPJ?lang=pt
+							47 row
+								48 cell
+									49 text Sexo do cônjuge
+								50 cell
+									51 text Female
+							52 row
+								53 cell
+									54 text Tipo de evento
+								55 cell
+									56 text Marriage
+							57 row
+								58 cell
+									59 text Data do evento
+								60 cell
+									61 text 4 Nov 1868
+							62 row
+								63 cell
+									64 text Local do evento
+								65 cell
+									66 text Salto, Salto, Uruguay
+							67 row
+								68 cell
+									69 text Local do evento (original)
+								70 cell
+									71 text Nuestra Senora del Carmen, Salto, Salto, Uruguay
+						72 container additionalPersons
+							73 heading Cônjuges e filhos de Joaquin Mendes, Value: 3
+								74 text Cônjuges e filhos de Joaquin Mendes
+							75 button ABRIR TODOS
+								76 text ABRIR TODOS
+							77 table
+								78 row
+									79 cell
+										80 link Description: Carolina Ysabel Olivera, Value: familysearch.org/ark:/61903/1:1:FLMC-WPJ?lang=pt
+										81 text Esposa
+									82 cell
+										83 text F
+									84 cell
+										85 button (collapsed) Description: Ampliar essa seção, Secondary Actions: Expand
+					86 container
+						87 text Imagem indisponível
+						88 button (expanded) Description: Ocultar informações do documento, Secondary Actions: Collapse
+							89 heading Informações do documento, Value: 3
+								90 text Informações do documento
+						141 table
+							142 row
+								143 cell
+									144 text Número da pasta digital
+								145 cell
+									146 link Description: 008143325, Value: familysearch.org/pt/search/record/results?q.filmNumber=008143325
+							147 row
+								148 cell
+									149 text Número do filme
+								150 cell
+									151 link Description: 625280, Value: familysearch.org/pt/search/record/results?q.filmNumber=625280
+							152 row
+								153 cell
+									154 text Originating System
+								155 cell
+									156 text ODM
+							157 row
+								158 cell
+									159 text Número do projeto de indexação (lote)
+								160 cell
+									161 link Description: M69708-4, Value: familysearch.org/pt/search/record/results?q.batchNumber=M69708-4
+						91 heading Informação sobre a coleção, Value: 3
+							92 text Informação sobre a coleção
+						93 link Description: Casamentos no Uruguai, 1840-1900, Value: familysearch.org/pt/search/collection/1520619
+						94 link Description: Sobre esta coleção, Value: familysearch.org/pt/wiki/pt/Uruguai,_Casamentos_(Registros_Hist%C3%B3ricos_do_FamilySearch)
+						95 heading Fazer referência ao registro, Value: 3
+							96 text Fazer referência ao registro
+						97 text "Uruguay, matrimonios, 1840-1900", ,  FamilySearch  (https://familysearch.org/ark:/61903/1:1:FLMC-WPV : 10 February 2020), Joaquin Mendes, 1868.
+						98 button Copiar referência
+						99 heading Anexado na árvore familiar, Value: 3
+							100 text Anexado na árvore familiar
+						101 container Joaquin Mendez De Arruda Freitas 1830–1879 · K198-GNL
+							102 link Description: Joaquin Mendez De Arruda Freitas, Value: familysearch.org/pt/tree/person/K198-GNL
+							103 text Masculino
+							104 text 1830–1879
+							105 text •
+							106 button K 1 9 8 G N L, Selecione para copiar.
+						107 link Description: Ver no Anexador de Fontes, Value: familysearch.org/pt/search/linker?ark=%2Fark%3A%2F61903%2F1%3A1%3AFLMC-WPV&id=K198-GNL
+						108 heading Registros semelhantes, Value: 3
+							109 text Registros semelhantes
+						110 content list
+							111 text Não foram encontrados registros semelhantes.
+						112 heading Ainda não encontrou o que estava procurando?, Value: 3
+							113 text Ainda não encontrou o que estava procurando?
+						114 text Tente pesquisar fontes não indexadas.
+						115 link Description: PESQUISAR POR TEXTO COMPLETO, Value: familysearch.org/pt/search/full-text/results?nlQuery=Joaquin+Mendes+1%3A1%3AFLMC-WPV
+				116 container
+					117 container Links no rodapé
+						118 link Description: Sobre, Value: familysearch.org/pt/about/
+						119 link Description: Voluntário, Value: familysearch.org/pt/info/volunteer/
+						120 link Description: Blog, Value: familysearch.org/pt/blog/pt/
+						121 link Description: Encontrar antepassados, Value: ancestors.familysearch.org/pt/
+						122 link Description: DNA, Value: familysearch.org/pt/dna-testing/
+						123 link Description: Entre em Contato Conosco, Value: familysearch.org/pt/fieldops/familysearch-support-contact-us/
+						124 link Description: Mapa do Site, Value: familysearch.org/pt/site-map/
+						125 text |
+						126 button mais links
+					127 container Links jurídicos
+						128 link Description: Suporte de acessibilidade, Value: familysearch.org/pt/about/accessibility-statement/
+						129 container
+							130 link Description: Termos de uso do FamilySearch, Value: familysearch.org/pt/legal/terms
+							131 text  | 
+							132 link Description: Notificação de privacidade, Value: familysearch.org/pt/legal/privacy
+							133 text  | 
+							134 link Description: Mapa do Site, Value: familysearch.org/pt/site-map
+							135 text  | 
+							136 link Description: Opções de país e idioma, Value: familysearch.org/pt/locale
+						137 container
+							138 text © 2026 Intellectual Reserve, Inc. Todos os direitos reservados. Um serviço fornecido por 
+							139 link Description: A Igreja de Jesus Cristo dos Santos dos Últimos Dias, Value: vindeacristo.org/?lang=por
+							140 text .
+
+The focused UI element is 88 button (expanded) Description: Ocultar informações do documento, Secondary Actions: Collapse

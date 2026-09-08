@@ -1,0 +1,235 @@
+{
+  "date": "2026-09-07",
+  "dgs": "004005637",
+  "recordIndexSearches": [
+    {
+      "givenName": null,
+      "surname": "Guich*",
+      "results": 11,
+      "outcome": "Sem Pedro/Víctor reconhecível; grafias de Zacoteguy repassadas à outra frente."
+    },
+    {
+      "givenName": "Victor",
+      "exact": true,
+      "birthYears": [
+        1864,
+        1868
+      ],
+      "results": 2,
+      "outcome": "Victor Pereira da Silva e Victor Lucero; não identificado."
+    },
+    {
+      "givenName": "Vitor",
+      "exact": true,
+      "birthYears": [
+        1864,
+        1868
+      ],
+      "results": 0
+    },
+    {
+      "givenName": "Dionisia",
+      "exact": true,
+      "results": 7,
+      "outcome": "Duas Lopes abertas e conferidas; demais Moreira, Da Silva, Maria, Sima."
+    }
+  ],
+  "pages": [
+    {
+      "globalImage": 35,
+      "item": 1,
+      "itemImage": 35,
+      "url": null,
+      "dateWindow": "dezembro 1864",
+      "method": "orientação: transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 45,
+      "item": 1,
+      "itemImage": 45,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-YQ9W-TN",
+      "dateWindow": "março 1865",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 48,
+      "item": 1,
+      "itemImage": 48,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y79T-J",
+      "dateWindow": "abril 1865: 11–15 abril e atos anteriores fora de ordem",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 49,
+      "item": 1,
+      "itemImage": 49,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y7PP",
+      "dateWindow": "abril 1865: 8–17 abril",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 50,
+      "item": 1,
+      "itemImage": 50,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y79M-B",
+      "dateWindow": "abril 1865: 18–30 abril",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 51,
+      "item": 1,
+      "itemImage": 51,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y796-Y",
+      "dateWindow": "abril/maio 1865; também remissão1864",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 52,
+      "item": 1,
+      "itemImage": 52,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-YQ94-S2",
+      "dateWindow": "maio 1865: 7–21 maio",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 53,
+      "item": 1,
+      "itemImage": 53,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-YQ94-SK",
+      "dateWindow": "maio 1865: 21–28 maio",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 54,
+      "item": 1,
+      "itemImage": 54,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y75T",
+      "dateWindow": "maio/junho 1865 até 4 junho",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 55,
+      "item": 1,
+      "itemImage": 55,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y712",
+      "dateWindow": "junho 1865: 4–5 junho; inserção22 maio",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 56,
+      "item": 1,
+      "itemImage": 56,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-YQ9W-B8",
+      "dateWindow": "junho 1865: 7–15 junho",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 57,
+      "item": 1,
+      "itemImage": 57,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y79V-Q",
+      "dateWindow": "junho 1865: 14–20 junho",
+      "method": "triagem de transcrição automática; Henrique/11 abril diferente nome/mãe",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 58,
+      "item": 1,
+      "itemImage": 58,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y79R-S",
+      "dateWindow": "junho 1865: 21–25 junho",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 59,
+      "item": 1,
+      "itemImage": 59,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y7SH-B",
+      "dateWindow": "24junho1865 →26novembro1865",
+      "method": "transcrição + conferência visual do salto",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 60,
+      "item": 1,
+      "itemImage": 60,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y75P",
+      "dateWindow": "26–27novembro1865",
+      "method": "orientação: transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 129,
+      "item": 2,
+      "itemImage": 12,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y79R-9",
+      "dateWindow": "18–19março1867",
+      "method": "triagem de transcrição automática",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 130,
+      "item": 2,
+      "itemImage": 13,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y79K-W",
+      "dateWindow": "20–27 de março de 1867",
+      "method": "triagem de transcrição automática; sem conferência paleográfica integral",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 131,
+      "item": 2,
+      "itemImage": 14,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y796-9",
+      "dateWindow": "11–29 de abril de 1867",
+      "method": "triagem de transcrição automática; sem conferência paleográfica integral",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    },
+    {
+      "globalImage": 132,
+      "item": 2,
+      "itemImage": 15,
+      "url": "https://www.familysearch.org/ark:/61903/3:1:939N-Y79K-7",
+      "dateWindow": "21–29 de abril até 5 de maio de 1867",
+      "method": "triagem de transcrição automática; sem conferência paleográfica integral",
+      "result": "Não apareceu combinação reconhecível Víctor/Pedro/Dionisia na triagem; não é declaração de ausência no manuscrito."
+    }
+  ],
+  "unresolvedIndexMentions": [
+    {
+      "index": "66Y4-4929",
+      "image": "https://www.familysearch.org/ark:/61903/3:1:939N-YQ9Q-N3",
+      "label": "Guich, pai; indexação evidentemente fragmentada",
+      "readOriginal": false
+    },
+    {
+      "index": "66Y4-NN4B",
+      "image": "https://www.familysearch.org/ark:/61903/3:1:939N-YQ9Q-PX",
+      "label": "Guichena",
+      "readOriginal": false
+    }
+  ],
+  "negativeMeaning": "Triagem textual parcial, não ausência documental. Datas da transcrição automática não validadas integralmente.",
+  "downloads": [
+    {
+      "url": "https://www.genealogie-gironde.org/bulletin/Bull2009/bull95.pdf",
+      "result": "preservado após repetição autorizada do download"
+    },
+    {
+      "url": "https://archives.landes.fr/_recherche-images/download/1319649/image/109701/0?force-inline=1",
+      "result": "HTTP403; não preservado"
+    }
+  ]
+}

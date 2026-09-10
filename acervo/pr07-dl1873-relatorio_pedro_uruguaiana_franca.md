@@ -1,5 +1,7 @@
 # Pedro Guicheney: Uruguaiana e pistas francesas
 
+> Correção documental de 9/9/2026: no registro de Petra, Pedro é declarado falecido no Brasil em 1898 e Dionisia em Salto em 1881. Brasil continua entre linhas (Bra/sil); o numeral ocho foi confirmado pelo usuário. Este texto incorpora a correção sem a contar como nova revisão independente.
+
 Rodada de 7 de setembro de 2026. Pesquisa por documentos que liguem Pedro a Dionísia e a Víctor. Nenhuma alteração na árvore ou no site. Acesso autenticado ao FamilySearch em aba própria, sem modificar registros.
 
 ## Resultado desta rodada
@@ -14,7 +16,7 @@ Na França, uma referência nova situa um contrato de casamento de um Pierre Gui
 |---|---|
 | SALTO1888, casamento de Víctor Juan Guicheney e Luisa Ferreira, 15/12/1888, ato 86 | Víctor declara nascimento em 11/04/1865, Uruguayana, Brasil; nomeia Pedro Guicheney e Dionisia/Dionicia López como pais. Não informa naquele trecho nacionalidade, idade ou estado vital dos pais. |
 | D08, casamento de Víctor e Antonia Muñoa, Concordia, 03/06/1912 | Pedro francês, falecido em Uruguaiana; Dionisia López argentina, falecida em Salto em 1883. |
-| O08/P04, nascimento de Petra, Salto, 1920 | Declaração de Víctor: Pedro francês, falecido no Brasil em 1892; Dionisia brasileira, falecida em Salto em 1881. |
+| O08/P04, nascimento de Petra, Salto, 1920 | Declaração de Víctor: Pedro francês, falecido no Brasil em 1898; Dionisia brasileira, falecida em Salto em 1881. |
 | O09, óbito de Pedro Guichinay, Uruguaiana, 29/07/1897 | Francês, cerca de 70 anos, carpinteiro, viúvo de Amelia, com declaração de ausência de filhos. **Candidato separado**: a identidade com o pai de Víctor não está provada. |
 
 Links dos originais já conhecidos: [SALTO1888](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2W-G9ZX-C?cat=704612&view=explore&lang=pt&groupId=M98P-3VL), [O08/P04](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKV-F3ZL-N), [O09 início](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9L5-3FDX), [O09 continuação](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9L5-3V9P).
@@ -36,7 +38,7 @@ Não foi atribuída ao alvo a idade do homem de 1897; não foi inventado um segu
 | Batismos 1877–1886 | 1284869, item 3 | 004005637 | Batismo tardio/irmãos possíveis |
 | Casamentos 1846–1874, desordenados, com faltas e justificações | 1284872, itens 4–5 | 004005639 | União Pedro–Dionisia; compartilhado com outra frente |
 | Casamentos 1874–1900 | 1284872, itens 6–7 | 004005639 | Uniões posteriores, sem presumi-las |
-| Óbitos 1860–1919 | 1284889, itens 5–6 | 004005652 | Pedro 1892 e outras mortes anteriores ao registro civil acessado |
+| Óbitos 1860–1919 | 1284889, itens 5–6 | 004005652 | Pedro 1898 e confronto com os registros civis, preservando o candidato de 1897 separado |
 
 [Abrir imagens do DGS 004005637](https://www.familysearch.org/pt/search/catalog/film?dgs=004005637&cat=koha:365688&i=0). [Pesquisar seu índice](https://www.familysearch.org/pt/search/record/results?q.filmNumber=4005637). [Busca de texto completo do mesmo DGS](https://www.familysearch.org/pt/search/full-text/results?q.groupName=4005637&openEdit).
 
@@ -108,7 +110,7 @@ Prioridades concretas:
 1. Completar a conferência visual do item 1 do DGS 004005637 após imagem 59 e testar batismo tardio nos itens seguintes. Guardar os ARKs e números globais, porque números por item se repetem.
 2. Abrir DGS 004005636, itens 2 e 4, **justificações/desordem cronológica**, antes de declarar que o batismo de Víctor não existe no acervo. Não pesquisados integralmente nesta rodada.
 3. Casamento Pedro–Dionisia: DGS 004005639, itens 4–5, 1846–1874. A outra frente foi informada para evitar duplicação.
-4. Óbito de Pedro: livro paroquial DGS 004005652, itens 5–6, recorte de 1892 e adjacências; no civil, o DGS 004101654 tem vários itens. Não usar o item 6, que começa em novembro de 1896, para excluir 1892.
+4. Óbito de Pedro: livro paroquial DGS 004005652, itens 5–6, recorte de 1898 e adjacências; no civil, o DGS 004101654 tem vários itens. O item 6 citado em O09 cobre novembro de 1896 a outubro de 1897 e não alcança 1898; conferir a cobertura do item seguinte. Não confundir a declaração de 1898 no registro de Petra com o óbito candidato de 1897.
 5. Para a origem francesa, obter um documento que informe comuna ou pais antes de fundir qualquer Pierre. O contrato Lucou de 1855 é um alvo francês preciso, mas de um casal diferente e de prioridade secundária.
 
 O índice de Dionisia López em Salto em 1883, localizado pela tarefa principal, pertence à frente paralela; não foi relido aqui e não foi incorporado como prova da mãe de Víctor. Os metadados que chegaram da leitura do óbito ainda exigem a mesma prudência: sem Pedro ou Víctor nomeados, coincidência de nome e ano continua sendo pista.
@@ -118,3 +120,6 @@ O índice de Dionisia López em Salto em 1883, localizado pela tarefa principal,
 O primeiro download de PDFs foi recusado pela conexão restrita. A repetição autorizada preservou o boletim AGB; o pedido ao AD40 retornou HTTP 403. Não houve tentativa de contornar login, cobrança ou restrição documental. As imagens FamilySearch foram baixadas pelo botão do visualizador e mantidas intactas; os recortes servem somente à leitura. Nenhum registro externo foi corrigido ou anexado à árvore.
 
 Os novos arquivos e hashes estão em `fontes_metadata.json`; a lista das páginas efetivamente triadas está em `log_paginas.json`. As conclusões distinguem imagem original, índice, transcrição automática, referência secundária e memória/documentos de descendentes.
+
+
+Atualização editorial de 9/9/2026: nova revisão independente aceita confirmou Brasil/1898 para a declaração retrospectiva sobre Pedro, Dionisia/1881 e nascimento de Petra às 17h35. O histórico das leituras permanece privado. A identidade com o candidato falecido em 1897 continua aberta.

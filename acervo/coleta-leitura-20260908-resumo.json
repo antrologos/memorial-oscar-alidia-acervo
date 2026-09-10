@@ -1,0 +1,168 @@
+{
+  "date": "2026-09-10",
+  "scope": "Perfis vinculados ao arquivo RootsMagic fornecido, acrescidos dos perfis já consultados pelo memorial. Não equivale a toda a árvore colaborativa do FamilySearch.",
+  "scopeProfiles": 145,
+  "inventoriedProfiles": 145,
+  "occurrences": 1038,
+  "uniqueRecords": 1013,
+  "profiles": [
+    {
+      "id": "KCW6-NJD",
+      "name": "Oscar Salgado Mendez",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/KCW6-NJD",
+      "count": 11
+    },
+    {
+      "id": "2Z3L-TH5",
+      "name": "Alidia Eugenia Guicheney Munoa",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/2Z3L-TH5",
+      "count": 11
+    },
+    {
+      "id": "L4MM-63J",
+      "name": "Arturo Salgado Marquez",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/L4MM-63J",
+      "count": 54
+    },
+    {
+      "id": "L4MN-22P",
+      "name": "Bernardina Acevedes Mendez De Arruda Oliveira",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/L4MN-22P",
+      "count": 54
+    },
+    {
+      "id": "K198-GXK",
+      "name": "Carolina Bernardina Oliveira  Porbigas",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/K198-GXK",
+      "count": 60
+    },
+    {
+      "id": "LZ6B-NSS",
+      "name": "Antonio Joaquìn De Olivera Portugal",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/LZ6B-NSS",
+      "count": 24
+    },
+    {
+      "id": "LZ6B-NSJ",
+      "name": "Bernardina Leonarda Germán",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/LZ6B-NSJ",
+      "count": 24
+    },
+    {
+      "id": "ML7Z-8WQ",
+      "name": "Victor Juan Guicheney Lopes",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/ML7Z-8WQ",
+      "count": 19
+    },
+    {
+      "id": "ML7Z-8WR",
+      "name": "Antonia Ignacia Munoa",
+      "url": "https://www.familysearch.org/pt/tree/person/sources/ML7Z-8WR",
+      "count": 19
+    }
+  ],
+  "note": "As 273 imagens do corpus foram lidas, tiveram revisão independente e estão representadas no acervo público. A integração acrescentou 185 imagens em 184 fichas novas: duas reproduções do mesmo batismo compartilham uma ficha. Foram preservadas as dúvidas e as relações entre originais, cópias e registros de um mesmo acontecimento. A busca documental ampliada continua aberta.",
+  "file": "/acervo/coleta-leitura-20260908-resumo.json",
+  "ancestry": {
+    "treeId": "187028886",
+    "profiles": 23,
+    "linkedRecordUrls": [
+      "https://www.ancestry.com/search/collections/9800/records/5000942",
+      "https://www.ancestry.com/search/collections/9800/records/5000973",
+      "https://www.ancestry.com/search/collections/9800/records/5001001"
+    ],
+    "scope": "23 perfis/galerias examinados, então sem anexos, e 27 índices consultados sem imagem oferecida; há perfis observados fora desse conjunto ainda por examinar.",
+    "examinedIndexCount": 27
+  },
+  "acquisition": {
+    "imagesThisCollection": 273,
+    "earlierImage": 1,
+    "knownDownloadQueuePending": 0,
+    "widerCollectionComplete": false,
+    "familySearchGalleriesUnexamined": 99
+  },
+  "legacyArchiveMatching": {
+    "matchedArchive": 15,
+    "missingArchive": 998,
+    "note": "Contagem anterior à coleta integral; não representa ausência atual de imagens."
+  },
+  "reading": {
+    "corpusImages": 273,
+    "integralTranscriptions": 273,
+    "independentlyReviewedImages": 273,
+    "regionsTranscribed": 1581,
+    "familyAssertionsExtracted": 3303,
+    "continuationItems": 164,
+    "continuationsClassified": 75,
+    "familyContinuationsToLocate": 11,
+    "technicalValidationPending": 0,
+    "imagesPendingIntegralTranscription": 0,
+    "imagesPendingIndependentReview": 0,
+    "continuationClassificationNote": "Os itens de continuação permanecem documentados por imagem; a antiga classificação não foi recontada como resultado desta rodada.",
+    "currentRoundAssertions": 1573,
+    "datedEntriesCurrentRound": 466,
+    "datedEntriesNote": "Entradas documentais datadas; não são necessariamente eventos distintos."
+  },
+  "workflowStages": [
+    {
+      "id": "coleta_fila_conhecida",
+      "title": "Downloads da fila conhecida",
+      "status": "concluida",
+      "imagesThisCollection": 273,
+      "previousReusedImages": 1,
+      "remainingKnownDownloads": 0,
+      "scopeNote": "Somente a fila auditada. Não equivale a todos os possíveis documentos das famílias nas plataformas."
+    },
+    {
+      "id": "leitura_integral",
+      "title": "Transcrição integral dos 273 arquivos",
+      "status": "concluida",
+      "completed": 273,
+      "target": 273
+    },
+    {
+      "id": "revisao_independente",
+      "title": "Revisão e confronto",
+      "status": "concluida",
+      "reviewedImages": 273,
+      "target": 273,
+      "scopeNote": "189 revisões aceitas nesta rodada, 83 aceites anteriores auditados e nova revisão de Petra; 147 confrontos conferidos, sem fusões de identidade aprovadas."
+    },
+    {
+      "id": "integracao_acervo",
+      "title": "Imagens incorporadas ao acervo",
+      "status": "concluida",
+      "completed": 273,
+      "target": 273,
+      "newImages": 185,
+      "newSourceEntries": 184,
+      "scopeNote": "Imagens históricas aprovadas, sínteses selecionadas e referências cruzadas. Transcrições integrais privadas permanecem fora do site."
+    },
+    {
+      "id": "coleta_ampliada",
+      "title": "Busca adicional em perfis e galerias",
+      "status": "aberta",
+      "familySearchGalleriesUnexamined": 99,
+      "numberOfMissingDocuments": null,
+      "browserDownloadsRunning": false,
+      "scopeNote": "99 galerias por examinar, não 99 documentos faltando. A lista inclui galerias que podem estar vazias."
+    }
+  ],
+  "supplementaryReading": {
+    "outsideCorpus273": true,
+    "previousOriginalsRead": 2,
+    "previousOriginalsReviewed": 2,
+    "reviewedComplementaryCaptures": 1,
+    "controlFile": "controle-anterior-adicional.json"
+  },
+  "archiveIntegration": {
+    "status": "concluida",
+    "corpusImages": 273,
+    "corpusImagesAvailable": 273,
+    "imagesAdded": 185,
+    "newSourceEntries": 184,
+    "publicReferences": 546,
+    "publicReferencesWithFiles": 461,
+    "note": "Contagens de imagens e fichas. Duas reproduções do mesmo ato foram reunidas; outros documentos relacionados preservam suas diferenças e não são contados como provas independentes."
+  }
+}

@@ -1,11 +1,11 @@
 # Virginia Amelia Portugal de Correa
 
-Fonte: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS24-Q34R-W
+Fonte histórica: https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS24-Q34R-W
 
-Ato 547, página 9 (direita). Transcrição parcial feita visualmente.
+O ato 517, página 9 à direita, registra a morte de Virginia Amelia Portugal de Correa em 27/11/1918, às 18h, na calle Dayman 1124, em Salto. O registro foi lavrado no dia seguinte.
 
-En la ciudad del Salto [...] veintiocho de Noviembre de mil novecientos diez y ocho [...] á las diez y ocho horas del dia de ayer y en la calle Dayman N°1124 falleció Virginia Amelia Portugal de Correa [...] de nacionalidad Brasilera nacido en se ignora de sesenta y dos años [...] casada [...] propia de su sexo [...] hija legitima de Antonio de Oliveira Portugal de nacionalidad brasilero, de estado casado y fallecido y de Doña Bernardina German, de estado casada, de nacionalidad brasilera y fallecida. [...] el esposo de la fallecida se llamaba Joaquin Correa [...] nueve hijos [...] Belisario, Antonio Ramon, Antonio, Esther, Cecilia, [Ber...], Maria Isabel y [Luciano?].
+Virginia tinha 62 anos, era brasileira e viúva de Joaquin Correa. O documento nomeia Antonio de Oliveira Portugal e Bernardina German como pais, ambos falecidos. O local de nascimento não foi informado; a nacionalidade não determina município natal.
 
-## Alcance da leitura
+A leitura revista do rol de nove filhos conserva [Belisario?], Antonio, Ramon, Antenor, Esther, Cecilia, Bernardina, Maria Isabel e Laureana. O primeiro nome permanece reservado. A listagem não cria automaticamente identidades ou parentescos adicionais.
 
-Documenta Virginia Amelia como filha de Antonio de Oliveira Portugal e Bernardina German, ambos brasileiros e já falecidos em 1918. É peça comparativa para irmãos de Carolina, sem união automática de perfis. Brasil aparece como nacionalidade, com local de nascimento ignorado; não derivar município natal. Limites: A relação de nove filhos não foi transcrita integralmente com confiança; não usar nomes duvidosos. O registro não nomeia Carolina; parentesco de irmãs permanece hipótese sustentada por filiação compatível. Não é óbito do pai Antonio nem da mãe Bernardina.
+A possível relação de irmã de Carolina apoia-se em filiação compatível, mas este óbito não nomeia Carolina. A síntese atual substitui a leitura parcial anterior que trazia ato 547, casada e nomes incompletos na lista dos filhos.

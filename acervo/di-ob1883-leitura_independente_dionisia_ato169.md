@@ -1,5 +1,7 @@
 # Leitura independente — Dionisia López, ato 169, Salto, 1883
 
+> Correção documental de 9/9/2026: no registro de Petra, Pedro é declarado falecido no Brasil em 1898 e Dionisia em Salto em 1881. Brasil continua entre linhas (Bra/sil); o numeral ocho foi confirmado pelo usuário. Este texto incorpora a correção sem a contar como nova revisão independente.
+
 Revisão de 7 de setembro de 2026. Leitura visual independente do original fornecido; não foi usada transcrição automática para a primeira leitura. A comunicação posterior do agente principal foi confrontada com a imagem. A grafia e os trechos assinalados como duvidosos não constituem transcrição diplomática definitiva.
 
 ## Fonte e reprodução
@@ -38,5 +40,8 @@ Assinaturas legíveis: Julio Delgado; Pedro [sobrenome em conferência]. A trans
 
 O ato fornece uma candidata relevante à Dionísia dos registros de Víctor: coincidem nome, nacionalidade argentina, Salto e o ano de morte de 1883 atribuído no casamento de 1912. Mas não nomeia Pedro Guicheney, Víctor, os pais da falecida, o marido ou filhos. O declarante Pedro é um empregado do hospital e não deve ser identificado com Pedro Guicheney.
 
-A viudez tampouco identifica de quem ela era viúva. Antes de reunir as pessoas, é necessário confrontar essa informação com as declarações sobre Pedro, inclusive a morte em 1892 atribuída a ele no nascimento de Petra de 1920. Trata-se de questão de identidade e cronologia em aberto, não de confirmação nem de exclusão automática.
+A viudez tampouco identifica de quem ela era viúva. Antes de reunir as pessoas, é necessário confrontar essa informação com as declarações sobre Pedro, inclusive a morte em 1898 atribuída a ele no nascimento de Petra de 1920. Trata-se de questão de identidade e cronologia em aberto, não de confirmação nem de exclusão automática.
 
+
+
+Atualização editorial de 9/9/2026: nova revisão independente aceita confirmou Brasil/1898 para a declaração retrospectiva sobre Pedro, Dionisia/1881 e nascimento de Petra às 17h35. O histórico das leituras permanece privado. A identidade com o candidato falecido em 1897 continua aberta.

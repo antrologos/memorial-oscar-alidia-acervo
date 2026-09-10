@@ -14,14 +14,14 @@ San Antonio Chico, departamento de Salto; ato 75, página 38, à direita; imagem
 
 - Pai Arturo M. Salgado, brasileiro, casado, criador, vizinho de Daymán; mãe Bernardina Méndez, oriental.
 - Manuel é declarado brasileiro, viúvo, hacendado e domiciliado na cidade de Salto.
-- Maria J. Márquez é declarada falecida na cidade de Salto em 10/02/1899.
+- Maria J. Márquez é declarada falecida na cidade de Salto em 1899; o dia permanece [10?/20?] e o mês [Febrero?/Septiembre?].
 - Avô materno Joaquin Mendez é declarado falecido em 05/09/1879, no departamento de Paysandú.
 - Avó materna Carolina Portugal é brasileira, casada em segundas núpcias, domiciliada em Concordia (República Argentina).
 
 **Limites da leitura parcial:**
 
 - Óbitos dos avós são declarações retrospectivas de Arturo, não seus assentos próprios.
-- Maria: 10/02/1899 diverge do provável 1º/02/1899 em BR17 e do ano 1900 em BR08.
+- Maria: neste ato, dia [10?/20?] e mês [Febrero?/Septiembre?] de 1899; BR17 também conserva dia e mês reservados, enquanto Julia informa 1900 em BR08. São declarações retrospectivas distintas.
 - Joaquin: preservar 1879 sem uniformizar a 1880 de outro documento CAR-JUAN1924 informado pela pesquisa principal.
 - O título automático com 1879 não é a data do nascimento de Luís Alberto.
 
@@ -33,4 +33,4 @@ Recorte auxiliar: BR15_3Q9M-CS2W-F9Q5-N_recorte_leitura.jpg
 
 ## Alcance da leitura
 
-Pai Arturo M. Salgado, brasileiro, casado, criador, vizinho de Daymán; mãe Bernardina Méndez, oriental. Manuel é declarado brasileiro, viúvo, hacendado e domiciliado na cidade de Salto. Maria J. Márquez é declarada falecida na cidade de Salto em 10/02/1899. Avô materno Joaquin Mendez é declarado falecido em 05/09/1879, no departamento de Paysandú. Avó materna Carolina Portugal é brasileira, casada em segundas núpcias, domiciliada em Concordia (República Argentina). Limites: Óbitos dos avós são declarações retrospectivas de Arturo, não seus assentos próprios. Maria: 10/02/1899 diverge do provável 1º/02/1899 em BR17 e do ano 1900 em BR08. Joaquin: preservar 1879 sem uniformizar a 1880 de outro documento CAR-JUAN1924 informado pela pesquisa principal. O título automático com 1879 não é a data do nascimento de Luís Alberto.
+Pai Arturo M. Salgado, brasileiro, casado, criador, vizinho de Daymán; mãe Bernardina Méndez, oriental. Manuel é declarado brasileiro, viúvo, hacendado e domiciliado na cidade de Salto. Maria J. Márquez é declarada falecida na cidade de Salto em 1899; o dia permanece [10?/20?] e o mês [Febrero?/Septiembre?]. Avô materno Joaquin Mendez é declarado falecido em 05/09/1879, no departamento de Paysandú. Avó materna Carolina Portugal é brasileira, casada em segundas núpcias, domiciliada em Concordia (República Argentina). Limites: Óbitos dos avós são declarações retrospectivas de Arturo, não seus assentos próprios. Maria: neste ato, dia [10?/20?] e mês [Febrero?/Septiembre?] de 1899; BR17 também conserva dia e mês reservados, enquanto Julia informa 1900 em BR08. São declarações retrospectivas distintas. Joaquin: preservar 1879 sem uniformizar a 1880 de outro documento CAR-JUAN1924 informado pela pesquisa principal. O título automático com 1879 não é a data do nascimento de Luís Alberto.

@@ -15,7 +15,7 @@ Nuestra Señora del Carmen del Salto Oriental; página 302, primeiro ato à esqu
 - Filha legítima de Arturo Marques Salgado e Bernardina Méndez, qualificados como brasileiro e oriental.
 - Nascimento em 5 de setembro do ano anterior ao batismo, isto é, 1920.
 - Avós maternos Joaquin e Carolina Olivera.
-- Padrinhos Francisco Devoto e Julia Alice Corbolas [sobrenome sob conferência], representados por Geremias Milans [sobrenome provável] e René Salgado.
+- Os padrinhos são Francisco Devotto e Julia Alice [Carballaes?], com o sobrenome da madrinha reservado. Os nomes dos representantes devem permanecer identificados separadamente conforme a leitura aceita, sem repetir Corbolas como sobrenome estabelecido.
 
 **Limites da leitura parcial:**
 
@@ -30,4 +30,4 @@ Recorte auxiliar: BR11_3Q9M-CS2Q-13JW-M_recorte_leitura.jpg
 
 ## Alcance da leitura
 
-Filha legítima de Arturo Marques Salgado e Bernardina Méndez, qualificados como brasileiro e oriental. Nascimento em 5 de setembro do ano anterior ao batismo, isto é, 1920. Avós maternos Joaquin e Carolina Olivera. Padrinhos Francisco Devoto e Julia Alice Corbolas [sobrenome sob conferência], representados por Geremias Milans [sobrenome provável] e René Salgado. Limites: Triagem da filiação e data; nomes dos padrinhos/procuradores exigem revisão antes de normalização. Título do volume '1920' não substitui a data do ato, 1921.
+Filha legítima de Arturo Marques Salgado e Bernardina Méndez, qualificados como brasileiro e oriental. Nascimento em 5 de setembro do ano anterior ao batismo, isto é, 1920. Avós maternos Joaquin e Carolina Olivera. Os padrinhos são Francisco Devotto e Julia Alice [Carballaes?], com o sobrenome da madrinha reservado. Os nomes dos representantes devem permanecer identificados separadamente conforme a leitura aceita, sem repetir Corbolas como sobrenome estabelecido. Limites: Triagem da filiação e data; nomes dos padrinhos/procuradores exigem revisão antes de normalização. Título do volume '1920' não substitui a data do ato, 1921.

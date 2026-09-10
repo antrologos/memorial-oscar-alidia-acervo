@@ -1,11 +1,9 @@
 # Fausta, filha de Santiago e Carolina
 
-Fonte: https://www.familysearch.org/ark:/61903/3:1:939X-HH97-XX
+Fonte histórica: https://www.familysearch.org/ark:/61903/3:1:939X-HH97-XX
 
-Ato 52, página 21 (direita, parte inferior). Transcrição parcial feita visualmente.
+O ato 52 registra Fausta, filha de Santiago Sanches e Carolina Oliveira. O nascimento é declarado em 19 de dezembro de 1881, às 18h, na casa do declarante; o registro foi lavrado em Laureles em 25 de dezembro.
 
-En Laureles á Veinte y cinco de Diciembre de mil ochocientos ochenta y uno. [...] Santiago Sanches Argentino Casado Edad de Veinte y tres años Criador [...] el dia diez y nueve del presente mes á las seis de la Tarde y en su casa habitacion [...] Fausta hija legitima del declarante y de su Esposa Dª Carolina Oliveira Brasilera de Edad de veinte y ocho años.
+Santiago é descrito como argentino, casado, de 23 anos e criador. Carolina é brasileira, esposa do declarante, de 28 anos. Essa idade não foi convertida em uma data de nascimento. O casamento de abril de 1881 não informa a idade de Carolina; a comparação anterior com supostos 29 anos naquele casamento estava incorreta.
 
-## Alcance da leitura
-
-Nova filha documentada da união Santiago/Carolina em 1881. Carolina aparece como Oliveira, brasileira, esposa de Santiago. Não converter 28 anos em data natal exata; idade diverge dos 29 declarados no casamento em abril/1881. Limites: O ato prossegue na página seguinte, que não integra esta imagem; não extrair avós nem assinaturas ausentes. O índice aponta 19/12; a página distingue nascimento em 19/12 e registro em 25/12.
+O ato continua na página seguinte, fora desta reprodução. Os avós e as assinaturas ausentes não foram inferidos. No casamento candidato de Fausta, de 28 de junho de 1900, o nascimento é declarado como 9 de dezembro de 1882. Os dois registros são relacionados mantendo a divergência.

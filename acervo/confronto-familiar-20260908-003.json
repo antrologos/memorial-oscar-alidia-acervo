@@ -1,0 +1,1312 @@
+{
+  "schemaVersion": "1.0",
+  "reportId": "confronto_familiar_integracao_003",
+  "createdAtUtc": "2026-09-08T23:05:51.779822+00:00",
+  "preparedBy": "/root/transcrever_bernardina",
+  "status": "oito_decisoes_para_integracao_do_coordenador",
+  "scope": "Achados e conciliações013–016; fatos citados dessas versões; genealogia atual em leitura; notas relevantes já existentes. Sem nova busca web, nova leitura integral dos JPGs ou edição do Site/controles.",
+  "sourceIdConvention": {
+    "newDocuments": "REV- + documentId sem prefixo fs-",
+    "authorization": "Convenção informada expressamente pelo coordenador nesta subtarefa; cadastro dos18 documentos sob sua responsabilidade.",
+    "lookupEdited": false
+  },
+  "genealogySnapshot": {
+    "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\site\\app\\genealogy-data.json",
+    "sha256": "c7e4244efaf06cce5ce3a58a8ea26d3d0beb1132bd9e7981c75a4200551be9be",
+    "nodeCount": 99,
+    "edgeIdentifier": "Arestas atuais não possuem id; usar from/to/type.",
+    "newPersonIds": "Não propostos; documentOnlyPersons conserva sujeitos sem nó para decisão do coordenador."
+  },
+  "decisions": [
+    {
+      "decisionId": "CF003-01",
+      "title": "Luisa: forte correspondência, com idade e identidade ainda em confronto",
+      "status": "correspondencia_forte_com_conflitos",
+      "existingNodeIds": [
+        "victor",
+        "luisa"
+      ],
+      "documentOnlyPersons": [
+        "Luisa Ferreyra de Guicheney",
+        "Pedro Ferreyra",
+        "Basilia Cabañas"
+      ],
+      "decision": "Acrescentar o óbito próprio de Luisa Ferreyra de Guicheney como forte candidata à primeira esposa de Víctor: Concordia, 03/04/1910, coincide com a declaração retrospectiva de D08. Registrar a filiação Pedro Ferreyra/Basilia Cabañas como informação do ato 143, condicionando sua atribuição ao nó luisa à confirmação da identidade. Manter Ferreira/Pereyra/Ferreyra por fonte.",
+      "evidence": [
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R9DP-F",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R9DP-F"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p72a143",
+          "actLabel": "143 — Luisa Ferreyra de Guicheney",
+          "factIndex": 4,
+          "field": "nome",
+          "sourceQuote": "llamada Luisa Ferreyra de Guicheney",
+          "literalValue": "Luisa Ferreyra de Guicheney",
+          "normalizedValue": "Luisa Ferreyra de Guicheney",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R9DP-F",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R9DP-F"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p72a143",
+          "actLabel": "143 — Luisa Ferreyra de Guicheney",
+          "factIndex": 5,
+          "field": "obito_data_hora",
+          "sourceQuote": "á la una y media de la tarde del día de ayer",
+          "literalValue": "una y media de la tarde del día de ayer",
+          "normalizedValue": "1910-04-03 13:30",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R9DP-F",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R9DP-F"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p72a143",
+          "actLabel": "143 — Luisa Ferreyra de Guicheney",
+          "factIndex": 8,
+          "field": "idade_anos",
+          "sourceQuote": "de cuarenta y siete años de edad",
+          "literalValue": "cuarenta y siete",
+          "normalizedValue": 47,
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R9DP-F",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R9DP-F"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p72a143",
+          "actLabel": "143 — Luisa Ferreyra de Guicheney",
+          "factIndex": 15,
+          "field": "pai",
+          "sourceQuote": "Los padres de la difunta son: Pedro Ferreyra y Basilia Cabañas.",
+          "literalValue": "Pedro Ferreyra",
+          "normalizedValue": "Pedro Ferreyra",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R9DP-F",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R9DP-F"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p72a143",
+          "actLabel": "143 — Luisa Ferreyra de Guicheney",
+          "factIndex": 11,
+          "field": "marido_nome_proprio",
+          "sourceQuote": "llamada Luisa Ferreyra de Guicheney, de cuarenta y siete años de edad, oriental, casada",
+          "literalValue": "não declarado",
+          "normalizedValue": null,
+          "certainty": "alta"
+        },
+        {
+          "kind": "nota_existente_sem_nova_inspecao_do_original",
+          "sourceIds": [
+            "D08"
+          ],
+          "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\auditoria_d08_casamento_anterior.md",
+          "locator": "trecho da primeira união; linha 11",
+          "quote": "don Víctor Juan Guicheney, había sido casado con doña Luisa Pereyra, en la Ciudad del Salto, el año mil ochocientos ochenta y ocho, quedando disuelta dicha unión por fallecimiento de ésta, ocurrido en esta Ciudad el tres de Abril del año mil novecientos diez"
+        },
+        {
+          "kind": "nota_existente_sem_nova_inspecao_do_original",
+          "sourceIds": [
+            "SALTO1888"
+          ],
+          "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\auditoria_salto1888_ato86_campos.md",
+          "locator": "ato 86, campo nascimento da noiva",
+          "quote": "**25 de maio de 1866**"
+        }
+      ],
+      "limits": [
+        "O óbito informa 47 anos; uma pessoa nascida em 25/05/1866 teria 43 em 03/04/1910. Não corrigir um dado pelo outro.",
+        "O ato 143 não nomeia o marido, filhos ou cônjuge anterior. A auditoria parcial de 1888 menciona Luis Ferreira na linha de filiação sem a transcrever integralmente; isso exige confronto e não permite declarar uma filiação alternativa resolvida.",
+        "Lamadrid é o local da morte, sem número; não prova residência própria. A nota antiga D08 tem pendências de continuação já superadas: aqui só foi usada a passagem de viuvez."
+      ],
+      "documentsNeeded": [
+        "Confronto integral da filiação da noiva no ato 86/SALTO1888 e do expediente matrimonial; batismo/nascimento de Luisa e eventual documentação apresentada na viuvez de 1912."
+      ]
+    },
+    {
+      "decisionId": "CF003-02",
+      "title": "Micaela e Blanca: filiação e compadrio, sem transformar madrinha em tia",
+      "status": "relacoes_expressas_com_identificacao_condicional",
+      "existingNodeIds": [
+        "micaela_munoa",
+        "carlos_landoni",
+        "victor",
+        "antonia",
+        "juan_jose_munoa",
+        "juana_bautista"
+      ],
+      "documentOnlyPersons": [
+        "Blanca Victoria Eugenia Landoni/Landonio",
+        "Antonia B. Muñoa",
+        "Carlos Eduardo"
+      ],
+      "decision": "Documentar Blanca como filha dos nomes Carlos Landoni/Micaela Muñoa e registrar Víctor Juan Guicheney e Antonia B. Muñoa no papel de padrinhos. O conjunto reforça o vínculo social com o núcleo de Víctor, mas a identificação de Antonia B. com Antonia Ignacia continua proposta. Manter hipotéticas as ligações que fariam Micaela irmã de Antonia. O casamento de Blanca declara Carlos e Micaela falecidos até 14/12/1940.",
+      "evidence": [
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CSM9-PSNX-H",
+          "sourceIds": [
+            "REV-3Q9M-CSM9-PSNX-H"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p207a2",
+          "actLabel": "Blanca Victoria Eugenia Landoni — batismo",
+          "factIndex": 4,
+          "field": "pai",
+          "sourceQuote": "de Don Carlos Landoni natural de Italia",
+          "literalValue": "Carlos Landoni",
+          "normalizedValue": "Carlos Landoni",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CSM9-PSNX-H",
+          "sourceIds": [
+            "REV-3Q9M-CSM9-PSNX-H"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p207a2",
+          "actLabel": "Blanca Victoria Eugenia Landoni — batismo",
+          "factIndex": 6,
+          "field": "mae",
+          "sourceQuote": "y de Doña Micaela Muñoa",
+          "literalValue": "Micaela Muñoa",
+          "normalizedValue": "Micaela Muñoa",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CSM9-PSNX-H",
+          "sourceIds": [
+            "REV-3Q9M-CSM9-PSNX-H"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p207a2",
+          "actLabel": "Blanca Victoria Eugenia Landoni — batismo",
+          "factIndex": 9,
+          "field": "padrinho",
+          "sourceQuote": "siendo sus padrinos Don Víctor Juan Guicheney",
+          "literalValue": "Víctor Juan Guicheney",
+          "normalizedValue": "Víctor Juan Guicheney",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CSM9-PSNX-H",
+          "sourceIds": [
+            "REV-3Q9M-CSM9-PSNX-H"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p207a2",
+          "actLabel": "Blanca Victoria Eugenia Landoni — batismo",
+          "factIndex": 10,
+          "field": "madrinha",
+          "sourceQuote": "y Doña Antonia B. Muñoa.",
+          "literalValue": "Antonia B. Muñoa",
+          "normalizedValue": "Antonia B. Muñoa",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CSM9-PSNX-H",
+          "sourceIds": [
+            "REV-3Q9M-CSM9-PSNX-H"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p207a2",
+          "actLabel": "Blanca Victoria Eugenia Landoni — batismo",
+          "factIndex": 2,
+          "field": "nascimento_data",
+          "sourceQuote": "que nació el dieciseis del mes de Junio del año de mil novecientos quince",
+          "literalValue": "dieciseis ... Junio ... mil novecientos quince",
+          "normalizedValue": "1915-06-16",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3QHJ-5QQ3-WC5W",
+          "sourceIds": [
+            "REV-3QHJ-5QQ3-WC5W"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p59a486",
+          "actLabel": "Tomo III, ato 486 — Blanca Victoria Eugenia LANDONIO",
+          "factIndex": 10,
+          "field": "nascimento_data_local",
+          "sourceQuote": "Nacido en Concordia el 15 de Junio de 1915.",
+          "literalValue": "Concordia; 15 de Junio de 1915",
+          "normalizedValue": {
+            "data": "1915-06-15",
+            "local": "Concordia"
+          },
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3QHN-GQQ3-W8R4",
+          "sourceIds": [
+            "REV-3QHN-GQQ3-W8R4"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p335a335",
+          "actLabel": "335 — Pedro Buktenica e Blanca Victoria Eugenia Landonio",
+          "factIndex": 18,
+          "field": "nacionalidade_profissao_estado_vital",
+          "sourceQuote": "Carlos Landonio de nacionalidad italiano de profesión fué mecánico fallecido",
+          "literalValue": "italiano; fué mecánico; fallecido",
+          "normalizedValue": null,
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3QHN-GQQ3-W8R4",
+          "sourceIds": [
+            "REV-3QHN-GQQ3-W8R4"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p335a335",
+          "actLabel": "335 — Pedro Buktenica e Blanca Victoria Eugenia Landonio",
+          "factIndex": 20,
+          "field": "nacionalidade_profissao_estado_vital",
+          "sourceQuote": "Micaela Muñoa de nacionalidad española de profesión de su sexo, también fallecida",
+          "literalValue": "española; de su sexo; también fallecida",
+          "normalizedValue": null,
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CSM9-PSTG-P",
+          "sourceIds": [
+            "REV-3Q9M-CSM9-PSTG-P"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p184a2",
+          "actLabel": "Carlos Eduardo [Landoni?/Landonio?] — batismo",
+          "factIndex": 6,
+          "field": "mae",
+          "sourceQuote": "y de Doña Juana Micaela Muñoa",
+          "literalValue": "Juana Micaela Muñoa",
+          "normalizedValue": "Juana Micaela Muñoa",
+          "certainty": "alta"
+        },
+        {
+          "kind": "genealogia_atual_somente_leitura",
+          "nodeId": "micaela_munoa",
+          "sourceIds": [
+            "MUN-MICAELA-CIV1910",
+            "MUN-MICAELA-REL1910",
+            "REV-3Q9M-CSKV-F3DQ-3",
+            "REV-3Q9M-CSKV-F3ZW-X",
+            "O08",
+            "REV-3Q9M-C3WD-LSSF-P",
+            "REV-3Q9M-CS2Q-B3XB-G"
+          ],
+          "quote": "Casou-se com Carlos Landoni/Landonio em Concordia, em 1º de dezembro de 1910. No religioso é natural de Cizurquil; no civil, a localidade é lida como [Zizurqui?], em Guipúzcoa, Espanha. Os documentos nomeiam os pais Juan José Muñoa e Juana Arizmendi/Arismendi. A identificação destes pais com o casal parental de Antonia é uma hipótese forte, indicada como tal na árvore. Os registros de Laura, Juana e Petra repetem nomes parentais compatíveis. A ligação entre os ramos é mantida como hipótese.",
+          "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\site\\app\\genealogy-data.json",
+          "locator": "nodes[id=micaela_munoa].summary"
+        }
+      ],
+      "limits": [
+        "Não expandir B. nem deduzir tia, cunhada ou irmã de padrinho/madrinha. O batismo de Carlos Eduardo escreve Juana Micaela, sem nomear avós.",
+        "Blanca: 16/06/1915 no batismo; 15/06/1915 no óbito e, conforme confronto prévio 015, no civil 012. Preservar os dias por fonte; não escolher por maioria.",
+        "O óbito de 1986 apenas nomeia os pais; o estado vital provém do casamento de 1940. Não inventar datas ou lugares de suas mortes."
+      ],
+      "documentsNeeded": [
+        "Inteiros teores dos batismos RB02/RB03 e documentos de habilitação de Antonia/Micaela; atos que explicitem o parentesco ou vinculem as identificações americanas ao casal de Zizurkil."
+      ]
+    },
+    {
+      "decisionId": "CF003-03",
+      "title": "Maria Eugenia: pais nomeados, candidata RB04 e idade incompatível",
+      "status": "candidata_nao_identificada_definitivamente",
+      "existingNodeIds": [
+        "juan_jose_munoa",
+        "juana_bautista",
+        "antonia"
+      ],
+      "documentOnlyPersons": [
+        "Maria Eugenia Nicolasa Muñoa",
+        "Jack Stuart Mac Leod"
+      ],
+      "decision": "Criar, se necessário, uma ocorrência documental própria da mãe de Jack: Maria Eugenia Nicolasa Muñoa, espanhola, 21 anos em 1917, filha de Juan José Muñoa/Juana Bautista Arizmendi. A coincidência de nome composto e pais reforça a candidata RB04, mas a idade conflita: quem já foi batizada em 06/03/1892 teria ao menos 25 anos em dezembro de 1917. Não transformar a candidata em irmã confirmada de Antonia ou Micaela.",
+      "evidence": [
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R1V3",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R1V3"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p478a955",
+          "actLabel": "955 — Jack Stuart Mac Leod",
+          "factIndex": 12,
+          "field": "mae",
+          "sourceQuote": "hijo legítimo del exponente y de su esposa Maria Eugenia Nicolasa Muñoa",
+          "literalValue": "Maria Eugenia Nicolasa Muñoa",
+          "normalizedValue": "Maria Eugenia Nicolasa Muñoa",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R1V3",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R1V3"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p478a955",
+          "actLabel": "955 — Jack Stuart Mac Leod",
+          "factIndex": 13,
+          "field": "idade_anos",
+          "sourceQuote": "Maria Eugenia Nicolasa Muñoa, de veintiuno años de edad",
+          "literalValue": "veintiuno",
+          "normalizedValue": 21,
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R1V3",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R1V3"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p478a955",
+          "actLabel": "955 — Jack Stuart Mac Leod",
+          "factIndex": 14,
+          "field": "nacionalidade",
+          "sourceQuote": "de veintiuno años de edad, española",
+          "literalValue": "española",
+          "normalizedValue": "espanhola",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R1V3",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R1V3"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p478a955",
+          "actLabel": "955 — Jack Stuart Mac Leod",
+          "factIndex": 18,
+          "field": "avo_materno",
+          "sourceQuote": "y los maternos: Juan José Muñoa",
+          "literalValue": "Juan José Muñoa",
+          "normalizedValue": "Juan José Muñoa",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R1V3",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R1V3"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p478a955",
+          "actLabel": "955 — Jack Stuart Mac Leod",
+          "factIndex": 19,
+          "field": "avo_materna",
+          "sourceQuote": "Juan José Muñoa y Juana Bautista Arizmendi.",
+          "literalValue": "Juana Bautista Arizmendi",
+          "normalizedValue": "Juana Bautista Arizmendi",
+          "certainty": "alta"
+        },
+        {
+          "kind": "nota_existente_sem_nova_inspecao_do_original",
+          "sourceIds": [
+            "RB04"
+          ],
+          "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\pesquisa_raizes_bascas.md",
+          "locator": "RB04, data do sacramento",
+          "quote": "Data do sacramento: **06/03/1892**."
+        },
+        {
+          "kind": "nota_existente_sem_nova_inspecao_do_original",
+          "sourceIds": [
+            "RB04"
+          ],
+          "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\pesquisa_raizes_bascas.md",
+          "locator": "RB04, pais",
+          "quote": "Pais conferidos na ficha: **Juan José Muñoa Astiasaran** e **Juana Bautista Arizmendi Barriola**."
+        },
+        {
+          "kind": "nota_existente_sem_nova_inspecao_do_original",
+          "sourceIds": [
+            "RB04"
+          ],
+          "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\pesquisa_raizes_bascas.md",
+          "locator": "RB04, cota",
+          "quote": "DEAH/F06.160//3292/002-01(f.119r,nº9/B,1892-03-06)"
+        }
+      ],
+      "limits": [
+        "RB04 é ficha de índice consultada em pesquisa anterior; o manuscrito espanhol não foi lido nesta subtarefa. Batismo não é automaticamente data de nascimento.",
+        "Não acrescentar Astiasaran/Barriola aos nomes literais do ato 955. O ano 1894 da árvore também não corrige os documentos."
+      ],
+      "documentsNeeded": [
+        "Imagem integral RB04: 6º Bautismos, San Millán de Zizurkil, f.119r, nº9, 06/03/1892; casamento civil/religioso de Maria Eugenia com Juan Mac Leod e habilitação contendo idade, filiação e naturalidade."
+      ]
+    },
+    {
+      "decisionId": "CF003-04",
+      "title": "Jack e Juan Mac Leod: duas comparações cronológicas diferentes",
+      "status": "identidade_de_jack_em_reserva",
+      "existingNodeIds": [
+        "micaela_munoa"
+      ],
+      "documentOnlyPersons": [
+        "Jack Stuart Mac Leod",
+        "Juan Mac Leod",
+        "Blanca Victoria Eugenia Landonio"
+      ],
+      "decision": "Preservar nascimento de Jack em 05/12/1917 às 11h30, Concordia. O casamento de 15/04/1941, conforme confronto já registrado no 015, declara 30 anos, enquanto a data de 1917 daria 23. Manter a associação dos dois registros de Jack em hipótese. Separadamente, 44 anos do pai Juan em 1917 e 68 da testemunha homônima em 1940 são cronologicamente compatíveis, mas não demonstram identidade ou parentesco com Blanca.",
+      "evidence": [
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R1V3",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R1V3"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p478a955",
+          "actLabel": "955 — Jack Stuart Mac Leod",
+          "factIndex": 2,
+          "field": "nascimento_data",
+          "sourceQuote": "del día cinco del corriente mes y año",
+          "literalValue": "día cinco del corriente mes y año",
+          "normalizedValue": "1917-12-05",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R1V3",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R1V3"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p478a955",
+          "actLabel": "955 — Jack Stuart Mac Leod",
+          "factIndex": 3,
+          "field": "nascimento_hora",
+          "sourceQuote": "a las once y treinta ante meridiano",
+          "literalValue": "once y treinta ante meridiano",
+          "normalizedValue": "11:30",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R1V3",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R1V3"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p478a955",
+          "actLabel": "955 — Jack Stuart Mac Leod",
+          "factIndex": 8,
+          "field": "idade_anos",
+          "sourceQuote": "de cuarenta y cuatro años de edad",
+          "literalValue": "cuarenta y cuatro",
+          "normalizedValue": 44,
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-C3WD-R1V3",
+          "sourceIds": [
+            "REV-3Q9M-C3WD-R1V3"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p478a955",
+          "actLabel": "955 — Jack Stuart Mac Leod",
+          "factIndex": 12,
+          "field": "mae",
+          "sourceQuote": "hijo legítimo del exponente y de su esposa Maria Eugenia Nicolasa Muñoa",
+          "literalValue": "Maria Eugenia Nicolasa Muñoa",
+          "normalizedValue": "Maria Eugenia Nicolasa Muñoa",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3QHN-GQQ3-W8R4",
+          "sourceIds": [
+            "REV-3QHN-GQQ3-W8R4"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p335a335",
+          "actLabel": "335 — Pedro Buktenica e Blanca Victoria Eugenia Landonio",
+          "factIndex": 22,
+          "field": "testemunha_qualificacao",
+          "sourceQuote": "Juan Mac Leod de sesenta y ocho años de profesión comerciante de estado casado domiciliado en la calle Bolivia 844",
+          "literalValue": "68; comerciante; casado; Bolivia 844",
+          "normalizedValue": null,
+          "certainty": "alta"
+        },
+        {
+          "kind": "confronto_previo_na_reconciliacao_015",
+          "sourceIds": [
+            "REV-3Q9M-CS9W-JVV1"
+          ],
+          "documentId": "fs-3Q9M-CS9W-JVV1",
+          "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_015_guicheney_munoa\\RECONCILIACAO.json",
+          "locator": "crossDocumentIssues[issueId=X01]",
+          "quote": "R1V3/ato955 declara 5 de dezembro de 1917. A idade 30 no casamento de 15 de abril de 1941, lido anteriormente no lote012 e não relido nesta revisão, conflita com 23 anos calculados da data de nascimento. Nomes semelhantes e filiação não eliminam a divergência.",
+          "limit": "O ato de 1941 pertence ao lote012 e não foi relido nesta subtarefa; o confronto é o já registrado na conciliação015."
+        }
+      ],
+      "limits": [
+        "A divergência de Jack não foi resolvida alterando sua idade ou ano natal. O original 1941 não foi relido aqui.",
+        "Juan e Blanca compartilham Bolivia 844 no ato 1940: isso documenta endereços declarados, não explica composição familiar ou residência contínua."
+      ],
+      "documentsNeeded": [
+        "Confrontar inteiro teor e eventual retificação do casamento de Jack em 1941, seu documento de identidade e expediente matrimonial com o nascimento 955/1917; casamento/óbito de Juan com filiação e idade."
+      ]
+    },
+    {
+      "decisionId": "CF003-05",
+      "title": "Carolina, Francisco de 1879 e Bernardina Leonarda Germana",
+      "status": "filiacao_literal_documentada_sem_fechar_irmandades",
+      "existingNodeIds": [
+        "carolina_portugal",
+        "joaquim_mendes",
+        "bernarda_leonarda_german_1878",
+        "antonio_pai_carolina_1878",
+        "francisco_pai_joaquim_1878"
+      ],
+      "documentOnlyPersons": [
+        "Francisco, criança batizada em 1880",
+        "Virginia Aurelia Olivera",
+        "Francisca Cecilia Olivera"
+      ],
+      "decision": "Registrar a criança Francisco, nascida em 02/04/1879 por ano inferido, batizada em Chapicuy em 13/03/1880, filho de Joaquin Mendez de Arruda/Carolina Olivera. O ato nomeia avós maternos Antonio/Bernardina Leonarda Germana e sustenta acrescentar Germana às variantes documentais da mãe de Carolina. Confrontar sua identificação com o núcleo existente; não confundir a criança com o nó francisco_pai_joaquim_1878, que representa o avô homônimo.",
+      "evidence": [
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS27-9QYT-Z",
+          "sourceIds": [
+            "REV-3Q9M-CS27-9QYT-Z"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p204a1",
+          "actLabel": "Mendez de Arruda, Francisco",
+          "factIndex": 0,
+          "field": "batismo_data",
+          "sourceQuote": "á trece de Marzo de mil ochocientos ochenta",
+          "literalValue": "trece de Marzo de mil ochocientos ochenta",
+          "normalizedValue": "1880-03-13",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS27-9QYT-Z",
+          "sourceIds": [
+            "REV-3Q9M-CS27-9QYT-Z"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p204a1",
+          "actLabel": "Mendez de Arruda, Francisco",
+          "factIndex": 1,
+          "field": "batismo_local",
+          "sourceQuote": "En Chapicuy",
+          "literalValue": "Chapicuy",
+          "normalizedValue": "Chapicuy",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS27-9QYT-Z",
+          "sourceIds": [
+            "REV-3Q9M-CS27-9QYT-Z"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p204a1",
+          "actLabel": "Mendez de Arruda, Francisco",
+          "factIndex": 2,
+          "field": "nascimento_data",
+          "sourceQuote": "Francisco que nació el dos de Abril de del año próximo pasado",
+          "literalValue": "dos de Abril de del año próximo pasado",
+          "normalizedValue": "1879-04-02",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS27-9QYT-Z",
+          "sourceIds": [
+            "REV-3Q9M-CS27-9QYT-Z"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p204a1",
+          "actLabel": "Mendez de Arruda, Francisco",
+          "factIndex": 3,
+          "field": "filiacao",
+          "sourceQuote": "hijo legítimo de Joaquin Mendez de Arruda y de Carolina Olivera",
+          "literalValue": "hijo legítimo de Joaquin Mendez de Arruda y de Carolina Olivera",
+          "normalizedValue": {
+            "pai": "Joaquin Mendez de Arruda",
+            "mae": "Carolina Olivera"
+          },
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS27-9QYT-Z",
+          "sourceIds": [
+            "REV-3Q9M-CS27-9QYT-Z"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p204a1",
+          "actLabel": "Mendez de Arruda, Francisco",
+          "factIndex": 5,
+          "field": "avos_paternos",
+          "sourceQuote": "abuelos paternos Francisco y Ana Mendez de Freita",
+          "literalValue": "Francisco y Ana Mendez de Freita",
+          "normalizedValue": [
+            "Francisco",
+            "Ana Mendez de Freita"
+          ],
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS27-9QYT-Z",
+          "sourceIds": [
+            "REV-3Q9M-CS27-9QYT-Z"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p204a1",
+          "actLabel": "Mendez de Arruda, Francisco",
+          "factIndex": 6,
+          "field": "avos_maternos",
+          "sourceQuote": "abuelos maternos Antonio y Bernardina Leonarda Germana",
+          "literalValue": "Antonio y Bernardina Leonarda Germana",
+          "normalizedValue": [
+            "Antonio",
+            "Bernardina Leonarda Germana"
+          ],
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS27-9QY2-3",
+          "sourceIds": [
+            "REV-3Q9M-CS27-9QY2-3"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p396a5",
+          "actLabel": "Correa, Ramon",
+          "factIndex": 8,
+          "field": "avos_maternos",
+          "sourceQuote": "abuelos maternos Antonio Joaquin y Bernardina [Germana?]",
+          "literalValue": "Antonio Joaquin y Bernardina [Germana?]",
+          "normalizedValue": null,
+          "certainty": "media"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS27-9QY2-3",
+          "sourceIds": [
+            "REV-3Q9M-CS27-9QY2-3"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p396a6",
+          "actLabel": "Carvallo, Celina Cecilia",
+          "factIndex": 14,
+          "field": "avos_maternos",
+          "sourceQuote": "abuelos maternos Antonio Joaquin y Bernardina Germana",
+          "literalValue": "Antonio Joaquin y Bernardina Germana",
+          "normalizedValue": [
+            "Antonio Joaquin",
+            "Bernardina Germana"
+          ],
+          "certainty": "alta"
+        },
+        {
+          "kind": "genealogia_atual_somente_leitura",
+          "nodeId": "bernarda_leonarda_german_1878",
+          "sourceIds": [
+            "BERN-BAT1878",
+            "CAR-JUANA1887",
+            "CAR-ISABEL1892",
+            "CAR-FAUSTO1894"
+          ],
+          "quote": "Mãe de Carolina e bisavó de Óscar. Os registros dos netos usam Bernarda Leonarda German e Bernardina German. Em 1892, declara-se a idade de 75 anos; em 21/12/1894, aparece expressamente falecida, sem época lembrada. Isso não fornece data ou lugar de óbito, nem prova por si só que morreu entre 1892 e 1894. A forma Bernardina Isabel, no batismo de Belicia de 1874, continua em confronto.",
+          "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\site\\app\\genealogy-data.json",
+          "locator": "nodes[id=bernarda_leonarda_german_1878].summary"
+        }
+      ],
+      "limits": [
+        "Hijo legítimo não prova que Joaquin vivia em 1880 nem resolve as declarações divergentes de morte em 1879/1881.",
+        "Germana está confirmado em Francisco/Celina; Ramon mantém [Germana?]. Antonio não recebe Joaquin por expansão neste ato.",
+        "Pais/avós parcialmente coincidentes constituem pistas; não fechar irmandade de Carolina, Virginia Aurelia e Francisca Cecilia nem a identidade de Carolina madrinha em outro ato."
+      ],
+      "documentsNeeded": [
+        "Batismos/nascimentos e casamentos próprios de Carolina, Virginia Aurelia e Francisca Cecilia, com identificação parental completa; óbitos próprios de Joaquin e Bernardina/Bernarda para resolver cronologia e variantes."
+      ]
+    },
+    {
+      "decisionId": "CF003-06",
+      "title": "Antonio Portugal: Josefa e Juana Villa permanecem separadas",
+      "status": "nao_fundir_casais_e_geracoes",
+      "existingNodeIds": [
+        "antonio_pai_carolina_1878"
+      ],
+      "documentOnlyPersons": [
+        "Antonio Oliveira Portugal hijo",
+        "Juan Antonio",
+        "Josefa Villa",
+        "Juana Villa",
+        "Victor Portugal"
+      ],
+      "decision": "Manter dois conjuntos de declarações: Juan Antonio/1881 — pai Antonio Oliveira Portugal hijo, 29 anos, mãe Josefa Villa, 20, avós maternos Ignacio Villa/Cipriana Alfaro; Victor/1888 — pai Antonio Olivera Portugal, 32, mãe Juana Villa, [27?/21?], avós maternos Saturnino Villa/Brijida Olivera. A assinatura e Carumbé/Carumbe são pistas, mas não resolvem os diferentes nomes, idades e avós. Não fundir o pai qualificado hijo com seu próprio pai ou com o ancestral já representado.",
+      "evidence": [
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS2W-1Q91-5",
+          "sourceIds": [
+            "REV-3Q9M-CS2W-1Q91-5"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p61a116",
+          "actLabel": "116 — Juan Antonio, nascimento",
+          "factIndex": 6,
+          "field": "qualificacao",
+          "sourceQuote": "Don Antonio Oliveira Portugal hijo, Casado de veintinueve años de edad, hacendado de profesion",
+          "literalValue": "Casado de veintinueve años de edad, hacendado de profesion",
+          "normalizedValue": {
+            "estadoCivil": "casado",
+            "idade": 29,
+            "profissao": "hacendado"
+          },
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS2W-1Q91-5",
+          "sourceIds": [
+            "REV-3Q9M-CS2W-1Q91-5"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p61a116",
+          "actLabel": "116 — Juan Antonio, nascimento",
+          "factIndex": 8,
+          "field": "mae",
+          "sourceQuote": "hijo del declarante y de su legítima esposa Josefa Villa",
+          "literalValue": "su legítima esposa Josefa Villa",
+          "normalizedValue": "Josefa Villa",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS2W-1Q91-5",
+          "sourceIds": [
+            "REV-3Q9M-CS2W-1Q91-5"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p61a116",
+          "actLabel": "116 — Juan Antonio, nascimento",
+          "factIndex": 9,
+          "field": "idade_naturalidade",
+          "sourceQuote": "Josefa Villa Oriental de veinte años de edad",
+          "literalValue": "Oriental de veinte años de edad",
+          "normalizedValue": {
+            "idade": 20,
+            "qualificacaoLiteral": "Oriental"
+          },
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS2W-1Q91-5",
+          "sourceIds": [
+            "REV-3Q9M-CS2W-1Q91-5"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p61a116",
+          "actLabel": "116 — Juan Antonio, nascimento",
+          "factIndex": 10,
+          "field": "avos_paternos",
+          "sourceQuote": "nieto de Don Antonio Joaquin de Oliveira Portugal de Bernardina Leonarda Portugal",
+          "literalValue": "Don Antonio Joaquin de Oliveira Portugal de Bernardina Leonarda Portugal",
+          "normalizedValue": [
+            "Antonio Joaquin de Oliveira Portugal",
+            "Bernardina Leonarda Portugal"
+          ],
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS2W-1Q91-5",
+          "sourceIds": [
+            "REV-3Q9M-CS2W-1Q91-5"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p61a116",
+          "actLabel": "116 — Juan Antonio, nascimento",
+          "factIndex": 11,
+          "field": "avos_maternos",
+          "sourceQuote": "y de Ignacio Villa de Cipriana Alfaro",
+          "literalValue": "Ignacio Villa de Cipriana Alfaro",
+          "normalizedValue": [
+            "Ignacio Villa",
+            "Cipriana Alfaro"
+          ],
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS24-933S-L",
+          "sourceIds": [
+            "REV-3Q9M-CS24-933S-L"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p4a7",
+          "actLabel": "7 — Victor Portugal",
+          "factIndex": 7,
+          "field": "qualificacao",
+          "sourceQuote": "Antonio Olivera Portugal de 32 años de edad, de estado Casado de nacionalidad Brasilero de profesion Estanciero",
+          "literalValue": "32 años; Casado; Brasilero; Estanciero",
+          "normalizedValue": {
+            "idade": 32,
+            "estadoCivil": "casado",
+            "nacionalidade": "brasileiro",
+            "profissao": "Estanciero"
+          },
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS24-933S-L",
+          "sourceIds": [
+            "REV-3Q9M-CS24-933S-L"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p4a7",
+          "actLabel": "7 — Victor Portugal",
+          "factIndex": 9,
+          "field": "assinatura",
+          "sourceQuote": "[Assinaturas] Antonio Oliveira Portugal hijo.",
+          "literalValue": "Antonio Oliveira Portugal hijo",
+          "normalizedValue": "Antonio Oliveira Portugal hijo",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS24-933S-L",
+          "sourceIds": [
+            "REV-3Q9M-CS24-933S-L"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p4a7",
+          "actLabel": "7 — Victor Portugal",
+          "factIndex": 10,
+          "field": "mae_qualificacao",
+          "sourceQuote": "Su legítima Esposa Doña Juana Villa, Oriental de [27?/21?] años de edad.",
+          "literalValue": "Oriental de [27?/21?] años de edad",
+          "normalizedValue": {
+            "nome": "Juana Villa",
+            "idade": null,
+            "qualificacaoLiteral": "Oriental"
+          },
+          "certainty": "media"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS24-933S-L",
+          "sourceIds": [
+            "REV-3Q9M-CS24-933S-L"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p4a7",
+          "actLabel": "7 — Victor Portugal",
+          "factIndex": 12,
+          "field": "avos_maternos",
+          "sourceQuote": "por línea materna de Saturnino Villa, y Doña Brijida Olivera",
+          "literalValue": "Saturnino Villa; Brijida Olivera",
+          "normalizedValue": [
+            "Saturnino Villa",
+            "Brijida Olivera"
+          ],
+          "certainty": "alta"
+        }
+      ],
+      "limits": [
+        "Juana sem idade exclusiva normalizada. A diferença 29→32 entre 1881/1888 permanece por fonte.",
+        "Bernardina Leonarda Portugal em 1881 e Bernardina Leonard em 1888 não são harmonizadas. Nenhum desses atos prova parentesco do pai das crianças com Carolina."
+      ],
+      "documentsNeeded": [
+        "Casamentos de Antonio com Josefa e/ou Juana Villa, nascimentos das duas mulheres e filhos intermediários; documentos com filiação completa que distingam os Antonios e eventual mudança conjugal."
+      ]
+    },
+    {
+      "decisionId": "CF003-07",
+      "title": "Joaquina: 22/12/1899 é novo testemunho preciso, sem eliminar 1900",
+      "status": "data_de_obito_retrospectiva_em_conflito",
+      "existingNodeIds": [
+        "joaquina_marques",
+        "arturo"
+      ],
+      "documentOnlyPersons": [
+        "Maria J. Marquez"
+      ],
+      "decision": "Acrescentar 22/12/1899 como data expressamente declarada para a morte de Maria J. Marquez no nascimento da neta Julia Maria Juana/1901, ato 12. É testemunho preciso adicional associado ao núcleo de Joaquina; conservar a inicial J. e o contraste com 1900 declarado por Julia no casamento de 1915, já registrado na genealogia. Não substituir a ausência de óbito próprio por repetição de referências.",
+      "evidence": [
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS2W-F9W8-8",
+          "sourceIds": [
+            "REV-3Q9M-CS2W-F9W8-8"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "esq-a12",
+          "actLabel": "12 — Julia Maria Juana Salgado",
+          "factIndex": 6,
+          "field": "avós paternos",
+          "sourceQuote": "Manuel A. Salgado, brasilero, viudo, de 67 años de edad, domiciliado en el Dayman, profesión hacendado, y de Maria J. Marquez",
+          "literalValue": "Manuel A. Salgado; Maria J. Marquez",
+          "normalizedValue": [
+            "Manuel A. Salgado",
+            "Maria J. Marquez"
+          ],
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS2W-F9W8-8",
+          "sourceIds": [
+            "REV-3Q9M-CS2W-F9W8-8"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "esq-a12",
+          "actLabel": "12 — Julia Maria Juana Salgado",
+          "factIndex": 8,
+          "field": "qualificação e óbito referido",
+          "sourceQuote": "Maria J. Marquez, brasilera, casada, fallecida el 22 de Diciembre de mil ochocientos noventa y nueve",
+          "literalValue": "brasilera; casada; 22 Diciembre 1899",
+          "normalizedValue": {
+            "date": "1899-12-22"
+          },
+          "certainty": "alta"
+        },
+        {
+          "kind": "genealogia_atual_somente_leitura",
+          "nodeId": "joaquina_marques",
+          "sourceIds": [
+            "RAO02",
+            "D09",
+            "ART-CAS1902",
+            "ARL-BAT1876",
+            "ALV-BAT1881",
+            "JUL-NAS1884",
+            "SAL-ROD26-BR08",
+            "SAL-ROD26-BR15",
+            "SAL-ROD26-BR17",
+            "SAL-ROD26-BR07"
+          ],
+          "quote": "Mãe de Arturo, brasileira. Declarada domiciliada em Salto em 1895 e falecida em 1902. Arturo informa 1899 em dois registros, cujos dia e mês permanecem incertos; Julia declara 1900 em 1915. As versões são mantidas separadas, sem óbito próprio conferido.",
+          "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\site\\app\\genealogy-data.json",
+          "locator": "nodes[id=joaquina_marques].summary"
+        }
+      ],
+      "limits": [
+        "O novo dado vem de registro de nascimento posterior ao óbito, não do assento próprio de morte. A identificação da abreviação integra o confronto, não o texto literal.",
+        "As referências de Arturo a 1899 e de Julia a 1900 continuam atribuídas a seus atos. Idades divergentes de Joaquina/Manuel não autorizam recalcular datas certas."
+      ],
+      "documentsNeeded": [
+        "Assento e índice de óbito de Maria Joaquina em Salto em 1899–1900, começando por 22/12/1899; confronto dos atos próprios e documentos funerários identificáveis, sem priorizar a árvore."
+      ]
+    },
+    {
+      "decisionId": "CF003-08",
+      "title": "Calzon de Cuero, calle Dayman e el Dayman: lugares distintos até prova",
+      "status": "separar_endereco_urbano_de_toponimos",
+      "existingNodeIds": [
+        "arturo",
+        "joaquina_marques"
+      ],
+      "documentOnlyPersons": [
+        "Joaquin Correa",
+        "Manuel Alvez Salgado",
+        "Maria Joaquina Marques"
+      ],
+      "decision": "No atlas, conservar três referências: Calzon de Cuero é domicílio de Joaquin Correa no civil de Ramon Maria/1880; calle Dayman é endereço urbano expresso de Arturo em 1891 e Manuel/Maria Joaquina em 1892; el Dayman é a forma menos determinada do domicílio de Manuel em 1901. Não ligar automaticamente essas menções à margem do rio, a uma mesma casa ou ao mesmo ponto do mapa.",
+      "evidence": [
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS2W-YQ93-Z",
+          "sourceIds": [
+            "REV-3Q9M-CS2W-YQ93-Z"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "p40a98",
+          "actLabel": "98 — Ramon Maria, nascimento; início incompleto",
+          "factIndex": 5,
+          "field": "profissao_domicilio",
+          "sourceQuote": "de profesion hacendado, domiciliado en Calzon de Cuero",
+          "literalValue": "hacendado; Calzon de Cuero",
+          "normalizedValue": {
+            "profissao": "hacendado",
+            "domicilioLiteral": "Calzon de Cuero"
+          },
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-939X-H496-3Q",
+          "sourceIds": [
+            "REV-939X-H496-3Q"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "esq-a140",
+          "actLabel": "140 — [Eusomina?]",
+          "factIndex": 7,
+          "field": "domicilio",
+          "sourceQuote": "vecino de la Calle Dayman",
+          "literalValue": "Calle Dayman",
+          "normalizedValue": null,
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS2W-L8FX",
+          "sourceIds": [
+            "REV-3Q9M-CS2W-L8FX"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "dir-a463",
+          "actLabel": "463 — Carmen Maria no corpo original",
+          "factIndex": 23,
+          "field": "domicílio declarado",
+          "sourceQuote": "y domiciliados en la calle Dayman",
+          "literalValue": "calle Dayman",
+          "normalizedValue": "calle Dayman",
+          "certainty": "alta"
+        },
+        {
+          "kind": "fato_autoral_reconciliado",
+          "documentId": "fs-3Q9M-CS2W-F9W8-8",
+          "sourceIds": [
+            "REV-3Q9M-CS2W-F9W8-8"
+          ],
+          "sourceIdBasis": "convencao_atribuida_pelo_coordenador_para_integracao_003",
+          "regionId": "esq-a12",
+          "actLabel": "12 — Julia Maria Juana Salgado",
+          "factIndex": 7,
+          "field": "qualificação",
+          "sourceQuote": "Manuel A. Salgado, brasilero, viudo, de 67 años de edad, domiciliado en el Dayman, profesión hacendado",
+          "literalValue": "brasilero; viudo; 67; el Dayman; hacendado",
+          "normalizedValue": null,
+          "certainty": "alta"
+        }
+      ],
+      "limits": [
+        "Calzon de Cuero está legível, mas não geolocalizado; não é local explícito do nascimento de Ramon. A menção não tem relação provada com Daymán.",
+        "Calle Dayman sem número não identifica imóvel. El Dayman não contém calle neste ato; manter natureza indeterminada. Coincidência de nome não prova continuidade residencial ou percurso."
+      ],
+      "documentsNeeded": [
+        "Plantas urbanas e nomenclatura histórica de Salto para a rua Dayman; cadastro/mapas e registros locais para Calzon de Cuero e o Dayman referido em 1901; documentos com vizinhanças, seção ou endereço que permitam resolver cada ocorrência."
+      ]
+    }
+  ],
+  "unresolvedCrossBranchLinks": {
+    "statement": "Os lotes 013–016 não estabelecem ponte genealógica entre Pedro pai de Víctor, Agostinha/Romão e Jean/Bertrand. Mesmo sobrenome ou presença em região próxima não é parentesco. A identificação já sustentada de Bertrand com o pai Eugène de Jean não se estende a Pedro ou Agostinha.",
+    "existingNodeIds": [
+      "pedro_pai_victor",
+      "agostinha",
+      "romao_guicheney",
+      "marcelina",
+      "jean",
+      "bertrand",
+      "eugene_pai_jean"
+    ],
+    "sourceIds": [
+      "SALTO1888",
+      "D08",
+      "VIC-BAT1867",
+      "AJ03",
+      "AG-CAS1868",
+      "AJ04",
+      "D17",
+      "TV",
+      "AG-RAMAO-INV1896",
+      "JF",
+      "GN-BERTRAND-LEGION",
+      "D10",
+      "D13"
+    ],
+    "documentsNeeded": [
+      "Pedro: documentos próprios com filiação, sobretudo casamento com Dionisia e óbito atribuído a Uruguaiana; confronto com o viúvo de Amélia morto em 1897 antes de transportar sua origem ou parentes. Só depois buscar nascimento francês em localidade documentada.",
+      "Agostinha/Romão: casamento de 1868, inscrição de morte de 1920 e original de Bayonne; autos do inventário de Ramão de 1896 para esclarecer João Zaconteguy Sobrinho, sem assumir que Ramão é o pai Romão.",
+      "Jean/Bertrand: continuar pela filiação própria já documentada; uma ponte exigiria ato nominativo que compartilhasse pais, cônjuge ou parentes identificados com os núcleos de Pedro/Agostinha, não equivalência de sobrenome."
+    ],
+    "basis": "Nós/arestas e comparações atuais do genealogy-data.json, lidos por subagente; nenhuma nova busca ou inspeção desses originais."
+  },
+  "integrationRules": [
+    "Relações literais podem ser documentadas como ocorrências do ato; ligar a um nó já existente exige avaliação da identidade.",
+    "Pai/mãe, padrinho/madrinha, declarante e testemunha mantêm papéis distintos.",
+    "Preservar datas conflitantes, abreviações e a leitura por documento. Não promover hipóteses de irmandade a relações documentadas.",
+    "Esta síntese não modifica o aceite das leituras nem representa novas provas independentes de notas que repetem o mesmo original."
+  ],
+  "inputFiles": [
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\auditoria_d08_casamento_anterior.md",
+      "sha256": "202da167149cb7e79e46044c8b8ddcd25e25a309e3ce609b753c05ce45665bd9"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\auditoria_salto1888_ato86_campos.md",
+      "sha256": "aa1ae8f5ca7e5d2d97e31d5fed14cf7f19bd88cc8eedb17490097857047e8188"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\aproveitamento_narrativo\\document-sources.json",
+      "sha256": "21c0f8919cc88d2cb0120a1a640d520c25babddbfffc3fd9bbaeaa636ae8b373"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_013_luisa\\fs-3Q9M-C3WD-R9DP-F.json",
+      "sha256": "7c4ee9a0ff907f6aadd0507178d09208e097cea056d4112271495db2acb0ba7e"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_013_luisa\\reconciliacao_2026-09-08_2115\\RELATORIO.json",
+      "sha256": "7cd134ea6a60a3697877b4828698628c524b7de67df52ee8947d332d5f96c224"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_014_salgado\\RECONCILIACAO.json",
+      "sha256": "6c95942ca9e60f734de6208ff4af8a9d91108d7f249d683755712fc90f5893f1"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_014_salgado\\fs-3Q9M-CS2W-F9W8-8.json",
+      "sha256": "a5fedda632006c0c91bf850e98794a272a4e8e0e274d4a667cbcaeef69562e27"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_014_salgado\\fs-3Q9M-CS2W-L8FX.json",
+      "sha256": "32376f87b66079f656a69d06c80b8d2347c84e2a0249914196307cf13caa027a"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_014_salgado\\fs-939X-H496-3Q.json",
+      "sha256": "1264f1c3d5ae6177a49e7ec98d13d532086bf63f3e7f9814fbf7d023071edaa1"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_015_guicheney_munoa\\RECONCILIACAO.json",
+      "sha256": "7784245f02304ec410a8843420e3b1d37119b77aeca32a1cbc2eaf08827b9a2e"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_015_guicheney_munoa\\fs-3Q9M-C3WD-R1V3.json",
+      "sha256": "0aeb33960dae1959ae81b820523a8ba8371d054d7bdeb6a977803f668dd0ca89"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_015_guicheney_munoa\\fs-3Q9M-CSM9-PSNX-H.json",
+      "sha256": "389eb8a3539f425fc2c0264d393bb91201d2c6091a5ab21da11ba6c03e4fe736"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_015_guicheney_munoa\\fs-3Q9M-CSM9-PSTG-P.json",
+      "sha256": "633519f8c2fccf7164ed6d4b3132ca33388385abd9c78150b3efc6fbf0b896b9"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_015_guicheney_munoa\\fs-3QHJ-5QQ3-WC5W.json",
+      "sha256": "a6ae4fb98217923cce5d7721e758bb74fff7a6d05726e607b745c554d7b107a5"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_015_guicheney_munoa\\fs-3QHN-GQQ3-W8R4.json",
+      "sha256": "29257b4f5994ba7b50ed5063d1714036c4c00b438c5f17401626b45b8b9f4a6d"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_016_mendez_portugal\\RECONCILIACAO.json",
+      "sha256": "122e3ebc9b6efb9ee933bdbc93bfe3096d815bc18e70e09149e7d19e5f1cbb96"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_016_mendez_portugal\\fs-3Q9M-CS24-933S-L.json",
+      "sha256": "f768dddc34e2e09c68e5cb860a79bcdb7df6fddd60bfb1b141644789f2ca33a0"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_016_mendez_portugal\\fs-3Q9M-CS27-9QY2-3.json",
+      "sha256": "46bd1b0de284951429fee3c3da087821986c7c4ef024e8573ffa5ac120c66a6b"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_016_mendez_portugal\\fs-3Q9M-CS27-9QYT-Z.json",
+      "sha256": "e3c93b011109df42803a45c2793203af8b8f89818c513836a6b165d26ab452a2"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_016_mendez_portugal\\fs-3Q9M-CS2W-1Q91-5.json",
+      "sha256": "42ae3b4ca670efd563f51a97ea2cebc504f72013addf6c774d8bda6a88bf10a7"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\fontes_pesquisa\\leitura_sistematica\\lotes\\lote_016_mendez_portugal\\fs-3Q9M-CS2W-YQ93-Z.json",
+      "sha256": "83d964fa0f98a5be816a29b6df276d9c0a01e865dd2c710fb886b79e407f9041"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\pesquisa_raizes_bascas.md",
+      "sha256": "2d7c08029f2e5c6a83651ea1334d0878fc5be306f1548b198b1a80b88fbfd3ac"
+    },
+    {
+      "path": "D:\\Dropbox\\Projetos\\Memorial_Oscar_Alidia\\site\\app\\genealogy-data.json",
+      "sha256": "c7e4244efaf06cce5ce3a58a8ea26d3d0beb1132bd9e7981c75a4200551be9be"
+    }
+  ],
+  "validation": {
+    "status": "aprovada",
+    "singleLocalValidation": true,
+    "decisionCount": 8,
+    "evidenceCount": 56,
+    "checks": [
+      {
+        "check": "oito_decisoes",
+        "passed": true
+      },
+      {
+        "check": "ids_existentes",
+        "passed": true
+      },
+      {
+        "check": "fontes_por_decisao",
+        "passed": true
+      },
+      {
+        "check": "CF003-01:citacoes_proprias",
+        "passed": true
+      },
+      {
+        "check": "CF003-02:citacoes_proprias",
+        "passed": true
+      },
+      {
+        "check": "CF003-03:citacoes_proprias",
+        "passed": true
+      },
+      {
+        "check": "CF003-04:citacoes_proprias",
+        "passed": true
+      },
+      {
+        "check": "CF003-05:citacoes_proprias",
+        "passed": true
+      },
+      {
+        "check": "CF003-06:citacoes_proprias",
+        "passed": true
+      },
+      {
+        "check": "CF003-07:citacoes_proprias",
+        "passed": true
+      },
+      {
+        "check": "CF003-08:citacoes_proprias",
+        "passed": true
+      }
+    ],
+    "errors": []
+  }
+}

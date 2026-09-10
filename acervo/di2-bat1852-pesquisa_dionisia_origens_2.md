@@ -1,5 +1,7 @@
 # Dionísia López: busca de nascimento, filiação e origem — segunda rodada
 
+> Correção documental de 9/9/2026: no registro de Petra, Pedro é declarado falecido no Brasil em 1898 e Dionisia em Salto em 1881. Brasil continua entre linhas (Bra/sil); o numeral ocho foi confirmado pelo usuário. Este texto incorpora a correção sem a contar como nova revisão independente.
+
 Consulta em 7 de setembro de 2026. Caderno de pesquisa; não altera a genealogia principal. Originais consultados no FamilySearch autenticado, sem modificar registros ou árvores.
 
 ## Resultado e limite
@@ -79,7 +81,7 @@ Trecho central seguro, imagem 304:
 
 - **SALTO1888:** Víctor nomeia Pedro Guicheney e Dionisia López como pais em seu casamento com Luisa Ferreira, 15/12/1888. Declara ter nascido em Uruguaiana em 11/04/1865.
 - **D08, 1912:** a mãe é descrita como argentina e falecida em Salto em 1883; o pai, francês, falecido em Uruguaiana. Isso não identifica uma cidade de nascimento dela.
-- **O08, Petra 1920:** fonte retrospectiva conflitante descreve a avó Dionisia como brasileira, falecida em Salto em 1881, e o avô Pedro como falecido no Brasil em 1892. **Petra Magdalena é filha de Víctor e neta de Dionísia**, não uma irmã de Víctor identificada por essa fonte.
+- **O08, Petra 1920:** fonte retrospectiva conflitante descreve a avó Dionisia como brasileira, falecida em Salto em 1881, e o avô Pedro como falecido no Brasil em 1898. **Petra Magdalena é filha de Víctor e neta de Dionísia**, não uma irmã de Víctor identificada por essa fonte.
 - A notícia familiar de Entre Ríos é pista de busca; a árvore sem documentação própria não confirma pais ou naturalidade.
 - **DI-OB1883**, a cozinheira argentina de 47 anos, viúva, falecida em Salto em 18/09 e registrada em 19/09/1883, continua sem marido ou pais identificados. Seu nascimento estimado não é transferido à mãe de Víctor.
 
@@ -97,3 +99,6 @@ Prioridades documentais concretas que permanecem abertas:
 4. Para Ramon, localizar o óbito/inventário de Martha anterior a 29/04/1868 e confrontar assinatura e relações com os registros do pai de Agostinha. A escritura fornece um endereço histórico e nomes de pessoas com quem teve relações documentadas, mas nenhuma origem francesa específica.
 
 Os cinco arquivos de imagem e seus hashes constam em `achados_documentais.json`. Nada foi adicionado ao site ou fundido com a árvore principal.
+
+
+Atualização editorial de 9/9/2026: nova revisão independente aceita confirmou Brasil/1898 para a declaração retrospectiva sobre Pedro, Dionisia/1881 e nascimento de Petra às 17h35. O histórico das leituras permanece privado. A identidade com o candidato falecido em 1897 continua aberta.

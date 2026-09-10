@@ -1,5 +1,7 @@
 # Dionisia López: índice e ato de Salto, 1883
 
+> Correção documental de 9/9/2026: no registro de Petra, Pedro é declarado falecido no Brasil em 1898 e Dionisia em Salto em 1881. Brasil continua entre linhas (Bra/sil); o numeral ocho foi confirmado pelo usuário. Este texto incorpora a correção sem a contar como nova revisão independente.
+
 Consulta e confronto realizados em 7 de setembro de 2026.
 
 ## Localização reproduzível
@@ -17,7 +19,7 @@ O nome Pedro neste ato NÃO foi identificado com Pedro Guicheney. Trata-se do em
 
 ## Por que é candidata, ainda não identificação
 
-Nome, Salto, nacionalidade argentina e ano1883 coincidem com a declaração feita no casamento de Víctor em1912(D08). Entretanto, a ausência de marido e pais impede identificar a mulher do hospital como a mãe de Víctor. A viuvez também precisa ser confrontada: outra declaração posterior situa a morte de Pedro em1892. Não juntar a mulher deste óbito à genealogia como identidade confirmada nem transferir sua idade, profissão ou data de morte à mãe de Víctor.
+Nome, Salto, nacionalidade argentina e ano1883 coincidem com a declaração feita no casamento de Víctor em1912(D08). Entretanto, a ausência de marido e pais impede identificar a mulher do hospital como a mãe de Víctor. A viuvez também precisa ser confrontada: outra declaração posterior situa a morte de Pedro em1898. Não juntar a mulher deste óbito à genealogia como identidade confirmada nem transferir sua idade, profissão ou data de morte à mãe de Víctor.
 
 O índice registra19/09, mas o texto situa a morte na noite anterior; conservar ambas as informações e explicar a diferença entre registro e evento.
 
@@ -36,3 +38,6 @@ A transcrição automática de FamilySearch foi consultada como auxílio, com er
 ## Páginas de comparação
 
 A imagem2042 (https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKV-JSXF-7) inclui a letraL em1881 e foi preservada. As imagens2056 (3Q9M-CSKV-JSCS-1),2057 (3Q9M-CSKV-JSX2-S) e2058 (3Q9M-CSKV-JSC3-P) foram inspecionadas na faixa de1893; a2058 foi preservada. Não apareceu outra Dionisia López nessas páginas lidas. Isso é um resultado limitado à inspeção dessas páginas; não foi feita varredura integral de todos os anos, sobrenomes de casada ou de todos os livros paroquiais e civis.
+
+
+Atualização editorial de 9/9/2026: nova revisão independente aceita confirmou Brasil/1898 para a declaração retrospectiva sobre Pedro, Dionisia/1881 e nascimento de Petra às 17h35. O histórico das leituras permanece privado. A identidade com o candidato falecido em 1897 continua aberta.
